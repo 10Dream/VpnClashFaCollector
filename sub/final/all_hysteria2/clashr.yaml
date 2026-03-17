@@ -13,7 +13,6 @@ proxies:
   - {name: "@filembad`", server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 75.127.13.83:47974 3, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8@oneclickvpnkeys, server: de.xn--ehqa22b.site, port: 21927, type: hysteria2, ports: 21927, password: 46a64503-b76f-45b4-9948-6bac86e8d29e, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 19@oneclickvpnkeys, server: uk01.nekocloud.top, port: 65001, type: hysteria2, ports: 65001, password: 86bfdc9d-64b0-447b-9316-2e3cc8712690, obfs: salamander, obfs-password: YxNSWNJUQkeKDiPc, sni: buylite.music.apple.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7@oneclickvpnkeys, server: 132.145.28.17, port: 65535, type: hysteria2, ports: 65535, password: da231013-aef8-4c83-abfd-8d844545fe3a, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15@oneclickvpnkeys`, server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: da231013-aef8-4c83-abfd-8d844545fe3a, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -36,7 +35,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -59,7 +57,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -82,7 +79,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -104,7 +100,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -126,7 +121,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -148,7 +142,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`
@@ -192,7 +185,6 @@ proxy-groups:
       - "@filembad`"
       - 75.127.13.83:47974 3
       - 8@oneclickvpnkeys
-      - 19@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 15@oneclickvpnkeys`

@@ -465,7 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Capoit`", server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6addc0d6-94f8-b513-3d2d-dc86f174f2ab, host: tv3.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit`", server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 2", server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 6addc0d6-94f8-b513-3d2d-dc86f174f2ab, host: tv3.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +484,7 @@ proxy-groups:
     type: select
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +492,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +500,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +517,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +525,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +533,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

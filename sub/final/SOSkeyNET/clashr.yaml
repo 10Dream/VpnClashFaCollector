@@ -35,8 +35,8 @@ proxies:
   - {name: 15.204.77.5:10011, server: 15.204.77.5, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: 6789cbe864360de7, udp: true, tfo: false}
   - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
   - {name: 135.125.245.131:20939, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
-  - {name: 51.161.80.138:43178, server: 51.161.80.138, port: 43178, type: ss, cipher: chacha20-ietf-poly1305, password: 92fd8088e482ee00, udp: true, tfo: false}
   - {name: 62.146.231.112:46292, server: 62.146.231.112, port: 46292, type: ss, cipher: chacha20-ietf-poly1305, password: 9e32371ec28c1656, udp: true, tfo: false}
+  - {name: 94.182.175.37:2096, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: 9vdfbH8S5rABDNlJhQEteA, udp: true, tfo: false}
   - {name: 85.239.236.208:28263, server: 85.239.236.208, port: 28263, type: ss, cipher: chacha20-ietf-poly1305, password: 0403f64e4b58991e, udp: true, tfo: false}
   - {name: 135.125.219.2:23349, server: 135.125.219.2, port: 23349, type: ss, cipher: chacha20-ietf-poly1305, password: 0b2e39a4642684aa, udp: true, tfo: false}
   - {name: 212.56.42.202:11291, server: 212.56.42.202, port: 11291, type: ss, cipher: chacha20-ietf-poly1305, password: 108cfe4ef4aea6c5, udp: true, tfo: false}
@@ -49,10 +49,8 @@ proxies:
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 185.5.38.111:55988, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 2FSHTqh121gyn68NY8QDh3f5L6soTtRJydPkNh51MtfffMxGtpxSETMAXDMa8T3C112Von1U6CsmNyNQZr9Q9xGPvroUNiE7, udp: true, tfo: false}
   - {name: 🇵🇱 auto.poland.ray-vpn.ru:4495, server: auto.poland.ray-vpn.ru, port: 4495, type: ss, cipher: chacha20-ietf-poly1305, password: 2Z9ba3GwDL-rn6DSQ0N-awHNhcuxaHP3, udp: true, tfo: false}
-  - {name: 135.125.219.2:15294, server: 135.125.219.2, port: 15294, type: ss, cipher: chacha20-ietf-poly1305, password: 2e9665977ee0dcf8, udp: true, tfo: false}
   - {name: 154.12.247.124:45807, server: 154.12.247.124, port: 45807, type: ss, cipher: chacha20-ietf-poly1305, password: 2fe2a044c8354a4e, udp: true, tfo: false}
   - {name: 163.171.181.30:11201, server: 163.171.181.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 32a9a16d8a041c98, udp: true, tfo: false}
-  - {name: 51.161.33.111:24041, server: 51.161.33.111, port: 24041, type: ss, cipher: chacha20-ietf-poly1305, password: 33851c56a1aa1b26, udp: true, tfo: false}
   - {name: 38.54.93.66:49694, server: 38.54.93.66, port: 49694, type: ss, cipher: chacha20-ietf-poly1305, password: 3b72ad57035835c7, udp: true, tfo: false}
   - {name: 38.54.93.66:49695, server: 38.54.93.66, port: 49695, type: ss, cipher: chacha20-ietf-poly1305, password: 3b72ad57035835c7, udp: true, tfo: false}
   - {name: 193.124.46.134:8444, server: 193.124.46.134, port: 8444, type: ss, cipher: chacha20-ietf-poly1305, password: tunnel-astrovpn_official, udp: true, tfo: false}
@@ -77,7 +75,7 @@ proxies:
   - {name: 185.218.3.131:60664, server: 185.218.3.131, port: 60664, type: ss, cipher: chacha20-ietf-poly1305, password: Aex4y92EluOwjtinhoxlsO, udp: true, tfo: false}
   - {name: 45.12.109.198:24604, server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, udp: true, tfo: false}
   - {name: 144.31.234.82:45356, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
-  - {name: 🇩🇪 de1.node.getvpn4you.ru:1080, server: de1.node.getvpn4you.ru, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: RuPv_859V62PYcT34Nsc8EeeH0R8Bdut, udp: true, tfo: false}
+  - {name: 94.182.175.37:2096 2, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
   - {name: 🇷🇺 fi1.node.getvpn4you.ru:1080, server: fi1.node.getvpn4you.ru, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: RuPv_859V62PYcT34Nsc8EeeH0R8Bdut, udp: true, tfo: false}
   - {name: 51.132.226.113:443, server: 51.132.226.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
@@ -88,7 +86,6 @@ proxies:
   - {name: 217.77.3.68:28954, server: 217.77.3.68, port: 28954, type: ss, cipher: chacha20-ietf-poly1305, password: a586ae8d773f250f, udp: true, tfo: false}
   - {name: 57.128.190.238:10012, server: 57.128.190.238, port: 10012, type: ss, cipher: chacha20-ietf-poly1305, password: b57589e59247dddb, udp: true, tfo: false}
   - {name: 147.45.135.39:4205, server: 147.45.135.39, port: 4205, type: ss, cipher: chacha20-ietf-poly1305, password: c0Zy18nHmjcUfome1fYPhA, udp: true, tfo: false}
-  - {name: 135.125.219.2:43081, server: 135.125.219.2, port: 43081, type: ss, cipher: chacha20-ietf-poly1305, password: c5ba4859fe391814, udp: true, tfo: false}
   - {name: 94.72.98.25:41684, server: 94.72.98.25, port: 41684, type: ss, cipher: chacha20-ietf-poly1305, password: c8d928481a2a0988, udp: true, tfo: false}
   - {name: 46.250.241.55:45720, server: 46.250.241.55, port: 45720, type: ss, cipher: chacha20-ietf-poly1305, password: c90d63dc7a6203af, udp: true, tfo: false}
   - {name: 163.171.207.11:29464, server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
@@ -498,6 +495,7 @@ proxies:
   - {name: 95.216.238.249:35153, server: 95.216.238.249, port: 35153, type: trojan, password: Yr6a2AD8P4, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.191.189:2053, server: 172.67.191.189, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: 172.67.68.87:2053, server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
+  - {name: 45.85.118.0:2053, server: 45.85.118.0, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: delicate-buck.rooster465.autos:443, server: delicate-buck.rooster465.autos, port: 443, type: trojan, password: ZY07256934, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glowing-deer.rooster465.autos:443, server: glowing-deer.rooster465.autos, port: 443, type: trojan, password: ZY07256934, sni: glowing-deer.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glowing-deer.rooster465.autos:443 2, server: glowing-deer.rooster465.autos, port: 443, type: trojan, password: ZY07256934, sni: glowing-deer.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,6 +504,7 @@ proxies:
   - {name: 80.173.230.196:26279, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.173.230.196:26279 2, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89+hjxIqgDp1tcWBd6, sni: io.ozone.ru, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.33.45.157:443, server: 194.33.45.157, port: 443, type: trojan, password: af4b064a9c39472fb34ad8b113acdc6b, sni: 194.33.45.157, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: srv7.fastservers.cc:23828, server: srv7.fastservers.cc, port: 23828, type: trojan, password: bAzbcu87YN, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 190.93.244.202:443, server: 190.93.244.202, port: 443, type: trojan, password: bpb-trojan, sni: fcspring.ggff.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: fcspring.ggff.net}}, udp: true, tfo: false}
   - {name: 🇷🇺 russia.com:443, server: russia.com, port: 443, type: trojan, password: bpb-trojan, sni: bpb.wdgg1979.cloudns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed=2560", headers: {Host: bpb.wdgg1979.cloudns.org}}, udp: true, tfo: false}
   - {name: 🇷🇺 russia.com:443 2, server: russia.com, port: 443, type: trojan, password: bpb-trojan, sni: bpb.wdgg1979.cloudns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed=2560", headers: {Host: bpb.wdgg1979.cloudns.org}}, udp: true, tfo: false}
@@ -638,6 +637,8 @@ proxies:
   - {name: 18.194.236.215:22223, server: 18.194.236.215, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223 2, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.221.95:22223, server: 35.181.221.95, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.45.11.182:22223, server: 51.45.11.182, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22223, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22223 2, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22223 3, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -656,6 +657,8 @@ proxies:
   - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222 2, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.221.95:22222, server: 35.181.221.95, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.45.11.182:22222, server: 51.45.11.182, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22222, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22222 2, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -690,6 +693,7 @@ proxies:
   - {name: 146.70.20.97:20205, server: 146.70.20.97, port: 20205, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 147.45.68.252:8082, server: 147.45.68.252, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 147.45.68.252:8082 2, server: 147.45.68.252, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 147.45.68.252:8082 3, server: 147.45.68.252, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 154.21.82.210:30001, server: 154.21.82.210, port: 30001, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: f7on3t1zlwlvhmkz6ji6w7uk72k.sate.qzz.io, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: f7on3t1zlwlvhmkz6ji6w7uk72k.sate.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 169.150.210.142:20205, server: 169.150.210.142, port: 20205, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.124.203.183:8082, server: 176.124.203.183, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -721,7 +725,6 @@ proxies:
   - {name: ab.fxgoldensignals.com:51269 2, server: ab.fxgoldensignals.com, port: 51269, type: vless, tls: true, packet-encoding: xudp, uuid: 0341d8f2-99e0-4f6c-af0a-345ac26815cf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 138.124.87.247:510, server: 138.124.87.247, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ruhip.vles.space:18771, server: ruhip.vles.space, port: 18771, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cloudcdn-m9-12.cdn.yandex.net, host: cloudcdn-m9-12.cdn.yandex.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: xxx.vles.space:9443, server: xxx.vles.space, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: sun1-91.userapi.com, host: sun1-91.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.216.218:443, server: 172.67.216.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6, servername: stipulations.gelatin.workers.dev, network: ws, ws-opts: {path: /eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=, headers: {Host: stipulations.gelatin.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.16:8446, server: 185.112.59.16, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: 04310c16-0aed-43ce-9cdb-e8cbc6966ef5, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.4:8446, server: 185.112.59.4, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: 04310c16-0aed-43ce-9cdb-e8cbc6966ef5, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -748,11 +751,14 @@ proxies:
   - {name: 15.188.103.210:22224, server: 15.188.103.210, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22224, server: 15.188.40.40, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22224 2, server: 15.188.40.40, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.224.0.245:22224, server: 15.224.0.245, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22224, server: 15.236.174.14, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.21.192:22224, server: 18.158.21.192, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.236.215:22224, server: 18.194.236.215, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224 2, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.221.95:22224, server: 35.181.221.95, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.45.11.182:22224, server: 51.45.11.182, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22224, server: 52.58.248.163, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22224, server: 54.93.56.163, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22224 2, server: 54.93.56.163, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1167,7 +1173,6 @@ proxies:
   - {name: 104.21.15.157:80, server: 104.21.15.157, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, network: ws, ws-opts: {path: /HoBSIvRY1m5xOEJ3dX414bl, headers: {Host: gggbnhj.10o.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.80.253:80, server: 104.21.80.253, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, network: ws, ws-opts: {path: /HoBSIvRY1m5xOEJ3dX414bl, headers: {Host: nnmki.0og.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.136.92:80, server: 172.67.136.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, network: ws, ws-opts: {path: /HoBSIvRY1m5xOEJ3dX414bl, headers: {Host: nnmki.0og.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.163.25:80, server: 172.67.163.25, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, servername: gggbnhj.10o.ccwu.cc, network: ws, ws-opts: {path: /HoBSIvRY1m5xOEJ3dX414bl, headers: {Host: gggbnhj.10o.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nnnmmmmj.0b0.ccwu.cc:443, server: nnnmmmmj.0b0.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, servername: nnnmmmmj.0b0.ccwu.cc, network: ws, ws-opts: {path: /HoBSIvRY1m5xOEJ3dX414bl, headers: {Host: nnnmmmmj.0b0.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.82.67.158:443, server: 172.82.67.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, servername: mstdn.jp, host: mstdn.jp, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: MXPEgI0ZkHuKajGQZUf6aiHUvrz-8HY_hR9oCz-iuww, short-id: 61dc504a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.134:8446, server: 185.112.59.134, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: 2c3b145f-eac2-4f8f-8988-3d16d9939ca8, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -1183,7 +1188,6 @@ proxies:
   - {name: 144.31.131.32:8443, server: 144.31.131.32, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: alb.speedload.online, host: alb.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.148.102.189:8443, server: 45.148.102.189, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: shve.speedload.online, host: shve.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.159.229.164:8443, server: 85.159.229.164, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: irl.speedload.online, host: irl.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.24.45.247:80, server: 104.24.45.247, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2e71d8fc-d2e8-44fc-89bd-c8a449a193aa, network: ws, ws-opts: {path: /, headers: {Host: odd-bread-435d.ahmadrezasteamacc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443 7, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e79f525-02ad-4d42-af15-8fe0900f5dac, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.99.198.191:443, server: 91.99.198.191, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, host: zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.99.203.70:51615, server: 91.99.203.70, port: 51615, type: vless, tls: true, packet-encoding: xudp, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1633,7 +1637,6 @@ proxies:
   - {name: 212.64.193.22:2052, server: 212.64.193.22, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5c61263e-6c7d-47c5-9871-c8ca029b83b1, network: ws, ws-opts: {path: /, headers: {Host: 212.64.193.22}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:21531, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.42.67.4:8443 4, server: 77.42.67.4, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d2593fc-ae9a-45fd-901c-84c5e2517adc, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0, short-id: f4fa9f410d7134ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 2, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d7d10b7-310e-4055-ad79-b3a5b5aabd92, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: d26010a3bda8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.219.99:55057, server: 87.120.219.99, port: 55057, type: vless, tls: true, packet-encoding: xudp, uuid: 5d837e94-967d-43a8-8e36-440ddfa4fd15, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: uSzNQq_GJZGbq4SHtEsqBY93C2acsM-K-QACZC-J6Eo, short-id: aa5f8562357295ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.185.242.246:8448 16, server: 146.185.242.246, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 5e31cbdd-4e04-46ed-95b1-21e0eccd26c4, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443 16, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e428110-2f3e-437e-befb-e41844b7655b, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -1772,7 +1775,6 @@ proxies:
   - {name: 209.177.165.17:443, server: 209.177.165.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 209.38.225.184:443, server: 209.38.225.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🎖@AliXTso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.193.4.53:443, server: 212.193.4.53, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2=", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 212.34.141.125:8443, server: 212.34.141.125, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.21.241.70:2053, server: 213.21.241.70, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2=", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 216.128.140.218:443, server: 216.128.140.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23.169.184.123:443, server: 23.169.184.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1832,7 +1834,6 @@ proxies:
   - {name: 66.151.40.21:8443, server: 66.151.40.21, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.18.132.149:2053, server: 72.18.132.149, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.221.157.45:443, server: 77.221.157.45, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 77.238.238.133:8443, server: 77.238.238.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.47.146.151:443, server: 78.47.146.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8.34.146.238:2096, server: 8.34.146.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.200.154.2:8443, server: 81.200.154.2, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1846,7 +1847,6 @@ proxies:
   - {name: 87.120.92.150:8443, server: 87.120.92.150, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.251.87.157:443, server: 87.251.87.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.198.152.85:443, server: 88.198.152.85, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 88.210.6.236:2053, server: 88.210.6.236, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.218.78.149:8443, server: 88.218.78.149, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.218.78.167:443, server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.99.189.60:443, server: 88.99.189.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🎖@AliXTso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1864,7 +1864,6 @@ proxies:
   - {name: 91.107.242.69:443, server: 91.107.242.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.149.222.113:443, server: 91.149.222.113, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🎖@AliXTso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.149.233.78:443, server: 91.149.233.78, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🎖@AliXTso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.84.103.232:443, server: 91.84.103.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.99.9.125:8443, server: 91.99.9.125, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.118.10.56:443, server: 92.118.10.56, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.175.140:2053, server: 93.115.175.140, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1949,6 +1948,9 @@ proxies:
   - {name: 64.64.239.67:443, server: 64.64.239.67, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 671309af-9a2f-4f36-8a64-9112b6129e9d, servername: chedan.jueson.de5.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: chedan.jueson.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl.vpnlink.pro:443, server: nl.vpnlink.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 67458669-1eb1-4973-8101-5a2e37081a21, servername: api.google.com, host: api.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DqITZlyw-lHDYyNDS7JBw6jUzIdYb-70ZONZqurmLzU, short-id: 972ceecb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: afk.mrsf.ir:52477, server: afk.mrsf.ir, port: 52477, type: vless, tls: true, packet-encoding: xudp, uuid: 67bfe904-b4d4-41b2-a846-932c8f74bd43, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: trailers.sv1.cdn.yoozmovie.com:16771, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: trailers.sv1.cdn.yoozmovie.com:16771 2, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: trailers.sv1.cdn.yoozmovie.com:16771 3, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.250.22:2096, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.227.134:2096, server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.227.134:2096 2, server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -2432,7 +2434,6 @@ proxies:
   - {name: we.configfast.site:1142, server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2C+web.splus.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.65.159:80, server: 104.21.65.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.191.42:80, server: 172.67.191.42, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbnju8.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.96.3:443 3, server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: dcvbghy7.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbghy7.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bnju8y7.12i.ccwu.cc:443, server: bnju8y7.12i.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: bnju8y7.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: bnju8y7.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dcvbnju8.12i.ccwu.cc:443, server: dcvbnju8.12i.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: dcvbnju8.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbnju8.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.118.241:6443, server: 51.250.118.241, port: 6443, type: vless, tls: true, packet-encoding: xudp, uuid: ae85c7e7-c16f-4075-9d2c-aa697f118550, servername: ads.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-x5}, reality-opts: {public-key: XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM, short-id: abcdef0123456789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -2496,7 +2497,6 @@ proxies:
   - {name: ee-3.ummavpn.com:443, server: ee-3.ummavpn.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b44fbf4a-09f4-461d-a532-43242732f00c, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:8443, server: 188.114.98.0, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f6c83f-9b67-424f-9a5a-1bd9ba6fc270, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: f2.hamrahconf.ir:8443 4, server: f2.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f6c83f-9b67-424f-9a5a-1bd9ba6fc270, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 10gbit.de.vles.space:510 2, server: 10gbit.de.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: b52989b9-09dc-4ca0-b722-e6fe3e8a0313, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 3.fr.vles.space:23151 2, server: 3.fr.vles.space, port: 23151, type: vless, tls: true, packet-encoding: xudp, uuid: b52989b9-09dc-4ca0-b722-e6fe3e8a0313, servername: cms-res-web.online.sberbank.ru, host: cms-res-web.online.sberbank.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.21.82.48:510, server: 46.21.82.48, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: b52989b9-09dc-4ca0-b722-e6fe3e8a0313, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443 33, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: b56453c2-f0f6-4549-b09e-2343031abf0f, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -2885,6 +2885,9 @@ proxies:
   - {name: 🇩🇪 de.vpnbase.net:80, server: de.vpnbase.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http, headers: {Host: de.vpnbase.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.vpnbase.net:80 2, server: de.vpnbase.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http, headers: {Host: de.vpnbase.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.101.3.8:80, server: 151.101.3.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: mitivpn.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 6, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2096 5, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: poe.com:2053, server: poe.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-90w-c.southnetworks.cloud:80, server: nl-90w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-90w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: grok.com:2083, server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: grok.com:2083 2, server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
@@ -2914,7 +2917,7 @@ proxies:
   - {name: 84.201.158.199:443 2, server: 84.201.158.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4605d97-8ba6-4a1f-817c-6f493133e819, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 87cc0414902bee2d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.10.214.154:2087, server: 5.10.214.154, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4677c63-8bd8-4ac5-91fe-af6ed7876728, servername: youloveme.primenet4.shop, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /path, headers: {Host: youloveme.primenet4.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.86.253:443, server: 104.21.86.253, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh27v1.carwashipdir.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.98.0:443 6, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 7, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.193.70:443 2, server: 178.154.193.70, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e48a1723-bb7b-4d13-ace6-0be7c62f16b3, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.193.70:8443 4, server: 178.154.193.70, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e48a1723-bb7b-4d13-ace6-0be7c62f16b3, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.169.181.188:443 2, server: 89.169.181.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e48a1723-bb7b-4d13-ace6-0be7c62f16b3, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -3076,8 +3079,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -3090,10 +3093,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -3118,7 +3119,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -3129,7 +3130,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -3539,6 +3539,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -3547,6 +3548,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -3679,6 +3681,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -3697,6 +3701,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -3731,6 +3737,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -3762,7 +3769,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -3789,11 +3795,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -4208,7 +4217,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -4224,7 +4232,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -4674,7 +4681,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -4813,7 +4819,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -4873,7 +4878,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -4887,7 +4891,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -4905,7 +4908,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -4990,6 +4992,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -5473,7 +5478,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -5537,7 +5541,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -5926,6 +5929,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -5955,7 +5961,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -6117,8 +6123,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -6131,10 +6137,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -6159,7 +6163,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -6170,7 +6174,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -6580,6 +6583,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -6588,6 +6592,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -6720,6 +6725,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -6738,6 +6745,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -6772,6 +6781,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -6803,7 +6813,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -6830,11 +6839,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -7249,7 +7261,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -7265,7 +7276,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -7715,7 +7725,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -7854,7 +7863,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -7914,7 +7922,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -7928,7 +7935,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -7946,7 +7952,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -8031,6 +8036,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -8514,7 +8522,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -8578,7 +8585,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -8967,6 +8973,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -8996,7 +9005,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -9158,8 +9167,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -9172,10 +9181,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -9200,7 +9207,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -9211,7 +9218,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -9621,6 +9627,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -9629,6 +9636,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -9761,6 +9769,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -9779,6 +9789,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -9813,6 +9825,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -9844,7 +9857,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -9871,11 +9883,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -10290,7 +10305,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -10306,7 +10320,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -10756,7 +10769,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -10895,7 +10907,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -10955,7 +10966,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -10969,7 +10979,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -10987,7 +10996,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -11072,6 +11080,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -11555,7 +11566,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -11619,7 +11629,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -12008,6 +12017,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -12037,7 +12049,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -12198,8 +12210,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -12212,10 +12224,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -12240,7 +12250,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -12251,7 +12261,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -12661,6 +12670,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -12669,6 +12679,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -12801,6 +12812,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -12819,6 +12832,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -12853,6 +12868,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -12884,7 +12900,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -12911,11 +12926,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -13330,7 +13348,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -13346,7 +13363,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -13796,7 +13812,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -13935,7 +13950,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -13995,7 +14009,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -14009,7 +14022,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -14027,7 +14039,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -14112,6 +14123,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -14595,7 +14609,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -14659,7 +14672,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -15048,6 +15060,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -15077,7 +15092,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -15238,8 +15253,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -15252,10 +15267,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -15280,7 +15293,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -15291,7 +15304,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -15701,6 +15713,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -15709,6 +15722,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -15841,6 +15855,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -15859,6 +15875,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -15893,6 +15911,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -15924,7 +15943,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -15951,11 +15969,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -16370,7 +16391,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -16386,7 +16406,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -16836,7 +16855,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -16975,7 +16993,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -17035,7 +17052,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -17049,7 +17065,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -17067,7 +17082,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -17152,6 +17166,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -17635,7 +17652,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -17699,7 +17715,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -18088,6 +18103,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -18117,7 +18135,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -18278,8 +18296,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -18292,10 +18310,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -18320,7 +18336,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -18331,7 +18347,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -18741,6 +18756,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -18749,6 +18765,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -18881,6 +18898,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -18899,6 +18918,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -18933,6 +18954,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -18964,7 +18986,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -18991,11 +19012,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -19410,7 +19434,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -19426,7 +19449,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -19876,7 +19898,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -20015,7 +20036,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -20075,7 +20095,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -20089,7 +20108,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -20107,7 +20125,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -20192,6 +20209,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -20675,7 +20695,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -20739,7 +20758,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -21128,6 +21146,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -21157,7 +21178,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2
@@ -21340,8 +21361,8 @@ proxy-groups:
       - 15.204.77.5:10011
       - 57.129.94.79:11206
       - 135.125.245.131:20939
-      - 51.161.80.138:43178
       - 62.146.231.112:46292
+      - 94.182.175.37:2096
       - 85.239.236.208:28263
       - 135.125.219.2:23349
       - 212.56.42.202:11291
@@ -21354,10 +21375,8 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 135.125.219.2:15294
       - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 51.161.33.111:24041
       - 38.54.93.66:49694
       - 38.54.93.66:49695
       - 193.124.46.134:8444
@@ -21382,7 +21401,7 @@ proxy-groups:
       - 185.218.3.131:60664
       - 45.12.109.198:24604
       - 144.31.234.82:45356
-      - 🇩🇪 de1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - 🇷🇺 fi1.node.getvpn4you.ru:1080
       - 51.132.226.113:443
       - series-a2.samanehha.co:443
@@ -21393,7 +21412,6 @@ proxy-groups:
       - 217.77.3.68:28954
       - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 135.125.219.2:43081
       - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
@@ -21803,6 +21821,7 @@ proxy-groups:
       - 95.216.238.249:35153
       - 172.67.191.189:2053
       - 172.67.68.87:2053
+      - 45.85.118.0:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -21811,6 +21830,7 @@ proxy-groups:
       - 80.173.230.196:26279
       - 80.173.230.196:26279 2
       - 194.33.45.157:443
+      - srv7.fastservers.cc:23828
       - 190.93.244.202:443
       - 🇷🇺 russia.com:443
       - 🇷🇺 russia.com:443 2
@@ -21943,6 +21963,8 @@ proxy-groups:
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
+      - 35.181.221.95:22223
+      - 51.45.11.182:22223
       - 54.93.56.163:22223
       - 54.93.56.163:22223 2
       - 54.93.56.163:22223 3
@@ -21961,6 +21983,8 @@ proxy-groups:
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
+      - 35.181.221.95:22222
+      - 51.45.11.182:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
       - 54.93.56.163:22222 2
@@ -21995,6 +22019,7 @@ proxy-groups:
       - 146.70.20.97:20205
       - 147.45.68.252:8082
       - 147.45.68.252:8082 2
+      - 147.45.68.252:8082 3
       - 154.21.82.210:30001
       - 169.150.210.142:20205
       - 176.124.203.183:8082
@@ -22026,7 +22051,6 @@ proxy-groups:
       - ab.fxgoldensignals.com:51269 2
       - 138.124.87.247:510
       - ruhip.vles.space:18771
-      - xxx.vles.space:9443
       - 172.67.216.218:443
       - 185.112.59.16:8446
       - 185.112.59.4:8446
@@ -22053,11 +22077,14 @@ proxy-groups:
       - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
+      - 15.224.0.245:22224
       - 15.236.174.14:22224
       - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
+      - 35.181.221.95:22224
+      - 51.45.11.182:22224
       - 52.58.248.163:22224
       - 54.93.56.163:22224
       - 54.93.56.163:22224 2
@@ -22472,7 +22499,6 @@ proxy-groups:
       - 104.21.15.157:80
       - 104.21.80.253:80
       - 172.67.136.92:80
-      - 172.67.163.25:80
       - nnnmmmmj.0b0.ccwu.cc:443
       - 172.82.67.158:443
       - 185.112.59.134:8446
@@ -22488,7 +22514,6 @@ proxy-groups:
       - 144.31.131.32:8443
       - 45.148.102.189:8443
       - 85.159.229.164:8443
-      - 104.24.45.247:80
       - 84.201.179.202:9443 7
       - 91.99.198.191:443
       - 91.99.203.70:51615
@@ -22938,7 +22963,6 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -23077,7 +23101,6 @@ proxy-groups:
       - 209.177.165.17:443
       - 209.38.225.184:443
       - 212.193.4.53:443
-      - 212.34.141.125:8443
       - 213.21.241.70:2053
       - 216.128.140.218:443
       - 23.169.184.123:443
@@ -23137,7 +23160,6 @@ proxy-groups:
       - 66.151.40.21:8443
       - 72.18.132.149:2053
       - 77.221.157.45:443
-      - 77.238.238.133:8443
       - 78.47.146.151:443
       - 8.34.146.238:2096
       - 81.200.154.2:8443
@@ -23151,7 +23173,6 @@ proxy-groups:
       - 87.120.92.150:8443
       - 87.251.87.157:443
       - 88.198.152.85:443
-      - 88.210.6.236:2053
       - 88.218.78.149:8443
       - 88.218.78.167:443
       - 88.99.189.60:443
@@ -23169,7 +23190,6 @@ proxy-groups:
       - 91.107.242.69:443
       - 91.149.222.113:443
       - 91.149.233.78:443
-      - 91.84.103.232:443
       - 91.99.9.125:8443
       - 92.118.10.56:443
       - 93.115.175.140:2053
@@ -23254,6 +23274,9 @@ proxy-groups:
       - 64.64.239.67:443
       - 🇳🇱 nl.vpnlink.pro:443
       - afk.mrsf.ir:52477
+      - trailers.sv1.cdn.yoozmovie.com:16771
+      - trailers.sv1.cdn.yoozmovie.com:16771 2
+      - trailers.sv1.cdn.yoozmovie.com:16771 3
       - 104.16.250.22:2096
       - 104.21.227.134:2096
       - 104.21.227.134:2096 2
@@ -23737,7 +23760,6 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -23801,7 +23823,6 @@ proxy-groups:
       - ee-3.ummavpn.com:443
       - 188.114.98.0:8443
       - f2.hamrahconf.ir:8443 4
-      - 🇩🇪 10gbit.de.vles.space:510 2
       - 🇫🇷 3.fr.vles.space:23151 2
       - 46.21.82.48:510
       - 84.201.179.202:9443 33
@@ -24190,6 +24211,9 @@ proxy-groups:
       - 🇩🇪 de.vpnbase.net:80
       - 🇩🇪 de.vpnbase.net:80 2
       - 151.101.3.8:80
+      - 188.114.98.0:443 6
+      - chatgpt.com:2096 5
+      - poe.com:2053
       - 🇳🇱 nl-90w-c.southnetworks.cloud:80
       - grok.com:2083
       - grok.com:2083 2
@@ -24219,7 +24243,7 @@ proxy-groups:
       - 84.201.158.199:443 2
       - 5.10.214.154:2087
       - 104.21.86.253:443
-      - 188.114.98.0:443 6
+      - 188.114.98.0:443 7
       - 178.154.193.70:443 2
       - 178.154.193.70:8443 4
       - 89.169.181.188:443 2

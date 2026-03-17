@@ -469,7 +469,7 @@ proxies:
   - {name: 127.0.0.1:1080#@PewezaVPN, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808#V2RAYENGLISH, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:10808 2, server: 127.0.0.1, port: 10808, type: socks5, username: "@sexyboyvpn", password: "@sexyboyvpn", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 130.185.73.241:44173, server: 130.185.73.241, port: 44173, type: socks5, username: HheTEQK16V, password: 0dXOmvUiaI, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.65.242.176:1080, server: 176.65.242.176, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.111.236.173:8844, server: 193.111.236.173, port: 8844, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,7 +479,6 @@ proxies:
   - {name: 2.144.7.51:1082, server: 2.144.7.51, port: 1082, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69978baca7ccb, password: Azir69978baca7ccb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.125.7:1092, server: 79.127.125.7, port: 1092, type: socks5, username: arsh2, password: n*W4cmh6t38, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
@@ -489,7 +488,6 @@ proxies:
   - {name: azir_proxy_ezterar2.moonvira.com:8080, server: azir_proxy_ezterar2.moonvira.com, port: 8080, type: socks5, username: 8187614752_test, password: 8187614752_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks.nirvana-smoke.com:53, server: socks.nirvana-smoke.com, port: 53, type: socks5, username: Azir69ab8eb8457af, password: Azir69ab8eb8457af, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121aad, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -510,7 +508,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -520,7 +518,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -530,7 +527,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -541,7 +537,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -551,7 +547,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -561,7 +556,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -572,7 +566,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -582,7 +576,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -592,7 +585,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -612,7 +604,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -622,7 +614,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -632,7 +623,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -643,7 +633,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -653,7 +643,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -663,7 +652,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -674,7 +662,7 @@ proxy-groups:
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
-      - 127.0.0.1:10808 2
+      - 130.185.73.241:44173
       - 171.22.27.147:1080
       - 176.65.242.176:1080
       - 193.111.236.173:8844
@@ -684,7 +672,6 @@ proxy-groups:
       - 2.144.7.51:1082
       - 2.179.186.225:1080
       - 46.245.94.249:1080
-      - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -694,7 +681,6 @@ proxy-groups:
       - azir_proxy_ezterar2.moonvira.com:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
-      - tel-pro-2.qcluster.org:4585
   - name: دانلود منیجر 📥
     type: select
     proxies:
