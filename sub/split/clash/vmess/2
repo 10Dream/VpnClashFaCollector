@@ -499,15 +499,14 @@ proxies:
   - {name: "@EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt + Psiphon", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 6", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 7", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 6", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@crayingroom تلگرام", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 8", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 7", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1 📱 @unvisible_drops, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "@filembad 9", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 10", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 11", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 8", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 9", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 10", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -558,15 +557,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -607,15 +605,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -656,15 +653,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -714,15 +710,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -763,15 +758,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -812,15 +806,14 @@ proxy-groups:
       - "@EsTunnel - Psiphon+V2rayNG"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
-      - "@filembad 6"
       - "@saministamm"
-      - "@filembad 7"
+      - "@filembad 6"
       - "@crayingroom تلگرام"
-      - "@filembad 8"
+      - "@filembad 7"
       - 1 📱 @unvisible_drops
+      - "@filembad 8"
       - "@filembad 9"
       - "@filembad 10"
-      - "@filembad 11"
   - name: دانلود منیجر 📥
     type: select
     proxies:

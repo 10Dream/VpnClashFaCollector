@@ -491,30 +491,21 @@ proxies:
   - {name: 212.87.198.109:8388, server: 212.87.198.109, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: m3Pf7Z06/wpODD1tmKSyYA==:0t6HqdmT6QHFbdx2EIrK/A==, udp: true, tfo: false}
   - {name: 212.87.198.113:8388, server: 212.87.198.113, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: m3Pf7Z06/wpODD1tmKSyYA==:0t6HqdmT6QHFbdx2EIrK/A==, udp: true, tfo: false}
   - {name: 95.216.238.249:37337, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
   - {name: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142, server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org, port: 13142, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=, udp: true, tfo: false}
   - {name: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630, server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org, port: 14630, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=, udp: true, tfo: false}
-  - {name: 109.199.114.196:29796, server: 109.199.114.196, port: 29796, type: ss, cipher: chacha20-ietf-poly1305, password: 44b0cefe3d2160ec, udp: true, tfo: false}
-  - {name: 51.89.118.86:11201, server: 51.89.118.86, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 4583662c5120da5a, udp: true, tfo: false}
   - {name: 193.29.139.157:8080, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 193.29.139.206:8080, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 135.125.219.2:41042, server: 135.125.219.2, port: 41042, type: ss, cipher: chacha20-ietf-poly1305, password: 51ddc977360dde89, udp: true, tfo: false}
   - {name: 38.60.224.37:11201, server: 38.60.224.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 651df5dc8fd08d0c, udp: true, tfo: false}
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
   - {name: 57.129.95.45:11201 2, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
-  - {name: 15.204.77.5:10011, server: 15.204.77.5, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: 6789cbe864360de7, udp: true, tfo: false}
   - {name: 194.68.225.52:65232, server: 194.68.225.52, port: 65232, type: ss, cipher: chacha20-ietf-poly1305, password: 6J754ee6ITjyfDysi78uqJ, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 194.68.225.52, port: 65232, type: ss, cipher: chacha20-ietf-poly1305, password: 6J754ee6ITjyfDysi78uqJ, udp: true, tfo: false}
   - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
   - {name: 135.125.245.131:20939, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
   - {name: 77.73.68.155:54106, server: 77.73.68.155, port: 54106, type: ss, cipher: chacha20-ietf-poly1305, password: 9CmcQ6dF8LEyZU0YsMjgu8, udp: true, tfo: false}
   - {name: 96@oneclickvpnkeys, server: 77.73.68.155, port: 54106, type: ss, cipher: chacha20-ietf-poly1305, password: 9CmcQ6dF8LEyZU0YsMjgu8, udp: true, tfo: false}
-  - {name: 62.146.231.112:46292, server: 62.146.231.112, port: 46292, type: ss, cipher: chacha20-ietf-poly1305, password: 9e32371ec28c1656, udp: true, tfo: false}
   - {name: 94.182.175.37:2096, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: 9vdfbH8S5rABDNlJhQEteA, udp: true, tfo: false}
   - {name: "@filembad` 3", server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: 9vdfbH8S5rABDNlJhQEteA, udp: true, tfo: false}
-  - {name: 85.239.236.208:28263, server: 85.239.236.208, port: 28263, type: ss, cipher: chacha20-ietf-poly1305, password: 0403f64e4b58991e, udp: true, tfo: false}
-  - {name: 135.125.219.2:23349, server: 135.125.219.2, port: 23349, type: ss, cipher: chacha20-ietf-poly1305, password: 0b2e39a4642684aa, udp: true, tfo: false}
-  - {name: 212.56.42.202:11291, server: 212.56.42.202, port: 11291, type: ss, cipher: chacha20-ietf-poly1305, password: 108cfe4ef4aea6c5, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:14383, server: lm-xx-002.sadaadf--d.com, port: 14383, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:10543, server: lm-xx-002.sadaadf--d.com, port: 10543, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:25125, server: lm-xx-002.sadaadf--d.com, port: 25125, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
@@ -522,14 +513,10 @@ proxies:
   - {name: lm-xx-002.sadaadf--d.com:55732, server: lm-xx-002.sadaadf--d.com, port: 55732, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
   - {name: 149.104.71.134:11201, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
   - {name: "[22019] - Telegram : @configraygan", server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
-  - {name: 100@oneclickvpnkeys, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 185.5.38.111:55988, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 2FSHTqh121gyn68NY8QDh3f5L6soTtRJydPkNh51MtfffMxGtpxSETMAXDMa8T3C112Von1U6CsmNyNQZr9Q9xGPvroUNiE7, udp: true, tfo: false}
   - {name: 🇵🇱 auto.poland.ray-vpn.ru:4495, server: auto.poland.ray-vpn.ru, port: 4495, type: ss, cipher: chacha20-ietf-poly1305, password: 2Z9ba3GwDL-rn6DSQ0N-awHNhcuxaHP3, udp: true, tfo: false}
-  - {name: 154.12.247.124:45807, server: 154.12.247.124, port: 45807, type: ss, cipher: chacha20-ietf-poly1305, password: 2fe2a044c8354a4e, udp: true, tfo: false}
   - {name: 163.171.181.30:11201, server: 163.171.181.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 32a9a16d8a041c98, udp: true, tfo: false}
-  - {name: 38.54.93.66:49694, server: 38.54.93.66, port: 49694, type: ss, cipher: chacha20-ietf-poly1305, password: 3b72ad57035835c7, udp: true, tfo: false}
-  - {name: 38.54.93.66:49695, server: 38.54.93.66, port: 49695, type: ss, cipher: chacha20-ietf-poly1305, password: 3b72ad57035835c7, udp: true, tfo: false}
   - {name: 193.124.46.134:8444, server: 193.124.46.134, port: 8444, type: ss, cipher: chacha20-ietf-poly1305, password: tunnel-astrovpn_official, udp: true, tfo: false}
   - {name: 194.71.130.26:2949, server: 194.71.130.26, port: 2949, type: ss, cipher: chacha20-ietf-poly1305, password: v8NKiSxilGVslodFPWWLR8, udp: true, tfo: false}
   - {name: 194.71.130.26:2949 2, server: 194.71.130.26, port: 2949, type: ss, cipher: chacha20-ietf-poly1305, password: v8NKiSxilGVslodFPWWLR8, udp: true, tfo: false}
@@ -538,7 +525,6 @@ proxies:
   - {name: "***✅***@AR14N24b", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true, tfo: false}
   - {name: "@NETAZADI`", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true, tfo: false}
   - {name: 195.66.25.220:8388, server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
-  - {name: 195.66.25.220:8388 2, server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
   - {name: 138.186.142.80:990, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 138.186.142.81:990, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
@@ -556,39 +542,27 @@ proxies:
   - {name: 38.60.250.107:990 2, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 203.202.232.78:60299, server: 203.202.232.78, port: 60299, type: ss, cipher: chacha20-ietf-poly1305, password: AVLbEUEtBD59FsRqcNyEib, udp: true, tfo: false}
   - {name: "[21981] - Telegram : @configraygan", server: 203.202.232.78, port: 60299, type: ss, cipher: chacha20-ietf-poly1305, password: AVLbEUEtBD59FsRqcNyEib, udp: true, tfo: false}
-  - {name: 185.218.3.131:60664, server: 185.218.3.131, port: 60664, type: ss, cipher: chacha20-ietf-poly1305, password: Aex4y92EluOwjtinhoxlsO, udp: true, tfo: false}
-  - {name: 45.12.109.198:24604, server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, udp: true, tfo: false}
   - {name: 144.31.234.82:45356, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
   - {name: 185.176.221.72:24637, server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true, tfo: false}
   - {name: 94.182.175.37:2096 2, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
-  - {name: 🇷🇺 fi1.node.getvpn4you.ru:1080, server: fi1.node.getvpn4you.ru, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: RuPv_859V62PYcT34Nsc8EeeH0R8Bdut, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 90.156.203.62, port: 5112, type: ss, cipher: chacha20-ietf-poly1305, password: VVlAff77CnAU43Aoc5j15Y, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: 90.156.203.62, port: 5112, type: ss, cipher: chacha20-ietf-poly1305, password: VVlAff77CnAU43Aoc5j15Y, udp: true, tfo: false}
   - {name: 51.132.226.113:443, server: 51.132.226.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 45.80.231.75:31019, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
   - {name: 102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
-  - {name: 102.133.165.160:16233 2, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
-  - {name: 195.93.253.240:14130, server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
   - {name: "[22014] - Telegram : @configraygan", server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: 07@oneclickvpnkeys, server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 217.77.3.68:28954, server: 217.77.3.68, port: 28954, type: ss, cipher: chacha20-ietf-poly1305, password: a586ae8d773f250f, udp: true, tfo: false}
-  - {name: 57.128.190.238:10012, server: 57.128.190.238, port: 10012, type: ss, cipher: chacha20-ietf-poly1305, password: b57589e59247dddb, udp: true, tfo: false}
   - {name: 147.45.135.39:4205, server: 147.45.135.39, port: 4205, type: ss, cipher: chacha20-ietf-poly1305, password: c0Zy18nHmjcUfome1fYPhA, udp: true, tfo: false}
-  - {name: 94.72.98.25:41684, server: 94.72.98.25, port: 41684, type: ss, cipher: chacha20-ietf-poly1305, password: c8d928481a2a0988, udp: true, tfo: false}
   - {name: 46.250.241.55:45720, server: 46.250.241.55, port: 45720, type: ss, cipher: chacha20-ietf-poly1305, password: c90d63dc7a6203af, udp: true, tfo: false}
   - {name: 163.171.207.11:29464, server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
   - {name: 193.29.139.157:8080 2, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: "[22285] - Telegram : @configraygan", server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: 62.146.231.199:18701, server: 62.146.231.199, port: 18701, type: ss, cipher: chacha20-ietf-poly1305, password: d0303b8de7b2037e, udp: true, tfo: false}
-  - {name: 15.204.74.40:11201, server: 15.204.74.40, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e4be13eac9f8e36e, udp: true, tfo: false}
-  - {name: 85.239.236.208:28264, server: 85.239.236.208, port: 28264, type: ss, cipher: chacha20-ietf-poly1305, password: e4c353ae602e1e45, udp: true, tfo: false}
-  - {name: 109.199.114.82:25665, server: 109.199.114.82, port: 25665, type: ss, cipher: chacha20-ietf-poly1305, password: eac0d7ad1b6493b3, udp: true, tfo: false}
-  - {name: 193.29.139.227:8080, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true, tfo: false}
   - {name: 212.192.14.226:41968, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
   - {name: "[21965] - Telegram : @configraygan", server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
@@ -599,13 +573,14 @@ proxies:
   - {name: meliproxyy, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: vasl_bashim`, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 185.5.38.111:55988 2, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
+  - {name: " ", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "  2", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443 2, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true, tfo: false}
   - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "  2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "  3", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt 3", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@saministamm-2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: meliproxyy 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -617,7 +592,7 @@ proxies:
   - {name: pupas-shirting-unsung.freesocks.work:443, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, udp: true, tfo: false}
   - {name: 185.212.149.195:55638, server: 185.212.149.195, port: 55638, type: ss, cipher: chacha20-ietf-poly1305, password: qlAaMfSPv2c1Sys925zjWY, udp: true, tfo: false}
   - {name: 103.149.182.79:8388, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
   - {name: 141.98.101.182:443, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 156.146.38.170:443, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys 2, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
@@ -641,8 +616,8 @@ proxies:
   - {name: 103.186.154.189:38388, server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.190:38388, server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.191:38388, server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.192:38388, server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.194:38388, server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.195:38388, server: 103.186.154.195, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -873,14 +848,14 @@ proxies:
   - {name: 217.30.10.70:9084, server: 217.30.10.70, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
   - {name: 138.186.143.32:989, server: 138.186.143.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 185.193.49.88:989, server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 185.231.233.112:989, server: 185.231.233.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 38.60.223.8:989, server: 38.60.223.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 46.183.185.37:989, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 79.127.227.53:989, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 104.192.226.106:989, server: 104.192.226.106, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 121.127.46.147:989, server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 190.103.176.32:989, server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
@@ -892,7 +867,7 @@ proxies:
   - {name: 217.30.10.70:9040, server: 217.30.10.70, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
   - {name: 217.30.10.70:9056, server: 217.30.10.70, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
   - {name: 217.30.10.18:9094, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "@filembad` 15", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
   - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:23688, server: lm-xx-002.sadaadf--d.com, port: 23688, type: ss, cipher: aes-256-gcm, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
@@ -909,7 +884,6 @@ proxies:
   - {name: 154.53.63.42:80, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: "[22025] - Telegram : @configraygan", server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 154.53.63.42:80 2, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 93@oneclickvpnkeys, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 154.53.63.42:80 3, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 120.233.125.33:30036, server: 120.233.125.33, port: 30036, type: ss, cipher: aes-256-gcm, password: PiLr13pE, udp: true, tfo: false}
   - {name: 120.233.125.33:30036 2, server: 120.233.125.33, port: 30036, type: ss, cipher: aes-256-gcm, password: PiLr13pE, udp: true, tfo: false}
@@ -929,7 +903,7 @@ proxies:
   - {name: 154.53.60.212:80, server: 154.53.60.212, port: 80, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
   - {name: 38.180.161.123:8119, server: 38.180.161.123, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
   - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: "@filembad` 15", server: all.mdvpnsec.cfd, port: 80, type: ss, cipher: aes-256-gcm, password: kmm, udp: true, tfo: false}
+  - {name: "@filembad` 16", server: all.mdvpnsec.cfd, port: 80, type: ss, cipher: aes-256-gcm, password: kmm, udp: true, tfo: false}
   - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 94.72.127.58:80 2, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 62.146.171.57:80, server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
@@ -938,33 +912,59 @@ proxies:
   - {name: 38.180.2.141:5499, server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
   - {name: 149.102.132.184:80, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
   - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: "@filembad` 16", server: chatgpt.com, port: 443, type: ss, cipher: aes-256-gcm, password: mm, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 5", server: chatgpt.com, port: 443, type: ss, cipher: aes-256-gcm, password: mm, udp: true, tfo: false}
-  - {name: "@filembad` 17", server: 104.17.148.22, port: 2082, type: ss, cipher: aes-256-gcm, password: mmmn, udp: true, tfo: false}
-  - {name: "@filembad` 18", server: us.nitroo-tech.ru, port: 443, type: ss, cipher: aes-256-gcm, password: mjn, udp: true, tfo: false}
+  - {name: "@filembad` 17", server: chatgpt.com, port: 443, type: ss, cipher: aes-256-gcm, password: mm, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: chatgpt.com, port: 443, type: ss, cipher: aes-256-gcm, password: mm, udp: true, tfo: false}
   - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: 154.38.176.7:80 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "@filembad` 19", server: 151.101.129.140, port: 80, type: ss, cipher: aes-256-gcm, password: noftaki, udp: true, tfo: false}
   - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: 94.72.127.55:80 2, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: 154.53.57.143:80, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
   - {name: 50.62.88.16:443, server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: 50.62.88.16:443 2, server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥", server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: 69.84.182.16:443, server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2", server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: 172.105.199.111:8080, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: irancell.buzzmuzzpanel.online:443, server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: "تلگرام : @WinstnChannel`", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: "تلگرام : @vasl_bashim`", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: �tline_ir, server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
-  - {name: irancell.buzzmuzzpanel.online:443 2, server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: irancell.buzzmuzzpanel.online:443 3, server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: www.speedtest.net:8443, server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443, server: masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev, port: 8443, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev}}, udp: true, tfo: false}
-  - {name: masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087, server: masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev, port: 2087, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443, server: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev, port: 443, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2, server: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev, port: 443, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083, server: masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev, port: 2083, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443, server: masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev, port: 443, type: trojan, password: !<str> 0000, sni: masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev}}, udp: true, tfo: false}
+  - {name: Chatgpt.com:8443, server: Chatgpt.com, port: 8443, type: trojan, password: !<str> 000123, sni: masterserver1-masterserver1-masterserver1-masterserver1.sipide1165.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.sipide1165.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083, server: masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev, port: 2083, type: trojan, password: !<str> 000123, sni: masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 us.vpnlink.pro:636, server: us.vpnlink.pro, port: 636, type: trojan, password: 0FTeJJFNLJAaW2vH0ByUUCFcP34oRPAS, sni: api.google.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 108.162.198.164:2096, server: 108.162.198.164, port: 2096, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev}}, udp: true, tfo: false}
+  - {name: 162.159.36.5:2053, server: 162.159.36.5, port: 2053, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 173.245.59.64:2083, server: 173.245.59.64, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev}}, udp: true, tfo: false}
+  - {name: 173.245.59.64:2083 2, server: 173.245.59.64, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 18", server: 173.245.59.64, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 8.35.211.134:443, server: 8.35.211.134, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev}}, udp: true, tfo: false}
+  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev}}, udp: true, tfo: false}
+  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev, port: 2096, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev}}, udp: true, tfo: false}
+  - {name: cf.877774.xyz:2087, server: cf.877774.xyz, port: 2087, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: 81@oneclickvpnkeys, server: ct.090227.xyz, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: 25@oneclickvpnkeys, server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: mfa.gov.ua:2096, server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: mfa.gov.ua:2096 2, server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: www.shopify.com:2053, server: www.shopify.com, port: 2053, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: 8.39.125.15:2083, server: 8.39.125.15, port: 2083, type: trojan, password: !<str> 2929, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev}}, udp: true, tfo: false}
+  - {name: bbbnhju.1xa.ccwu.cc:443, server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 123.dnscloudcloud.top:443, server: 123.dnscloudcloud.top, port: 443, type: trojan, password: 36639485-60a0-4853-856c-40ac05f4b00d, sni: null.us1234567891.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /music, headers: {Host: null.us1234567891.xyz}}, udp: true, tfo: false}
+  - {name: 23.247.137.64:443, server: 23.247.137.64, port: 443, type: trojan, password: 3c4e10af98c30972, sni: n2.gladns.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇳 bgt.1x2.indevs.in:443, server: bgt.1x2.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: bgt.1x2.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: bgt.1x2.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇮🇳 bgt.1x2.indevs.in:443 2, server: bgt.1x2.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: bgt.1x2.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: bgt.1x2.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇮🇳 kklo.1xq.indevs.in:443, server: kklo.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: kklo.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: kklo.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇮🇳 m9o0.1xq.indevs.in:443, server: m9o0.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: m9o0.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: m9o0.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: "@filembad` 19", server: m9o0.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: m9o0.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: m9o0.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: nhj.1jj.ccwu.cc:443, server: nhj.1jj.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nhj.1jj.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: nhj.1jj.ccwu.cc}}, udp: true, tfo: false}
+  - {name: nmki.1qq.ccwu.cc:443, server: nmki.1qq.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmki.1qq.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: nmki.1qq.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "@filembad` 20", server: nmki.1qq.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmki.1qq.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: nmki.1qq.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 162.159.33.81:443, server: 162.159.33.81, port: 443, type: trojan, password: !<str> 7964, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev}}, udp: true, tfo: false}
+  - {name: 172.64.53.190:443, server: 172.64.53.190, port: 443, type: trojan, password: 823cbccd-3a71-4248-ac3c-3c460de1552d, sni: snll667.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: //, headers: {Host: snll667.pages.dev}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1007,30 +1007,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -1038,14 +1029,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -1054,7 +1041,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -1072,39 +1058,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -1115,13 +1089,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -1133,7 +1108,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -1157,8 +1132,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -1389,14 +1364,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -1408,7 +1383,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -1425,7 +1400,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -1445,7 +1419,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -1454,32 +1428,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1512,30 +1512,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -1543,14 +1534,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -1559,7 +1546,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -1577,39 +1563,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -1620,13 +1594,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -1638,7 +1613,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -1662,8 +1637,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -1894,14 +1869,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -1913,7 +1888,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -1930,7 +1905,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -1950,7 +1924,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -1959,32 +1933,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -2017,30 +2017,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -2048,14 +2039,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -2064,7 +2051,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -2082,39 +2068,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -2125,13 +2099,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -2143,7 +2118,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -2167,8 +2142,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -2399,14 +2374,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -2418,7 +2393,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -2435,7 +2410,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -2455,7 +2429,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -2464,32 +2438,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2531,30 +2531,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -2562,14 +2553,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -2578,7 +2565,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -2596,39 +2582,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -2639,13 +2613,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -2657,7 +2632,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -2681,8 +2656,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -2913,14 +2888,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -2932,7 +2907,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -2949,7 +2924,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -2969,7 +2943,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -2978,32 +2952,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -3036,30 +3036,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -3067,14 +3058,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -3083,7 +3070,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -3101,39 +3087,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -3144,13 +3118,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -3162,7 +3137,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -3186,8 +3161,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -3418,14 +3393,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -3437,7 +3412,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -3454,7 +3429,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -3474,7 +3448,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -3483,32 +3457,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -3541,30 +3541,21 @@ proxy-groups:
       - 212.87.198.109:8388
       - 212.87.198.113:8388
       - 95.216.238.249:37337
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13142
       - toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14630
-      - 109.199.114.196:29796
-      - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
       - 57.129.95.45:11201 2
-      - 15.204.77.5:10011
       - 194.68.225.52:65232
       - "@filembad` 2"
       - 57.129.94.79:11206
       - 135.125.245.131:20939
       - 77.73.68.155:54106
       - 96@oneclickvpnkeys
-      - 62.146.231.112:46292
       - 94.182.175.37:2096
       - "@filembad` 3"
-      - 85.239.236.208:28263
-      - 135.125.219.2:23349
-      - 212.56.42.202:11291
       - lm-xx-002.sadaadf--d.com:14383
       - lm-xx-002.sadaadf--d.com:10543
       - lm-xx-002.sadaadf--d.com:25125
@@ -3572,14 +3563,10 @@ proxy-groups:
       - lm-xx-002.sadaadf--d.com:55732
       - 149.104.71.134:11201
       - "[22019] - Telegram : @configraygan"
-      - 100@oneclickvpnkeys
       - admin.c1.havij.co:443
       - 185.5.38.111:55988
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
-      - 154.12.247.124:45807
       - 163.171.181.30:11201
-      - 38.54.93.66:49694
-      - 38.54.93.66:49695
       - 193.124.46.134:8444
       - 194.71.130.26:2949
       - 194.71.130.26:2949 2
@@ -3588,7 +3575,6 @@ proxy-groups:
       - "***✅***@AR14N24b"
       - "@NETAZADI`"
       - 195.66.25.220:8388
-      - 195.66.25.220:8388 2
       - 138.186.142.80:990
       - 138.186.142.81:990
       - 193.135.174.135:990
@@ -3606,39 +3592,27 @@ proxy-groups:
       - 38.60.250.107:990 2
       - 203.202.232.78:60299
       - "[21981] - Telegram : @configraygan"
-      - 185.218.3.131:60664
-      - 45.12.109.198:24604
       - 144.31.234.82:45356
       - 185.176.221.72:24637
-      - 94.182.175.37:2096 2
       - "@filembad` 6"
-      - 🇷🇺 fi1.node.getvpn4you.ru:1080
+      - 94.182.175.37:2096 2
       - "@filembad` 7"
+      - "@filembad` 8"
       - 51.132.226.113:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 45.80.231.75:31019
       - 102.133.165.160:16233
-      - 102.133.165.160:16233 2
-      - "@filembad` 8"
-      - 195.93.253.240:14130
+      - "@filembad` 9"
       - "[22014] - Telegram : @configraygan"
-      - 07@oneclickvpnkeys
       - 217.77.3.68:28954
-      - 57.128.190.238:10012
       - 147.45.135.39:4205
-      - 94.72.98.25:41684
       - 46.250.241.55:45720
       - 163.171.207.11:29464
       - 193.29.139.157:8080 2
       - "[22285] - Telegram : @configraygan"
       - 11@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
-      - 62.146.231.199:18701
-      - 15.204.74.40:11201
-      - 85.239.236.208:28264
-      - 109.199.114.82:25665
-      - 193.29.139.227:8080
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
       - tinkered-pennies-puppies.freesocks.work:443
@@ -3649,13 +3623,14 @@ proxy-groups:
       - meliproxyy
       - vasl_bashim`
       - 185.5.38.111:55988 2
-      - 57.129.140.88:8388
       - " "
+      - 57.129.140.88:8388
+      - "  2"
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - "  2"
-      - "@filembad` 9"
+      - "  3"
+      - "@filembad` 10"
       - "@Hiddify_Nexttt 3"
       - "@saministamm-2"
       - meliproxyy 2
@@ -3667,7 +3642,7 @@ proxy-groups:
       - pupas-shirting-unsung.freesocks.work:443
       - 185.212.149.195:55638
       - 103.149.182.79:8388
-      - "@filembad` 10"
+      - "@filembad` 11"
       - 141.98.101.182:443
       - 156.146.38.170:443
       - 2@oneclickvpnkeys 2
@@ -3691,8 +3666,8 @@ proxy-groups:
       - 103.186.154.189:38388
       - 103.186.154.190:38388
       - 103.186.154.191:38388
-      - "@filembad` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@filembad` 12"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 103.186.154.192:38388
       - 103.186.154.194:38388
       - 103.186.154.195:38388
@@ -3923,14 +3898,14 @@ proxy-groups:
       - 217.30.10.70:9084
       - 138.186.143.32:989
       - 185.193.49.88:989
-      - "@filembad` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - 185.231.233.112:989
       - 38.60.223.8:989
       - 46.183.185.37:989
       - 79.127.227.53:989
-      - "@filembad` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - 104.192.226.106:989
       - 121.127.46.147:989
       - 190.103.176.32:989
@@ -3942,7 +3917,7 @@ proxy-groups:
       - 217.30.10.70:9040
       - 217.30.10.70:9056
       - 217.30.10.18:9094
-      - "@filembad` 14"
+      - "@filembad` 15"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 66.94.125.178:80
       - lm-xx-002.sadaadf--d.com:23688
@@ -3959,7 +3934,6 @@ proxy-groups:
       - 154.53.63.42:80
       - "[22025] - Telegram : @configraygan"
       - 154.53.63.42:80 2
-      - 93@oneclickvpnkeys
       - 154.53.63.42:80 3
       - 120.233.125.33:30036
       - 120.233.125.33:30036 2
@@ -3979,7 +3953,7 @@ proxy-groups:
       - 154.53.60.212:80
       - 38.180.161.123:8119
       - 209.126.5.209:80
-      - "@filembad` 15"
+      - "@filembad` 16"
       - 94.72.127.58:80
       - 94.72.127.58:80 2
       - 62.146.171.57:80
@@ -3988,32 +3962,58 @@ proxy-groups:
       - 38.180.2.141:5499
       - 149.102.132.184:80
       - 154.12.240.141:80
-      - "@filembad` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
       - "@filembad` 17"
-      - "@filembad` 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "@filembad` 19"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - 149.102.149.207:80
       - 154.53.57.143:80
       - 50.62.88.16:443
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
       - 172.105.199.111:8080
       - 68.183.227.4:8080
       - irancell.buzzmuzzpanel.online:443
       - "تلگرام : @WinstnChannel`"
       - "تلگرام : @vasl_bashim`"
-      - irancell.buzzmuzzpanel.online:443 2
-      - irancell.buzzmuzzpanel.online:443 3
       - www.speedtest.net:8443
       - masterserver1-masterserver1-masterserver1-masterserver1.ceyisol868.workers.dev:8443
-      - masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443
+      - masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443 2
+      - masterserver1-masterserver1-masterserver1-masterserver1.rroeszba.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.toliy31683.workers.dev:443
+      - Chatgpt.com:8443
+      - masterserver1-masterserver1-masterserver1-masterserver1.jajetif750.workers.dev:2083
+      - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - 🇺🇸 us.vpnlink.pro:636
+      - 108.162.198.164:2096
+      - 162.159.36.5:2053
+      - 173.245.59.64:2083
+      - 173.245.59.64:2083 2
+      - "@filembad` 18"
+      - 8.35.211.134:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096
+      - cf.877774.xyz:2087
+      - 81@oneclickvpnkeys
+      - 25@oneclickvpnkeys
+      - mfa.gov.ua:2096
+      - mfa.gov.ua:2096 2
+      - www.shopify.com:2053
+      - 8.39.125.15:2083
+      - bbbnhju.1xa.ccwu.cc:443
+      - 123.dnscloudcloud.top:443
+      - 23.247.137.64:443
+      - 🇮🇳 bgt.1x2.indevs.in:443
+      - 🇮🇳 bgt.1x2.indevs.in:443 2
+      - 🇮🇳 kklo.1xq.indevs.in:443
+      - 🇮🇳 m9o0.1xq.indevs.in:443
+      - "@filembad` 19"
+      - nhj.1jj.ccwu.cc:443
+      - nmki.1qq.ccwu.cc:443
+      - "@filembad` 20"
+      - 162.159.33.81:443
+      - 172.64.53.190:443
   - name: دانلود منیجر 📥
     type: select
     proxies:
