@@ -469,6 +469,9 @@ proxies:
   - {name: "@filembad 2", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5280", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6040", server: n1761296880.lie5d.cyou, port: 443, type: vmess, uuid: 1effac4a-cdb8-4717-a10c-da97263c802c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296880.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 7651", server: n1753348736.lie5d.cyou, port: 443, type: vmess, uuid: f267eac3-dfb4-45be-a480-7e1847ca04ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1753348736.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1753348736.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9494", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9687", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AL", server: cn02.365cloud5878.com, port: 6009, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AM", server: cn02.365cloud5878.com, port: 6039, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -528,6 +531,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -577,6 +583,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -626,6 +635,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -684,6 +696,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -733,6 +748,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -782,6 +800,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"

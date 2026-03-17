@@ -469,6 +469,9 @@ proxies:
   - {name: "@filembad 2", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5280", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6040", server: n1761296880.lie5d.cyou, port: 443, type: vmess, uuid: 1effac4a-cdb8-4717-a10c-da97263c802c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296880.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 7651", server: n1753348736.lie5d.cyou, port: 443, type: vmess, uuid: f267eac3-dfb4-45be-a480-7e1847ca04ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1753348736.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1753348736.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9494", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9687", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AL", server: cn02.365cloud5878.com, port: 6009, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AM", server: cn02.365cloud5878.com, port: 6039, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -509,6 +512,7 @@ proxies:
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: m.cnmjin.net, port: 16648, type: vmess, uuid: 074c3ea9-c977-470e-8835-bba1483d5c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ea6aff21b5514f17a25b7866d1f65910.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "@filembad 4", server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 15.235.41.200}}, udp: true, tfo: false}
   - {name: "@tel_melli", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1537", server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048", headers: {Host: 47.244.120.197}}, udp: true, tfo: false}
   - {name: "@icv2ray", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -517,7 +521,6 @@ proxies:
   - {name: 4Nika-13520, server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 6", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 7", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IR", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4Nika-13634, server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
   - {name: "@filembad 8", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
   - {name: "@configraygan 1", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -552,7 +555,6 @@ proxies:
   - {name: "@tel_melli 4", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: 28290714-959d-46ef-940f-3c3cd381d21c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hwtqcp.uhomdex.shop, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
   - {name: "@tel_melli 5", server: kwtgm.cmvvb.online, port: 8443, type: vmess, uuid: a2852e93-7255-4aae-9412-38273fdacd31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kwtgm.cmvvb.online, network: ws, ws-opts: {path: /, headers: {Host: kwtgm.cmvvb.online}}, udp: true, tfo: false}
   - {name: 1 📱 @unvisible_drops, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @prrofile_purple, server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@vasl_bashim", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: pub.ap20260228.com, port: 64003, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2, server: pub.ap20260228.com, port: 64018, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -561,7 +563,8 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5, server: qvxbtx.uhomdex.shop, port: 443, type: vmess, uuid: 847e9159-9716-4213-97a9-50d5db3fd74a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: qvxbtx.uhomdex.shop, network: ws, ws-opts: {path: /, headers: {Host: qvxbtx.uhomdex.shop}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6, server: qvxbtx.uhomdex.shop, port: 443, type: vmess, uuid: aa333ae8-d538-40e3-a2af-9d79aeb53bef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: qvxbtx.uhomdex.shop}}, udp: true, tfo: false}
   - {name: "@filembad 13", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 14", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 14", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 15", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -582,6 +585,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -622,6 +628,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -630,7 +637,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -665,7 +671,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -675,6 +680,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -685,6 +691,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -725,6 +734,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -733,7 +743,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -768,7 +777,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -778,6 +786,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -788,6 +797,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -828,6 +840,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -836,7 +849,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -871,7 +883,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -881,6 +892,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -900,6 +912,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -940,6 +955,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -948,7 +964,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -983,7 +998,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -993,6 +1007,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1003,6 +1018,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -1043,6 +1061,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -1051,7 +1070,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -1086,7 +1104,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -1096,6 +1113,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1106,6 +1124,9 @@ proxy-groups:
       - "@filembad 2"
       - "@filembad 3"
       - "@v2rayconfigamir 5280"
+      - "@v2rayconfigamir 6040"
+      - "@v2rayconfigamir 7651"
+      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 9687"
       - "[openproxylist.com] vmess-AL"
       - "[openproxylist.com] vmess-AM"
@@ -1146,6 +1167,7 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - "@filembad 4"
       - "@tel_melli"
+      - "@v2rayconfigamir 1537"
       - "@icv2ray"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
@@ -1154,7 +1176,6 @@ proxy-groups:
       - 4Nika-13520
       - "@filembad 6"
       - "@filembad 7"
-      - "[openproxylist.com] vmess-IR"
       - 4Nika-13634
       - "@filembad 8"
       - "@configraygan 1"
@@ -1189,7 +1210,6 @@ proxy-groups:
       - "@tel_melli 4"
       - "@tel_melli 5"
       - 1 📱 @unvisible_drops
-      - ⚡Telegram - @prrofile_purple
       - "@vasl_bashim"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
@@ -1199,6 +1219,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
       - "@filembad 13"
       - "@filembad 14"
+      - "@filembad 15"
   - name: دانلود منیجر 📥
     type: select
     proxies:

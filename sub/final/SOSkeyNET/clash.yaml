@@ -488,7 +488,6 @@ proxies:
   - {name: 51.89.118.86:11201, server: 51.89.118.86, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 4583662c5120da5a, udp: true, tfo: false}
   - {name: 193.29.139.157:8080, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 193.29.139.206:8080, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 193.29.139.206:8080 2, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 135.125.219.2:41042, server: 135.125.219.2, port: 41042, type: ss, cipher: chacha20-ietf-poly1305, password: 51ddc977360dde89, udp: true, tfo: false}
   - {name: 38.60.224.37:11201, server: 38.60.224.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 651df5dc8fd08d0c, udp: true, tfo: false}
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
@@ -566,9 +565,6 @@ proxies:
   - {name: series-a2.samanehha.co:443 2, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true, tfo: false}
   - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.122:8080, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.124:8080, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 147.45.49.163:9443, server: 147.45.49.163, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 144.31.130.99:9443, server: 144.31.130.99, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 144.31.130.65:9443, server: 144.31.130.65, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
@@ -951,6 +947,7 @@ proxies:
   - {name: dggg.wsone.icu:443, server: dggg.wsone.icu, port: 443, type: trojan, password: M7v%25w11Se%2A, sni: dggg.wsone.icu, skip-cert-verify: false, udp: true, tfo: false}
   - {name: spring-tooth-7fa3.ahmadrj.workers.dev:443, server: spring-tooth-7fa3.ahmadrj.workers.dev, port: 443, type: trojan, password: Nova-Proxy, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: spring-tooth-7fa3.ahmadrj.workers.dev:443 2, server: spring-tooth-7fa3.ahmadrj.workers.dev, port: 443, type: trojan, password: Nova-Proxy, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 172.67.191.189:443, server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: 172.67.134.185:443, server: 172.67.134.185, port: 443, type: trojan, password: POORIARED, sni: reDfRee8.REDFree8.ir, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed", headers: {Host: reDfRee8.REDFree8.ir}}, udp: true, tfo: false}
   - {name: sweden.vmaxpanel.com:8443/, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
   - {name: sweden.vmaxpanel.com:8443, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Famd", headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
@@ -959,6 +956,8 @@ proxies:
   - {name: 🇳🇱 nl.vpnlink.pro:636, server: nl.vpnlink.pro, port: 636, type: trojan, password: Y1wINZchCmlAJ4IxKxMxQRvGT1grM9gw, sni: api.google.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 209.200.246.105:17837/, server: 209.200.246.105, port: 17837, type: trojan, password: YRw2bzmWwl, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.216.238.249:35153, server: 95.216.238.249, port: 35153, type: trojan, password: Yr6a2AD8P4, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.191.189:2053, server: 172.67.191.189, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
+  - {name: 172.67.68.87:2053, server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
   - {name: delicate-buck.rooster465.autos:443, server: delicate-buck.rooster465.autos, port: 443, type: trojan, password: ZY07256934, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glowing-deer.rooster465.autos:443, server: glowing-deer.rooster465.autos, port: 443, type: trojan, password: ZY07256934, sni: glowing-deer.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glowing-deer.rooster465.autos:443 2, server: glowing-deer.rooster465.autos, port: 443, type: trojan, password: ZY07256934, sni: glowing-deer.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
@@ -1092,8 +1091,10 @@ proxies:
   - {name: 13.38.144.105:22223, server: 13.38.144.105, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22223, server: 13.39.7.170, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22223 2, server: 13.39.7.170, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.103.210:22223, server: 15.188.103.210, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22223, server: 15.188.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22223, server: 15.236.174.14, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.158.21.192:22223, server: 18.158.21.192, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.236.215:22223, server: 18.194.236.215, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223 2, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -1108,8 +1109,10 @@ proxies:
   - {name: 13.39.7.170:22222, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222 2, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222 3, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.103.210:22222, server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22222, server: 15.188.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.158.21.192:22222, server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222 2, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -1202,9 +1205,11 @@ proxies:
   - {name: 13.39.7.170:22224 2, server: 13.39.7.170, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22224 3, server: 13.39.7.170, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22224 4, server: 13.39.7.170, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.103.210:22224, server: 15.188.103.210, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22224, server: 15.188.40.40, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22224 2, server: 15.188.40.40, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22224, server: 15.236.174.14, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.158.21.192:22224, server: 18.158.21.192, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.236.215:22224, server: 18.194.236.215, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224 2, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1532,6 +1537,7 @@ proxies:
   - {name: 95.163.211.74:443, server: 95.163.211.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 24694ce4-8352-461b-845c-a6123fbf9c06, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM, short-id: cfdbaa7f996dd0e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.111.84.22:443, server: 212.111.84.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2473f991-923b-463b-828e-4fa82c1de4a5, servername: vkclip.enotfast.com, host: vkclip.enotfast.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk, short-id: 12b4bc71293e01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.139.246.255:443, server: 94.139.246.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2473f991-923b-463b-828e-4fa82c1de4a5, servername: vkclip.enotfast.com, host: vkclip.enotfast.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk, short-id: 12b4bc71293e01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: am.vitalik.space:443, server: am.vitalik.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2478528e-ecad-4134-a7cc-878f08a76865, servername: am.vitalik.space, host: am.vitalik.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lX1RtYvGvYlnn9sKgH_WDMkmhVQEoKHqTQVxrly1F34, short-id: bf45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.233.72.45:4013, server: 212.233.72.45, port: 4013, type: vless, tls: true, packet-encoding: xudp, uuid: 249839ff-2a99-4ecb-a81d-b7e4d6c397b8, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: t34YzMpTAdvac7xBSKvrIJKW04KJr4boRH_InVs_mWM, short-id: 456434}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.44.76.127:443, server: 89.44.76.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 249839ff-2a99-4ecb-a81d-b7e4d6c397b8, servername: 5post-gate.x5.ru, host: 5post-gate.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.111.85.60:443, server: 212.111.85.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 24e3d110-0cfc-4e20-82cc-6319742ae019, servername: damvk.funvideorus.net, host: damvk.funvideorus.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc, short-id: 12b4bc7ca90e01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -1742,7 +1748,6 @@ proxies:
   - {name: 146.185.242.246:8448 11, server: 146.185.242.246, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 40854214-4747-4633-9f52-57be1980957f, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.96.0:443, server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 163.172.214.188:80, server: 163.172.214.188, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 40cc9b52-25b8-4cd5-8b45-715ae26e6baf, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 SC-TheNetherlands1.09vpn.com:80, server: SC-TheNetherlands1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 40cc9b52-25b8-4cd5-8b45-715ae26e6baf, network: ws, ws-opts: {path: /vless/, headers: {Host: SC-TheNetherlands1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38.247.3.248:443, server: 38.247.3.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40ecece1-edd9-4543-99c7-529ee594135d, servername: apple.com, host: apple.com, path: /, reality-opts: {public-key: 6EHNPzcEE2WdKQg7fsx4scOL3YLED1BiU6KRc_AGJxE, short-id: 1eb6b72a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: albani.irweather.art:8090, server: albani.irweather.art, port: 8090, type: vless, tls: true, packet-encoding: xudp, uuid: 412312d2-4325-448c-b4dd-b418447fbfd4, host: albani.irweather.art, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.134:8446 4, server: 185.112.59.134, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: 41598599-741f-460f-9f46-a34796d92fba, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -1818,6 +1823,7 @@ proxies:
   - {name: 69.12.83.214:443 2, server: 69.12.83.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45153581-2929-40ba-b98e-ece3bd5aba89, servername: ign.com, host: ign.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY, short-id: e7b5024fd83a16c9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.152.189.165:33189 2, server: 37.152.189.165, port: 33189, type: vless, tls: true, packet-encoding: xudp, uuid: 4526af00-2e69-40ed-bde4-e37ada497ca6, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.139.246.255:443 3, server: 94.139.246.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4559f6f7-cbbc-4a8d-ab20-b9e28385e48d, servername: vkclip.enotfast.com, host: vkclip.enotfast.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk, short-id: 12b4bc71293e01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.129.185.20:443, server: 45.129.185.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: avito.ru, host: avito.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY, short-id: 66681318313081d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.76.203:443, server: 72.56.76.203, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: ledgerco.cvs-a.com, host: ledgerco.cvs-a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vOd_NI6gy70Kk8fbRE-NtVdoRw7sjwaYWFnLlHFm9So, short-id: 9284369e884d2c5d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: am1.a-svc.com:443, server: am1.a-svc.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: avito.ru, host: avito.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY, short-id: 66681318313081d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇪🇸 es1.a-svc.com:443, server: es1.a-svc.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: rbk.ru, host: rbk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY, short-id: b2d51a1447b004d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -1997,7 +2003,6 @@ proxies:
   - {name: vid6.persiangame.sbs:55006, server: vid6.persiangame.sbs, port: 55006, type: vless, tls: true, packet-encoding: xudp, uuid: 510e2c1c-5178-4c1b-9181-ec35aa09928e, network: ws, ws-opts: {path: /, headers: {Host: rubika.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vid6.persiangame.sbs:55006 2, server: vid6.persiangame.sbs, port: 55006, type: vless, tls: true, packet-encoding: xudp, uuid: 510e2c1c-5178-4c1b-9181-ec35aa09928e, network: ws, ws-opts: {path: /, headers: {Host: rubika.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.72.141:7443 6, server: 51.250.72.141, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 51553e7d-0a31-4901-9126-6f0b1c3e3a6b, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 2, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5288174a-74a6-44fc-9a48-439253dbe90c, servername: www.foxsports.com, host: www.foxsports.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: c2c52d8df661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.116.185:443, server: 51.250.116.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 52f7f2b0-2997-492b-94d6-878df645b616, servername: ozon.ru, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: ozon}, reality-opts: {public-key: YfDZDiyANiedh3WVu0X92mCfcTdG2A7FxRUR0UPvK1M, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: api2.sane-new-eb.net:8443, server: api2.sane-new-eb.net, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 53236589-ccf4-462d-ac0a-2bf21d2782cc, servername: swiftpass.pre-medical.ac, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /dskdskalwqrev, headers: {Host: swiftpass.pre-medical.ac}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: muddy-math-c1fc.tmpnriqueau89.workers.dev:443, server: muddy-math-c1fc.tmpnriqueau89.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 532a9115-aee7-4d39-9638-1e5146de075b, servername: muddy-math-c1fc.tmpnriqueau89.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/js/cHlpcC55Z2tray5kcGRucy5vcmc=/?ed=2048", headers: {Host: muddy-math-c1fc.tmpnriqueau89.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -2088,7 +2093,7 @@ proxies:
   - {name: 212.64.193.22:2052, server: 212.64.193.22, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5c61263e-6c7d-47c5-9871-c8ca029b83b1, network: ws, ws-opts: {path: /, headers: {Host: 212.64.193.22}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:21531, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.42.67.4:8443 4, server: 77.42.67.4, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d2593fc-ae9a-45fd-901c-84c5e2517adc, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0, short-id: f4fa9f410d7134ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 3, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d7d10b7-310e-4055-ad79-b3a5b5aabd92, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: d26010a3bda8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: download.lastilhame.monster:443 2, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d7d10b7-310e-4055-ad79-b3a5b5aabd92, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: d26010a3bda8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.219.99:55057, server: 87.120.219.99, port: 55057, type: vless, tls: true, packet-encoding: xudp, uuid: 5d837e94-967d-43a8-8e36-440ddfa4fd15, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: uSzNQq_GJZGbq4SHtEsqBY93C2acsM-K-QACZC-J6Eo, short-id: aa5f8562357295ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.185.242.246:8448 16, server: 146.185.242.246, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 5e31cbdd-4e04-46ed-95b1-21e0eccd26c4, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443 16, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e428110-2f3e-437e-befb-e41844b7655b, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -2848,7 +2853,6 @@ proxies:
   - {name: 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890, server: 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com, port: 890, type: vless, tls: true, packet-encoding: xudp, uuid: a7be5b32-3741-4b1b-9f17-c1e537de1a25, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.55.190.0:50219 2, server: 162.55.190.0, port: 50219, type: vless, tls: true, packet-encoding: xudp, uuid: a839e9b1-8d0e-441f-b6d2-15cc112555f3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.55.190.0:50219 3, server: 162.55.190.0, port: 50219, type: vless, tls: true, packet-encoding: xudp, uuid: a839e9b1-8d0e-441f-b6d2-15cc112555f3, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 4, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a8da758c-510d-4827-83cf-2f2b51c49c5b, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: faa900664bad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: al.crunch-crunch.com:443, server: al.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a914cfb9-52f3-4545-bcbe-96cb4b684a94, servername: al.crunch-crunch.com, host: al.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.crunch-crunch.com:443, server: de.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a914cfb9-52f3-4545-bcbe-96cb4b684a94, host: speedtest.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.crunch-crunch.com:443 2, server: de.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a914cfb9-52f3-4545-bcbe-96cb4b684a94, servername: de.crunch-crunch.com, host: de.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -3393,14 +3397,12 @@ proxies:
   - {name: 84.201.179.202:9443 40, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: e8df8bf0-af74-4fa0-883d-38d398820044, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.4:8446 11, server: 185.112.59.4, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: e9cb8757-ed5c-451e-968e-6cd72f2486a0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 158.160.80.214:443 2, server: 158.160.80.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea00433c-fef9-4e06-a93e-e6e7a900b864, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 8f222b3475800821}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 5, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea0d50dd-d57e-4d77-91b7-94fcca564607, servername: www.hollywoodreporter.com, host: www.hollywoodreporter.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: 7879649cbaa0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:7433 2, server: 178.154.216.177, port: 7433, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:8080 2, server: 178.154.216.177, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:8081 2, server: 178.154.216.177, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:8083 2, server: 178.154.216.177, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:8181 2, server: 178.154.216.177, port: 8181, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.216.177:8444 2, server: 178.154.216.177, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: ea143789-bec4-4fdd-b879-e817d2935334, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 6, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea285277-0356-40c8-8f6d-8eb430b53f7f, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: 957796685f06}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:443 6, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea3f180c-8141-4e03-b11c-4d542767a417, servername: e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoidmo5SG5sY2oyMGNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: e4xf3l6qfdu-shhc8axat6695v4t9e6p.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.39.204.27:443, server: 185.39.204.27, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eaadb4d9-8273-41bb-89f6-0f0504736b57, servername: sun1-90.userapi.com, host: sun1-90.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.176.18.99:443, server: 213.176.18.99, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eaadb4d9-8273-41bb-89f6-0f0504736b57, servername: telegavpn.com, host: telegavpn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -3450,6 +3452,7 @@ proxies:
   - {name: 46.235.186.177:443, server: 46.235.186.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1600497-20e4-0c07-64e0-3e28fa3d01e8, servername: s43769.cdn.ngenix.net, network: ws, ws-opts: {path: /, headers: {Host: s43769.cdn.ngenix.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.235.189.248:443, server: 46.235.189.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1600497-20e4-0c07-64e0-3e28fa3d01e8, servername: s43769.cdn.ngenix.net, network: ws, ws-opts: {path: /, headers: {Host: s43769.cdn.ngenix.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s43769.cdn.ngenix.net:443, server: s43769.cdn.ngenix.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1600497-20e4-0c07-64e0-3e28fa3d01e8, servername: s43769.cdn.ngenix.net, network: ws, ws-opts: {path: /, headers: {Host: s43769.cdn.ngenix.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:443 2, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.173.17:80, server: 172.67.173.17, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f2083aa4-f27d-43da-81cf-8bab31730400, network: ws, ws-opts: {path: /, headers: {Host: germany.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: santa-clara-02.ptu.ink:443, server: santa-clara-02.ptu.ink, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f29ff42b-930a-4a43-bea6-644175219900, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Z_V0NAxK8Srw4gsBd3LvF53JCgvP3ihwH9yxKVu5Q0U, short-id: 2bab2c945dcd675f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Join.ShhProxy.Site:443, server: Join.ShhProxy.Site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f36b76da-6c4a-44c9-b6ad-4dbd374c7227, servername: ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org., network: ws, ws-opts: {path: /, headers: {Host: ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org.}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -3475,7 +3478,6 @@ proxies:
   - {name: masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443, server: masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f86e2087-5fef-422a-aaf3-adde2847518d, servername: masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emg5.saipasamandemg5.sbs:2005, server: emg5.saipasamandemg5.sbs, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: f8aa1288-08a6-4a73-9589-fa63a294a89f, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.72.141:7443 21, server: 51.250.72.141, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: f9516b47-0586-436e-8255-c9a21d0cce21, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: download.lastilhame.monster:443 7, server: download.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f95710f6-2cc3-4497-9672-92a2fad9510e, servername: www.hollywoodreporter.com, host: www.hollywoodreporter.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU, short-id: 5f5e45c2c255}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.90.74.46:443, server: 45.90.74.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE, short-id: a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.22.31.68:8443 2, server: 178.22.31.68, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f99dbb35-d499-400c-a8b8-e511014872f5, servername: at17.fastlanehosting.ru, alpn: [h2%2Chttp/1.1], host: at17.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇸🇬 www.visa.com.sg:8443, server: www.visa.com.sg, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f9a07fed-364e-42f2-ac3f-18708ccd0024, servername: surena-persian-gulf.user6909f13ce4d14.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: surena-persian-gulf.user6909f13ce4d14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -3537,7 +3539,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -3615,9 +3616,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -4000,6 +3998,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -4008,6 +4007,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -4141,8 +4142,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -4157,8 +4160,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -4251,9 +4256,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -4581,6 +4588,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -4791,7 +4799,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -4867,6 +4874,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -5046,7 +5054,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -5137,7 +5144,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -5897,7 +5904,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -6442,14 +6448,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -6499,6 +6503,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -6524,7 +6529,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
@@ -6576,7 +6580,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -6654,9 +6657,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -7039,6 +7039,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -7047,6 +7048,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -7180,8 +7183,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -7196,8 +7201,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -7290,9 +7297,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -7620,6 +7629,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -7830,7 +7840,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -7906,6 +7915,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -8085,7 +8095,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -8176,7 +8185,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -8936,7 +8945,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -9481,14 +9489,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -9538,6 +9544,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -9563,7 +9570,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
@@ -9615,7 +9621,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -9693,9 +9698,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -10078,6 +10080,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -10086,6 +10089,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -10219,8 +10224,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -10235,8 +10242,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -10329,9 +10338,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -10659,6 +10670,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -10869,7 +10881,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -10945,6 +10956,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -11124,7 +11136,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -11215,7 +11226,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -11975,7 +11986,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -12520,14 +12530,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -12577,6 +12585,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -12602,7 +12611,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
@@ -12663,7 +12671,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -12741,9 +12748,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -13126,6 +13130,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -13134,6 +13139,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -13267,8 +13274,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -13283,8 +13292,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -13377,9 +13388,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -13707,6 +13720,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -13917,7 +13931,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -13993,6 +14006,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -14172,7 +14186,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -14263,7 +14276,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -15023,7 +15036,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -15568,14 +15580,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -15625,6 +15635,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -15650,7 +15661,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
@@ -15702,7 +15712,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -15780,9 +15789,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -16165,6 +16171,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -16173,6 +16180,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -16306,8 +16315,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -16322,8 +16333,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -16416,9 +16429,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -16746,6 +16761,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -16956,7 +16972,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -17032,6 +17047,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -17211,7 +17227,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -17302,7 +17317,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -18062,7 +18077,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -18607,14 +18621,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -18664,6 +18676,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -18689,7 +18702,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
@@ -18741,7 +18753,6 @@ proxy-groups:
       - 51.89.118.86:11201
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 193.29.139.206:8080 2
       - 135.125.219.2:41042
       - 38.60.224.37:11201
       - 57.129.95.45:11201
@@ -18819,9 +18830,6 @@ proxy-groups:
       - series-a2.samanehha.co:443 2
       - 193.29.139.251:8080
       - 82.38.31.62:8080
-      - 82.38.31.122:8080
-      - 82.38.31.124:8080
-      - 82.38.31.61:8080
       - 147.45.49.163:9443
       - 144.31.130.99:9443
       - 144.31.130.65:9443
@@ -19204,6 +19212,7 @@ proxy-groups:
       - dggg.wsone.icu:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443
       - spring-tooth-7fa3.ahmadrj.workers.dev:443 2
+      - 172.67.191.189:443
       - 172.67.134.185:443
       - sweden.vmaxpanel.com:8443/
       - sweden.vmaxpanel.com:8443
@@ -19212,6 +19221,8 @@ proxy-groups:
       - 🇳🇱 nl.vpnlink.pro:636
       - 209.200.246.105:17837/
       - 95.216.238.249:35153
+      - 172.67.191.189:2053
+      - 172.67.68.87:2053
       - delicate-buck.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - glowing-deer.rooster465.autos:443 2
@@ -19345,8 +19356,10 @@ proxy-groups:
       - 13.38.144.105:22223
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
+      - 15.188.103.210:22223
       - 15.188.40.40:22223
       - 15.236.174.14:22223
+      - 18.158.21.192:22223
       - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
@@ -19361,8 +19374,10 @@ proxy-groups:
       - 13.39.7.170:22222
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
+      - 15.188.103.210:22222
       - 15.188.40.40:22222
       - 15.236.174.14:22222
+      - 18.158.21.192:22222
       - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
@@ -19455,9 +19470,11 @@ proxy-groups:
       - 13.39.7.170:22224 2
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
+      - 15.188.103.210:22224
       - 15.188.40.40:22224
       - 15.188.40.40:22224 2
       - 15.236.174.14:22224
+      - 18.158.21.192:22224
       - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
@@ -19785,6 +19802,7 @@ proxy-groups:
       - 95.163.211.74:443
       - 212.111.84.22:443
       - 94.139.246.255:443
+      - am.vitalik.space:443
       - 212.233.72.45:4013
       - 89.44.76.127:443
       - 212.111.85.60:443
@@ -19995,7 +20013,6 @@ proxy-groups:
       - 146.185.242.246:8448 11
       - 188.114.96.0:443
       - 163.172.214.188:80
-      - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 38.247.3.248:443
       - albani.irweather.art:8090
       - 185.112.59.134:8446 4
@@ -20071,6 +20088,7 @@ proxy-groups:
       - 69.12.83.214:443 2
       - 37.152.189.165:33189 2
       - 94.139.246.255:443 3
+      - 45.129.185.20:443
       - 72.56.76.203:443
       - am1.a-svc.com:443
       - 🇪🇸 es1.a-svc.com:443
@@ -20250,7 +20268,6 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - vid6.persiangame.sbs:55006 2
       - 51.250.72.141:7443 6
-      - download.lastilhame.monster:443 2
       - 51.250.116.185:443
       - api2.sane-new-eb.net:8443
       - muddy-math-c1fc.tmpnriqueau89.workers.dev:443
@@ -20341,7 +20358,7 @@ proxy-groups:
       - 212.64.193.22:2052
       - farzandeiran.iransalar.top:21531
       - 77.42.67.4:8443 4
-      - download.lastilhame.monster:443 3
+      - download.lastilhame.monster:443 2
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
@@ -21101,7 +21118,6 @@ proxy-groups:
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
       - 162.55.190.0:50219 2
       - 162.55.190.0:50219 3
-      - download.lastilhame.monster:443 4
       - al.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443
       - 🇩🇪 de.crunch-crunch.com:443 2
@@ -21646,14 +21662,12 @@ proxy-groups:
       - 84.201.179.202:9443 40
       - 185.112.59.4:8446 11
       - 158.160.80.214:443 2
-      - download.lastilhame.monster:443 5
       - 178.154.216.177:7433 2
       - 178.154.216.177:8080 2
       - 178.154.216.177:8081 2
       - 178.154.216.177:8083 2
       - 178.154.216.177:8181 2
       - 178.154.216.177:8444 2
-      - download.lastilhame.monster:443 6
       - chatgpt.com:443 6
       - 185.39.204.27:443
       - 213.176.18.99:443
@@ -21703,6 +21717,7 @@ proxy-groups:
       - 46.235.186.177:443
       - 46.235.189.248:443
       - s43769.cdn.ngenix.net:443
+      - www.speedtest.net:443 2
       - 172.67.173.17:80
       - santa-clara-02.ptu.ink:443
       - Join.ShhProxy.Site:443
@@ -21728,7 +21743,6 @@ proxy-groups:
       - masterserver1-masterserver1-masterserver1-masterserver1.horivay155.workers.dev:443
       - emg5.saipasamandemg5.sbs:2005
       - 51.250.72.141:7443 21
-      - download.lastilhame.monster:443 7
       - 45.90.74.46:443
       - 178.22.31.68:8443 2
       - 🇸🇬 www.visa.com.sg:8443
