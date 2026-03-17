@@ -467,6 +467,7 @@ rule-providers:
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080#@PewezaVPN, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808#V2RAYENGLISH, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808 2, server: 127.0.0.1, port: 10808, type: socks5, username: "@sexyboyvpn", password: "@sexyboyvpn", skip-cert-verify: false, udp: true, tfo: false}
@@ -509,6 +510,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -541,6 +543,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -573,6 +576,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -614,6 +618,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -646,6 +651,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -678,6 +684,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2

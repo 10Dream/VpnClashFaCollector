@@ -168,7 +168,6 @@ proxies:
   - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 38", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096 3, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 39", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -457,7 +456,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -746,7 +744,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -1035,7 +1032,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -1323,7 +1319,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -1611,7 +1606,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -1899,7 +1893,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
@@ -2209,7 +2202,6 @@ proxy-groups:
       - chatgpt.com:2096 2
       - "@configraygan"
       - "***✅***@AR14N24b 38"
-      - "@vasl_bashim 2"
       - chatgpt.com:2096 3
       - "@configraygan 2"
       - "***✅***@AR14N24b 39"
