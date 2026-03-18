@@ -1,5 +1,191 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-03-18 16:02:56 UTC
+بروزرسانی: 2026-03-18 20:01:46 UTC
+
+### 🕒 2026-03-18 19:59:31 UTC
+***📱***
+***📱***
+ 
+[**#آموزش**](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4)
+ 
+**وارد کردن کانفیگ DNSTT (slipnet) در اپلیکیشن HTTP Injector در آیفون (iOS)**
+: 
+***🟠***
+در این آموزش یاد می‌گیرید چگونه کانفیگ DNSTT را در اپلیکیشن HTTP Injector روی گوشی‌های آیفون وارد و فعال کنید. مراحل زیر را به ترتیب انجام دهید.
+---
+***1️⃣***
+ 
+**نصب اپلیکیشن**
+ابتدا اپلیکیشن  را از اپ استور دانلود و نصب کنید.
+**HTTP Injector**
+ 
+**App**
+ 
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***2️⃣***
+ 
+**فایل کانفیگ**
+از کانال های تلگرامی فایل با فرمت .ehil یا لینک کانفیگ DNSTT را دانلود و در گوشی خود ذخیره کنید.
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***3️⃣***
+ 
+**وارد کردن کانفیگ در برنامه**
+1. اپلیکیشن HTTP Injector را باز کنید.
+2. از منوی بالا روی گزینه Import Config بزنید.
+3. فایل کانفیگ دانلود شده (.ehil) را انتخاب کنید.
+4. کانفیگ به صورت خودکار داخل برنامه بارگذاری می‌شود.
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***4️⃣***
+ 
+**بررسی تنظیمات DNSTT**
+پس از وارد شدن کانفیگ، موارد زیر را بررسی کنید:
+- باید DNS Tunnel (DNSTT) فعال باشد
+- آدرس DNS Server داخل کانفیگ وجود داشته باشد
+- پورت DNS معمولاً روی 53 تنظیم شده باشد
+معمولاً این تنظیمات داخل فایل کانفیگ از قبل آماده است و نیاز به تغییر ندارد.
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***5️⃣***
+ اتصال به سرور
+1. در صفحه اصلی برنامه روی گزینه START بزنید.
+2. چند ثانیه صبر کنید تا اتصال برقرار شود.
+3. اگر اتصال موفق باشد، در بالای صفحه وضعیت Connected نمایش داده می‌شود.
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***⭕️***
+ نکات مهم
+***🔴***
+برای اتصال پایدار، اینترنت سیم‌کارت یا وای‌فای شما باید فعال باشد.
+***🟠***
+ در اولین اتصال ممکن است برنامه درخواست VPN Permission بدهد؛ آن را Allow کنید.
+***🟢***
+ اگر اتصال برقرار نشد، یک بار برنامه را بسته و دوباره اجرا کنید.
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***➖***
+***✅***
+ حالا می‌توانید از اینترنت آزاد از طریق DNSTT استفاده کنید.
+
+---
+
+### 🕒 2026-03-18 19:50:25 UTC
+**یه روش هم برای ایفون پیدا کردم میزارم براتون**
+
+---
+
+### 🕒 2026-03-18 19:40:44 UTC
+ارسالی از کاربرا. تلگرام با مخابرات بدون فیلتر شده الان. چک کنید.
+
+---
+
+### 🕒 2026-03-18 19:39:29 UTC
+**ارسالی از کاربرا. تلگرام با مخابرات بدون فیلتر شده الان. چک کنید.**
+
+---
+
+### 🕒 2026-03-18 19:35:48 UTC
+چنتا DNS جدید برای SlipNet بخش DNS Resolver:  2.188.21.90:53,2.188.21.20:53,2.188.21.240:53,2.144.2.154:53,2.144.23.79:53  اینا خیلی سرعت خیلی خوبی داره. همشو کپی کنید اونجا.  خودش بهترین رو انتخاب میکنه.
+
+---
+
+### 🕒 2026-03-18 19:33:13 UTC
+**چنتا DNS جدید برای SlipNet بخش DNS Resolver:**
+`2.188.21.90:53,2.188.21.20:53,2.188.21.240:53,2.144.2.154:53,2.144.23.79:53`
+ا
+**ینا خیلی سرعت خیلی خوبی داره. همشو کپی کنید اونجا.  خودش بهترین رو انتخاب میکنه.**
+
+---
+
+### 🕒 2026-03-18 19:30:33 UTC
+بچه ها به کانفیگ های slipnet که جدید گذاشتم، یکم زمان بدین. در حد 30 ثانیه الی یک دقیقه. با پروکسی، بدون پروکسی تست کنید. گزینه proxy only mode هم تست کنید هم باز هم بسته در هر دو شرایط تست کنید. ببینید در کدوم حالت راحت وصل میشید، از اون استفاده کنید.
+
+---
+
+### 🕒 2026-03-18 19:29:26 UTC
+بچه ها به کانفیگ های slipnet که جدید گذاشتم، یکم زمان بدین. در حد 30 ثانیه الی یک دقیقه. با پروکسی، بدون پروکسی تست کنید. گزینه proxy only mode هم تست کنید هم باز هم بسته در هر دو شرایط تست کنید. ببینید در کدوم حالت راحت وصل میشید، از اون استفاده کنید.
+
+---
+
+### 🕒 2026-03-18 19:23:02 UTC
+فعلا برا ios راه حلی ندارم بچه ها.  فعلا اندروید رو اوک کردیم. با این روش. راه جدیدی پیدا کردم میزارم براتون
+
+---
+
+### 🕒 2026-03-18 19:07:06 UTC
+شاید باورتون نشه حتی بدون پروکسی هم وصل شدم. تستش کنید.الان با همینا که گذاشتم با همراه اول وصلم.
+
+---
+
+### 🕒 2026-03-18 19:02:03 UTC
+طبق اموزش ای که دیشب گذاشتم پیش برید. فقط کانفیگ هایی که گذاشنم رو بزارید به جای قبلیا. بقیه کارا همونه
+از این جا شروع کنید، اگر اموزش رو نمیدونید.
+***👇***
+***👇***
+***👇***
+***👇***
+[https://t.me/configraygan/5929](https://t.me/configraygan/5929)
+
+---
+
+### 🕒 2026-03-18 19:01:07 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlN3x3Lm5pbmlzaXRlLnh5enwyLjE4OC4yMS4yMDo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw2YzVmODQyMzIwZmVlMjkzOWQ3ODU1OWE5YWFhYTgzZDE0ZTZhZWQ5ZDFlMDQ2ZmNhNTU5ZTAzZTFjYTNmNzAzfHx8MXxqb2pvfEZyZWVJbnRlcm5ldEZvckpvam98MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfA==
+
+---
+
+### 🕒 2026-03-18 19:01:01 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlNnx4Zi5rYWxib2QtdGVhbS5pcnwyLjE4OC4yMS4yMDo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHxjNmE0YmMzODNiOTI3NGZmMjk4YWFjZjlkOTA3ZDkwNWE3N2RiM2EyMzljZGM4ZWM2Yzg0MTRjMWE3YjI2MjQyfHx8MXxLYWxib2RUZWFtfEBLYWxib2RUZWFtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHw=
+
+---
+
+### 🕒 2026-03-18 19:00:51 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlNXx0Lm5ldy1wZXJzaWFuLXNvbmcuaXJ8Mi4xODguMjEuMjA6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MjRkYWYwNjg2MjUwZGQ1NzE1ZWIyZTQyOGM1ODU4OGVlYzQ2YzgzNzRhNmNmY2JhNzFiMzUzZDE1MzQ3N2Y2Nnx8fDF8dGVzdDJ8WWF6aTJ8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfA==
+
+---
+
+### 🕒 2026-03-18 19:00:44 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlNHx3cS5rYWxib2QtdGVhbS5pcnwyLjE4OC4yMS4yMDo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHxkNWQ4ZTk5M2JlMjE4N2E5NDAwZjdkNGU3MTIwOGFlZmI2YmZhNWQ0MGIzN2I1NTkyZjliMDIwMzE1ZmIxZDAxfHx8MXxyb290fDAwZTU2N2M3ZjUwMzlhYzU2MTNjYzg4Yjk0MDhlODc4fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHw=
+
+---
+
+### 🕒 2026-03-18 19:00:36 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlM3xtZWxpLnF1dG0ueHl6fDIuMTg4LjIxLjIwOjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDE2MDZkZGY3MDc2Y2VhNzY4NjhjOTJlY2M5ZWVmMWZhZmZjMWQzMjVhZTQ4OTNhNjUzOGYwZTVjMmUyODQzMmJ8fHwxfHJvb3R8cG91eWFwb3VZMUF8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfA==
+
+---
+
+### 🕒 2026-03-18 19:00:31 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlMnxhLnB1cnNvcmF0LmNvbXwyLjE4OC4yMS4yMDo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwwMDAxOWU2MWUxNWQ5Y2JmN2ZiY2NlMzBkOGU3MGQ0MGMwZDgxOWIxMGUxZDRiNDlhNDE1MTk0ZDJkNGY5MzEwfHx8MXxyYWhnb3phcnxGUkVFRE9NfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHw=
+
+---
+
+### 🕒 2026-03-18 19:00:24 UTC
+slipnet://MTd8ZG5zdHRfc3NofEBjb25maWdyYXlnYW4g4pmlMXxiMy5wcml2OC5pcnwyLjE4OC4yMS4yMDo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw0MzA5OGZjYWJjZDdkNTY1NTQyMDEzZmQ0N2FiMGNkMWI5OWJiNjBhNDdjZTBlNTA2NmUwNjUxNWI5ZmIwMjExfHx8MXxyb290fDA2RDliN3RIVm1jSzhmRnwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8
+
+---
 
 ### 🕒 2026-03-18 14:45:07 UTC
 چون خیلیا اموزش توییتر و مرورگر رو میخواستن، وقت نشده، ویدیوشو درست کنم. گفتم اموزش متنی رو تاحدودی بزاریم، اموزش ویدیوی هم سعی میکنم تا شب براتون بزارم.
@@ -1581,53 +1767,6 @@ slipnet://MTd8ZG5zdHR8ZDIuc29mdGRpdmFyOTguaXJ8ZDIuc29mdGRpdmFyOTguaXJ8Mi4xODguMj
 من گیگی زیر 200 تومن میخام
 ***😂***
 تازه پشتیبانی ساپورت هم میخام.
-
----
-
-### 🕒 2026-03-15 19:50:39 UTC
-به جز هم دیگه، کسی رو نداریم. کنار هم پشت هم باشیم.بالاخره تو کوچه ما هم عروسی میشه. بعد این همه سختی، حتما یه اسونی میاد. امیدوارم که بیاد. خودمم دارم ناامید میشم 
-***😭***
- حداقل اینترنت ها باز بشه، خیلیه.
-
----
-
-### 🕒 2026-03-15 19:49:48 UTC
-***⭕️***
- معاون علمی رییس‌جمهور: اینترنت تا پایان هفته وصل می‌شود  
-***🔹***
-حسین افشین، معاون علمی رئیس‌جمهور از بازگشت اینترنت به حالت عادی تا پایان هفته جاری خبر داد. به‌گزارش زومان، حسین افشین اعلام کرد که با عادی شدن دسترسی‌ها، بسته‌های حمایتی برای جبران آسیب‌های وارد…
-
----
-
-### 🕒 2026-03-15 19:49:08 UTC
-***⭕️***
- معاون علمی رییس‌جمهور: اینترنت تا پایان هفته وصل می‌شود
-***🔹***
-حسین افشین، معاون علمی رئیس‌جمهور از بازگشت اینترنت به حالت عادی تا پایان هفته جاری خبر داد. به‌گزارش زومان، حسین افشین اعلام کرد که با عادی شدن دسترسی‌ها، بسته‌های حمایتی برای جبران آسیب‌های وارد شده به شرکت‌های فعال در اقتصاد دیجیتال نیز اجرا می‌شود. 
-***🔸***
- به دستور رئیس‌جمهور، روند بازگشت اینترنت سراسری آغاز شده و پیش‌بینی می‌شود حداکثر تا پایان هفته جاری وضعیت اینترنت به حالت عادی بازگردد.
-
----
-
-### 🕒 2026-03-15 19:35:53 UTC
-من طرف حسابم  با ساقی های حلال خوره ها، اونایی که پول میگیرن بلاک میکنن یا کلا جواب نمیدن. بحثش جداس.  اینکه جواب مشتری رو بدی حتی در شرایط قطعی، خودش یه دنیا ارزش داره. همین که میفهمه تو داری تلاش میکنی. همین عالیه.
-
----
-
-### 🕒 2026-03-15 19:33:43 UTC
-از ساعت 4 بعداز ظهر به بعد، دارن یکی یکی سرور هارو میبندن. هر فروشنده ای الان با این شرایط پشتیبانی میکنه تا جایی که امکانش هست، واقعا دمش گرمه.  اونا هم بالاخره مثل خودمون هستن، همین که جواب میدن، پشتیبانی میکنن، نباید ازشون تو این شرایط گله کرد. یکم با ساقی…
-
----
-
-### 🕒 2026-03-15 19:31:41 UTC
-محدودیت هارو خیلی زیاد کردن، به هیچی رحم نمیکنن. الان واقعا هرکی وصله، واقعا اشرف مخلوقاته
-
----
-
-### 🕒 2026-03-15 19:27:31 UTC
-**محدودیت هارو خیلی زیاد کردن**
-، 
-**به هیچی رحم نمیکنن. الان واقعا هرکی وصله، واقعا اشرف مخلوقاته**
 
 ---
 

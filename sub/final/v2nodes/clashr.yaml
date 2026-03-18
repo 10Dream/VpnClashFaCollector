@@ -22,6 +22,8 @@ proxies:
   - {name: 52.198.90.187:16919, server: 52.198.90.187, port: 16919, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.18.123:443, server: 58.152.18.123, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.40.9.23:18503, server: 95.40.9.23, port: 18503, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: apt-magpie.rooster465.autos:443, server: apt-magpie.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: apt-magpie.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: upright-rhino.rooster465.autos:443, server: upright-rhino.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: upright-rhino.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.103.210:22222, server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.3.38:22222, server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -78,8 +80,6 @@ proxies:
   - {name: 76.223.33.155:443, server: 76.223.33.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: chinam.sylu.net, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: chinam.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.117.0.166:8085, server: 89.117.0.166, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: danfeng.sylu.cc, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: danfeng.sylu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.233.73.75:1488, server: 212.233.73.75, port: 1488, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.197.6:5555, server: 89.208.197.6, port: 5555, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.230.173:443, server: 89.208.230.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.216.5:443, server: 87.120.216.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bef38a5-31a7-4e36-af48-01697fae00a2, servername: de6.krasivogame.ru, host: de6.krasivogame.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ, short-id: 868419504747f6de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 173.208.132.162:22230, server: 173.208.132.162, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 173.208.251.34:22230, server: 173.208.251.34, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -151,7 +151,6 @@ proxies:
   - {name: "[openproxylist.com] vmess-GR", server: cn02.365cloud5878.com, port: 6021, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-HR", server: cn02.365cloud5878.com, port: 6046, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: cn01.365cloud8754.com, port: 6001, type: vmess, uuid: db75bc92-4e32-48dd-b792-d7a8b707626c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IE", server: cn02.365cloud5878.com, port: 6026, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇮🇸 [openproxylist.com] vmess-IS", server: cn02.365cloud5878.com, port: 6042, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IT", server: cn02.365cloud5878.com, port: 6024, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -174,10 +173,8 @@ proxies:
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: m.cnmjin.net, port: 16648, type: vmess, uuid: 074c3ea9-c977-470e-8835-bba1483d5c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ea6aff21b5514f17a25b7866d1f65910.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK 3", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: cn02.365cloud5878.com, port: 6019, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇬🇧 [openproxylist.com] vmess-GB 3", server: fsdns1.ectunnelvpn.me, port: 80, type: vmess, uuid: 6b2d86e5-df05-4511-a79f-82d53ce99b36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fsdns1.ectunnelvpn.me}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -202,6 +199,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -258,8 +257,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -331,7 +328,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -354,10 +350,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: ♻️ 自动选择
     type: url-test
@@ -382,6 +376,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -438,8 +434,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -511,7 +505,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -534,10 +527,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: 🌍 国外媒体
     type: select
@@ -562,6 +553,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -618,8 +611,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -691,7 +682,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -714,10 +704,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: 📲 电报信息
     type: select
@@ -741,6 +729,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -797,8 +787,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -870,7 +858,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -893,10 +880,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: Ⓜ️ 微软服务
     type: select
@@ -920,6 +905,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -976,8 +963,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -1049,7 +1034,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -1072,10 +1056,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: 🍎 苹果服务
     type: select
@@ -1099,6 +1081,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -1155,8 +1139,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -1228,7 +1210,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -1251,10 +1232,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
   - name: 🎯 全球直连
     type: select
@@ -1300,6 +1279,8 @@ proxy-groups:
       - 52.198.90.187:16919
       - 58.152.18.123:443
       - 95.40.9.23:18503
+      - apt-magpie.rooster465.autos:443
+      - upright-rhino.rooster465.autos:443
       - 15.188.103.210:22222
       - 15.224.3.38:22222
       - 15.236.174.14:22222
@@ -1356,8 +1337,6 @@ proxy-groups:
       - 76.223.33.155:443
       - 89.117.0.166:8085
       - 212.233.73.75:1488
-      - 89.208.197.6:5555
-      - 89.208.230.173:443
       - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
@@ -1429,7 +1408,6 @@ proxy-groups:
       - "[openproxylist.com] vmess-GR"
       - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - "[openproxylist.com] vmess-IE"
       - 🇮🇸 [openproxylist.com] vmess-IS
       - "[openproxylist.com] vmess-IT"
@@ -1452,10 +1430,8 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
-      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT"
       - 🇬🇧 [openproxylist.com] vmess-GB 3
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
