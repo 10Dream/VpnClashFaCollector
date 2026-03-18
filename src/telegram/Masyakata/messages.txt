@@ -1,5 +1,135 @@
 # آرشیو کانال: @Masyakata
-بروزرسانی: 2026-03-17 20:05:31 UTC
+بروزرسانی: 2026-03-18 05:24:11 UTC
+
+### 🕒 2026-03-18 05:20:33 UTC
+***☑️***
+آموزش اتصال پایدار برای دوستانی که فقط از تلگرام استفاده میکنند 
+این روش رو امتحان کنن
+اگه کانفیگ v2ray دارید که حجم و تایم داره
+یا از متود سایفون دارید استفاده میکنید و هر دیقه قطع میشه  این روش به دردتون میخوره
+همزمان با v2rayng  از یه اپ مشابه دیگ مثل happ  یا hiddify  استفاده کنید
+1- کانفیگتون رو وارد هر دوتا اپ کنید
+2-  حالت اتصال رو از داخل تنظیمات اپ  روی proxy mode بزارید.
+3- از داخل تنظیمات  proxy local port   رو 
+برای v2rayng    
+  1080
+و برای  اپ دیگ ترجیحا happ  
+  1070
+قرار بدید 
+4- به کانفیگ وصل شید و وارد تلگرام بشید.
+5- این دوتا پروکسی رو وارد کنید و گزینه تغییر خودکار پروکسی رو هم فعال کنید.
+[https://t.me/socks?server=127.0.0.1&port=1070](https://t.me/socks?server=127.0.0.1&port=1070)
+[https://t.me/socks?server=127.0.0.1&port=1080](https://t.me/socks?server=127.0.0.1&port=1080)
+یکی دو دقیقه صبر کنید (بستگی به کانفیگتون داره)
+تلگرام بین پروکسی ها سویچ میکنه و به بهترینش به صورت خودکار وصل میشه 
+با این‌ روش  پایداری اتصالتون دوبرابر شده 
+***❗️***
+نکات  مهم  : دقت کنید که حتما باید اون کانفیگی ک وصل میشید پینگ tcp بهتون بده   ممکنه یه کانفیگی پینگ بده ولی کار نکنه در این صورت کانفیگ های مختلف رو تست کنید پیدا کردنش هم کار راحتی نیست  میتونید از کانفیگ هایی استفاده کنید ک سایفونو باز میکنه
+تا جایی تلگرام وصل میمونه ک حداقل یکی از این اپ ها وصله و حالت پروکسیش کار میکنه 
+پس مدام چک کنید ک قطع نشده باشه
+اگ مبدی هستید بیخیال این روش بشید  ممکنه تنظیمات رو بهم بریزید.
+[Masyakata***🐈******🐈‍⬛***](https://t.me/Masyakata)
+[Masyakata***🐈******🐈‍⬛***](https://t.me/Masyakata)
+[Masyakata***🐈******🐈‍⬛***](https://t.me/Masyakata)
+
+---
+
+### 🕒 2026-03-18 05:11:05 UTC
+**DNS for SlipNet**
+`37.32.2.4, 37.32.2.2, 89.46.219.86, 2.188.21.100, 2.188.21.190, 2.188.21.240, 2.188.21.120, 194.48.198.108, 188.121.96.94, 178.239.151.228, 45.92.95.59, 87.107.109.240, 2.188.21.90, 194.225.144.2`
+• E2e 
+***✔️***
+ 
+• Ns to A 
+***✔️***
+ 
+• Txt 
+***✔️***
+ 
+مخابرات
+رو ۵ دامین مختلف تست شده
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+
+---
+
+### 🕒 2026-03-18 05:06:36 UTC
+**SlipNet**
+**اعمال این موارد در slipnet خروجی بهتری میده:**
+1. در بخش تنظیمات گزینه
+Auto reconnect
+رو فعال کنید تا درصورت قطعی کانفیگ خودکار متصل بشه.
+2. داخل تنظیمات SlipNet برید اسکرول کنید به پایین و گزینه
+max channels 28 - 32
+3. در بخش تنظیمات 
+Split Tunneling 
+گزینه
+Enable split tunneling
+رو فعال کنید
+و بعد مود رو بزارید روی 
+Only
+حالا در بخش
+Selecte Apps
+اپلیکشن های خودتون رو انتخاب کنید
+**اکیدا توصیه میکنم فقط تلگرام رو استفاده کنه تا کل ترافیک موبایل به تلگرام داده بشه**
+4. در تنظیمات اپلیکشن بخش 
+DNS -
+        -> Remote Dns Server
+ضربه بزنید بعدش روی گزینه
+Custome
+و بعد دوتا دی ان اس زیر را در بخشهای
+Primary DNS Server : - 
+[78.157.42.101](http://78.157.42.101/)
+Fallback DNS Server :  - 
+[78.157.42.100](http://78.157.42.100/)
+وارد نمایید
+6. 
+اگر کانفیگی اد کردید ترجیحا ورژن 
+**2.3**
+ به بعد
+روی مداد بزنید
+یکم اسکرول کنید به پایین
+DNS Query Size
+رو بین 50 یا 60 بزارید سرعت میاد پایین تر ولی پایدار تر میشه اتصالتون
+همچنین میتوانید گزینه ای تحت عنوان
+Stealth Mode 
+در کانفیگ های Noizedns برای پیدا شدن سخت تر هم فعال کنید
+7. برای تست بهتر گرفتن e2e
+در بخش
+Search For working resolver
+گزینه 
+Timeout 10000
+و هم‌چنین گزینه
+e2e Timeout 15000
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+
+---
+
+### 🕒 2026-03-18 04:48:40 UTC
+[https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0](https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0)
+پروکسی مخابرات وصله 
+[Masyakata ***🐈‍⬛️******🐈***](https://t.me/Masyakata)
+
+---
+
+### 🕒 2026-03-18 04:48:31 UTC
+[https://t.me/socks?server=171.22.27.147&port=1080](https://t.me/socks?server=171.22.27.147&port=1080)
+[https://t.me/socks?server=2.179.186.225&port=1080](https://t.me/socks?server=2.179.186.225&port=1080)
+[https://t.me/socks?server=46.245.94.249&port=1080](https://t.me/socks?server=46.245.94.249&port=1080)
+[https://t.me/socks?server=87.107.105.184&port=1080](https://t.me/socks?server=87.107.105.184&port=1080)
+[https://t.me/socks?server=2.179.186.225&port=1080](https://t.me/socks?server=2.179.186.225&port=1080)
+[https://t.me/proxy?server=13.220.166.215&port=80&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=13.220.166.215&port=80&secret=dd104462821249bd7ac519130220c25d09)
+منطقه ای وصلن.
+***✅***
+پروکسی متصل منطقه ای
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+[Masyakata***🐈‍⬛******🐈***](https://t.me/Masyakata)
+
+---
 
 ### 🕒 2026-03-16 05:22:56 UTC
 `ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#@NETAZADI`
@@ -47,33 +177,6 @@
 ***🤍***
 ***👇🏻***
  همراه اول udp://217.218.26.78 udp://77.88.8.1 udp://77.88.8.8 udp://195.46.39.39 udp://8.26.56.26 ایرانسل udp://8.8.8.8 udp://8.8.4.4 udp://1.1.1.1 udp://1.0.0.1 udp://208.67.222.222  رایتل udp://208.67.220.220 udp://9.9.9.9…
-
----
-
-### 🕒 2026-03-15 05:03:36 UTC
-> ↪️ **Forwarded**
-
-‏دیگه نه پسر بازاری مهمه نه اکادمیک، پسر فقط پسر کانفیگی.
-
----
-
-### 🕒 2026-03-15 05:03:05 UTC
-Morning Proxy 3 
-***🌞***
-***🍫***
-***🍓***
-[https://t.me/proxy?server=%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF+%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%F0%9F%A4%A3+&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d](https://t.me/proxy?server=%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF+%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%F0%9F%A4%A3+&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-[https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=2.144.23.51&port=6678&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267](https://t.me/proxy?server=2.144.23.51&port=6678&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267)
-[Masyakata](https://t.me/Masyakata)
- 
-***🐈‍⬛️***
-***🐈***
-
----
-
-### 🕒 2026-03-15 04:53:35 UTC
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06MVBXL2VzaWl6K0hiTUtRTE9GbmpKVlE5TWN1ZElaVWM2K09DK01KTEZLdz0%3D@95.216.238.249:37337#@YamYamProxy  ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered…
 
 ---
 

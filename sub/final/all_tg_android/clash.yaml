@@ -466,6 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 109.122.246.183:10808, server: 109.122.246.183, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1070, server: 127.0.0.1, port: 1070, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@PewezaVPN, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,6 +481,8 @@ proxies:
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.232.140.53:10808, server: 5.232.140.53, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69ac1f7d3ac4c, password: Azir69ac1f7d3ac4c, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 78.157.50.41:53, server: 78.157.50.41, port: 53, type: socks5, username: Azir69b8f8e8902db, password: Azir69b8f8e8902db, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.125.7:1092, server: 79.127.125.7, port: 1092, type: socks5, username: arsh2, password: n*W4cmh6t38, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
@@ -505,6 +509,8 @@ proxy-groups:
     type: select
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -518,6 +524,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -534,6 +542,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -547,6 +557,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -563,6 +575,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -576,6 +590,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -601,6 +617,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -614,6 +632,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -630,6 +650,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -643,6 +665,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585
@@ -659,6 +683,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 109.122.246.183:10808
+      - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:10808
@@ -672,6 +698,8 @@ proxy-groups:
       - 2.179.186.225:1080
       - 46.245.94.249:1080
       - 5.232.140.53:10808
+      - 78.157.50.36:3389
+      - 78.157.50.41:53
       - 79.127.125.7:1092
       - 87.107.105.184:1080
       - 87.248.156.106:8585

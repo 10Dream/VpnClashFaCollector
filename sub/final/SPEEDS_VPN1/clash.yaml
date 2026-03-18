@@ -504,7 +504,6 @@ proxies:
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 9", server: 103.173.155.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccd85f23-9105-37fd-96b9-9dcbc89ff3eb, servername: u710948ub8e9s229.okgg.top, host: u710948ub8e9s229.okgg.top, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 28", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 10", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🟢***-@SPEEDS_VPN1`", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 29", server: po.jijibiji.online, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: f69fb3fd-fec4-8b01-301b-787c7edad2f9, servername: 57.128.255.3, host: 57.128.255.3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 11", server: po.jijibiji.online, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: f69fb3fd-fec4-8b01-301b-787c7edad2f9, servername: 57.128.255.3, host: 57.128.255.3, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -562,7 +561,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: خودکار (بهترین پینگ) 🤖
@@ -610,7 +608,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -658,7 +655,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: اتصال پایدار 🔗
@@ -715,7 +711,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: توزیع بار (گردشی) 🔁
@@ -763,7 +758,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: توزیع بار (موقت) ⏳
@@ -811,7 +805,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
-      - "***🟢***-@SPEEDS_VPN1`"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
       - "***🐦‍🔥***-@SPEEDS_VPN` 11"
   - name: دانلود منیجر 📥
