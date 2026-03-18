@@ -465,36 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 188.114.98.0:2087, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: fa35cfa7-e61b-4752-b4d3-394f53f0a108, servername: all-tm1.netsnap.ir., alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: all-tm1.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: 77.83.245.191, port: 38369, type: vless, tls: true, packet-encoding: xudp, uuid: fa57c96c-472b-4aab-9979-06eab1da5acb, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 4ynGHy1A84wWYiNSze12d50a6K5DbvjiJoArnmikLyE, short-id: f5e3d58417879be5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885, server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 7", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.15.128.75:8443, server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6187", server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.15.128.75:8443 2, server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.251.122.139:443, server: 63.251.122.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658, servername: es2.vpnbyvinarsky.ru, network: ws, ws-opts: {path: /chat, headers: {Host: es2.vpnbyvinarsky.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 63.251.122.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658, servername: es2.vpnbyvinarsky.ru, network: ws, ws-opts: {path: /chat, headers: {Host: es2.vpnbyvinarsky.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: SofeWhite.legendperm.ir:4722, server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[22334] - Telegram : @configraygan", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan, server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام)`", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 2", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: myanmar.visa.com:8443, server: myanmar.visa.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: www.visaeurope.ch:2083, server: www.visaeurope.ch, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 217.13.105.19, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc99bbb5-8b45-4ee1-92b6-6bd535590ad3, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ, short-id: 0669a3e6b300d069}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 47@oneclickvpnkeys, server: 37.139.35.141, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: 513b0a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.40.34:443, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.55.190.0:433, server: 162.55.190.0, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: ffea8ada-ad72-474a-bc53-e643d740d7b0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 141.101.113.89:443, server: 141.101.113.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffffffff-17ad-45e7-aaa1-f2baaa08e930, servername: watashi.free.hkpublic.moh539.link, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: watashi.free.hkpublic.moh539.link}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 141.101.113.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffffffff-17ad-45e7-aaa1-f2baaa08e930, servername: watashi.free.hkpublic.moh539.link, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: watashi.free.hkpublic.moh539.link}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: marzban.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: id-xalqp-pqlwla-fffraa, host: telewebion.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.65.111.43:22, server: 172.65.111.43, port: 22, type: vless, tls: true, packet-encoding: xudp, uuid: monacoVPN, path: /@monacoVPN@monacoVPN@monacoVPN@monacoVPN, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad", server: 44.251.110.165, port: 8686, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}, udp: true, tfo: false}
   - {name: "@filembad 2", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -550,18 +520,17 @@ proxies:
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 5", server: 65.21.145.122, port: 27134, type: vmess, uuid: cd957f3c-a480-4279-9d26-4b4870c3cb72, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
-  - {name: "@filembad 6", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4Nika-13520, server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 6", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 7", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 8", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4Nika-13634, server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 9", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "@filembad 8", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
   - {name: "@configraygan 1", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A9", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A2", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 〘 🇺🇸 | 🦾 @configraygan 」, server: tun.p2p1.sbs, port: 2015, type: vmess, uuid: 580bf938-8cae-431d-b2a4-87ec95d156d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: uk1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 10", server: yyynm.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yyynm.2nn.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "@filembad 9", server: yyynm.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yyynm.2nn.ccwu.cc}}, udp: true, tfo: false}
   - {name: "@configraygan", server: DEU.IPSENTER.NET, port: 443, type: vmess, uuid: 3b38b729-981f-4f23-8746-7358c6282e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A11", server: Dc-2.CeNtRaLnEt.cV, port: 3003, type: vmess, uuid: fc65868c-97fd-4a8b-bf3c-b30fe06b38a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -571,14 +540,13 @@ proxies:
   - {name: "@configraygan A12", server: dC-1.cEnTrAlNeT.Cv, port: 3003, type: vmess, uuid: 62d8245f-8bc6-42ee-8e56-c77cdfc2e1c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A10", server: dC-2.cENtRaLnEt.ClIcK, port: 3003, type: vmess, uuid: 040bf359-f6ad-4553-9e69-05bb65288d0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇬🇧 [openproxylist.com] vmess-GB 4", server: fsdns1.ectunnelvpn.me, port: 80, type: vmess, uuid: 6b2d86e5-df05-4511-a79f-82d53ce99b36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fsdns1.ectunnelvpn.me}}, udp: true, tfo: false}
-  - {name: "@EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 11", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 10", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@crayingroom تلگرام", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 12", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 11", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1 📱 @unvisible_drops, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "@filembad 13", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 14", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 15", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 12", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 13", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 14", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -595,36 +563,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -680,18 +618,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -701,50 +638,19 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -800,18 +706,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -821,50 +726,19 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -920,18 +794,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -941,14 +814,13 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -964,36 +836,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -1049,18 +891,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -1070,50 +911,19 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -1169,18 +979,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -1190,50 +999,19 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 188.114.98.0:2087
-      - "@filembad`"
-      - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
-      - "@configraygan 7"
-      - "***✅***@AR14N24b"
-      - 45.15.128.75:8443
-      - "@v2rayconfigamir 6187"
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
-      - 45.15.128.75:8443 2
-      - 63.251.122.139:443
-      - "@filembad` 2"
-      - SofeWhite.legendperm.ir:4722
-      - "@filembad` 3"
-      - "[22334] - Telegram : @configraygan"
-      - ⚡Telegram - @configraygan
-      - "@PewezaVPN (تلگرام)`"
-      - "***✅***@AR14N24b` 2"
-      - "@filembad` 4"
-      - "@filembad` 5"
-      - myanmar.visa.com:8443
-      - www.visaeurope.ch:2083
-      - "@filembad` 6"
-      - 47@oneclickvpnkeys
-      - 104.21.40.34:443
-      - 162.55.190.0:433
-      - 141.101.113.89:443
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - 172.65.111.43:22
       - "@filembad"
       - "@filembad 2"
       - "@filembad 3"
@@ -1289,18 +1067,17 @@ proxy-groups:
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 5"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "@filembad 6"
       - 4Nika-13520
+      - "@filembad 6"
       - "@filembad 7"
-      - "@filembad 8"
       - 4Nika-13634
-      - "@filembad 9"
+      - "@filembad 8"
       - "@configraygan 1"
       - "@configraygan A9"
       - "@configraygan A2"
       - 〘 🇺🇸 | 🦾 @configraygan 」
       - "@configraygan 2"
-      - "@filembad 10"
+      - "@filembad 9"
       - "@configraygan"
       - "@configraygan A11"
       - 🇸🇬 [openproxylist.com] vmess-SG
@@ -1310,14 +1087,13 @@ proxy-groups:
       - "@configraygan A12"
       - "@configraygan A10"
       - 🇬🇧 [openproxylist.com] vmess-GB 4
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@filembad 11"
+      - "@filembad 10"
       - "@crayingroom تلگرام"
-      - "@filembad 12"
+      - "@filembad 11"
       - 1 📱 @unvisible_drops
+      - "@filembad 12"
       - "@filembad 13"
       - "@filembad 14"
-      - "@filembad 15"
   - name: دانلود منیجر 📥
     type: select
     proxies:

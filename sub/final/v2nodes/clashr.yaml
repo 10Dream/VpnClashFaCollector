@@ -24,9 +24,10 @@ proxies:
   - {name: 95.40.9.23:18503, server: 95.40.9.23, port: 18503, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.103.210:22222, server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.224.3.38:22222, server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.120.82.109:22222, server: 3.120.82.109, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.176.237.255:22222, server: 63.176.237.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-4.tr202507.com:443, server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.53.96:8443, server: 172.64.53.96, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: m1.mwu.de5.net, alpn: [h3], network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: m1.mwu.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -36,14 +37,13 @@ proxies:
   - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bs1.youtuber-vps.com:48444, server: bs1.youtuber-vps.com, port: 48444, type: vless, tls: true, packet-encoding: xudp, uuid: 1546f279-2acc-40f5-9d1f-0e94d54db834, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FApUbcJurXfV5Y3PG2xRycl1R7y0CxwmUU7FRgUpzG0, short-id: 3e4f5a6b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nyc01.jumperservice.com:19001, server: nyc01.jumperservice.com, port: 19001, type: vless, tls: true, packet-encoding: xudp, uuid: 1773e4cf-cf60-4801-ea3e-872bb63b8b16, servername: icloud.cdn-apple.com, host: icloud.cdn-apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ma-1.vpnd.io:12574, server: ma-1.vpnd.io, port: 12574, type: vless, tls: true, packet-encoding: xudp, uuid: 17cdeaa0-d9f0-443d-8f14-80cef1de5529, servername: amazon.com, host: amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _rRqFVyD5EgBQt9YWutbSjidLJEjoLcxBejrytypBDU, short-id: 7fa5d084}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.185.241.202:5443, server: 146.185.241.202, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 20acd005-8b8d-406d-8419-66c8fb001d2a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vJz6ZXSwoP43DDUQxJksEsWA8AmlNo2KfJDY8QWzKw0, short-id: 41bd4196ed1383f1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 138.124.62.115:8443, server: 138.124.62.115, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: isp.speedload.online, host: isp.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.148.102.189:8443, server: 45.148.102.189, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: shve.speedload.online, host: shve.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62.60.233.41:443, server: 62.60.233.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: my.oversecure.pro, host: my.oversecure.pro, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.129.206.231:443, server: 5.129.206.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38d77ed6-9b7c-423d-a31e-27d1f625ad00, servername: ru.moktana.digital, host: ru.moktana.digital, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jrKoM3Aiyeo-EnOxDsabEeIddFvfVpP3HOj0_bZ8dio, short-id: 28a69741f82508c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b00caa1-367a-4b77-9820-9e031543a169, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.149.243.214:443, server: 89.149.243.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3cc5d4b9-393e-4151-8f9a-202ac84a5c37, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 fr1.cyphervpn.pro:443, server: fr1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3cc7c3a4-03a7-11f1-9bc0-0242ac110002, servername: fr1.cyphervpn.pro, host: fr1.cyphervpn.pro, path: /, reality-opts: {public-key: FfpoYFgT2DmVE8wpXv0ncw9YTdVduwH3qetnke0LMDU, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: kz-5.vpnd.io:13344, server: kz-5.vpnd.io, port: 13344, type: vless, tls: true, packet-encoding: xudp, uuid: 3fce3b0d-0b92-4e92-9a78-18051dd648b4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo, short-id: e2bd9802e29deb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 SC-TheNetherlands1.09vpn.com:80, server: SC-TheNetherlands1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 40cc9b52-25b8-4cd5-8b45-715ae26e6baf, network: ws, ws-opts: {path: /vless/, headers: {Host: SC-TheNetherlands1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.56.126.12:8080, server: 2.56.126.12, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 446879b9-710c-431b-94d0-f6b4c18a528a, servername: main.tortvpnbot.world, host: main.tortvpnbot.world, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -64,12 +64,14 @@ proxies:
   - {name: vk.grizzlyvpn.work:443, server: vk.grizzlyvpn.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5952ea01-0669-4f5e-8010-61f8abee3600, servername: vk.grizzlyvpn.work, host: vk.grizzlyvpn.work, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5VRdrOjXKSEfzv0b-rEeYA4B9azYQYC30NZK7y3ciCk, short-id: 225dd584800cd049}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.219.99:55057, server: 87.120.219.99, port: 55057, type: vless, tls: true, packet-encoding: xudp, uuid: 5d837e94-967d-43a8-8e36-440ddfa4fd15, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: uSzNQq_GJZGbq4SHtEsqBY93C2acsM-K-QACZC-J6Eo, short-id: aa5f8562357295ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: decdn4.suio.me:443, server: decdn4.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: decdn4.suio.me, host: decdn4.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.185.85.107:443, server: 89.185.85.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 658786e5-f302-48e2-b321-f4dc6da2a398, servername: cdnv-img.perekrestok.ru, host: cdnv-img.perekrestok.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EdEtwDL3a_V9midkIqik19C3xo7VvefseGkDM5jBWGM, short-id: ba34cbf836e99bf6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 us.jljd.xyz:11225, server: us.jljd.xyz, port: 11225, type: vless, tls: true, packet-encoding: xudp, uuid: 6dfbef3b-f718-4053-806f-c9657e2fd943, servername: python.org, host: python.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk, short-id: fcc5f0e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.188.142.219:1488, server: 5.188.142.219, port: 1488, type: vless, tls: true, packet-encoding: xudp, uuid: 6f8d4805-5d2b-4a8b-b8e3-8bd5820c5818, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.katanavpn.ru:443, server: de.katanavpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7018878c-7b26-4eec-8feb-3137f9b74394, servername: de.katanavpn.ru, host: de.katanavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw, short-id: 82978722b1a42ddb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ke-1.vpnd.io:19938, server: ke-1.vpnd.io, port: 19938, type: vless, tls: true, packet-encoding: xudp, uuid: 77605116-fc3d-4d30-827b-da4338cca255, servername: amazon.com, host: amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8, short-id: 2adf17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.159.248.58:443, server: 45.159.248.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79cc33cf-93b4-419b-9e46-33e3edf7057c, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM, short-id: 3decb73e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.131.9.231:443, server: 94.131.9.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79cc33cf-93b4-419b-9e46-33e3edf7057c, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM, short-id: d7e1a2bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 178.17.52.29:8083, server: 178.17.52.29, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 7dc5d455-5ce5-4d6a-a9fa-ba69132133c7, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 3.fr.vles.space:23151, server: 3.fr.vles.space, port: 23151, type: vless, tls: true, packet-encoding: xudp, uuid: 7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd, servername: cms-res-web.online.sberbank.ru, host: cms-res-web.online.sberbank.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.134.176:443, server: 144.31.134.176, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8330693c-4f84-43cb-b3be-e9bb02a5dae9, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI, short-id: 21342134}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-bridge.sbrf-cdn342.ru:443, server: nl-bridge.sbrf-cdn342.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8330693c-4f84-43cb-b3be-e9bb02a5dae9, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI, short-id: 21342134}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -86,6 +88,7 @@ proxies:
   - {name: 212.233.73.75:1488, server: 212.233.73.75, port: 1488, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.208.197.6:5555, server: 89.208.197.6, port: 5555, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.208.230.173:443, server: 89.208.230.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 961011c9-1244-414e-ba25-75479b35b553, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.120.216.5:443, server: 87.120.216.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bef38a5-31a7-4e36-af48-01697fae00a2, servername: de6.krasivogame.ru, host: de6.krasivogame.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ, short-id: 868419504747f6de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 173.208.132.162:22230, server: 173.208.132.162, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 173.208.251.34:22230, server: 173.208.251.34, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.26.56:22230, server: 93.115.26.56, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI, short-id: a9725715bf4c62ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -210,9 +213,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -222,14 +226,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -250,12 +253,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -272,6 +277,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -396,9 +402,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -408,14 +415,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -436,12 +442,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -458,6 +466,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -582,9 +591,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -594,14 +604,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -622,12 +631,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -644,6 +655,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -767,9 +779,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -779,14 +792,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -807,12 +819,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -829,6 +843,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -952,9 +967,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -964,14 +980,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -992,12 +1007,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -1014,6 +1031,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -1137,9 +1155,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -1149,14 +1168,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -1177,12 +1195,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -1199,6 +1219,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230
@@ -1344,9 +1365,10 @@ proxy-groups:
       - 95.40.9.23:18503
       - 13.39.7.170:22222
       - 15.188.103.210:22222
+      - 15.224.3.38:22222
       - 15.236.174.14:22222
+      - 3.120.82.109:22222
       - 3.123.240.134:22222
-      - 52.58.248.163:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
@@ -1356,14 +1378,13 @@ proxy-groups:
       - 77.110.119.35:2053
       - bs1.youtuber-vps.com:48444
       - nyc01.jumperservice.com:19001
-      - ma-1.vpnd.io:12574
       - 146.185.241.202:5443
       - 138.124.62.115:8443
       - 45.148.102.189:8443
-      - 62.60.233.41:443
       - 5.129.206.231:443
       - 84.201.179.202:9443
       - 89.149.243.214:443
+      - 🇫🇷 fr1.cyphervpn.pro:443
       - kz-5.vpnd.io:13344
       - 🇳🇱 SC-TheNetherlands1.09vpn.com:80
       - 2.56.126.12:8080
@@ -1384,12 +1405,14 @@ proxy-groups:
       - vk.grizzlyvpn.work:443
       - 87.120.219.99:55057
       - decdn4.suio.me:443
+      - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 5.188.142.219:1488
       - 🇩🇪 de.katanavpn.ru:443
       - ke-1.vpnd.io:19938
       - 45.159.248.58:443
       - 94.131.9.231:443
+      - 178.17.52.29:8083
       - 🇫🇷 3.fr.vles.space:23151
       - 144.31.134.176:443
       - 🇳🇱 nl-bridge.sbrf-cdn342.ru:443
@@ -1406,6 +1429,7 @@ proxy-groups:
       - 212.233.73.75:1488
       - 89.208.197.6:5555
       - 89.208.230.173:443
+      - 87.120.216.5:443
       - 173.208.132.162:22230
       - 173.208.251.34:22230
       - 93.115.26.56:22230

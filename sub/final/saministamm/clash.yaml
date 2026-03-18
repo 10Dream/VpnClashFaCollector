@@ -471,7 +471,6 @@ proxies:
   - {name: خرید کانفیگ @saministamm, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 100GB`", server: emg4.saipasamandemg4.sbs, port: 2004, type: vless, tls: true, packet-encoding: xudp, uuid: 6b79d1b5-6b19-4948-a012-f5bd29746511, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm, server: 193.151.151.211, port: 42595, type: vless, tls: true, packet-encoding: xudp, uuid: c227aacf-30e7-48d1-9e98-99d78b8347e8, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,7 +493,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -507,7 +505,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -520,7 +517,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -542,7 +538,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -555,7 +550,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -568,7 +562,6 @@ proxy-groups:
       - خرید کانفیگ @saministamm
       - "@saministamm 100GB`"
       - saministamm
-      - "@EsTunnel - Psiphon+V2rayNG"
   - name: دانلود منیجر 📥
     type: select
     proxies:
