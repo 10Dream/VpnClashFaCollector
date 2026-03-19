@@ -9,6 +9,7 @@ proxies:
   - {name: "[🇧🇾]@KIA_NET 2", server: by.telega.store, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1401682c-0e47-4eb9-b5ab-98243655be9b, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o, short-id: e31b66be0cd67c8b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇬🇧]@KIA_NET`", server: srv13.ezcon24.online, port: 11444, type: vless, tls: true, packet-encoding: xudp, uuid: 217e8d75-528f-4198-8217-ae2885ac9dba, servername: www.sun6-21.userapi.com, host: www.sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇫🇷]@KIA_NET", server: ov-france1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇳🇱]/", server: 89.149.243.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e342451-814c-4f51-803c-59107f0540f2, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇳🇱]@KIA_NET", server: ru-bridge.atlanta-internet.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7478ff88-1354-4143-96ce-6c8059273ef0, servername: static.rutube.ru, host: static.rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cjM-gNYIiNglmuM7AUymiDT6InmwdtWoSUeeMEONj0w, short-id: aaaaaaaa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇩🇪]l@KIA_NET", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94daa8ad-75ed-4dbf-a6de-d05036d98df5, servername: vangoghhh.info, network: ws, ws-opts: {path: /tixvuws, headers: {Host: vangoghhh.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇩🇪]@KIA_NET", server: de18.fastlanehosting.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9eec4c39-8b6a-462d-b0a4-c295d387a98f, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Q7-qj-XTTDEiQ5viSWBzMVhXgIUevGlwpkmJ42U68g4, short-id: 7ce9b3db85b9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -24,6 +25,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -39,6 +41,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -54,6 +57,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -68,6 +72,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -82,6 +87,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -96,6 +102,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
@@ -132,6 +139,7 @@ proxy-groups:
       - "[🇧🇾]@KIA_NET 2"
       - "[🇬🇧]@KIA_NET`"
       - "[🇫🇷]@KIA_NET"
+      - "[🇳🇱]/"
       - "[🇳🇱]@KIA_NET"
       - "[🇩🇪]l@KIA_NET"
       - "[🇩🇪]@KIA_NET"
