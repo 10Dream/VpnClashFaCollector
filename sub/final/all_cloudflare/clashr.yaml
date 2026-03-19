@@ -16,27 +16,28 @@ proxies:
   - {name: "@filembad` 2", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 3", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 4", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13@oneclickvpnkeys, server: www.visa.com.sg, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 363a6072-05d7-48d5-8f19-312b05fdd9cd, network: ws, ws-opts: {path: /, headers: {Host: chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 5", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.19.135.124:443, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 6", server: 188.114.99.16, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 54f6e78c-b497-4db7-ba48-38c4cf81d5ef, servername: 019309B7.XyZ0.PaGeS.dEV, network: ws, ws-opts: {path: "/yzejftqqvmhtztle?ed=2560", headers: {Host: 019309B7.XyZ0.PaGeS.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 7@oneclickvpnkeys, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31@oneclickvpnkeys, server: cf.008500.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.user68f797c2f3e1b.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.user68f797c2f3e1b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 12🚜@oneclickvpnkeys, server: 104.26.13.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.tara132.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /sni.111000.dynv6.net/, headers: {Host: sany.tara132.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys`, server: 172.67.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: holy-dawn-e9ec.jonas05-ba6.workers.dev, network: ws, ws-opts: {path: /sni.111000.dynv6.net/, headers: {Host: holy-dawn-e9ec.jonas05-ba6.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 17@oneclickvpnkeys, server: 104.18.4.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.4.46:8880, server: 104.18.4.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22278] - Telegram : @configraygan", server: 104.18.4.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 10@oneclickvpnkeys, server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.5.46:8880, server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22286] - Telegram : @configraygan", server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9@oneclickvpnkeys, server: 104.21.89.4, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 636de463-b509-4631-adc6-400b21733278, network: ws, ws-opts: {path: /l5s2vgexcus7b8c4, headers: {Host: index.harmony610.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 47@oneclickvpnkeys, server: 172.64.153.235, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9@oneclickvpnkeys, server: 104.18.15.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a2af6e7c-a792-4e51-9460-fff4bd74fbfc, network: ws, ws-opts: {path: /, headers: {Host: vahidqaz-ft33vt-1.vahidqaz.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9e13716d-c43d-48b3-8cab-65e02d938ab5, servername: snaPP.athenashOppp.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: snaPP.athenashOppp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 12@oneclickvpnkeys, server: 104.17.74.206, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, servername: INdex.HArmony702.WoRkeRS.Dev, network: ws, ws-opts: {path: /axcp1cm75o7digvt, headers: {Host: INdex.HArmony702.WoRkeRS.Dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.15.19:80, server: 104.18.15.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a2af6e7c-a792-4e51-9460-fff4bd74fbfc, network: ws, ws-opts: {path: /, headers: {Host: vahidqaz-ft33vt-1.vahidqaz.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22287] - Telegram : @configraygan", server: 104.18.15.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a2af6e7c-a792-4e51-9460-fff4bd74fbfc, network: ws, ws-opts: {path: /, headers: {Host: vahidqaz-ft33vt-1.vahidqaz.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10@oneclickvpnkeys, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: /, headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.158.162:80, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 3", server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.24.39.51:443, server: 104.24.39.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf4c614f-c46d-4db9-b031-62f7e4b85c2c, servername: hex.1tb.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: hex.1tb.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -44,18 +45,15 @@ proxies:
   - {name: "More : @configraygan", server: 104.24.39.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf4c614f-c46d-4db9-b031-62f7e4b85c2c, servername: hex.1tb.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: hex.1tb.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15@oneclickvpnkeys, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443 2, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 6@oneclickvpnkeys, server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.3.11:2082, server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22288] - Telegram : @configraygan", server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 104.16.214.14, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ce354701-e5dd-4ca6-9a44-7eeb0c48b157, network: ws, ws-opts: {path: "/?ed", headers: {Host: still-butterfly-f025-pppal03.rofipo9508.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 27@oneclickvpnkeys, server: 104.19.174.68, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /fast, headers: {Host: hio-awx.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.19.174.68:2053, server: 104.19.174.68, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /fast, headers: {Host: hio-awx.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22270] - Telegram : @configraygan", server: 104.19.174.68, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /fast, headers: {Host: hio-awx.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -65,9 +63,9 @@ proxies:
   - {name: poe.com:2053, server: poe.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 13", server: poe.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: miti.neww1.workers.dev, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: miti.neww1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 48@oneclickvpnkeys, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 11@oneclickvpnkeys 2, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 14", server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 15", server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 34@oneclickvpnkeys 2, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: "/🔒 [By EbraSha]", headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.26.3.125:2052, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: "/🔒 [By EbraSha]", headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22265] - Telegram : @configraygan", server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: "/🔒 [By EbraSha]", headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 16", server: 188.114.96.3, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: f34a76ae-0b25-4e2e-9fbe-479009c43c52, servername: mASTErseRVer1-maSTerSeRVER1-masTeRSErvER1.xaDik34684.WorKers.DeV, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiaEFSQ2U0dWoxMmRyWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: mASTErseRVer1-maSTerSeRVER1-masTeRSErvER1.xaDik34684.WorKers.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -88,27 +86,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -116,18 +115,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -137,9 +133,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -160,27 +156,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -188,18 +185,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -209,9 +203,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -232,27 +226,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -260,18 +255,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -281,9 +273,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -303,27 +295,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -331,18 +324,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -352,9 +342,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -374,27 +364,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -402,18 +393,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -423,9 +411,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -445,27 +433,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -473,18 +462,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -494,9 +480,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"
@@ -538,27 +524,28 @@ proxy-groups:
       - "@filembad` 2"
       - "@filembad` 3"
       - "@filembad` 4"
+      - 13@oneclickvpnkeys
       - "@filembad` 5"
       - 104.19.135.124:443
       - "@filembad` 6"
-      - 7@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 12🚜@oneclickvpnkeys
       - 5@oneclickvpnkeys`
-      - 17@oneclickvpnkeys
       - 104.18.4.46:8880
       - "[22278] - Telegram : @configraygan"
-      - 10@oneclickvpnkeys
       - 104.18.5.46:8880
       - "[22286] - Telegram : @configraygan"
+      - 9@oneclickvpnkeys
       - 47@oneclickvpnkeys
       - chatgpt.com:2096
       - "@configraygan"
       - chatgpt.com:2096 2
       - "@configraygan 2"
-      - 9@oneclickvpnkeys
+      - "@filembad` 7"
+      - 12@oneclickvpnkeys
       - 104.18.15.19:80
       - "[22287] - Telegram : @configraygan"
+      - 10@oneclickvpnkeys
       - 104.16.158.162:80
       - "@configraygan 3"
       - 104.24.39.51:443
@@ -566,18 +553,15 @@ proxy-groups:
       - "More : @configraygan"
       - 15@oneclickvpnkeys
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@filembad` 7"
+      - "@filembad` 8"
       - "***✅***@AR14N24b"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - "@filembad` 8"
-      - ⚡Telegram - @prrofile_purple
-      - 6@oneclickvpnkeys
-      - 104.18.3.11:2082
       - "@filembad` 9"
-      - "[22288] - Telegram : @configraygan"
+      - ⚡Telegram - @prrofile_purple
+      - 104.18.3.11:2082
       - "@filembad` 10"
-      - 27@oneclickvpnkeys
+      - "[22288] - Telegram : @configraygan"
       - 104.19.174.68:2053
       - "[22270] - Telegram : @configraygan"
       - 188.114.98.0:443
@@ -587,9 +571,9 @@ proxy-groups:
       - poe.com:2053
       - "@filembad` 13"
       - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys 2
       - "@filembad` 14"
       - "@filembad` 15"
-      - 34@oneclickvpnkeys 2
       - 104.26.3.125:2052
       - "[22265] - Telegram : @configraygan"
       - "@filembad` 16"

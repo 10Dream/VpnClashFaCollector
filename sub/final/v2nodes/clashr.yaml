@@ -26,14 +26,18 @@ proxies:
   - {name: 15.224.3.38:22222, server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.82.109:22222, server: 3.120.82.109, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.176.237.255:22222, server: 63.176.237.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-4.tr202507.com:443, server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.53.96:8443, server: 172.64.53.96, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: m1.mwu.de5.net, alpn: [h3], network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: m1.mwu.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇬🇧 uk1.santexnika24.com:443, server: uk1.santexnika24.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 096d2cea-e1d5-4b68-ada3-6349a272ecad, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ, short-id: 23}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.2.176:57172, server: 144.31.2.176, port: 57172, type: vless, tls: true, packet-encoding: xudp, uuid: 0c56d165-7005-4655-8b9e-4f6888b50318, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: W5ygFi8wqavEaP1uiK9ZYJXEtMT_Kc_OfcYbfj-c2Uw, short-id: d5b702262431}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.216.107:465, server: 87.120.216.107, port: 465, type: vless, tls: true, packet-encoding: xudp, uuid: 0f7ee331-3a78-4341-acbb-39b9b7bd7f47, servername: download.docker.com, host: download.docker.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77.110.119.35:2053 2, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77.110.119.35:2053 3, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: Telegram, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: am.vitalik.space:443, server: am.vitalik.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2478528e-ecad-4134-a7cc-878f08a76865, servername: am.vitalik.space, host: am.vitalik.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lX1RtYvGvYlnn9sKgH_WDMkmhVQEoKHqTQVxrly1F34, short-id: bf45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 92.118.234.151:443, server: 92.118.234.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.129.206.231:443, server: 5.129.206.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38d77ed6-9b7c-423d-a31e-27d1f625ad00, servername: ru.moktana.digital, host: ru.moktana.digital, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jrKoM3Aiyeo-EnOxDsabEeIddFvfVpP3HOj0_bZ8dio, short-id: 28a69741f82508c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr1.cyphervpn.pro:443, server: fr1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3cc7c3a4-03a7-11f1-9bc0-0242ac110002, servername: fr1.cyphervpn.pro, host: fr1.cyphervpn.pro, path: /, reality-opts: {public-key: FfpoYFgT2DmVE8wpXv0ncw9YTdVduwH3qetnke0LMDU, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.136.59.44:13344, server: 45.136.59.44, port: 13344, type: vless, tls: true, packet-encoding: xudp, uuid: 3fce3b0d-0b92-4e92-9a78-18051dd648b4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo, short-id: e2bd9802e29deb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -50,6 +54,7 @@ proxies:
   - {name: 89.185.85.107:443, server: 89.185.85.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 658786e5-f302-48e2-b321-f4dc6da2a398, servername: cdnv-img.perekrestok.ru, host: cdnv-img.perekrestok.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EdEtwDL3a_V9midkIqik19C3xo7VvefseGkDM5jBWGM, short-id: ba34cbf836e99bf6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 us.jljd.xyz:11225, server: us.jljd.xyz, port: 11225, type: vless, tls: true, packet-encoding: xudp, uuid: 6dfbef3b-f718-4053-806f-c9657e2fd943, servername: python.org, host: python.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk, short-id: fcc5f0e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.katanavpn.ru:443, server: de.katanavpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7018878c-7b26-4eec-8feb-3137f9b74394, servername: de.katanavpn.ru, host: de.katanavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw, short-id: 82978722b1a42ddb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.1.60:443, server: 144.31.1.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7478ff88-1354-4143-96ce-6c8059273ef0, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.159.248.58:443, server: 45.159.248.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79cc33cf-93b4-419b-9e46-33e3edf7057c, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM, short-id: 3decb73e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.131.9.231:443, server: 94.131.9.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79cc33cf-93b4-419b-9e46-33e3edf7057c, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM, short-id: d7e1a2bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.17.52.29:8083, server: 178.17.52.29, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 7dc5d455-5ce5-4d6a-a9fa-ba69132133c7, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -57,17 +62,17 @@ proxies:
   - {name: 107.174.204.129:443, server: 107.174.204.129, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.indevs.in, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.204.87.159:449, server: 15.204.87.159, port: 449, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.danfeng.gv.uy, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.danfeng.gv.uy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.233.211.233:443, server: 172.233.211.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.danfeng.gv.uy, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.danfeng.gv.uy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 66.63.168.172:39738, server: 66.63.168.172, port: 39738, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.gfw.nn.kg, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.nn.kg}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 76.223.33.155:443, server: 76.223.33.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: chinam.sylu.net, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: chinam.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.117.0.166:8085, server: 89.117.0.166, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: danfeng.sylu.cc, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: danfeng.sylu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: g-api1.maps-yandex.net:10120, server: g-api1.maps-yandex.net, port: 10120, type: vless, tls: true, packet-encoding: xudp, uuid: 9b73c904-e704-4537-ab1a-6aadfc5c535e, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api}, reality-opts: {public-key: TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY, short-id: 0d6151ea50972a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.216.5:443, server: 87.120.216.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bef38a5-31a7-4e36-af48-01697fae00a2, servername: de6.krasivogame.ru, host: de6.krasivogame.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ, short-id: 868419504747f6de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.26.56:22230, server: 93.115.26.56, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI, short-id: a9725715bf4c62ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 us3.ultima.foundation:22230, server: us3.ultima.foundation, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: a04c351d-3efc-43de-99db-b5188cd04531, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.182.195.42:2012, server: 62.182.195.42, port: 2012, type: vless, tls: true, packet-encoding: xudp, uuid: a1f1933f-6152-4bf4-8cb1-742cade818c8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: SAAA12X48mYw2aoV_l8ep_vFpYxJZCKz5c-ps7xd7lU, short-id: 938015b35f161374}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cd4.baguvix.xyz:2053, server: cd4.baguvix.xyz, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: aea708eb-d27f-453b-8eca-fb4f509c2562, servername: app3.phonepanel.ir, network: ws, ws-opts: {path: /ws, headers: {Host: app3.phonepanel.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.149.243.213:443, server: 89.149.243.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b10aaf79-0721-454b-9d82-6418413561b8, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: usadt01.jumperservice.com:19001, server: usadt01.jumperservice.com, port: 19001, type: vless, tls: true, packet-encoding: xudp, uuid: b5be8e3f-a17d-479c-ebdb-9c3265c2cab7, servername: www.speedtest.org, host: www.speedtest.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.242.14:443, server: 144.31.242.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b73855fb-2ec9-4039-935a-a206dda339f8, servername: dk.darknet.run, host: dk.darknet.run, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk, short-id: a1b223d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.3.55:1488, server: 144.31.3.55, port: 1488, type: vless, tls: true, packet-encoding: xudp, uuid: bea7a5db-bb02-4bcd-bece-62832eb1bc94, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vpn3.rnmcnm.com:443, server: vpn3.rnmcnm.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c3d4e5f6-7890-1234-5678-90abcdef1234, network: ws, ws-opts: {path: /ray, headers: {Host: vpn3.rnmcnm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: merlinty.site:8443, server: merlinty.site, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ca71b2ed-ac4d-448d-9a12-0e99aad24049, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uWB8HfNVK_-9KtjDGjmBovnYxTh6wN95APRUBmCC30M, short-id: 348fac7c65368555}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vps.zakir.web.id:80, server: vps.zakir.web.id, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ca73d911-29f4-42d8-ada5-81dee679e96a, network: ws, ws-opts: {path: vless, headers: {Host: vps.zakir.web.id}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -76,6 +81,7 @@ proxies:
   - {name: 144.31.103.34:10121, server: 144.31.103.34, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.103.37:10121, server: 144.31.103.37, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.103.38:10121, server: 144.31.103.38, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.217.25:10965, server: 144.31.217.25, port: 10965, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0, short-id: 9f3a7c6d2e8b41af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.217.92:10121, server: 144.31.217.92, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.217.93:10121, server: 144.31.217.93, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.17.61.170:10121, server: 178.17.61.170, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -86,41 +92,14 @@ proxies:
   - {name: 🇸🇬 sg1.tangnin.top:1443, server: sg1.tangnin.top, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: ebb58926-84cf-460a-b6ce-b69656fcfcce, servername: sg1.tangnin.top, network: ws, ws-opts: {path: /, headers: {Host: sg1.tangnin.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee248e40-9468-4ef6-81b7-707a1e47c54a, servername: 639073677243557970.camry-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: /yaeungws, headers: {Host: 639073677243557970.camry-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.241.226.194:47009, server: 151.241.226.194, port: 47009, type: vless, tls: true, packet-encoding: xudp, uuid: f1600497-20e4-0c07-64e0-3e28fa3d01e8, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU, short-id: e21f2248d3f24140}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fi1.cyphervpn.pro:443, server: fi1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: fi1.cyphervpn.pro, host: fi1.cyphervpn.pro, path: /, reality-opts: {public-key: z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: sub.himikvpn.online:8443, server: sub.himikvpn.online, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f7f18360-fbdf-45b5-93f4-4e47a29e595b, servername: pimg.mycdn.me, host: pimg.mycdn.me, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qJHmudCfwVqVt8M5g3JHxeI_IKUUIrfb0PIVFG_NJU4, short-id: 60e0c27fcabb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AL", server: cn02.365cloud5878.com, port: 6009, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AM", server: cn02.365cloud5878.com, port: 6039, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BE", server: cn02.365cloud5878.com, port: 6027, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BG", server: cn02.365cloud5878.com, port: 6050, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BR", server: cn02.365cloud5878.com, port: 6022, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 [openproxylist.com] vmess-CA", server: cn02.365cloud5878.com, port: 6016, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 [openproxylist.com] vmess-CA 2", server: t.cnmjcn.cyou, port: 16641, type: vmess, uuid: fcad95ed-9d9c-4621-9b1a-21fd5dde3f83, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ac9761292953f408ccdba1b1b4953c3c.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-CH", server: cn02.365cloud5878.com, port: 6041, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-CL", server: cn02.365cloud5878.com, port: 6037, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇪🇸 [openproxylist.com] vmess-ES", server: cn02.365cloud5878.com, port: 6031, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: cn02.365cloud5878.com, port: 6018, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇨🇦 [openproxylist.com] vmess-CA", server: t.cnmjcn.cyou, port: 16641, type: vmess, uuid: fcad95ed-9d9c-4621-9b1a-21fd5dde3f83, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ac9761292953f408ccdba1b1b4953c3c.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇬🇧 [openproxylist.com] vmess-GB", server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇬🇧 [openproxylist.com] vmess-GB 2", server: cn02.365cloud5878.com, port: 6014, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-HR", server: cn02.365cloud5878.com, port: 6046, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: cn01.365cloud8754.com, port: 6001, type: vmess, uuid: db75bc92-4e32-48dd-b792-d7a8b707626c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IE", server: cn02.365cloud5878.com, port: 6026, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇸 [openproxylist.com] vmess-IS", server: cn02.365cloud5878.com, port: 6042, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IT", server: cn02.365cloud5878.com, port: 6024, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: abm96f00fby3.jkhkgj.xyz, port: 80, type: vmess, uuid: 0f868002-5230-45fb-be23-0fd0ed9bbdc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /market/jp1, headers: {Host: tms.dingtalk.com}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-PT", server: cn02.365cloud5878.com, port: 6030, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 [openproxylist.com] vmess-PL", server: cn02.365cloud5878.com, port: 6036, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-RO", server: cn02.365cloud5878.com, port: 6044, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [openproxylist.com] vmess-RU", server: cn02.365cloud5878.com, port: 6017, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-SK", server: cn02.365cloud5878.com, port: 6045, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR", server: cn02.365cloud5878.com, port: 6032, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇰🇷 [openproxylist.com] vmess-KR", server: cn02.365cloud5878.com, port: 6007, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-LI", server: cn02.365cloud5878.com, port: 6040, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-LV", server: cn02.365cloud5878.com, port: 6047, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-MK", server: cn02.365cloud5878.com, port: 6049, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇲🇾 [openproxylist.com] vmess-MY", server: cn02.365cloud5878.com, port: 6010, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: cn02.365cloud5878.com, port: 6035, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-NZ", server: cn02.365cloud5878.com, port: 6034, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: m.cnmjin.net, port: 16648, type: vmess, uuid: 074c3ea9-c977-470e-8835-bba1483d5c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ea6aff21b5514f17a25b7866d1f65910.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IT 2", server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-IT", server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
@@ -151,14 +130,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -175,6 +158,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -182,17 +166,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -201,6 +185,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -211,41 +196,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -276,14 +234,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -300,6 +262,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -307,17 +270,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -326,6 +289,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -336,41 +300,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -401,14 +338,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -425,6 +366,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -432,17 +374,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -451,6 +393,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -461,41 +404,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -525,14 +441,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -549,6 +469,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -556,17 +477,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -575,6 +496,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -585,41 +507,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -649,14 +544,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -673,6 +572,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -680,17 +580,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -699,6 +599,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -709,41 +610,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -773,14 +647,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -797,6 +675,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -804,17 +683,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -823,6 +702,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -833,41 +713,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -919,14 +772,18 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.236.174.14:22222
       - 3.120.82.109:22222
-      - 3.123.240.134:22222
+      - 3.124.155.41:22222
       - 63.176.237.255:22222
       - 🇳🇱 nl-4.tr202507.com:443
       - 172.64.53.96:8443
       - 🇬🇧 uk1.santexnika24.com:443
+      - 144.31.2.176:57172
       - 87.120.216.107:465
       - 77.110.119.35:2053
+      - 77.110.119.35:2053 2
+      - 77.110.119.35:2053 3
       - am.vitalik.space:443
+      - 92.118.234.151:443
       - 5.129.206.231:443
       - 🇫🇷 fr1.cyphervpn.pro:443
       - 45.136.59.44:13344
@@ -943,6 +800,7 @@ proxy-groups:
       - 89.185.85.107:443
       - 🇺🇸 us.jljd.xyz:11225
       - 🇩🇪 de.katanavpn.ru:443
+      - 144.31.1.60:443
       - 45.159.248.58:443
       - 94.131.9.231:443
       - 178.17.52.29:8083
@@ -950,17 +808,17 @@ proxy-groups:
       - 107.174.204.129:443
       - 15.204.87.159:449
       - 172.233.211.233:443
-      - 66.63.168.172:39738
       - 76.223.33.155:443
       - 89.117.0.166:8085
+      - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 93.115.26.56:22230
-      - 🇺🇸 us3.ultima.foundation:22230
       - 62.182.195.42:2012
       - cd4.baguvix.xyz:2053
       - 89.149.243.213:443
       - usadt01.jumperservice.com:19001
       - 144.31.242.14:443
+      - 144.31.3.55:1488
       - vpn3.rnmcnm.com:443
       - merlinty.site:8443
       - vps.zakir.web.id:80
@@ -969,6 +827,7 @@ proxy-groups:
       - 144.31.103.34:10121
       - 144.31.103.37:10121
       - 144.31.103.38:10121
+      - 144.31.217.25:10965
       - 144.31.217.92:10121
       - 144.31.217.93:10121
       - 178.17.61.170:10121
@@ -979,41 +838,14 @@ proxy-groups:
       - 🇸🇬 sg1.tangnin.top:1443
       - 192.200.160.20:443
       - 151.241.226.194:47009
+      - fi1.cyphervpn.pro:443
       - sub.himikvpn.online:8443
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
       - 🇨🇦 [openproxylist.com] vmess-CA
-      - 🇨🇦 [openproxylist.com] vmess-CA 2
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
       - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-HR"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "[openproxylist.com] vmess-IT 2"
+      - "[openproxylist.com] vmess-IT"
       - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇯🇵 [openproxylist.com] vmess-JP 3
       - 🇭🇰 [openproxylist.com] vmess-HK 2

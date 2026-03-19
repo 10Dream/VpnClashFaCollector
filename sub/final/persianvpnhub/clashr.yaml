@@ -33,7 +33,7 @@ proxies:
   - {name: 15.224.3.38:22222, server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.60.191:22222, server: 15.224.60.191, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.21.192:22222, server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.195.58.45:22222, server: 18.195.58.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.82.109:22222, server: 3.120.82.109, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.160.56:22222, server: 3.72.160.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -121,7 +121,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -209,7 +209,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -297,7 +297,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -384,7 +384,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -471,7 +471,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -558,7 +558,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
@@ -667,7 +667,7 @@ proxy-groups:
       - 15.224.3.38:22222
       - 15.224.60.191:22222
       - 18.158.21.192:22222
-      - 18.194.236.215:22222
+      - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.124.155.41:22222
       - 3.72.160.56:22222
