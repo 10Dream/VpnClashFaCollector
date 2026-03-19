@@ -9,7 +9,6 @@ proxies:
   - {name: "@saministamm`", server: srv7.fastservers.cc, port: 23828, type: trojan, password: bAzbcu87YN, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 2", server: 147.45.68.252, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: خرید کانفیگ @saministamm, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 100GB`", server: emg4.saipasamandemg4.sbs, port: 2004, type: vless, tls: true, packet-encoding: xudp, uuid: 6b79d1b5-6b19-4948-a012-f5bd29746511, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -20,7 +19,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -31,7 +29,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -42,7 +39,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -52,7 +48,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -62,7 +57,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -72,7 +66,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -104,7 +97,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

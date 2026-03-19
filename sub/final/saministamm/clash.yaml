@@ -469,7 +469,6 @@ proxies:
   - {name: "@saministamm`", server: srv7.fastservers.cc, port: 23828, type: trojan, password: bAzbcu87YN, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 2", server: 147.45.68.252, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: jmc9f8ao6n5xq.saghv.filegear-sg.me, network: ws, ws-opts: {path: /@Marisa_kristi, headers: {Host: jmc9f8ao6n5xq.saghv.filegear-sg.me}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: خرید کانفیگ @saministamm, server: trailers.sv1.cdn.yoozmovie.com, port: 16771, type: vless, tls: true, packet-encoding: xudp, uuid: 682f13ec-421f-4a71-b116-60c45d6dc1ed, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 100GB`", server: emg4.saipasamandemg4.sbs, port: 2004, type: vless, tls: true, packet-encoding: xudp, uuid: 6b79d1b5-6b19-4948-a012-f5bd29746511, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,7 +489,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -501,7 +499,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -512,7 +509,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -532,7 +528,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -543,7 +538,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -554,7 +548,6 @@ proxy-groups:
       - "@saministamm`"
       - "@saministamm` 2"
       - خرید کانفیگ @saministamm
-      - "@saministamm 100GB`"
   - name: دانلود منیجر 📥
     type: select
     proxies:

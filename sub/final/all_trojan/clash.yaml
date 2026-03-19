@@ -465,8 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 35@oneclickvpnkeys, server: ubu.okaoclax.me, port: 443, type: trojan, password: 13c169be-8592-4eaa-94cb-69c859e7d987, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws}, udp: true, tfo: false}
   - {name: 81@oneclickvpnkeys, server: ct.090227.xyz, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
   - {name: 34@oneclickvpnkeys, server: ct.877774.xyz, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
+  - {name: 36@oneclickvpnkeys, server: 160.16.72.33, port: 2001, type: trojan, password: 86e150eb21c6faee48e81d496d7f61c2, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45@oneclickvpnkeys, server: 160.16.72.33, port: 4674, type: trojan, password: 86e150eb21c6faee48e81d496d7f61c2, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad`", server: 198.41.215.93, port: 443, type: trojan, password: 9880cba6-7260-4eab-a446-d9f4b02b28bd, sni: cdn.shayan.cyou, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 16.163.155.36:8401, server: 16.163.155.36, port: 8401, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
@@ -475,16 +477,18 @@ proxies:
   - {name: 95@oneclickvpnkeys`, server: 58.152.25.253, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: apt-magpie.rooster465.autos:443, server: apt-magpie.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: apt-magpie.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: upright-rhino.rooster465.autos:443, server: upright-rhino.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: upright-rhino.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 34@oneclickvpnkeys 2, server: upright-rhino.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys, server: 104.16.190.233, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: 36@oneclickvpnkeys, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
+  - {name: 36@oneclickvpnkeys 2, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 172.67.191.189:443, server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3383", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
+  - {name: 32@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: 93@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: 89@oneclickvpnkeys, server: 188.114.97.3, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: 84@oneclickvpnkeys, server: chatgpt.com, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: 83@oneclickvpnkeys, server: 104.16.250.22, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: 35@oneclickvpnkeys, server: 104.18.185.26, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: 35@oneclickvpnkeys 2, server: 104.18.185.26, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
   - {name: 87@oneclickvpnkeys, server: 172.66.47.45, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
   - {name: 85@oneclickvpnkeys, server: chatgpt.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
   - {name: 91@oneclickvpnkeys, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
@@ -528,8 +532,6 @@ proxies:
   - {name: 42@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: 43@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: "  4", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: chat.openai.com:443, server: chat.openai.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 〘 🇺🇸 | 🪽 @configraygan 〙, server: chat.openai.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 41@oneclickvpnkeys, server: v3.dabache.top, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: //assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: v3.dabache.top, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "  5", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
@@ -538,11 +540,11 @@ proxies:
   - {name: "@v2rayconfigamir 2665", server: 54.37.18.204, port: 443, type: trojan, password: opentunnel.net-english30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7033", server: 15.204.9.172, port: 443, type: trojan, password: opentunnel.net-usa30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 33@oneclickvpnkeys, server: 195.66.25.251, port: 443, type: trojan, password: q2GRUM1-odJBWq_KV6xv2fuNvu8ed-, sni: 8443.golden-cards.me, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 33@oneclickvpnkeys 2, server: 8443.golden-cards.me, port: 443, type: trojan, password: q2GRUM1-odJBWq_KV6xv2fuNvu8ed-, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.160.17:22223, server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 6", server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)` 2", server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.160.17:22223 2, server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 7", server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22328] - Telegram : @configraygan", server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22332] - Telegram : @configraygan", server: 13.37.160.17, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -553,49 +555,51 @@ proxies:
   - {name: "@filembad` 10", server: 15.188.103.210, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 6", server: 15.188.103.210, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22223, server: 15.188.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 15.188.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22308] - Telegram : @configraygan", server: 15.188.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.3.38:22223, server: 15.224.3.38, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 15.224.3.38, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 15.224.3.38, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 7", server: 15.224.3.38, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.60.191:22223, server: 15.224.60.191, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: 15.224.60.191, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 15.224.60.191, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.3.3:22223, server: 15.236.3.3, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: 15.236.3.3, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 14", server: 18.158.21.192, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.21.192:22223, server: 18.158.21.192, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 15", server: 18.158.21.192, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 8", server: 18.158.21.192, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.195.58.45:22223, server: 18.195.58.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 16", server: 18.195.58.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.82.109:22223, server: 3.120.82.109, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 16", server: 3.120.82.109, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 17", server: 3.120.82.109, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: 3.120.82.109, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22223, server: 3.124.155.41, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 17", server: 3.124.155.41, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 18", server: 3.124.155.41, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.160.56:22223, server: 3.72.160.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 18", server: 3.72.160.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 19", server: 3.72.160.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: 3.72.160.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.123.75:22223, server: 35.181.123.75, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 19", server: 35.181.123.75, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 20", server: 35.181.123.75, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.221.95:22223, server: 35.181.221.95, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.11.182:22223, server: 51.45.11.182, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.25.205:22223, server: 51.45.25.205, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 20", server: 51.45.25.205, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 21", server: 51.45.25.205, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.176.237.255:22223, server: 63.176.237.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 21", server: 63.176.237.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 22", server: 63.176.237.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22337] - Telegram : @configraygan", server: 63.176.237.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.160.17:22222, server: 13.37.160.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 22", server: 13.37.160.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 23", server: 13.37.160.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22329] - Telegram : @configraygan", server: 13.37.160.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.103.210:22222, server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 23", server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 24", server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: 15.188.103.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.40.40:22222, server: 15.188.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 24", server: 15.188.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22306] - Telegram : @configraygan", server: 15.188.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.3.38:22222, server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 25", server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 12", server: 15.224.3.38, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.60.191:22222, server: 15.224.60.191, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 26", server: 15.224.60.191, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.16.104:22222, server: 15.236.16.104, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.3.3:22222, server: 15.236.3.3, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.21.192:22222, server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 27", server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 13", server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -638,8 +642,10 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -648,16 +654,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -701,8 +709,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -711,11 +717,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -726,49 +732,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"
@@ -801,8 +809,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -811,16 +821,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -864,8 +876,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -874,11 +884,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -889,49 +899,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"
@@ -964,8 +976,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -974,16 +988,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -1027,8 +1043,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -1037,11 +1051,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -1052,49 +1066,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"
@@ -1136,8 +1152,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -1146,16 +1164,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -1199,8 +1219,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -1209,11 +1227,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -1224,49 +1242,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"
@@ -1299,8 +1319,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -1309,16 +1331,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -1362,8 +1386,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -1372,11 +1394,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -1387,49 +1409,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"
@@ -1462,8 +1486,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 35@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 34@oneclickvpnkeys
+      - 36@oneclickvpnkeys
       - 45@oneclickvpnkeys
       - "@filembad`"
       - 16.163.155.36:8401
@@ -1472,16 +1498,18 @@ proxy-groups:
       - 95@oneclickvpnkeys`
       - apt-magpie.rooster465.autos:443
       - upright-rhino.rooster465.autos:443
+      - 34@oneclickvpnkeys 2
       - 11@oneclickvpnkeys
-      - 36@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 172.67.191.189:443
       - "@v2rayconfigamir 3383"
       - "***✅***@AR14N24b"
+      - 32@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 35@oneclickvpnkeys
+      - 35@oneclickvpnkeys 2
       - 87@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 91@oneclickvpnkeys
@@ -1525,8 +1553,6 @@ proxy-groups:
       - 42@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - "  4"
-      - chat.openai.com:443
-      - 〘 🇺🇸 | 🪽 @configraygan 〙
       - 41@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - "  5"
@@ -1535,11 +1561,11 @@ proxy-groups:
       - "@v2rayconfigamir 2665"
       - "@v2rayconfigamir 7033"
       - 33@oneclickvpnkeys
+      - 33@oneclickvpnkeys 2
       - 13.37.160.17:22223
       - "@filembad` 6"
       - ⚡Telegram - @prrofile_purple
       - "@PewezaVPN (تلگرام)` 2"
-      - 13.37.160.17:22223 2
       - "@filembad` 7"
       - "[22328] - Telegram : @configraygan"
       - "[22332] - Telegram : @configraygan"
@@ -1550,49 +1576,51 @@ proxy-groups:
       - "@filembad` 10"
       - "***✅***@AR14N24b 6"
       - 15.188.40.40:22223
-      - "@filembad` 11"
       - "[22308] - Telegram : @configraygan"
       - 15.224.3.38:22223
-      - "@filembad` 12"
+      - "@filembad` 11"
       - "***✅***@AR14N24b 7"
       - 15.224.60.191:22223
+      - "@filembad` 12"
+      - 15.236.3.3:22223
       - "@filembad` 13"
       - "@filembad` 14"
       - 18.158.21.192:22223
       - "@filembad` 15"
       - "***✅***@AR14N24b 8"
-      - 3.120.82.109:22223
+      - 18.195.58.45:22223
       - "@filembad` 16"
+      - 3.120.82.109:22223
+      - "@filembad` 17"
       - "***✅***@AR14N24b 9"
       - 3.124.155.41:22223
-      - "@filembad` 17"
-      - 3.72.160.56:22223
       - "@filembad` 18"
+      - 3.72.160.56:22223
+      - "@filembad` 19"
       - "***✅***@AR14N24b 10"
       - 35.181.123.75:22223
-      - "@filembad` 19"
+      - "@filembad` 20"
       - 35.181.221.95:22223
       - 51.45.11.182:22223
       - 51.45.25.205:22223
-      - "@filembad` 20"
-      - 63.176.237.255:22223
       - "@filembad` 21"
-      - "[22337] - Telegram : @configraygan"
-      - 13.37.160.17:22222
+      - 63.176.237.255:22223
       - "@filembad` 22"
+      - "[22337] - Telegram : @configraygan"
+      - "@filembad` 23"
       - "[22329] - Telegram : @configraygan"
       - 15.188.103.210:22222
-      - "@filembad` 23"
+      - "@filembad` 24"
       - "***✅***@AR14N24b 11"
       - 15.188.40.40:22222
-      - "@filembad` 24"
       - "[22306] - Telegram : @configraygan"
       - 15.224.3.38:22222
       - "@filembad` 25"
       - "***✅***@AR14N24b 12"
       - 15.224.60.191:22222
       - "@filembad` 26"
-      - 15.236.174.14:22222
+      - 15.236.16.104:22222
+      - 15.236.3.3:22222
       - 18.158.21.192:22222
       - "@filembad` 27"
       - "***✅***@AR14N24b 13"

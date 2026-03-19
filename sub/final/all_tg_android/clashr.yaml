@@ -28,7 +28,6 @@ proxies:
   - {name: 78.157.50.41:8080, server: 78.157.50.41, port: 8080, type: socks5, username: Azir69b4549cc2afe, password: Azir69b4549cc2afe, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.125.7:1092, server: 79.127.125.7, port: 1092, type: socks5, username: arsh2, password: n*W4cmh6t38, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.moonvira.com:3389, server: azir_proxy_ezterar.moonvira.com, port: 3389, type: socks5, username: 8187614752_test, password: 8187614752_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.moonvira.com:53, server: azir_proxy_ezterar.moonvira.com, port: 53, type: socks5, username: 3068245_test, password: 3068245_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.moonvira.com:53 2, server: azir_proxy_ezterar.moonvira.com, port: 53, type: socks5, username: 8187614752_test, password: 8187614752_test, skip-cert-verify: false, udp: true, tfo: false}
@@ -65,7 +64,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -102,7 +100,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -139,7 +136,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -175,7 +171,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -211,7 +206,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -247,7 +241,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
@@ -305,7 +298,6 @@ proxy-groups:
       - 78.157.50.41:8080
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:3389
       - azir_proxy_ezterar.moonvira.com:53
       - azir_proxy_ezterar.moonvira.com:53 2
