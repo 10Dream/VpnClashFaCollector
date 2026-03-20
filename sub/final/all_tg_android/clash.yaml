@@ -481,7 +481,6 @@ proxies:
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.32.13.141:6028, server: 37.32.13.141, port: 6028, type: socks5, username: mehdi, password: mehdi123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.232.140.53:10808, server: 5.232.140.53, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69ac1f7d3ac4c, password: Azir69ac1f7d3ac4c, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.50.36:3389 2, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69b8ac9cba9e5, password: Azir69b8ac9cba9e5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.50.41:53, server: 78.157.50.41, port: 53, type: socks5, username: Azir69b8f8e8902db, password: Azir69b8f8e8902db, skip-cert-verify: false, udp: true, tfo: false}
@@ -521,7 +520,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53
@@ -551,7 +549,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53
@@ -581,7 +578,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53
@@ -620,7 +616,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53
@@ -650,7 +645,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53
@@ -680,7 +674,6 @@ proxy-groups:
       - 2.179.186.225:1080
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 5.232.140.53:10808
       - 78.157.50.36:3389
       - 78.157.50.36:3389 2
       - 78.157.50.41:53

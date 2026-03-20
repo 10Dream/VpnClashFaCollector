@@ -520,7 +520,6 @@ proxies:
   - {name: 144.31.1.60:443, server: 144.31.1.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7478ff88-1354-4143-96ce-6c8059273ef0, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.17.52.29:8083, server: 178.17.52.29, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 7dc5d455-5ce5-4d6a-a9fa-ba69132133c7, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.233.48.173:443, server: 193.233.48.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 932130c7-197b-4b37-af26-d550c47ba8f4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 76.223.33.155:443, server: 76.223.33.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: chinam.sylu.net, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: chinam.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: g-api1.maps-yandex.net:10120, server: g-api1.maps-yandex.net, port: 10120, type: vless, tls: true, packet-encoding: xudp, uuid: 9b73c904-e704-4537-ab1a-6aadfc5c535e, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api}, reality-opts: {public-key: TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY, short-id: 0d6151ea50972a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.216.5:443, server: 87.120.216.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bef38a5-31a7-4e36-af48-01697fae00a2, servername: de6.krasivogame.ru, host: de6.krasivogame.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ, short-id: 868419504747f6de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 us-2.124515.xyz:443, server: us-2.124515.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a55a1cb4-cdb3-43db-9095-a8321ca1e9ad, servername: us-2.124515.xyz, host: us-2.124515.xyz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Htrrk8RBLK56TQwymPi3IJ9s3gHna8C7NOajUn-pUCg, short-id: 1eeaedbc2f137a62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -554,6 +553,7 @@ proxies:
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: t.cnmjcn.cyou, port: 16618, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 3", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IT", server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇪🇸 [openproxylist.com] vmess-ES", server: 85.90.217.42, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: cg1d05.waimaojd.com, port: 443, type: vmess, uuid: 6abe3ac8-e1f8-4b24-bb67-191bc23b5fab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cg1d05.waimaojd.com, network: ws, ws-opts: {path: /, headers: {Host: cg1d05.waimaojd.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -626,7 +626,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -660,6 +659,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -722,7 +722,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -756,6 +755,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -818,7 +818,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -852,6 +851,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: اتصال پایدار 🔗
     type: url-test
@@ -923,7 +923,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -957,6 +956,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -1019,7 +1019,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -1053,6 +1052,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1115,7 +1115,6 @@ proxy-groups:
       - 144.31.1.60:443
       - 178.17.52.29:8083
       - 193.233.48.173:443
-      - 76.223.33.155:443
       - g-api1.maps-yandex.net:10120
       - 87.120.216.5:443
       - 🇺🇸 us-2.124515.xyz:443
@@ -1149,6 +1148,7 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
+      - 🇪🇸 [openproxylist.com] vmess-ES
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: دانلود منیجر 📥
     type: select
