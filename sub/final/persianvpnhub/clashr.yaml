@@ -15,10 +15,6 @@ proxies:
   - {name: "  7", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 38.180.2.141:5499, server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3383", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 8296", server: 172.67.191.189, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1248", server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6200", server: 45.85.118.0, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2362", server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@, server: 185.143.235.5, port: 443, type: trojan, password: biS%28YrwB%2C3L%24, sni: mydigipay.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  8", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
@@ -33,7 +29,7 @@ proxies:
   - {name: 15.224.60.191:22222, server: 15.224.60.191, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.16.104:22222, server: 15.236.16.104, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.3.3:22222, server: 15.236.3.3, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.158.21.192:22222, server: 18.158.21.192, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.226.217:22222, server: 18.194.226.217, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.58.45:22222, server: 18.195.58.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.82.109:22222, server: 3.120.82.109, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -45,17 +41,13 @@ proxies:
   - {name: 51.45.25.205:22222, server: 51.45.25.205, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5300", server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "  15", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 7297", server: 68.64.179.96, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: ylnhh.cc.cd, network: ws, ws-opts: {path: /Telegram🇨🇳@WangCai2, headers: {Host: ylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  16", server: av.nexconnx.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 19a1e5b1-6289-4fe6-9aad-be285510942d, host: check-host.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2, server: 45.136.126.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203b0744-f943-4bba-a8d2-cab635467c46, servername: google.com, host: google.com, path: /, reality-opts: {public-key: _L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0, short-id: d020b2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3, server: 185.125.103.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 8152", server: am.vitalik.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2478528e-ecad-4134-a7cc-878f08a76865, servername: am.vitalik.space, host: am.vitalik.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lX1RtYvGvYlnn9sKgH_WDMkmhVQEoKHqTQVxrly1F34, short-id: bf45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.129.63.64:8443, server: 57.129.63.64, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: cyuxj212pnq.chinat.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: cyuxj212pnq.chinat.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7089", server: 45.136.59.44, port: 13344, type: vless, tls: true, packet-encoding: xudp, uuid: 3fce3b0d-0b92-4e92-9a78-18051dd648b4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo, short-id: e2bd9802e29deb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2979", server: 77.92.145.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: e499f276e7bd6420}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.19.135.124:443, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3643", server: 45.129.185.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: avito.ru, host: avito.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY, short-id: 66681318313081d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 2654", server: am1.a-svc.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45686761-5a47-40c0-a982-a06233f9d64e, servername: avito.ru, host: avito.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY, short-id: 66681318313081d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  17", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  18", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 159.223.24.65:443, server: 159.223.24.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -75,14 +67,8 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  22", server: de.vpnbase.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http, headers: {Host: de.vpnbase.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6217", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 5272", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6187", server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6040", server: n1761296880.lie5d.cyou, port: 443, type: vmess, uuid: 1effac4a-cdb8-4717-a10c-da97263c802c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296880.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7061", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 7651", server: n1753348736.lie5d.cyou, port: 443, type: vmess, uuid: f267eac3-dfb4-45be-a480-7e1847ca04ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1753348736.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1753348736.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9494", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2622", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 38.107.234.57}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1537", server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048", headers: {Host: 47.244.120.197}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -99,10 +85,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -117,7 +99,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -129,17 +111,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -159,14 +137,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -183,10 +155,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -201,7 +169,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -213,17 +181,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -243,14 +207,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -267,10 +225,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -285,7 +239,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -297,17 +251,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -327,14 +277,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -350,10 +294,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -368,7 +308,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -380,17 +320,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -410,14 +346,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -433,10 +363,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -451,7 +377,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -463,17 +389,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -493,14 +415,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -516,10 +432,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -534,7 +446,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -546,17 +458,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -576,14 +484,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -621,10 +523,6 @@ proxy-groups:
       - "  7"
       - 141.164.45.187:7001
       - 38.180.2.141:5499
-      - "@v2rayconfigamir 3383"
-      - "@v2rayconfigamir 8296"
-      - "@v2rayconfigamir 1248"
-      - "@v2rayconfigamir 6200"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "  8"
@@ -639,7 +537,7 @@ proxy-groups:
       - 15.224.60.191:22222
       - 15.236.16.104:22222
       - 15.236.3.3:22222
-      - 18.158.21.192:22222
+      - 18.194.226.217:22222
       - 18.195.58.45:22222
       - 3.120.82.109:22222
       - 3.123.214.232:22222
@@ -651,17 +549,13 @@ proxy-groups:
       - 51.45.25.205:22222
       - "@v2rayconfigamir 5300"
       - "  15"
-      - "@v2rayconfigamir 7297"
       - "  16"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
-      - "@v2rayconfigamir 8152"
       - 57.129.63.64:8443
       - "@v2rayconfigamir 7089"
       - "@v2rayconfigamir 2979"
       - 104.19.135.124:443
-      - "@v2rayconfigamir 3643"
-      - "@v2rayconfigamir 2654"
       - "  17"
       - "  18"
       - 159.223.24.65:443
@@ -681,14 +575,8 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
       - "  22"
       - "@v2rayconfigamir 6217"
-      - "@v2rayconfigamir 5272"
-      - "@v2rayconfigamir 6187"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
-      - "@v2rayconfigamir 1537"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

@@ -7,10 +7,7 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: "@filembad", server: 65.21.145.122, port: 53442, type: vmess, uuid: cd13ae55-feca-457c-988e-8dba56fe006f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.microsoft.com, udp: true, tfo: false}
   - {name: "@filembad 2", server: 65.21.145.122, port: 53442, type: vmess, uuid: cd13ae55-feca-457c-988e-8dba56fe006f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.microsoft.com, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6040", server: n1761296880.lie5d.cyou, port: 443, type: vmess, uuid: 1effac4a-cdb8-4717-a10c-da97263c802c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296880.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7061", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 7651", server: n1753348736.lie5d.cyou, port: 443, type: vmess, uuid: f267eac3-dfb4-45be-a480-7e1847ca04ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1753348736.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1753348736.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9494", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2622", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 38.107.234.57}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AE", server: cg1c15.waimaojd.com, port: 443, type: vmess, uuid: 4378a67e-d277-44b5-a99b-a947fff1ee21, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c15.waimaojd.com}}, udp: true, tfo: false}
   - {name: "🇬🇧 [openproxylist.com] vmess-GB", server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -21,7 +18,6 @@ proxies:
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: t.cnmjcn.cyou, port: 16618, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 3", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IT", server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1537", server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048", headers: {Host: 47.244.120.197}}, udp: true, tfo: false}
   - {name: "@filembad 3", server: 65.21.145.122, port: 27134, type: vmess, uuid: cd957f3c-a480-4279-9d26-4b4870c3cb72, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🥶6", server: 65.21.145.122, port: 53442, type: vmess, uuid: cd13ae55-feca-457c-988e-8dba56fe006f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.microsoft.com, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
@@ -39,10 +35,7 @@ proxy-groups:
       - DIRECT
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -53,7 +46,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -71,10 +63,7 @@ proxy-groups:
     proxies:
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -85,7 +74,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -103,10 +91,7 @@ proxy-groups:
       - 🎯 全球直连
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -117,7 +102,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -134,10 +118,7 @@ proxy-groups:
       - 🎯 全球直连
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -148,7 +129,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -165,10 +145,7 @@ proxy-groups:
       - 🚀 节点选择
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -179,7 +156,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -196,10 +172,7 @@ proxy-groups:
       - 🎯 全球直连
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -210,7 +183,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
@@ -249,10 +221,7 @@ proxy-groups:
       - ♻️ 自动选择
       - "@filembad"
       - "@filembad 2"
-      - "@v2rayconfigamir 6040"
       - "@v2rayconfigamir 7061"
-      - "@v2rayconfigamir 7651"
-      - "@v2rayconfigamir 9494"
       - "@v2rayconfigamir 2622"
       - "[openproxylist.com] vmess-AE"
       - 🇬🇧 [openproxylist.com] vmess-GB
@@ -263,7 +232,6 @@ proxy-groups:
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
       - "[openproxylist.com] vmess-IT"
-      - "@v2rayconfigamir 1537"
       - "@filembad 3"
       - "@tel_melli🥶6"
       - 🇭🇰 [openproxylist.com] vmess-HK 2
