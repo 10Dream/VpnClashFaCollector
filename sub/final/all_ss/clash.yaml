@@ -466,43 +466,48 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@filembad`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: 80@oneclickvpnkeys`, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 163.171.207.11:19688, server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
-  - {name: 77.73.68.155:54106, server: 77.73.68.155, port: 54106, type: ss, cipher: chacha20-ietf-poly1305, password: 9CmcQ6dF8LEyZU0YsMjgu8, udp: true, tfo: false}
-  - {name: 94.182.175.37:2096, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: 9vdfbH8S5rABDNlJhQEteA, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: 9vdfbH8S5rABDNlJhQEteA, udp: true, tfo: false}
   - {name: 🇵🇱 auto.poland.ray-vpn.ru:4495, server: auto.poland.ray-vpn.ru, port: 4495, type: ss, cipher: chacha20-ietf-poly1305, password: 2Z9ba3GwDL-rn6DSQ0N-awHNhcuxaHP3, udp: true, tfo: false}
   - {name: 17@oneclickvpnkeys, server: auto.poland.ray-vpn.ru, port: 4495, type: ss, cipher: chacha20-ietf-poly1305, password: 2Z9ba3GwDL-rn6DSQ0N-awHNhcuxaHP3, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true, tfo: false}
-  - {name: 195.66.25.220:8388, server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 195.66.25.220, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: yhrHMDgZ2egKftvrecvkpUPqpUTyac7q, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 2.56.242.6, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: HUKnxUwQWPngAAn0XLUceStjOtDe377mDl5UGy, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true, tfo: false}
-  - {name: 94.182.175.37:2096 2, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 2.56.242.6, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: HUKnxUwQWPngAAn0XLUceStjOtDe377mDl5UGy, udp: true, tfo: false}
+  - {name: 93@oneclickvpnkeys, server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true, tfo: false}
+  - {name: 94.182.175.37:2096, server: 94.182.175.37, port: 2096, type: ss, cipher: chacha20-ietf-poly1305, password: OurLeMil_lFMqpCn2PIZZg, udp: true, tfo: false}
   - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: 74@oneclickvpnkeys, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: 85@oneclickvpnkeys, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
+  - {name: 76@oneclickvpnkeys, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "@tel_melli🚀3", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@Hiddify_Nexttt", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: 57.129.95.38:11201, server: 57.129.95.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f54cdee10f8b25ce, udp: true, tfo: false}
   - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: " ", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 67@oneclickvpnkeys, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 65@oneclickvpnkeys, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 64@oneclickvpnkeys, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "  2", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 79@oneclickvpnkeys, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 66@oneclickvpnkeys, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "  3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  4", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 4", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 59@oneclickvpnkeys, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  5", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -523,8 +528,12 @@ proxies:
   - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 192.124.176.95:8388, server: 192.124.176.95, port: 8388, type: ss, cipher: aes-256-gcm, password: UcbtKq1aPi88, udp: true, tfo: false}
+  - {name: 92.114.51.173:443, server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 2", server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
   - {name: 38.180.2.141:5499, server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: 143.20.213.97, port: 8443, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 143.20.213.97, port: 8443, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -542,43 +551,48 @@ proxy-groups:
     type: select
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -599,8 +613,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -608,43 +626,48 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -665,8 +688,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -674,43 +701,48 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -731,8 +763,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -749,43 +785,48 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -806,8 +847,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -815,43 +860,48 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -872,8 +922,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -881,43 +935,48 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad`"
+      - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - "@filembad` 2"
       - "***✅***@AR14N24b"
-      - 77.73.68.155:54106
-      - 94.182.175.37:2096
-      - "@filembad` 3"
       - 🇵🇱 auto.poland.ray-vpn.ru:4495
       - 17@oneclickvpnkeys
+      - "@filembad` 3"
       - "@filembad` 4"
-      - 195.66.25.220:8388
-      - "@filembad` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 193.135.174.135:990
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - 94.182.175.37:2096 2
-      - "@filembad` 8"
+      - "@filembad` 5"
+      - 93@oneclickvpnkeys
+      - 94.182.175.37:2096
       - admin.c1.webramz.co:443
+      - 74@oneclickvpnkeys
       - series-a1.samanehha.co:443
-      - "@filembad` 9"
+      - "@filembad` 6"
+      - 85@oneclickvpnkeys
       - series-a2.samanehha.co:443
-      - "@filembad` 10"
+      - 76@oneclickvpnkeys
       - 102.37.156.224:443
-      - "@filembad` 11"
+      - "@filembad` 7"
       - "@tel_melli🚀3"
       - "***✅***@AR14N24b 2"
+      - "@Hiddify_Nexttt"
       - 57.129.95.38:11201
       - 82.38.31.176:8080
       - " "
-      - "@filembad` 12"
+      - "@filembad` 8"
+      - 67@oneclickvpnkeys
       - "***✅***@AR14N24b 3"
+      - 65@oneclickvpnkeys
+      - 64@oneclickvpnkeys
       - "  2"
+      - 79@oneclickvpnkeys
+      - 66@oneclickvpnkeys
       - "  3"
       - 82.38.31.101:8080
       - "  4"
-      - "@filembad` 13"
+      - "@filembad` 9"
       - "***✅***@AR14N24b 4"
+      - 59@oneclickvpnkeys
       - 82.38.31.35:8080
       - "  5"
       - "***✅***@AR14N24b 5"
@@ -938,8 +997,12 @@ proxy-groups:
       - 141.164.45.187:7001
       - "***✅***@AR14N24b 9"
       - 192.124.176.95:8388
+      - 92.114.51.173:443
+      - "@filembad` 10"
+      - "***✅***@AR14N24b 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - 38.180.2.141:5499
-      - "@filembad` 14"
+      - "@filembad` 11"
   - name: دانلود منیجر 📥
     type: select
     proxies:

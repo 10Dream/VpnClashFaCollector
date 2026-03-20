@@ -465,13 +465,114 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 46@oneclickvpnkeys, server: 77.91.68.70, port: 55983, type: vless, tls: true, packet-encoding: xudp, uuid: f667a096-5231-4cfb-8759-92bb32473139, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg, short-id: 0e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.12.143.191:20329, server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6217", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 28@oneclickvpnkeys, server: 94.232.247.168, port: 41360, type: vless, tls: true, packet-encoding: xudp, uuid: e16a35ea-6715-4e75-9845-d20358bd0876, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU, short-id: 1aab45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64@oneclickvpnkeys, server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: e332f028-d343-5b44-8016-b3130f39e133, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84@oneclickvpnkeys, server: 138.124.186.80, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: tr2.rhino.bottm.security-gmp.rhinnoo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e370930f-fa08-474c-b4c2-a6ca7885ecf7, host: tr2.rhino.bottm.security-gmp.rhinnoo.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.167.197.59:23335, server: 104.167.197.59, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 69@oneclickvpnkeys, server: 104.167.197.59, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 48@oneclickvpnkeys, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 11@oneclickvpnkeys, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: emergency-5680.carpet-carpet-carped.ir, port: 5680, type: vless, tls: true, packet-encoding: xudp, uuid: e40ba39e-2fe3-4078-9b50-baf1b56d14c5, host: emergency-5680.carpet-carpet-carped.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🚩4", server: emergency-5680.carpet-carpet-carped.ir, port: 5680, type: vless, tls: true, packet-encoding: xudp, uuid: e40ba39e-2fe3-4078-9b50-baf1b56d14c5, host: emergency-5680.carpet-carpet-carped.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: emergency-5680.carpet-carpet-carped.ir, port: 5680, type: vless, tls: true, packet-encoding: xudp, uuid: e40ba39e-2fe3-4078-9b50-baf1b56d14c5, host: emergency-5680.carpet-carpet-carped.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 90@oneclickvpnkeys, server: 172.64.229.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e47eba6b-05f1-46d9-82e1-0d145faa7d53, servername: xiaoli0772.ccwu.cc, network: ws, ws-opts: {path: /socks5=123:123@8.210.81.59:3060, headers: {Host: xiaoli0772.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 83@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh21v7.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84@oneclickvpnkeys 2, server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh29v6.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 89.169.130.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824791-cd81-43fa-81f5-5bac83eb8566, servername: tunnel.vk-apps.com, host: tunnel.vk-apps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qlBuG9tkbHHhJOc7RIL4khlYZB-4UD3SRHTiA09BNzA, short-id: 20d1a5ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 2", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Saministamm", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: Si.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: e506be51-aef2-4ebc-b703-4b3c1be890cf, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🌪***-@SPEEDS_VPN1`", server: q.panel.digikalapro.ir, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: e51a6f44-8fc3-402b-889a-405c7228ad5c, network: ws, ws-opts: {path: /Hellshop, headers: {Host: ikcosales.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: q.panel.digikalapro.ir, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: e51a6f44-8fc3-402b-889a-405c7228ad5c, network: ws, ws-opts: {path: /Hellshop, headers: {Host: ikcosales.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: freak.gexar.top, port: 45062, type: vless, tls: true, packet-encoding: xudp, uuid: e54c6faf-3f0a-4186-9bb8-8dd9cea2ad40, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: freak.gexar.top, port: 45062, type: vless, tls: true, packet-encoding: xudp, uuid: e54c6faf-3f0a-4186-9bb8-8dd9cea2ad40, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🚀5", server: freak.gexar.top, port: 45062, type: vless, tls: true, packet-encoding: xudp, uuid: e54c6faf-3f0a-4186-9bb8-8dd9cea2ad40, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🚀7", server: freak.gexar.top, port: 45062, type: vless, tls: true, packet-encoding: xudp, uuid: e54c6faf-3f0a-4186-9bb8-8dd9cea2ad40, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: freak.gexar.top, port: 45062, type: vless, tls: true, packet-encoding: xudp, uuid: e54c6faf-3f0a-4186-9bb8-8dd9cea2ad40, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freefamily.shop:8443, server: freefamily.shop, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e67ceb89-26d2-4718-ac40-9e072eee39f9, network: ws, ws-opts: {path: /ws, headers: {Host: cdn.freefamily.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: freefamily.shop, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e67ceb89-26d2-4718-ac40-9e072eee39f9, network: ws, ws-opts: {path: /ws, headers: {Host: cdn.freefamily.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: freefamily.shop, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e67ceb89-26d2-4718-ac40-9e072eee39f9, network: ws, ws-opts: {path: /ws, headers: {Host: cdn.freefamily.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 3", server: freefamily.shop, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e67ceb89-26d2-4718-ac40-9e072eee39f9, network: ws, ws-opts: {path: /ws, headers: {Host: cdn.freefamily.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 81.12.34.37:8080, server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 81.12.34.37:8080 2, server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 4", server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15@oneclickvpnkeys`, server: sc-thenetherlands2.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e73df646-1f62-41bf-8c50-653497d603d0, network: ws, ws-opts: {path: /vless/, headers: {Host: sc-thenetherlands2.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e8003cec-f185-4640-9433-fd4a389377fc, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18@oneclickvpnkeys, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freak.gexar.top:30107, server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 5", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 15", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🧨2", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freak.gexar.top:30107 2, server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 16", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 6", server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 5", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 109.120.189.174:443, server: 109.120.189.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e928d85d-f223-03e8-a1d2-a56e9fbd50e0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 17", server: 109.120.189.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e928d85d-f223-03e8-a1d2-a56e9fbd50e0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 79@oneclickvpnkeys, server: 109.120.189.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e928d85d-f223-03e8-a1d2-a56e9fbd50e0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 6", server: 109.120.189.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e928d85d-f223-03e8-a1d2-a56e9fbd50e0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 sg1.tangnin.top:1443, server: sg1.tangnin.top, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: ebb58926-84cf-460a-b6ce-b69656fcfcce, servername: sg1.tangnin.top, network: ws, ws-opts: {path: /, headers: {Host: sg1.tangnin.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 28@oneclickvpnkeys 2, server: sg1.tangnin.top, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: ebb58926-84cf-460a-b6ce-b69656fcfcce, servername: sg1.tangnin.top, network: ws, ws-opts: {path: /, headers: {Host: sg1.tangnin.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: s1.fastsnap.info:29253, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 18", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 7", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 65@oneclickvpnkeys, server: 193.233.49.120, port: 34046, type: vless, tls: true, packet-encoding: xudp, uuid: ece73d96-ef1e-4f1e-8f78-7db8ab3ecda4, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw, short-id: de636ea175ff8ccc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 70@oneclickvpnkeys, server: 104.24.68.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ed0e05af-49ab-4ea8-a39c-634855811b03, servername: wild-grass-1917.tmpduardoolfsonerluke15.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: wild-grass-1917.tmpduardoolfsonerluke15.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@, server: sv2.cerberusn.info, port: 36734, type: vless, tls: true, packet-encoding: xudp, uuid: ed2050bd-a203-452e-b947-d3038c033fc4, host: sv2.cerberusn.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee248e40-9468-4ef6-81b7-707a1e47c54a, servername: 639073677243557970.camry-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: /yaeungws, headers: {Host: 639073677243557970.camry-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 19", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 20", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 7", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 21", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🚩6", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.12.114.73:8443, server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 22", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 8", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 23", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 3033", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 8", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 78@oneclickvpnkeys, server: 178.173.250.59, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f2a806c6-f36b-4cd9-8bb6-7addb218ad2d, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.158.218.63:443, server: 94.158.218.63, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f2a806c6-f36b-4cd9-8bb6-7addb218ad2d, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: farzandeiran.iransalar.top:41316, server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 24", server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 25", server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🧨7", server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 26", server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 56@oneclickvpnkeys, server: 104.16.108.114, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: f3f47d83-2966-4743-aaa6-aad34189f7e1, servername: 52yunwang.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: 52yunwang.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 50@oneclickvpnkeys, server: 109.120.189.220, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f4ab40c6-3f49-0bb8-83ac-24362c278c06, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 71@oneclickvpnkeys, server: 5.188.140.109, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f4ab40c6-3f49-0bb8-83ac-24362c278c06, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 27", server: kmn.liara.run, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5b788f6-9058-49d8-8e0c-ca3548cd5625, servername: kmn.liara.run, alpn: [http%2F1.1], network: ws, ws-opts: {path: /api/add/2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG, headers: {Host: kmn.liara.run}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 28", server: blog.nodemodule.sbs, port: 24162, type: vless, tls: true, packet-encoding: xudp, uuid: f60698d0-61c7-4377-87b5-2ebdd1fceb36, host: blog.nodemodule.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 61@oneclickvpnkeys, server: 31.129.22.64, port: 47910, type: vless, tls: true, packet-encoding: xudp, uuid: f651b25b-0a6a-4954-910f-7c07a1f6f664, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ, short-id: d194cf18101d98de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: s3.333ina.ir:2086, server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 29", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 9", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 30", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 66@oneclickvpnkeys, server: 85.215.149.151, port: 43881, type: vless, tls: true, packet-encoding: xudp, uuid: f6eb5903-35ae-42d0-b60a-9e01e51e6d99, servername: amazon.com, host: amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0OjbaFdJ3LVEpRBR4dfX2dnZK5ZdBGK58lKbvPaABg8, short-id: 6b7294d7b5ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de-5.vpnd.io:43881, server: de-5.vpnd.io, port: 43881, type: vless, tls: true, packet-encoding: xudp, uuid: f6eb5903-35ae-42d0-b60a-9e01e51e6d99, servername: amazon.com, host: amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0OjbaFdJ3LVEpRBR4dfX2dnZK5ZdBGK58lKbvPaABg8, short-id: 6b7294d7b5ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54@oneclickvpnkeys, server: de-5.vpnd.io, port: 43881, type: vless, tls: true, packet-encoding: xudp, uuid: f6eb5903-35ae-42d0-b60a-9e01e51e6d99, servername: amazon.com, host: amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0OjbaFdJ3LVEpRBR4dfX2dnZK5ZdBGK58lKbvPaABg8, short-id: 6b7294d7b5ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: Pars.dl3xames.ir, port: 6666, type: vless, tls: true, packet-encoding: xudp, uuid: f744ecbf-174b-41b4-b0e6-b4f1175f9821, host: Pars.dl3xames.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 31", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 185.153.181.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: fi1.cyphervpn.pro, host: fi1.cyphervpn.pro, path: /, reality-opts: {public-key: z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 10@oneclickvpnkeys, server: bg1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: bg1.cyphervpn.pro, host: bg1.cyphervpn.pro, path: /, reality-opts: {public-key: mjyodFglgnFdQFt4F-b1-ckI9y5f1h9IpI5lSiOwdRQ, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 14@oneclickvpnkeys, server: de1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: de1.cyphervpn.pro, host: de1.cyphervpn.pro, path: /, reality-opts: {public-key: ouxkHUnIU-Km_w7rq0F_m9CWc3mFDSbaGszGryxiJwI, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -481,31 +582,35 @@ proxies:
   - {name: 🇳🇱 nl1.cyphervpn.pro:443, server: nl1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: nl1.cyphervpn.pro, host: nl1.cyphervpn.pro, path: /, reality-opts: {public-key: YW-C1ihJAmuzFtvNLUggNlEh86DQm8jvfrJ-wMj7XQY, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93@oneclickvpnkeys, server: nl1.cyphervpn.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: nl1.cyphervpn.pro, host: nl1.cyphervpn.pro, path: /, reality-opts: {public-key: YW-C1ihJAmuzFtvNLUggNlEh86DQm8jvfrJ-wMj7XQY, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.10.6:1234, server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 32", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.10.6:1234 2, server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 33", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 29@oneclickvpnkeys, server: nl.himikvpn.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7f18360-fbdf-45b5-93f4-4e47a29e595b, servername: smartcaptcha.yandexcloud.net, host: smartcaptcha.yandexcloud.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Ct3AxMhnoWsGjYtm1shMS0HTF_UoEJSeiyLT4UcAQB4, short-id: fbf1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: sub.himikvpn.online:8443, server: sub.himikvpn.online, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f7f18360-fbdf-45b5-93f4-4e47a29e595b, servername: pimg.mycdn.me, host: pimg.mycdn.me, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qJHmudCfwVqVt8M5g3JHxeI_IKUUIrfb0PIVFG_NJU4, short-id: 60e0c27fcabb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: emg5.saipasamandemg5.sbs, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: f8aa1288-08a6-4a73-9589-fa63a294a89f, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 91.108.145.209, port: 32374, type: vless, tls: true, packet-encoding: xudp, uuid: fa02d69f-3685-4abd-b88e-5e1b24d15caa, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 91.108.145.209, port: 32374, type: vless, tls: true, packet-encoding: xudp, uuid: fa02d69f-3685-4abd-b88e-5e1b24d15caa, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 34", server: emg5.saipasamandemg5.sbs, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: f8aa1288-08a6-4a73-9589-fa63a294a89f, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 35", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.90.74.46:443, server: 45.90.74.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE, short-id: a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 10", server: 45.90.74.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE, short-id: a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 36", server: 91.108.145.209, port: 32374, type: vless, tls: true, packet-encoding: xudp, uuid: fa02d69f-3685-4abd-b88e-5e1b24d15caa, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 37", server: 91.108.145.209, port: 32374, type: vless, tls: true, packet-encoding: xudp, uuid: fa02d69f-3685-4abd-b88e-5e1b24d15caa, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🧨3", server: 91.108.145.209, port: 32374, type: vless, tls: true, packet-encoding: xudp, uuid: fa02d69f-3685-4abd-b88e-5e1b24d15caa, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 77.83.245.191, port: 38369, type: vless, tls: true, packet-encoding: xudp, uuid: fa57c96c-472b-4aab-9979-06eab1da5acb, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 4ynGHy1A84wWYiNSze12d50a6K5DbvjiJoArnmikLyE, short-id: f5e3d58417879be5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 38", server: 77.83.245.191, port: 38369, type: vless, tls: true, packet-encoding: xudp, uuid: fa57c96c-472b-4aab-9979-06eab1da5acb, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 4ynGHy1A84wWYiNSze12d50a6K5DbvjiJoArnmikLyE, short-id: f5e3d58417879be5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🥶4", server: 65.21.145.122, port: 25709, type: vless, tls: true, packet-encoding: xudp, uuid: fa803a1e-2ec6-4dc4-a4bd-3718fd48a442, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 65.21.145.122, port: 25709, type: vless, tls: true, packet-encoding: xudp, uuid: fa803a1e-2ec6-4dc4-a4bd-3718fd48a442, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 65.21.145.122, port: 25709, type: vless, tls: true, packet-encoding: xudp, uuid: fa803a1e-2ec6-4dc4-a4bd-3718fd48a442, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.15.128.75:8443, server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir, port: 54268, type: vless, tls: true, packet-encoding: xudp, uuid: fb5c6de7-b0d0-47a0-a426-cdc04375ae52, host: testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 39", server: 65.21.145.122, port: 25709, type: vless, tls: true, packet-encoding: xudp, uuid: fa803a1e-2ec6-4dc4-a4bd-3718fd48a442, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 40", server: 65.21.145.122, port: 25709, type: vless, tls: true, packet-encoding: xudp, uuid: fa803a1e-2ec6-4dc4-a4bd-3718fd48a442, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 41", server: testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir, port: 54268, type: vless, tls: true, packet-encoding: xudp, uuid: fb5c6de7-b0d0-47a0-a426-cdc04375ae52, host: testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4@oneclickvpnkeys, server: 109.120.180.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95@oneclickvpnkeys`, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.109.120.119:443, server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58@oneclickvpnkeys, server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 47@oneclickvpnkeys, server: 37.139.35.141, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: 513b0a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 50@oneclickvpnkeys, server: 89.23.117.204, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: spb2.frostbot.ru, host: spb2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: j0Ddyp0DuJqPWWLuDkUzbf3sxY63aSVUOYMMuvBNsgQ, short-id: e2117a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 49@oneclickvpnkeys, server: 194.87.44.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: nld10.frostbot.ru, host: nld10.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: bff3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 50@oneclickvpnkeys 2, server: 89.23.117.204, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: spb2.frostbot.ru, host: spb2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: j0Ddyp0DuJqPWWLuDkUzbf3sxY63aSVUOYMMuvBNsgQ, short-id: e2117a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys, server: pass.enigmabot.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: star.jeyranim.ir:2053, server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 42", server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -522,13 +627,114 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -538,44 +744,149 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -585,44 +896,149 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -632,31 +1048,35 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -672,13 +1092,114 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -688,44 +1209,149 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -735,44 +1361,149 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 46@oneclickvpnkeys
+      - 45.12.143.191:20329
       - "@filembad`"
+      - "@v2rayconfigamir 6217"
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 28@oneclickvpnkeys
+      - 64@oneclickvpnkeys
+      - 84@oneclickvpnkeys
+      - "@filembad` 2"
+      - 104.167.197.59:23335
+      - 69@oneclickvpnkeys
+      - 48@oneclickvpnkeys
+      - 11@oneclickvpnkeys
+      - "@filembad` 3"
+      - "@tel_melli🚩4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 90@oneclickvpnkeys
+      - 83@oneclickvpnkeys
+      - 87@oneclickvpnkeys
+      - 84@oneclickvpnkeys 2
+      - "@filembad` 4"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b` 2"
+      - "@Saministamm"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@filembad` 6"
+      - "@filembad` 7"
+      - "@tel_melli🚀5"
+      - "@tel_melli🚀7"
+      - "@filembad` 8"
+      - freefamily.shop:8443
+      - "@filembad` 9"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b` 3"
+      - 81.12.34.37:8080
+      - "@filembad` 10"
+      - 81.12.34.37:8080 2
+      - "@filembad` 11"
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b` 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
+      - "@filembad` 12"
+      - 15@oneclickvpnkeys`
+      - "@filembad` 13"
+      - 18@oneclickvpnkeys
+      - freak.gexar.top:30107
+      - "@filembad` 14"
+      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b` 5"
+      - "@filembad` 15"
+      - "@tel_melli🧨2"
+      - freak.gexar.top:30107 2
+      - "@filembad` 16"
+      - "***✅***@AR14N24b` 6"
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 109.120.189.174:443
+      - "@filembad` 17"
+      - 79@oneclickvpnkeys
+      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - 🇸🇬 sg1.tangnin.top:1443
+      - 28@oneclickvpnkeys 2
+      - s1.fastsnap.info:29253
+      - "@filembad` 18"
+      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b` 7"
+      - 65@oneclickvpnkeys
+      - 70@oneclickvpnkeys
+      - قطع شدی بیا چنل نتا دارن ملی میکنن / proxygodratmand@
+      - 192.200.160.20:443
+      - "@filembad` 19"
+      - "@filembad` 20"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@filembad` 21"
+      - "@tel_melli🚩6"
+      - 45.12.114.73:8443
+      - "@filembad` 22"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - "@filembad` 23"
+      - www.speedtest.net:443
+      - "@v2rayconfigamir 3033"
+      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b` 8"
+      - 78@oneclickvpnkeys
+      - 94.158.218.63:443
+      - farzandeiran.iransalar.top:41316
+      - "@filembad` 24"
+      - "***✅***@AR14N24b 7"
+      - "@filembad` 25"
+      - "@tel_melli🧨7"
+      - "@filembad` 26"
+      - 56@oneclickvpnkeys
+      - 50@oneclickvpnkeys
+      - 71@oneclickvpnkeys
+      - "@filembad` 27"
+      - "@filembad` 28"
+      - 61@oneclickvpnkeys
+      - s3.333ina.ir:2086
+      - "@filembad` 29"
+      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b` 9"
+      - "@filembad` 30"
       - 66@oneclickvpnkeys
       - 🇩🇪 de-5.vpnd.io:43881
       - 54@oneclickvpnkeys
-      - "@filembad` 2"
-      - "@filembad` 3"
+      - "@filembad` 31"
       - 2@oneclickvpnkeys
       - 10@oneclickvpnkeys
       - 14@oneclickvpnkeys
@@ -782,31 +1513,35 @@ proxy-groups:
       - 🇳🇱 nl1.cyphervpn.pro:443
       - 93@oneclickvpnkeys
       - 45.139.10.6:1234
-      - "@filembad` 4"
-      - "***✅***@AR14N24b"
+      - "@filembad` 32"
+      - "***✅***@AR14N24b 9"
       - 45.139.10.6:1234 2
-      - "@filembad` 5"
-      - "***✅***@AR14N24b 2"
+      - "@filembad` 33"
+      - "***✅***@AR14N24b 10"
       - 29@oneclickvpnkeys
       - sub.himikvpn.online:8443
-      - "@filembad` 6"
-      - "@filembad` 7"
-      - "@filembad` 8"
-      - "@filembad` 9"
+      - "@filembad` 34"
+      - "@filembad` 35"
+      - 45.90.74.46:443
+      - "***✅***@AR14N24b` 10"
+      - "@filembad` 36"
+      - "@filembad` 37"
       - "@tel_melli🧨3"
-      - "@filembad` 10"
+      - "@filembad` 38"
       - "@tel_melli🥶4"
-      - "@filembad` 11"
-      - "@filembad` 12"
-      - 45.15.128.75:8443
-      - "@filembad` 13"
+      - "@filembad` 39"
+      - "@filembad` 40"
+      - "@filembad` 41"
       - 4@oneclickvpnkeys
+      - 95@oneclickvpnkeys`
       - 193.109.120.119:443
       - 58@oneclickvpnkeys
-      - 47@oneclickvpnkeys
-      - 50@oneclickvpnkeys
+      - 49@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
       - 5@oneclickvpnkeys
-      - "@filembad` 14"
+      - star.jeyranim.ir:2053
+      - "@filembad` 42"
+      - "***✅***@AR14N24b 11"
   - name: دانلود منیجر 📥
     type: select
     proxies:
