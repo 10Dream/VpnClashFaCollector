@@ -19,7 +19,6 @@ proxies:
   - {name: 43.207.232.176:921, server: 43.207.232.176, port: 921, type: trojan, password: 86e150eb21c6faee48e81d496d7f61c2, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.95.208.150:14919, server: 54.95.208.150, port: 14919, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.18.28:443, server: 58.152.18.28, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: apt-magpie.rooster465.autos:443, server: apt-magpie.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: apt-magpie.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: caring-ghoul.rooster465.autos:443, server: caring-ghoul.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: engaged-ram.rooster465.autos:443, server: engaged-ram.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: engaging-toucan.rooster465.autos:443, server: engaging-toucan.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: engaging-toucan.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
@@ -28,7 +27,6 @@ proxies:
   - {name: growing-tuna.rooster465.autos:443, server: growing-tuna.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: outgoing-ladybird.rooster465.autos:443, server: outgoing-ladybird.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: outgoing-ladybird.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: select-marmoset.rooster465.autos:443, server: select-marmoset.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: select-marmoset.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: upright-rhino.rooster465.autos:443, server: upright-rhino.rooster465.autos, port: 443, type: trojan, password: IL37892054, sni: upright-rhino.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.159.140.89:22222, server: 18.159.140.89, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -81,7 +79,6 @@ proxies:
   - {name: 193.109.120.119:443, server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AE", server: cg1c15.waimaojd.com, port: 443, type: vmess, uuid: 4378a67e-d277-44b5-a99b-a947fff1ee21, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c15.waimaojd.com}}, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: m.cnmjin.net, port: 16617, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: abm96f00fby3.jkhkgj.xyz, port: 80, type: vmess, uuid: 0f868002-5230-45fb-be23-0fd0ed9bbdc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /market/jp1, headers: {Host: tms.dingtalk.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: planb.mojcn.com, port: 16618, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: t.cnmjcn.cyou, port: 16618, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 3", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -109,7 +106,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -118,7 +114,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -171,7 +166,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -199,7 +193,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -208,7 +201,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -261,7 +253,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -289,7 +280,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -298,7 +288,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -351,7 +340,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -378,7 +366,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -387,7 +374,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -440,7 +426,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -467,7 +452,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -476,7 +460,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -529,7 +512,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -556,7 +538,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -565,7 +546,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -618,7 +598,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3
@@ -667,7 +646,6 @@ proxy-groups:
       - 43.207.232.176:921
       - 54.95.208.150:14919
       - 58.152.18.28:443
-      - apt-magpie.rooster465.autos:443
       - caring-ghoul.rooster465.autos:443
       - engaged-ram.rooster465.autos:443
       - engaging-toucan.rooster465.autos:443
@@ -676,7 +654,6 @@ proxy-groups:
       - growing-tuna.rooster465.autos:443
       - outgoing-ladybird.rooster465.autos:443
       - select-marmoset.rooster465.autos:443
-      - upright-rhino.rooster465.autos:443
       - 18.159.140.89:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
@@ -729,7 +706,6 @@ proxy-groups:
       - 193.109.120.119:443
       - "[openproxylist.com] vmess-AE"
       - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 🇸🇬 [openproxylist.com] vmess-SG 3

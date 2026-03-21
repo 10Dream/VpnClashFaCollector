@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: 🇩🇪 DE@oneclickvpnkeys`, server: ip1.758733.xyz, port: 10088, type: tuic, uuid: 9bbd1f42-7ae7-4239-bd10-a68de95e3295, password: dongtaiwang.com, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2🇩🇪@oneclickvpnkeys, server: ip1.758733.xyz, port: 10088, type: tuic, uuid: 9bbd1f42-7ae7-4239-bd10-a68de95e3295, password: dongtaiwang.com, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -12,6 +13,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: ♻️ 自动选择
     type: url-test
@@ -19,6 +21,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: 🌍 国外媒体
     type: select
@@ -26,24 +29,28 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
   - name: 🎯 全球直连
     type: select
@@ -72,6 +79,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 🇩🇪 DE@oneclickvpnkeys`
       - 2🇩🇪@oneclickvpnkeys
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

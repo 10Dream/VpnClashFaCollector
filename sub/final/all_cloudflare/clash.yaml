@@ -486,7 +486,6 @@ proxies:
   - {name: 9@oneclickvpnkeys, server: 104.21.89.4, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 636de463-b509-4631-adc6-400b21733278, network: ws, ws-opts: {path: /l5s2vgexcus7b8c4, headers: {Host: index.harmony610.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️‍🗨️34@oneclickvpnkeys, server: 104.18.34.21, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 70@oneclickvpnkeys, server: 172.64.153.235, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 47@oneclickvpnkeys, server: 172.64.153.235, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 104.17.106.12, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fb65356-788e-4118-8280-148ec6eca18a, servername: xn--cz8h.pages.dev, network: ws, ws-opts: {path: pyip=proxyip.cmliussss.net, headers: {Host: xn--cz8h.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84@oneclickvpnkeys, server: 104.17.53.9, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fb65356-788e-4118-8280-148ec6eca18a, servername: xn--cz8h.pages.dev, network: ws, ws-opts: {path: pyip=proxyip.cmliussss.net, headers: {Host: xn--cz8h.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️‍🗨️32@oneclickvpnkeys, server: 104.18.32.47, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 787b3724-16c8-4e58-a038-2b8013cdc6d9, network: ws, ws-opts: {path: /eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=, headers: {Host: c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -511,7 +510,6 @@ proxies:
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 5", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 6", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 7", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443 2, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -523,9 +521,9 @@ proxies:
   - {name: 62@oneclickvpnkeys, server: 162.159.152.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c8495c2c-9e10-4f24-90d8-c8c4a3e8bf9f, servername: 020.eleCtrOcellCo-cf-020.WORKeRS.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoicnUxOEdKZ3dDeDYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 020.eleCtrOcellCo-cf-020.WORKeRS.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 104.18.2.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️‍🗨️17@oneclickvpnkeys, server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 104.19.173.68, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /fast, headers: {Host: hio-awx.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys, server: 104.24.55.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d435363f-b221-428b-94d2-8d0db0113b60, servername: fancy-disk-fbb6.tmpesterouglas.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: fancy-disk-fbb6.tmpesterouglas.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 83@oneclickvpnkeys, server: 104.24.55.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d435363f-b221-428b-94d2-8d0db0113b60, servername: fancy-disk-fbb6.tmpesterouglas.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: fancy-disk-fbb6.tmpesterouglas.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 48@oneclickvpnkeys, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.146.118:8443, server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7010", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -570,7 +568,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -595,7 +592,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -607,9 +603,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"
@@ -644,7 +640,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -669,7 +664,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -681,9 +675,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"
@@ -718,7 +712,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -743,7 +736,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -755,9 +747,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"
@@ -801,7 +793,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -826,7 +817,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -838,9 +828,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"
@@ -875,7 +865,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -900,7 +889,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -912,9 +900,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"
@@ -949,7 +937,6 @@ proxy-groups:
       - 9@oneclickvpnkeys
       - ️‍🗨️34@oneclickvpnkeys
       - 70@oneclickvpnkeys
-      - 47@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - 84@oneclickvpnkeys
       - ️‍🗨️32@oneclickvpnkeys
@@ -974,7 +961,6 @@ proxy-groups:
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - "@filembad` 5"
       - "***✅***@AR14N24b 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "@filembad` 6"
       - "@filembad` 7"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
@@ -986,9 +972,9 @@ proxy-groups:
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
       - ️‍🗨️17@oneclickvpnkeys
+      - "@filembad` 10"
       - 23@oneclickvpnkeys
       - 83@oneclickvpnkeys
-      - 48@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - 172.64.146.118:8443
       - "@v2rayconfigamir 7010"

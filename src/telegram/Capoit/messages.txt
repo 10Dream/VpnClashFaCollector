@@ -1,5 +1,45 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-03-21 13:56:47 UTC
+بروزرسانی: 2026-03-21 19:06:03 UTC
+
+### 🕒 2026-03-21 18:32:50 UTC
+فعال ترین کانال خبری تلگرام تو خاموشی اینترنت
+[@Khabar](https://t.me/+ILMn1F3IrwE2ZTg8)
+
+---
+
+### 🕒 2026-03-21 16:23:08 UTC
+Slipnet
+`slipnet-enc://AcEhOAyh94XT1FoEaQx4wc7LG59iCeB/H068tXzsauxyIaW1+5fXzvX7lTkGkNbhlyoXReWnjKeuHsu3LNKBXMgPrzHFV6m+4BcFXTNEy91Sy1+DAxgDYpFoJ6nefjrjCzXY3yQblMUlEPxLDR5mvfGhPoPUbUBu7Oyfn/vCbSt3c+6LD0GJzoGFjlejm1Ur7Fp1PY7t2Ltmnp//ikWGxhr+YLdd6xOD5bmQhRRjmW3s3tan4uCFyrBc8um8C+Dh+N8ej/k/bQ0jC24kkiIHGg5acVnVFWnFI4N4yC9JIEg1gcjLFaOYhH3h0ejfs/GWtCnW5iZKtVuZeoS5T7dN1VFHIPT+6vW7HV6wTte2BGt9M2HEfYy784ld0tc9DsCJQh/uvjVzJImWG47wxv0wc2KaVzfYoW5JfbgXepdGQsxSG82nERjUmxgARLs113xTsNQ3NkQ3JWA=`
+عدده روش رو 60 تنظیم کنید.
+[https://t.me/socks?server=127.0.0.1&port=1080&user=%40@Capoit](https://t.me/socks?server=127.0.0.1&port=1080&user=%40@Capoit)
+[@Capoit](https://t.me/Capoit)
+
+---
+
+### 🕒 2026-03-21 16:20:39 UTC
+Proxy
+[https://t.me/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d](https://t.me/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d)
+[https://t.me/proxy?server=Fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=Fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+[https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+[https://t.me/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d](https://t.me/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d)
+[@Capoit](https://t.me/Capoit)
+
+---
+
+### 🕒 2026-03-21 13:57:10 UTC
+***🟢***
+**عکس شماره 1، تنظیماتی که باید در SlipNet اعمال کنید :**
+- فعال کردن Auto-reconnect 
+- فعال کردن Disable Quick 
+- عدد 512 رو در کادر VPN MTU قرار بدید.
+- فعال کردن Enable split tunneling و انتخاب تلگرام برای تانل شدن (سایر برنامه‌ها نباید تانل بشن، تا سرعت در تلگرام کمی بهتر بشه)
+-عدد Max Channels رو 32 بگذارید.
+***🔴***
+**عکس شماره 2، تغییر تنظیمات کانفیگ :**
+بعد از وارد کردن کانفیگ، روی قلم کانفیگ موردنظر بزنید و DNS Query Size رو بر روی 50 یا 60 قرار دهید.
+[@Capoit](https://t.me/Capoit)
+
+---
 
 ### 🕒 2026-03-21 13:20:37 UTC
 Slipnet
@@ -143,42 +183,6 @@ Slipnet
 
 ### 🕒 2026-03-18 23:30:03 UTC
 اگر خارج‌نشین هستید و میخواید با خانواده‌‌تون در ایران از طریق پیام‌رسان‌های ایرانی ارتباط بگیرید، به آیپی ارمنستان متصل بشید. اکسپرس، ایکس ‌وی‌پی‌ان، ترکی‌ وی‌‌پی‌ان و... آیپی ارمنستان دارن.
-
----
-
-### 🕒 2026-03-18 16:21:21 UTC
-متد جدید رو تست کردم به خوبی داره کار می‌کنه
-مرحله اول یک سرور dnstt خوب داشته باشین، ترجیها سرور شخصی تون باشه
-تنظیمات Dnstt توی اسلیپ نت 
-***👇***
-DNS query size : 60
-DNS Resolver : 
-`2.188.21.20:53`
-تنظیمات خود اپ slipnet 
-***👇***
-Proxy mode
-Auto reconnect
-این دوتا روشن کنید
-پایین تر listen IP روی 
-***👇***
-[127.0.0.1](http://127.0.0.1/)
-و پایین‌تر بخش Max channel هم روی 
-***👇***
-32
-ست کنید 
-***✅***
-به کانفیگ خودتون متصل بشید
-و توی تلگرام هم به این پروکسی متصل بشید 
-***👇***
-[https://t.me/socks?server=127.0.0.1&port=1080](https://t.me/socks?server=127.0.0.1&port=1080)
-و تمام، صبر کنید توی تلگرام تا اتصال بر قرار بشه!
-حتما از آخرین نسخه Slipnet استفاده کنید 
-***👇***
-[لینک دانلود داخلی اسلیپ نت](https://my.files.ir/drive/s/yVBz8dXXjTcO6wTTNiZP529PUAqdnk)
-نکته بسیار مهم پایانی 
-***👇***
-این روش روی سرور شخصی خودتون پایدارتره اگه میتونید روی سرور شخصی استفاده کنید!
-[@Capoit](https://t.me/Capoit)
 
 ---
 

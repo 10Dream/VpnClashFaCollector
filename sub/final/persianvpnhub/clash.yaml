@@ -472,16 +472,12 @@ proxies:
   - {name: "  4", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  5", server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  6", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "  7", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6319", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2362", server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@, server: 185.143.235.5, port: 443, type: trojan, password: biS%28YrwB%2C3L%24, sni: mydigipay.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  8", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "  9", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "  10", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "  11", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "  12", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "  13", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "  7", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "  8", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "  9", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9472", server: www.host-tracker.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1720", server: 54.37.18.204, port: 443, type: trojan, password: opentunnel.net-english30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9387", server: 15.204.9.172, port: 443, type: trojan, password: opentunnel.net-usa30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
@@ -494,31 +490,29 @@ proxies:
   - {name: 18.159.140.89:22222, server: 18.159.140.89, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.226.217:22222, server: 18.194.226.217, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.58.45:22222, server: 18.195.58.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.120.169.133:22222, server: 3.120.169.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.114.26:22222, server: 3.69.114.26, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.181.123.75:22222, server: 35.181.123.75, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.241.230:22222, server: 35.181.241.230, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  14", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2, server: 45.136.126.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203b0744-f943-4bba-a8d2-cab635467c46, servername: google.com, host: google.com, path: /, reality-opts: {public-key: _L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0, short-id: d020b2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3, server: 185.125.103.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.46.125:22222, server: 35.181.46.125, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  10", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2979", server: 77.92.145.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: e499f276e7bd6420}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4542", server: 212.227.95.106, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 438f81f8-aa18-4261-820a-87ee42122d0e, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc, short-id: a0cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8158", server: 85.193.82.212, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: 459059e1-8827-4e7f-a979-c353543eeafe, servername: max.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: max.ru}, reality-opts: {public-key: 9i3QE5zmmrr_kl0gO9P-knIp5XPlxsZcBjzrrKJlKSw, short-id: 58}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  15", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  16", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  11", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  12", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8047", server: 178.33.161.186, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6364", server: 5.252.21.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2238", server: 89.110.115.104, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4630", server: 91.84.105.40, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @app_bedal", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4479", server: 45.12.75.242, port: 26424, type: vless, tls: true, packet-encoding: xudp, uuid: 633f424e-2b11-48da-a6b3-a849dd71456f, servername: ya.ru, host: ya.ru, path: /, reality-opts: {public-key: l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0, short-id: 23103e1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  17", server: 152.53.51.29, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 50GB-v4- @unvisible_drops, server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 65964037-bec2-4fd7-b7c8-053047f48034, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4349", server: 45.136.128.175, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a, servername: kzcdn1.suio.me, host: kzcdn1.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4196", server: 91.84.126.28, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cabb434-f480-478a-9586-a5667167eeb1, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3724", server: us.jljd.xyz, port: 11225, type: vless, tls: true, packet-encoding: xudp, uuid: 6dfbef3b-f718-4053-806f-c9657e2fd943, servername: python.org, host: python.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk, short-id: fcc5f0e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7627", server: 82.202.137.97, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 723dc8f5-58a9-45c7-a15e-c0c7f68bfc54, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc, short-id: d037f6f67cc90016}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  18", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  19", server: 45.82.251.195, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  13", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  14", server: 45.82.251.195, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8027", server: 104.207.157.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: chinam.sylu.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: chinam.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6722", server: 172.233.121.202, port: 20205, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sheilabelinda.ndjp.net, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sheilabelinda.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2813", server: 188.132.192.194, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.ccwu.cc, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -530,9 +524,9 @@ proxies:
   - {name: "@v2rayconfigamir 7329", server: 8tf3qy.by-api-yandex.com, port: 10121, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg, short-id: 9c2a7d4e5f18b6a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1908", server: 77.83.245.135, port: 34205, type: vless, tls: true, packet-encoding: xudp, uuid: d37c7e48-2a8d-432f-a3ce-8da4cc203b2c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 50GB-v- @unvisible_drops, server: 185.143.233.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d75fb2d8-9d6d-4981-a3aa-7b4bee5d34f3, servername: alef.ir.oadeflantrogm.mapircdn.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.mapircdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  20", server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  21", server: de.vpnbase.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http, headers: {Host: de.vpnbase.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  15", server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  16", server: de.vpnbase.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http, headers: {Host: de.vpnbase.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6217", server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1038", server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: //, headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 50GB-v2- @unvisible_drops, server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e942f04b-4aae-4155-93d0-61fe03f24ec4, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -567,16 +561,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -589,31 +579,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -625,9 +613,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
@@ -652,16 +640,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -674,31 +658,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -710,9 +692,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
@@ -737,16 +719,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -759,31 +737,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -795,9 +771,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
@@ -831,16 +807,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -853,31 +825,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -889,9 +859,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
@@ -916,16 +886,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -938,31 +904,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -974,9 +938,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
@@ -1001,16 +965,12 @@ proxy-groups:
       - "  4"
       - "  5"
       - "  6"
-      - "  7"
       - "@v2rayconfigamir 6319"
       - "@v2rayconfigamir 2362"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "  7"
       - "  8"
       - "  9"
-      - "  10"
-      - "  11"
-      - "  12"
-      - "  13"
       - "@v2rayconfigamir 9472"
       - "@v2rayconfigamir 1720"
       - "@v2rayconfigamir 9387"
@@ -1023,31 +983,29 @@ proxy-groups:
       - 18.159.140.89:22222
       - 18.194.226.217:22222
       - 18.195.58.45:22222
+      - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 3.69.114.26:22222
-      - 35.181.123.75:22222
       - 35.181.241.230:22222
-      - "  14"
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - 35.181.46.125:22222
+      - "  10"
       - "@v2rayconfigamir 2979"
       - "@v2rayconfigamir 4542"
       - "@v2rayconfigamir 8158"
-      - "  15"
-      - "  16"
+      - "  11"
+      - "  12"
       - "@v2rayconfigamir 8047"
       - "@v2rayconfigamir 6364"
       - "@v2rayconfigamir 2238"
       - "@v2rayconfigamir 4630"
       - "@v2rayconfigamir 4479"
-      - "  17"
+      - 50GB-v4- @unvisible_drops
       - "@v2rayconfigamir 4349"
       - "@v2rayconfigamir 4196"
       - "@v2rayconfigamir 3724"
       - "@v2rayconfigamir 7627"
-      - "  18"
-      - "  19"
+      - "  13"
+      - "  14"
       - "@v2rayconfigamir 8027"
       - "@v2rayconfigamir 6722"
       - "@v2rayconfigamir 2813"
@@ -1059,9 +1017,9 @@ proxy-groups:
       - "@v2rayconfigamir 7329"
       - "@v2rayconfigamir 1908"
       - 50GB-v- @unvisible_drops
-      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
-      - "  20"
-      - "  21"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "  15"
+      - "  16"
       - "@v2rayconfigamir 6217"
       - "@v2rayconfigamir 1038"
       - 50GB-v2- @unvisible_drops
