@@ -468,6 +468,7 @@ proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@PewezaVPN, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080#@configraygan, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080 3, server: 127.0.0.1, port: 1080, type: socks5, username: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -476,12 +477,10 @@ proxies:
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.151.141.100:3333, server: 193.151.141.100, port: 3333, type: socks5, username: a, password: a, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.180.23.229:3030, server: 2.180.23.229, port: 3030, type: socks5, username: beiten393, password: !<str> 123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.32.13.141:6028, server: 37.32.13.141, port: 6028, type: socks5, username: mehdi, password: mehdi123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.50.41:8080, server: 78.157.50.41, port: 8080, type: socks5, username: Azir69b4549cc2afe, password: Azir69b4549cc2afe, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389 2, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b9096c09358, password: Azir69b9096c09358, skip-cert-verify: false, udp: true, tfo: false}
@@ -504,6 +503,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -512,12 +512,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
@@ -530,6 +528,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -538,12 +537,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
@@ -556,6 +553,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -564,12 +562,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
@@ -591,6 +587,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -599,12 +596,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
@@ -617,6 +612,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -625,12 +621,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
@@ -643,6 +637,7 @@ proxy-groups:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
+      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:10808
@@ -651,12 +646,10 @@ proxy-groups:
       - 171.22.27.147:1080
       - 176.65.242.179:1080
       - 193.151.141.100:3333
-      - 2.144.21.81:1080
       - 2.179.186.225:1080
       - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
-      - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
