@@ -6,11 +6,11 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.122.246.183:10808, server: 109.122.246.183, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1070, server: 127.0.0.1, port: 1070, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@PewezaVPN, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, username: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080 3, server: 127.0.0.1, port: 1080, type: socks5, username: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808 2, server: 127.0.0.1, port: 10808, type: socks5, username: "@vpn", password: "@vpn", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:8080, server: 127.0.0.1, port: 8080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -19,15 +19,15 @@ proxies:
   - {name: 193.151.141.100:3333, server: 193.151.141.100, port: 3333, type: socks5, username: a, password: a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.180.23.229:3030, server: 2.180.23.229, port: 3030, type: socks5, username: beiten393, password: !<str> 123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.32.13.141:6028, server: 37.32.13.141, port: 6028, type: socks5, username: mehdi, password: mehdi123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69ac1f7d3ac4c, password: Azir69ac1f7d3ac4c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.50.36:3389 2, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69b8ac9cba9e5, password: Azir69b8ac9cba9e5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.50.41:53, server: 78.157.50.41, port: 53, type: socks5, username: Azir69b8f8e8902db, password: Azir69b8f8e8902db, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69b8ac9cba9e5, password: Azir69b8ac9cba9e5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.50.41:8080, server: 78.157.50.41, port: 8080, type: socks5, username: Azir69b4549cc2afe, password: Azir69b4549cc2afe, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b8ac9cba9e5, password: Azir69b8ac9cba9e5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: socks3.nirvana-smoke.com:3389 2, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b9096c09358, password: Azir69b9096c09358, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: socks3.nirvana-smoke.com:3389 2, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b8ac9cba9e5, password: Azir69b8ac9cba9e5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: socks3.nirvana-smoke.com:3389 3, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b9096c09358, password: Azir69b9096c09358, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -35,11 +35,11 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -48,15 +48,15 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -64,11 +64,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -77,15 +77,15 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -93,11 +93,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -106,26 +106,26 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -134,26 +134,26 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -162,26 +162,26 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -190,15 +190,15 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -227,11 +227,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 0.0.0.0:1080
-      - 109.122.246.183:10808
       - 127.0.0.1:1070
       - 127.0.0.1:1080
       - 127.0.0.1:1080#@PewezaVPN
       - 127.0.0.1:1080 2
+      - 127.0.0.1:1080 3
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -240,15 +240,15 @@ proxy-groups:
       - 193.151.141.100:3333
       - 2.144.21.81:1080
       - 2.179.186.225:1080
+      - 2.180.23.229:3030
       - 37.32.13.141:6028
       - 46.245.94.249:1080
       - 78.157.50.36:3389
-      - 78.157.50.36:3389 2
-      - 78.157.50.41:53
       - 78.157.50.41:8080
       - 87.107.105.184:1080
       - socks3.nirvana-smoke.com:3389
       - socks3.nirvana-smoke.com:3389 2
+      - socks3.nirvana-smoke.com:3389 3
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
