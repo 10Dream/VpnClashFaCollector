@@ -469,7 +469,6 @@ proxies:
   - {name: 92.42.207.84:33342, server: 92.42.207.84, port: 33342, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:5zbwUCUkXlWvcRr+CwEd63gNGdeWabGweyu+xQuPx4U=, udp: true, tfo: false}
   - {name: 163.171.207.11:19688, server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: 57.129.95.38:11201, server: 57.129.95.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f54cdee10f8b25ce, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
@@ -484,7 +483,6 @@ proxies:
   - {name: 45.85.118.88:2053, server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: 45.85.118.88:2053 2, server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
   - {name: 185.143.235.5:443, server: 185.143.235.5, port: 443, type: trojan, password: biS%28YrwB%2C3L%24, sni: mydigipay.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.143.235.5:443 2, server: 185.143.235.5, port: 443, type: trojan, password: "biS%28YrwB,3L$", sni: mydigipay.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.21.40.34:443, server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
@@ -506,7 +504,7 @@ proxies:
   - {name: 18.195.58.45:22223, server: 18.195.58.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22223, server: 3.123.214.232, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22223, server: 3.124.155.41, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.72.160.56:22223, server: 3.72.160.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.114.26:22223, server: 3.69.114.26, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.123.75:22223, server: 35.181.123.75, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.25.205:22223, server: 51.45.25.205, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.80.221:22222, server: 13.36.80.221, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -522,10 +520,9 @@ proxies:
   - {name: 18.195.58.45:22222, server: 18.195.58.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.72.160.56:22222, server: 3.72.160.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.114.26:22222, server: 3.69.114.26, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.123.75:22222, server: 35.181.123.75, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.25.205:22222, server: 51.45.25.205, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.82.14.144:2025, server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: 13.36.80.221:22224, server: 13.36.80.221, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.186.179:22224, server: 13.37.186.179, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.195.57:22224, server: 13.38.195.57, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -539,13 +536,14 @@ proxies:
   - {name: 18.195.58.45:22224, server: 18.195.58.45, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22224, server: 3.123.214.232, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.155.41:22224, server: 3.124.155.41, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.72.160.56:22224, server: 3.72.160.56, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.114.26:22224, server: 3.69.114.26, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.123.75:22224, server: 35.181.123.75, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.25.205:22224, server: 51.45.25.205, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip2.xqfire.ir:811, server: vip2.xqfire.ir, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: 05a17ccb-a231-4e8c-af1a-810691c27d88, host: vip2.xqfire.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:41316, server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: 0945f741-d2cd-4e37-e235-021558deb307, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38.244.137.198:443, server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.206.231.59:41057, server: 185.206.231.59, port: 41057, type: vless, tls: true, packet-encoding: xudp, uuid: 0a63e301-2434-4b7c-8f31-a3c766d9ae8f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.144.20.69:443, server: 2.144.20.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fe7ab29-0c26-410b-9478-380060ec059c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: snt1.shahramv1.site:443, server: snt1.shahramv1.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14db8096-7800-4cb8-bb52-1856e3b65785, servername: snt1.shahramv1.site, host: snt1.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.genshinclub.ir:443, server: www.genshinclub.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1667c559-b95b-490e-a45b-4c3ea2b1c52d, servername: movie.genshinclub.ir, host: movie.genshinclub.ir, path: /, reality-opts: {public-key: 7RnHm0iBdV4mH-3xQ-2urtMp6OMPJ0fGRA3RBV8dino, short-id: f04818bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.143.233.5:80, server: 185.143.233.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1adafbd3-ebbf-47c1-aae8-0be26ca7b61d, network: ws, ws-opts: {path: "/graphql?ed=30", headers: {Host: dulphin333-90331252af-viv.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -563,7 +561,6 @@ proxies:
   - {name: 77.73.67.94:443, server: 77.73.67.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ddce082-7e03-429c-8af8-9a873d23f0ba, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.242.51.174:443, server: 94.242.51.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ddce082-7e03-429c-8af8-9a873d23f0ba, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freak.gexar.top:30107, server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: 3ea585f1-0208-49e7-9e94-3ff7634e045c, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.136.59.44:13344, server: 45.136.59.44, port: 13344, type: vless, tls: true, packet-encoding: xudp, uuid: 3fce3b0d-0b92-4e92-9a78-18051dd648b4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo, short-id: e2bd9802e29deb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.92.145.192:443, server: 77.92.145.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: e499f276e7bd6420}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: meow.panbe.mom:443, server: meow.panbe.mom, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 431b5aea-099c-4f86-9302-698166870680, host: meow.panbe.mom, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: meow.panbe.mom:443 2, server: meow.panbe.mom, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 431b5aea-099c-4f86-9302-698166870680, host: meow.panbe.mom, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -580,6 +577,7 @@ proxies:
   - {name: vid6.persiangame.sbs:55006, server: vid6.persiangame.sbs, port: 55006, type: vless, tls: true, packet-encoding: xudp, uuid: 510e2c1c-5178-4c1b-9181-ec35aa09928e, network: ws, ws-opts: {path: /, headers: {Host: rubika.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: kvm.iranhosting.mom:55003, server: kvm.iranhosting.mom, port: 55003, type: vless, tls: true, packet-encoding: xudp, uuid: 56083cea-b007-416a-aba1-77d77f7f2c16, network: ws, ws-opts: {path: /, headers: {Host: rubika.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: sv.letknow.shop:1001, server: sv.letknow.shop, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 578d7696-fe6e-421e-afcc-5ad3d30b8658, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 1emergency5380.carpet-carpet-carped.ir:5380, server: 1emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: 5b10e4aa-a1bd-47b6-a7c6-5b5f052cf807, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.175.136.84:47266, server: 79.175.136.84, port: 47266, type: vless, tls: true, packet-encoding: xudp, uuid: 5c57e733-06fb-4ac5-d672-b6823f782577, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:21531, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:21531 2, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -603,22 +601,25 @@ proxies:
   - {name: 185.143.233.5:80 4, server: 185.143.233.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6aec6650-0200-4368-b4b1-ff6c146cdd7c, network: ws, ws-opts: {path: "/graphql?ed=30", headers: {Host: dulphin333-90331252af-viv.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emg4.saipasamandemg4.sbs:2004, server: emg4.saipasamandemg4.sbs, port: 2004, type: vless, tls: true, packet-encoding: xudp, uuid: 6b79d1b5-6b19-4948-a012-f5bd29746511, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.136.128.175:443, server: 45.136.128.175, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a, servername: kzcdn1.suio.me, host: kzcdn1.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.84.126.28:8443, server: 91.84.126.28, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cabb434-f480-478a-9586-a5667167eeb1, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 us.jljd.xyz:11225, server: us.jljd.xyz, port: 11225, type: vless, tls: true, packet-encoding: xudp, uuid: 6dfbef3b-f718-4053-806f-c9657e2fd943, servername: python.org, host: python.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk, short-id: fcc5f0e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.176.63:443, server: 94.101.176.63, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6f837f52-e6b0-4bbc-ad5d-ee6b6801e01f, servername: archive-azd1111.telewebion.ir, network: ws, ws-opts: {path: "/ws?ed=512", headers: {Host: archive-azd1111.telewebion.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.152.190.56:33189, server: 37.152.190.56, port: 33189, type: vless, tls: true, packet-encoding: xudp, uuid: 705737f2-5699-40c0-acef-4edf053677b8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tunn.vpsino.com:2087, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tunn.vpsino.com:2087 2, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tunn.vpsino.com:2087 3, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2087 4, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tunn.vpsino.com:2092, server: tunn.vpsino.com, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2092 2, server: tunn.vpsino.com, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tunn.vpsino.com:2096, server: tunn.vpsino.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2096 2, server: tunn.vpsino.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: m4.v2speedy.com:57509, server: m4.v2speedy.com, port: 57509, type: vless, tls: true, packet-encoding: xudp, uuid: 71fefc48-507a-42f3-b3b4-5bb533e79062, host: m4.v2speedy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: m4.v2speedy.com:57509 2, server: m4.v2speedy.com, port: 57509, type: vless, tls: true, packet-encoding: xudp, uuid: 71fefc48-507a-42f3-b3b4-5bb533e79062, host: m4.v2speedy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: m4.v2speedy.com:57509 3, server: m4.v2speedy.com, port: 57509, type: vless, tls: true, packet-encoding: xudp, uuid: 71fefc48-507a-42f3-b3b4-5bb533e79062, host: m4.v2speedy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.95.176:443, server: 51.250.95.176, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72adc5b8-146a-4bfe-921b-5c9e1df016e0, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 95ec618532fa065e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: star.fast-uploader.net:6004, server: star.fast-uploader.net, port: 6004, type: vless, tls: true, packet-encoding: xudp, uuid: 792273d4-3529-4b3d-b282-29deb51f71de, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: star.fast-uploader.net:6004 2, server: star.fast-uploader.net, port: 6004, type: vless, tls: true, packet-encoding: xudp, uuid: 792273d4-3529-4b3d-b282-29deb51f71de, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: star.fast-uploader.net:6004 3, server: star.fast-uploader.net, port: 6004, type: vless, tls: true, packet-encoding: xudp, uuid: 792273d4-3529-4b3d-b282-29deb51f71de, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: p-2-0-2-turk.turkabr.ir:39792, server: p-2-0-2-turk.turkabr.ir, port: 39792, type: vless, tls: true, packet-encoding: xudp, uuid: 7bed5d53-f043-4fa4-f20b-32e7d1f5a052, host: snapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: kz-mg-01.org:8443, server: kz-mg-01.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 818e3d20-4d31-4a1c-b74a-20ae054721a4, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8, short-id: 84aa32f674cfe92f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.115.96.243:7242, server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fl.brsoplo.ir:443, server: fl.brsoplo.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a80697e-900d-4b82-8cbc-f1db0085acb3, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: siMUWmhBJ5wXXI-6xelZE0rhgz847TGgVdzUcjPmghw, short-id: 79a8b74681218317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: smart.clashroyalirani.ir:28165, server: smart.clashroyalirani.ir, port: 28165, type: vless, tls: true, packet-encoding: xudp, uuid: 8ab982fd-e751-4041-bb63-ee2eac190018, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -644,7 +645,7 @@ proxies:
   - {name: vip-81.f-sub.cfd:1517, server: vip-81.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: bb029bd1-e55c-48f7-89e7-29ed671e93a4, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443 2, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.143.235.5:443 3, server: 185.143.235.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: biS%28YrwB%2C3L%24, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.143.235.5:443 2, server: 185.143.235.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: biS%28YrwB%2C3L%24, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s2.bookeeper.space:1010, server: s2.bookeeper.space, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: c1b21f1a-4b8f-442a-9b2a-f0d7892b9ee9, host: s2.bookeeper.space, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s2.bookeeper.space:1010 2, server: s2.bookeeper.space, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: c1b21f1a-4b8f-442a-9b2a-f0d7892b9ee9, host: s2.bookeeper.space, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: n4.zeneco.ir:4090, server: n4.zeneco.ir, port: 4090, type: vless, tls: true, packet-encoding: xudp, uuid: c1e4b6e9-71ac-4e41-992a-c1bdb0d0654a, host: n4.zeneco.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -663,10 +664,10 @@ proxies:
   - {name: llc.feelpower.ir:2042, server: llc.feelpower.ir, port: 2042, type: vless, tls: true, packet-encoding: xudp, uuid: dd5ae38a-5204-4f12-9d2c-a44fc923dba2, host: llc.feelpower.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.192.160.5:38916 2, server: 91.192.160.5, port: 38916, type: vless, tls: true, packet-encoding: xudp, uuid: e09166b0-e530-4240-c65c-82c21ead78a0, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.12.143.191:20329, server: 45.12.143.191, port: 20329, type: vless, tls: true, packet-encoding: xudp, uuid: e105e56a-5f81-41a2-ab44-bfffc9b00674, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo, short-id: 4602ee9f9f36}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tunn.vpsino.com:2087 4, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2087 5, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2087 6, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freefamily.shop:8443 2, server: freefamily.shop, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e67ceb89-26d2-4718-ac40-9e072eee39f9, network: ws, ws-opts: {path: /ws, headers: {Host: cdn.freefamily.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.12.34.37:8080, server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.12.34.37:8080 2, server: 81.12.34.37, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e6d862ac-398b-4488-88e0-e5879923934d, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freak.gexar.top:30107 2, server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freak.gexar.top:30107 3, server: freak.gexar.top, port: 30107, type: vless, tls: true, packet-encoding: xudp, uuid: e856328e-ba3d-4640-99da-46520655ba81, host: freak.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mellat.vhuma.com:443, server: mellat.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec7a1b53-cf81-416a-93b7-ef91fd02b9f4, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -675,6 +676,7 @@ proxies:
   - {name: 🇩🇪 de-2-tun-single.starping1.fun:8083, server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:41316 2, server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: farzandeiran.iransalar.top:41316 3, server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s3.333ina.ir:2086, server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.10.6:1234, server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.10.6:1234 2, server: 45.139.10.6, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: f7ece5d6-8457-4cd2-a904-05e99944ead8, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -700,7 +702,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -715,7 +716,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -737,7 +737,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -753,10 +753,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -770,13 +769,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -794,7 +794,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -811,6 +810,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -834,22 +834,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -875,7 +878,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -894,10 +897,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -906,6 +909,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
@@ -921,7 +925,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -936,7 +939,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -958,7 +960,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -974,10 +976,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -991,13 +992,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -1015,7 +1017,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -1032,6 +1033,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -1055,22 +1057,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -1096,7 +1101,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -1115,10 +1120,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -1127,6 +1132,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
@@ -1142,7 +1148,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -1157,7 +1162,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -1179,7 +1183,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -1195,10 +1199,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -1212,13 +1215,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -1236,7 +1240,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -1253,6 +1256,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -1276,22 +1280,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -1317,7 +1324,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -1336,10 +1343,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -1348,6 +1355,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
@@ -1372,7 +1380,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -1387,7 +1394,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -1409,7 +1415,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -1425,10 +1431,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -1442,13 +1447,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -1466,7 +1472,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -1483,6 +1488,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -1506,22 +1512,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -1547,7 +1556,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -1566,10 +1575,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -1578,6 +1587,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
@@ -1593,7 +1603,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -1608,7 +1617,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -1630,7 +1638,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -1646,10 +1654,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -1663,13 +1670,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -1687,7 +1695,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -1704,6 +1711,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -1727,22 +1735,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -1768,7 +1779,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -1787,10 +1798,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -1799,6 +1810,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
@@ -1814,7 +1826,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - 163.171.207.11:19688
       - 102.37.156.224:443
-      - 57.129.95.38:11201
       - tinkered-pennies-puppies.freesocks.work:443
       - 82.38.31.176:8080
       - 57.129.140.88:8388
@@ -1829,7 +1840,6 @@ proxy-groups:
       - 45.85.118.88:2053
       - 45.85.118.88:2053 2
       - 185.143.235.5:443
-      - 185.143.235.5:443 2
       - 104.18.32.47:443
       - 104.21.40.34:443
       - 172.64.152.23:443
@@ -1851,7 +1861,7 @@ proxy-groups:
       - 18.195.58.45:22223
       - 3.123.214.232:22223
       - 3.124.155.41:22223
-      - 3.72.160.56:22223
+      - 3.69.114.26:22223
       - 35.181.123.75:22223
       - 51.45.25.205:22223
       - 13.36.80.221:22222
@@ -1867,10 +1877,9 @@ proxy-groups:
       - 18.195.58.45:22222
       - 3.123.214.232:22222
       - 3.124.155.41:22222
-      - 3.72.160.56:22222
+      - 3.69.114.26:22222
       - 35.181.123.75:22222
       - 51.45.25.205:22222
-      - 45.82.14.144:2025
       - 13.36.80.221:22224
       - 13.37.186.179:22224
       - 13.38.195.57:22224
@@ -1884,13 +1893,14 @@ proxy-groups:
       - 18.195.58.45:22224
       - 3.123.214.232:22224
       - 3.124.155.41:22224
-      - 3.72.160.56:22224
+      - 3.69.114.26:22224
       - 35.181.123.75:22224
       - 51.45.25.205:22224
       - vip2.xqfire.ir:811
       - farzandeiran.iransalar.top:41316
       - 38.244.137.198:443
       - 185.206.231.59:41057
+      - 2.144.20.69:443
       - snt1.shahramv1.site:443
       - www.genshinclub.ir:443
       - 185.143.233.5:80
@@ -1908,7 +1918,6 @@ proxy-groups:
       - 77.73.67.94:443
       - 94.242.51.174:443
       - freak.gexar.top:30107
-      - 45.136.59.44:13344
       - 77.92.145.192:443
       - meow.panbe.mom:443
       - meow.panbe.mom:443 2
@@ -1925,6 +1934,7 @@ proxy-groups:
       - vid6.persiangame.sbs:55006
       - kvm.iranhosting.mom:55003
       - sv.letknow.shop:1001
+      - 1emergency5380.carpet-carpet-carped.ir:5380
       - 79.175.136.84:47266
       - farzandeiran.iransalar.top:21531
       - farzandeiran.iransalar.top:21531 2
@@ -1948,22 +1958,25 @@ proxy-groups:
       - 185.143.233.5:80 4
       - emg4.saipasamandemg4.sbs:2004
       - 45.136.128.175:443
+      - 91.84.126.28:8443
       - 🇺🇸 us.jljd.xyz:11225
       - 94.101.176.63:443
-      - 37.152.190.56:33189
       - tunn.vpsino.com:2087
       - tunn.vpsino.com:2087 2
       - tunn.vpsino.com:2087 3
+      - tunn.vpsino.com:2087 4
       - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2092 2
       - tunn.vpsino.com:2096
+      - tunn.vpsino.com:2096 2
       - m4.v2speedy.com:57509
       - m4.v2speedy.com:57509 2
+      - m4.v2speedy.com:57509 3
       - 51.250.95.176:443
       - star.fast-uploader.net:6004
       - star.fast-uploader.net:6004 2
       - star.fast-uploader.net:6004 3
       - p-2-0-2-turk.turkabr.ir:39792
-      - kz-mg-01.org:8443
       - 151.115.96.243:7242
       - fl.brsoplo.ir:443
       - smart.clashroyalirani.ir:28165
@@ -1989,7 +2002,7 @@ proxy-groups:
       - vip-81.f-sub.cfd:1517
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
       - broad-sky-9360.k7uztejf9ief.workers.dev:443 2
-      - 185.143.235.5:443 3
+      - 185.143.235.5:443 2
       - s2.bookeeper.space:1010
       - s2.bookeeper.space:1010 2
       - n4.zeneco.ir:4090
@@ -2008,10 +2021,10 @@ proxy-groups:
       - llc.feelpower.ir:2042
       - 91.192.160.5:38916 2
       - 45.12.143.191:20329
-      - tunn.vpsino.com:2087 4
+      - tunn.vpsino.com:2087 5
+      - tunn.vpsino.com:2087 6
       - freefamily.shop:8443 2
       - 81.12.34.37:8080
-      - 81.12.34.37:8080 2
       - freak.gexar.top:30107 2
       - freak.gexar.top:30107 3
       - mellat.vhuma.com:443
@@ -2020,6 +2033,7 @@ proxy-groups:
       - 🇩🇪 de-2-tun-single.starping1.fun:8083
       - www.speedtest.net:443
       - farzandeiran.iransalar.top:41316 2
+      - farzandeiran.iransalar.top:41316 3
       - s3.333ina.ir:2086
       - 45.139.10.6:1234
       - 45.139.10.6:1234 2
