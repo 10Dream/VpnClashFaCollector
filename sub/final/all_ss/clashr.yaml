@@ -13,7 +13,6 @@ proxies:
   - {name: 92.42.207.84:33342, server: 92.42.207.84, port: 33342, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:5zbwUCUkXlWvcRr+CwEd63gNGdeWabGweyu+xQuPx4U=, udp: true, tfo: false}
   - {name: "@filembad` 5", server: 92.42.207.84, port: 33342, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:5zbwUCUkXlWvcRr+CwEd63gNGdeWabGweyu+xQuPx4U=, udp: true, tfo: false}
   - {name: "@filembad` 6", server: 92.42.207.84, port: 33342, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:QLfckL1jJDbOybsWW5wEPspsN30JUm0vFomxg9xZEQM=, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 92.42.207.84, port: 33342, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:QLfckL1jJDbOybsWW5wEPspsN30JUm0vFomxg9xZEQM=, udp: true, tfo: false}
   - {name: 80@oneclickvpnkeys`, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 163.171.207.11:19688, server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: 17@oneclickvpnkeys, server: auto.poland.ray-vpn.ru, port: 4495, type: ss, cipher: chacha20-ietf-poly1305, password: 2Z9ba3GwDL-rn6DSQ0N-awHNhcuxaHP3, udp: true, tfo: false}
@@ -30,13 +29,13 @@ proxies:
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 76@oneclickvpnkeys, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 195.93.253.240:14130, server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "@saministamm عضو شو قطع نشی", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: " ", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
@@ -64,16 +63,16 @@ proxies:
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 94.183.124.95, port: 82, type: ss, cipher: aes-256-gcm, password: EMIruFl6nN37LDQxCIwstG09haCBkyjvZVjWIMOQ0Jk=, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 94.183.124.95, port: 82, type: ss, cipher: aes-256-gcm, password: EMIruFl6nN37LDQxCIwstG09haCBkyjvZVjWIMOQ0Jk=, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
   - {name: "@oneclickvpnkeys 3", server: 144.126.145.77, port: 443, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, udp: true, tfo: false}
   - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 92.114.51.173:443, server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 2", server: 92.114.51.173, port: 443, type: ss, cipher: aes-256-gcm, password: hvBVW9YyGjhN66KPMA0JS7rnlNy12tfBJ1JOR4zy1gA=, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 103.238.214.82, port: 41632, type: ss, cipher: aes-256-gcm, password: qwerREWQ@@, udp: true, tfo: false}
   - {name: "@filembad` 13", server: 103.238.214.82, port: 41632, type: ss, cipher: aes-256-gcm, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: 103.238.214.82, port: 41632, type: ss, cipher: aes-256-gcm, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: 211.48.77.114, port: 19655, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: "@filembad` 15", server: 211.48.77.114, port: 19655, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "@filembad` 16", server: 211.48.77.114, port: 19655, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -88,7 +87,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -105,13 +103,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -139,16 +137,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -163,7 +161,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -180,13 +177,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -214,16 +211,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -238,7 +235,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -255,13 +251,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -289,16 +285,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -312,7 +308,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -329,13 +324,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -363,16 +358,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -386,7 +381,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -403,13 +397,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -437,16 +431,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -460,7 +454,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -477,13 +470,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -511,16 +504,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -556,7 +549,6 @@ proxy-groups:
       - 92.42.207.84:33342
       - "@filembad` 5"
       - "@filembad` 6"
-      - "@filembad` 7"
       - 80@oneclickvpnkeys`
       - 163.171.207.11:19688
       - 17@oneclickvpnkeys
@@ -573,13 +565,13 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - 76@oneclickvpnkeys
       - 195.93.253.240:14130
-      - "@filembad` 8"
+      - "@filembad` 7"
       - 102.37.156.224:443
-      - "@filembad` 9"
+      - "@filembad` 8"
       - "@saministamm عضو شو قطع نشی"
       - "@Hiddify_Nexttt"
       - tinkered-pennies-puppies.freesocks.work:443
-      - "@filembad` 10"
+      - "@filembad` 9"
       - 82.38.31.176:8080
       - " "
       - 67@oneclickvpnkeys
@@ -607,16 +599,16 @@ proxy-groups:
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - "@filembad` 10"
       - "@filembad` 11"
-      - "@filembad` 12"
       - "@oneclickvpnkeys 3"
       - 141.164.45.187:7001
       - 92.114.51.173:443
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "@filembad` 12"
       - "@filembad` 13"
       - "@filembad` 14"
       - "@filembad` 15"
-      - "@filembad` 16"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

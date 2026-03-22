@@ -1,5 +1,79 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-03-22 08:03:49 UTC
+بروزرسانی: 2026-03-22 14:06:54 UTC
+
+### 🕒 2026-03-22 13:20:46 UTC
+***📌***
+**کانفیگ مختص کلاینت SlipNet :**
+*slip1*
+`slipnet://MTZ8c3N8dC5pYW1wZWRpNy5saXZlfHQuaWFtcGVkaTcubGl2ZXw4LjguOC44OjUzOjB8MXw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHxpYW1wZWRpfG5lbWlnYW18MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8`
+*dnstt1*
+`slipnet://MTZ8ZG5zdHR8ZC5pYW1wZWRpNy5saXZlfGQuaWFtcGVkaTcubGl2ZXw4LjguOC44OjUzOjB8MXw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDlmM2ZkYTFiZTM0Y2M5YjZiZDA0ZTY0OWE4YTZjYTI5ZjhkMjllMDg3ODQxMTEzZDI1ZmM0MTQ4Y2M3OGFhMTF8aWFtcGVkaXxuZW1pZ2FtfDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHwwfDB8NDQzfHx8MHx8MHwwfA==`
+*noiz1*
+`slipnet://MTZ8c2F5ZWRuc3xuLmlhbXBlZGk3LmxpdmV8bi5pYW1wZWRpNy5saXZlfDguOC44Ljg6NTM6MHwxfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8OWIyMmYyMWUyMjg0YzMzOWY5ZmUyOGRjMTczZWM2MWE3NGRkZjIwZDI2YjI1ZjlhZGMwODRkMTU4MTI2ZGEwNHxpYW1wZWRpfG5lbWlnYW18MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8`
+*slip-ssh*
+`slipnet://MTZ8c2xpcHN0cmVhbV9zc2h8cy5pYW1wZWRpNy5saXZlfHMuaWFtcGVkaTcubGl2ZXw4LjguOC44OjUzOjB8MXw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHxpYW1wZWRpfG5lbWlnYW18MXxpYW1wZWRpfG5lbWlnYW18MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8MHwwfDQ0M3x8fDB8fDB8MHw=`
+*dnstt-ssh*
+`slipnet://MTZ8ZG5zdHRfc3NofGRzLmlhbXBlZGk3LmxpdmV8ZHMuaWFtcGVkaTcubGl2ZXw4LjguOC44OjUzOjB8MXw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDRjNDM2YmUxY2JhMWZmNjJlMjZjNjQ3MzFhOWNlNTE4YWM0MDViMzIwZWJhM2ExNmFiYmE0ZjgzOWYxMDM5Nzd8aWFtcGVkaXxuZW1pZ2FtfDF8aWFtcGVkaXxuZW1pZ2FtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8`
+*noiz-ssh*
+`slipnet://MTZ8c2F5ZWRuc19zc2h8ei5pYW1wZWRpNy5saXZlfHouaWFtcGVkaTcubGl2ZXw4LjguOC44OjUzOjB8MXw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGU3NWFiM2Y3NmYyOWQ1NzM3YjI5ZmYzMGQ0MzQzNDM5ZWY1MTBkNzhkMTNiM2U3ZGFjOWQ3NmUyZmNhYTg0MzR8aWFtcGVkaXxuZW1pZ2FtfDF8aWFtcGVkaXxuZW1pZ2FtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*SOCKS Proxy Authentication*
+Username: iampedi
+Password: nemigam
+*SSH Tunnel User*
+Username: iampedi
+Password: nemigam
+Port: 22
+بعد از جایگزین dns سالم در قسمت DNS Resolver
+***❗️***
+روی قلم کانفیگ بزنید، DNS Query Size رو بر روی 50 یا 60 بذارید، سپس متصل بشید
+
+---
+
+### 🕒 2026-03-22 13:09:55 UTC
+نسخه جدید SlipNet:
+[http://guardnet.ir/f/b305b9a8b017](http://guardnet.ir/f/b305b9a8b017)
+
+---
+
+### 🕒 2026-03-22 11:48:21 UTC
+معرفی range-scout: در اصل ابزاری برای پیدا کردن IPهای در دسترس از رنج اپراتورها است؛ یعنی IPهایی که روی پورت و پروتکل انتخابی شما به DNS پاسخ می‌دهند.  نحوه کار:  برنامه می‌تواند تارگت‌ها را با Automatic API Fetch بگیرد، از Import TXT بخواند، یا با Paste Targets…
+
+---
+
+### 🕒 2026-03-22 11:47:27 UTC
+معرفی range-scout: در اصل ابزاری برای پیدا کردن IPهای در دسترس از رنج اپراتورها است؛ یعنی IPهایی که روی پورت و پروتکل انتخابی شما به DNS پاسخ می‌دهند.
+نحوه کار:
+برنامه می‌تواند تارگت‌ها را با Automatic API Fetch بگیرد، از Import TXT بخواند، یا با Paste Targets مستقیم از داخل TUI دریافت کند. اگر اپراتوری انتخاب نشده باشد، فقط Import TXT و Paste Targets در دسترس هستند.
+شما یک یا چند رنج CIDR یا IP تکی را برای اسکن انتخاب می‌کنید.
+اسکنر هر هاست را با UDP یا TCP یا BOTH روی پورتی که مشخص می‌کنید بررسی می‌کند.
+اگر یک هاست به DNS پاسخ بدهد، به عنوان یک IP کاندید ثبت می‌شود.
+بعد از آن برنامه بررسی می‌کند که recursion کار می‌کند یا نه و همچنین با استفاده از آدرس‌های probe که شما وارد می‌کنید پایداری resolver را می‌سنجد.
+در صورت نیاز، فقط resolverهای recursive و stable با تنظیمات DNSTT تست می‌شوند.
+بعد از تمام شدن اسکن می‌توانید IPهای پیدا شده را خروجی بگیرید.
+چه کاری انجام بدهید:
+ابتدا یکی از سه روش Automatic API Fetch یا Import TXT یا Paste Targets را انتخاب کنید. اگر اپراتوری انتخاب نشده باشد، فقط Import TXT و Paste Targets در دسترس هستند.
+اگر از فایل یا paste استفاده می‌کنید، در هر خط فقط یک IPv4 CIDR یا IPv4 تکی قرار دهید. خط خالی و # نادیده گرفته می‌شود.
+با Pick Targets فقط تارگت‌هایی را انتخاب کنید که واقعا می‌خواهید اسکن شوند. به صورت پیش‌فرض همه تارگت‌های لودشده انتخاب می‌شوند و داخل پنجره انتخاب هم گزینه Select All و Deselect All دارید. برنامه به صورت خودکار همه هاست‌های قابل اسکن داخل همان انتخاب را بررسی می‌کند و دیگر فیلد جداگانه‌ای برای host limit ندارد.
+اگر نیاز خاصی ندارید، پورت را روی 53 نگه دارید.
+اگر تست معمول DNS می‌خواهید از UDP استفاده کنید، اگر فقط TCP می‌خواهید TCP را انتخاب کنید، و اگر می‌خواهید اول UDP و بعد TCP امتحان شود از BOTH استفاده کنید.
+در فیلد Recursion Host فقط نام هاست را بدون http:// یا https:// وارد کنید و برای اولین تست recursive lookup از یک هاست بیرون از شبکه محدود استفاده کنید.
+برای Probe Hostها نام‌هایی را وارد کنید که از داخل شبکه محدود مورد نظر شما واقعا قابل دسترس باشند. این آدرس‌ها برای تشخیص stable recursive resolution استفاده می‌شوند.
+اگر تست DNSTT می‌خواهید، DNSTT Domain را وارد کنید. اگر فقط precheck می‌خواهید، DNSTT Pubkey را خالی بگذارید. اگر تست کامل end-to-end می‌خواهید، DNSTT Pubkey را هم وارد کنید.
+فیلد E2E Port مشخص می‌کند برنامه در انتهای تست SOCKS5 CONNECT از چه پورتی روی همان resolver در حال تست استفاده کند. مقدار پیش‌فرض 53 است.
+فیلد Query Size را خالی بگذارید مگر این که مطمئن باشید باینری dnstt-client شما از -mtu پشتیبانی می‌کند.
+اول اسکن را اجرا کنید، بعد Test DNSTT را بزنید.
+در پایان نتیجه‌ها را خروجی بگیرید.
+نکته مهم:
+این ابزار برای پیدا کردن IPهای در دسترس و resolverهای کاندید است.
+تست DNSTT فقط روی resolverهای سالم مرحله قبل اجرا می‌شود، نه روی همه هاست‌ها.
+برای تست کامل end-to-end باید dnstt-client در PATH، پوشه فعلی، یا کنار باینری range-scout در دسترس باشد.
+تست end-to-end با یک پروب SOCKS5 بدون auth انجام می‌شود و با رفتار findns هماهنگ است؛ مقصد آن هم <resolver IP>:<E2E Port> است و موفقیت یعنی یک پاسخ معتبر SOCKS5 CONNECT از داخل تانل برگشته باشد.
+برنامه نام‌های رایج فایل release مثل dnstt-client-linux و dnstt-client-darwin و dnstt-client.exe را هم پیدا می‌کند و اگر Pubkey تنظیم شده باشد ولی کلاینت پیدا نشود، در صفحه اسکن هشدار نشان می‌دهد.
+مثبت بودن نتیجه در این برنامه باز هم تضمین کامل برای همه مسیرهای واقعی شبکه شما نیست.
+[https://github.com/iampedii/range-scout](https://github.com/iampedii/range-scout)
+
+---
 
 ### 🕒 2026-03-21 09:00:44 UTC
 مدیرعامل انویدیا، جنسن هوانگ: «من معتقدم دلیلی وجود داشت که ما وارد جنگ شدیم. و باور دارم که در پایان این جنگ، خاورمیانه باثبات‌تر از قبل خواهد بود.»
@@ -57,19 +131,6 @@
 ***⚡️***
  
 [@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-03-19 13:40:00 UTC
-***💢***
- وزیر جنگ آمریکا (هگست): 
-به دنبال تأمین اینترنت برای مردم ایران هستیم.
-
----
-
-### 🕒 2026-03-19 11:31:13 UTC
-سخنگوی دولت:
-اینترنت بین الملل تا پایان جنگ وصل نخواهد شد و فقط سیم کارت‌های سفید و‌ مورد تایید دولت می‌توانند از اینترنت استفاده کنند!
 
 ---
 
