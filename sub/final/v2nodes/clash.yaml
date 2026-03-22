@@ -466,7 +466,9 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 193.135.174.135:990 2, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 106.75.162.7:50000, server: 106.75.162.7, port: 50000, type: ss, cipher: aes-128-gcm, password: d72781da-3ea8-4d7f-9bca-c04ed410443b, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -490,13 +492,9 @@ proxies:
   - {name: 18.159.140.89:22222, server: 18.159.140.89, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22222, server: 3.120.169.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.124.155.41:22222, server: 3.124.155.41, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.123.75:22222, server: 35.181.123.75, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.2.176:57172, server: 144.31.2.176, port: 57172, type: vless, tls: true, packet-encoding: xudp, uuid: 0c56d165-7005-4655-8b9e-4f6888b50318, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: W5ygFi8wqavEaP1uiK9ZYJXEtMT_Kc_OfcYbfj-c2Uw, short-id: d5b702262431}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.92.145.207:853, server: 77.92.145.207, port: 853, type: vless, tls: true, packet-encoding: xudp, uuid: 0f7ee331-3a78-4341-acbb-39b9b7bd7f47, servername: unfiltered.adguard-dns.com, host: unfiltered.adguard-dns.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 87.120.216.107:465, server: 87.120.216.107, port: 465, type: vless, tls: true, packet-encoding: xudp, uuid: 0f7ee331-3a78-4341-acbb-39b9b7bd7f47, servername: download.docker.com, host: download.docker.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 77.110.119.35:2053 2, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: Telegram, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.234.125:443, server: 144.31.234.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1501076a-e6de-4b28-aa17-524e7ac747fb, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: IF1iDd3XqdfMBlwSpBBS-GREC-pti_C8Hs4wWcFYUkw, short-id: 3fe43f2880aa68fa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 148.135.195.143:443, server: 148.135.195.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19cb2ba5-d074-42d6-8400-6d9183514f48, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.243.101.25:443, server: 151.243.101.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19cb2ba5-d074-42d6-8400-6d9183514f48, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,7 +504,6 @@ proxies:
   - {name: srv13.ezcon24.online:11444, server: srv13.ezcon24.online, port: 11444, type: vless, tls: true, packet-encoding: xudp, uuid: 217e8d75-528f-4198-8217-ae2885ac9dba, servername: www.sun6-21.userapi.com, host: www.sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.151.106.62:443, server: 45.151.106.62, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.89.111.63:443, server: 45.89.111.63, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 92.118.234.151:443, server: 92.118.234.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.85.253.87:443, server: 95.85.253.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: eh.vk.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.253.22.2:443, server: 188.253.22.2, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ddce082-7e03-429c-8af8-9a873d23f0ba, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.136.59.44:13344, server: 45.136.59.44, port: 13344, type: vless, tls: true, packet-encoding: xudp, uuid: 3fce3b0d-0b92-4e92-9a78-18051dd648b4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo, short-id: e2bd9802e29deb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -520,10 +517,8 @@ proxies:
   - {name: 🇳🇱 cdn-nl-cf.barryvpn.com:8443, server: cdn-nl-cf.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cabb434-f480-478a-9586-a5667167eeb1, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2, server: cdn-nl-cf.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cabb434-f480-478a-9586-a5667167eeb1, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.149.243.207:443, server: 89.149.243.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e342451-814c-4f51-803c-59107f0540f2, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.1.60:443, server: 144.31.1.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7478ff88-1354-4143-96ce-6c8059273ef0, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.156.108.135:443, server: 185.156.108.135, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 83124ed5-90cb-4c83-8d75-a81b5e488be0, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jgpljfYxKwnlimE1pcSZffIz3JqD1cU3mUhHgz4sYnQ, short-id: b2497235}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.233.48.173:443, server: 193.233.48.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 932130c7-197b-4b37-af26-d550c47ba8f4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: g-api1.maps-yandex.net:10120, server: g-api1.maps-yandex.net, port: 10120, type: vless, tls: true, packet-encoding: xudp, uuid: 9b73c904-e704-4537-ab1a-6aadfc5c535e, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api}, reality-opts: {public-key: TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY, short-id: 0d6151ea50972a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ch.fasti.win:443, server: ch.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065, servername: ch.fasti.win, host: ch.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs, short-id: feedbacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.221.174:8083, server: 144.31.221.174, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: a487adab-0644-4f80-9643-d3036b9f17c6, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 us-2.124515.xyz:443, server: us-2.124515.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a55a1cb4-cdb3-43db-9095-a8321ca1e9ad, servername: us-2.124515.xyz, host: us-2.124515.xyz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Htrrk8RBLK56TQwymPi3IJ9s3gHna8C7NOajUn-pUCg, short-id: 1eeaedbc2f137a62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -531,10 +526,8 @@ proxies:
   - {name: md-kiv-2.blook.network:443, server: md-kiv-2.blook.network, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aa167bb9-4882-417e-a9d1-676250111f70, servername: md-kiv-2.blook.network, host: md-kiv-2.blook.network, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0, short-id: 3c2f8f52}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.1.59:443, server: 144.31.1.59, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ab1ddafb-9514-40ab-9e4b-a3878f70931d, servername: pl.sky-vault.top, host: pl.sky-vault.top, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0, short-id: ae64c9b46bff174a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: usadt01.jumperservice.com:19001, server: usadt01.jumperservice.com, port: 19001, type: vless, tls: true, packet-encoding: xudp, uuid: b5be8e3f-a17d-479c-ebdb-9c3265c2cab7, servername: www.speedtest.org, host: www.speedtest.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.3.55:1488, server: 144.31.3.55, port: 1488, type: vless, tls: true, packet-encoding: xudp, uuid: bea7a5db-bb02-4bcd-bece-62832eb1bc94, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 107.174.155.79:2052, server: 107.174.155.79, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: c6690e9f-95e2-42ff-dae2-39616aedf451, network: ws, ws-opts: {path: /video}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s392.ccgfw.top:443, server: s392.ccgfw.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccd85f23-9105-37fd-96b9-9dcbc89ff3eb, servername: u710948u635fs392.ccgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.217.25:10965, server: 144.31.217.25, port: 10965, type: vless, tls: true, packet-encoding: xudp, uuid: d1209ffb-c159-48d5-b40d-542ce11fc768, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0, short-id: 9f3a7c6d2e8b41af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 node-nl-main.amnesia.pw:443, server: node-nl-main.amnesia.pw, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d8e5386f-5b56-4a5a-87e2-26fecd735356, servername: ozon.ru, host: ozon.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.167.197.59:23335, server: 104.167.197.59, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.80.40:443, server: 152.53.80.40, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6567a1e-260f-4b0e-8de3-e2e12f90e854, servername: sha.helper-internet.com, host: sha.helper-internet.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE, short-id: ff776ff77be48b88}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -580,7 +573,9 @@ proxy-groups:
     type: select
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -604,13 +599,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -620,7 +611,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -634,10 +624,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -645,10 +633,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443
@@ -684,7 +670,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -708,13 +696,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -724,7 +708,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -738,10 +721,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -749,10 +730,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443
@@ -788,7 +767,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -812,13 +793,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -828,7 +805,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -842,10 +818,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -853,10 +827,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443
@@ -901,7 +873,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -925,13 +899,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -941,7 +911,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -955,10 +924,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -966,10 +933,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443
@@ -1005,7 +970,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -1029,13 +996,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -1045,7 +1008,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -1059,10 +1021,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -1070,10 +1030,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443
@@ -1109,7 +1067,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 193.135.174.135:990
+      - 193.135.174.135:990 2
       - admin.c1.webramz.co:443
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 106.75.162.7:50000
       - 144.217.164.29:12000
@@ -1133,13 +1093,9 @@ proxy-groups:
       - 18.159.140.89:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
-      - 3.124.155.41:22222
       - 35.181.123.75:22222
-      - 144.31.2.176:57172
       - 77.92.145.207:853
-      - 87.120.216.107:465
       - 77.110.119.35:2053
-      - 77.110.119.35:2053 2
       - 144.31.234.125:443
       - 148.135.195.143:443
       - 151.243.101.25:443
@@ -1149,7 +1105,6 @@ proxy-groups:
       - srv13.ezcon24.online:11444
       - 45.151.106.62:443
       - 45.89.111.63:443
-      - 92.118.234.151:443
       - 95.85.253.87:443
       - 188.253.22.2:443
       - 45.136.59.44:13344
@@ -1163,10 +1118,8 @@ proxy-groups:
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇳🇱 cdn-nl-cf.barryvpn.com:8443 2
       - 89.149.243.207:443
-      - 144.31.1.60:443
       - 185.156.108.135:443
       - 193.233.48.173:443
-      - g-api1.maps-yandex.net:10120
       - ch.fasti.win:443
       - 144.31.221.174:8083
       - 🇺🇸 us-2.124515.xyz:443
@@ -1174,10 +1127,8 @@ proxy-groups:
       - md-kiv-2.blook.network:443
       - 144.31.1.59:443
       - usadt01.jumperservice.com:19001
-      - 144.31.3.55:1488
       - 107.174.155.79:2052
       - s392.ccgfw.top:443
-      - 144.31.217.25:10965
       - 🇳🇱 node-nl-main.amnesia.pw:443
       - 104.167.197.59:23335
       - 152.53.80.40:443

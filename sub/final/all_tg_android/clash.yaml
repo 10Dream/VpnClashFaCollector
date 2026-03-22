@@ -472,6 +472,7 @@ proxies:
   - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080 3, server: 127.0.0.1, port: 1080, type: socks5, username: "@@Capoit", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080 4, server: 127.0.0.1, port: 1080, type: socks5, username: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080 5, server: 127.0.0.1, port: 1080, type: socks5, username: "@saministamm**", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808 2, server: 127.0.0.1, port: 10808, type: socks5, username: "@vpn", password: "@vpn", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:8080, server: 127.0.0.1, port: 8080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -508,6 +509,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -534,6 +536,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -560,6 +563,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -595,6 +599,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -621,6 +626,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080
@@ -647,6 +653,7 @@ proxy-groups:
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080 3
       - 127.0.0.1:1080 4
+      - 127.0.0.1:1080 5
       - 127.0.0.1:10808
       - 127.0.0.1:10808 2
       - 127.0.0.1:8080

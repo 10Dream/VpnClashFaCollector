@@ -489,10 +489,10 @@ proxies:
   - {name: 15.236.3.3:22222, server: 15.236.3.3, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.159.140.89:22222, server: 18.159.140.89, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.194.226.217:22222, server: 18.194.226.217, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.58.45:22222, server: 18.195.58.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22222, server: 3.120.169.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.214.232:22222, server: 3.123.214.232, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.114.26:22222, server: 3.69.114.26, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.73.207.163:22222, server: 3.73.207.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.241.230:22222, server: 35.181.241.230, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.46.125:22222, server: 35.181.46.125, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  10", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -575,10 +575,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
@@ -651,10 +651,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
@@ -727,10 +727,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
@@ -812,10 +812,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
@@ -888,10 +888,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
@@ -964,10 +964,10 @@ proxy-groups:
       - 15.236.3.3:22222
       - 18.159.140.89:22222
       - 18.194.226.217:22222
-      - 18.195.58.45:22222
       - 3.120.169.133:22222
       - 3.123.214.232:22222
       - 3.69.114.26:22222
+      - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
       - "  10"
