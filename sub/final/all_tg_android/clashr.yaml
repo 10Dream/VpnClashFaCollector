@@ -25,7 +25,6 @@ proxies:
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.184.155:51480, server: 94.101.184.155, port: 51480, type: socks5, username: "@Begoo_VPN", password: "@Begoo_VPN", skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: socks3.nirvana-smoke.com:3389 2, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b9096c09358, password: Azir69b9096c09358, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -52,7 +51,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -79,7 +77,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -106,7 +103,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -132,7 +128,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -158,7 +153,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -184,7 +178,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -232,7 +225,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

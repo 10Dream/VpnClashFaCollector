@@ -1,28 +1,76 @@
 # آرشیو کانال: @SamnetInternet
-بروزرسانی: 2026-03-21 19:09:03 UTC
+بروزرسانی: 2026-03-22 05:16:58 UTC
 
-### 🕒 2026-03-21 16:01:42 UTC
+### 🕒 2026-03-22 02:01:03 UTC
+> ↪️ **Forwarded**
+
 ***🚀***
- اپدیت Scout Range v0.1.4
-بهبود اسکن DNS تانل + اضافه شدن تست DNSTT
+ اپدیت Scout Range v0.1.5
+بهبود تجربه ویندوز + اضافه شدن config.json برای تنظیمات اشتراکی
 ***✨***
  تغییرات:
-• اضافه شدن تست DNSTT بعد از اسکن DNS — حالا فقط resolverهای سالم و recursive وارد مرحله تست تانل میشن (دو حالت: tunnel-only و e2e با pubkey)
-• خروجی فقط از resolverهای موفق DNSTT — امکان Export Passed و Copy Passed برای گرفتن خروجی دقیق فقط از موارد پاس‌شده
-• قابل تنظیم شدن Recursion Host — دیگه محدود به 
-[google.com](http://google.com/)
- نیست، می‌تونی هر هاستی بدی
-• بهبود تارگت‌های دستی — Import TXT و Paste Targets بهتر شده، کار با CIDR و IP تکی ساده‌تر
-• بهبود detection برای dnstt-client — از مسیرهای مختلف پیدا میشه و نبودش به‌صورت واضح مشخص میشه
-• رفع باگ مهم در export DNSTT — قبلاً در نبود dnstt-client بعضی نتایج اشتباها موفق حساب میشدن، الان فقط نتایج واقعی خروجی داده میشه
+• رفع مشکل تایپ دوبل در فیلدها روی ویندوز — مشکل تکرار شدن کاراکترها در inputها برطرف شده  
+• رفع مشکل کلیک و تعامل با ماوس در ویندوز — دکمه‌ها و فیلدها دوباره درست قابل کلیک هستند  
+• اضافه شدن 
+`config.json`
+ — حالا می‌تونی تنظیمات هر مرحله را داخل فایل نگه داری و با بقیه به اشتراک بگذاری  
+• اضافه شدن 
+`Save Config`
+ داخل UI — ذخیره سریع تنظیمات فعلی برنامه بدون نیاز به ویرایش دستی فایل  
+• نمایش نسخه فعلی داخل هدر برنامه — برای گزارش باگ و تشخیص نسخه خیلی راحت‌تر شده  
+• بهبود paste در فیلدها — کپی/پیست در inputها و textareaها بهتر و قابل اتکاتر شده  
 ***⚙️***
  نکات:
-• تست DNSTT فقط روی resolverهای valid اجرا میشه
-• برای حالت e2e نیاز به pubkey و dnstt-client داری
-• خروجی نهایی فقط بر اساس نتیجه واقعی تانل ساخته میشه
+• فایل 
+`config.json`
+ می‌تونه شامل 
+`importConfig`، `scanConfig`
+ و 
+`dnsttConfig`
+ باشه  
+• تنظیمات import path تا جای ممکن به‌صورت portable ذخیره میشن تا اشتراک‌گذاری راحت‌تر باشه  
+• نسخه‌ای که داخل هدر می‌بینی حالا مرجع اصلی برای گزارش باگ‌هاست  
+***🧩***
+ نمونه config:
+{
+  "importConfig": {
+    "importFilePaths": {}
+  },
+  "scanConfig": {
+    "workers": "256",
+    "timeoutMS": "1200",
+    "port": "53",
+    "protocol": "UDP",
+    "recursionHost": "google.com",
+    "probeHost1": "soft98.ir",
+    "probeHost2": "bartarinha.ir"
+  },
+  "dnsttConfig": {
+    "domain": "d.iranmonitor.live",
+    "pubkey": "9e2bfd5b4e7644f14bbd74a41663e42bfa2a11497b04c88f7bc3d290144f7b37",
+    "timeoutMS": "3000",
+    "e2eTimeoutS": "20",
+    "querySize": "",
+    "e2ePort": "53"
+  }
+}
 ***📥***
  دانلود:
-[https://github.com/iampedii/range-scout](https://github.com/iampedii/range-scout)
+[https://github.com/PedramMarandi/range-scout/releases/tag/v0.1.5](https://github.com/PedramMarandi/range-scout/releases/tag/v0.1.5)
+***📥***
+ دانلود از سرور داخلی:
+All platforms
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/v0.1.5.zip](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/v0.1.5.zip)
+macOS Intel
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_darwin_amd64](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_darwin_amd64)
+macOS Apple Silicon
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_darwin_arm64](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_darwin_arm64)
+Linux amd64
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_linux_amd64](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_linux_amd64)
+Linux arm64
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_linux_arm64](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_linux_arm64)
+Windows amd64
+[http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_windows_amd64.exe](http://s3.ir-thr-at1.arvanstorage.ir/range-scout/range-scout_windows_amd64.exe)
 
 ---
 
@@ -231,149 +279,6 @@ curl -sO
 sudo bash 
 [dnstm-setup.sh](http://dnstm-setup.sh/)
  --manage
-
----
-
-### 🕒 2026-03-19 04:45:36 UTC
-***🛜***
- دوستانی که به دنبال یک راهنمای جامع و قدم‌به‌قدم برای کار با findns هستند، می‌توانند این راهنمای کامل ۲۱ صفحه‌ای را مطالعه کنند.
-در این فایل تلاش شده به تمام نکات و سوالات پاسخ داده شود.
-همچنین نسخه‌ی این فایل با فرمت md در گیت‌هاب نیز در دسترس است.
-***✔️***
-***⚠️***
-نکته : سعی کنید حدامکان از رابط کاربری ترمینال استفاده کنید جای فلگ های cli چون بسیار راحت تر و سر‌راست تر هست مخصوصا برای افراد تازه کار. 
-نسخه آخر پروژه findns: 
-[https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1](https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1)
-
----
-
-### 🕒 2026-03-19 04:31:19 UTC
-***🔍***
-ابزار range-scout + findns — پایپلاین کامل پیدا کردن DNS تانل
-وقتی یه رنج بزرگ IP دارید مثلاً /16 یعنی ۶۵ هزار IP، بیشترشون اصلاً DNS server نیستن. اسکن کامل روی همه‌شون وقت تلف کردنه. راه حل: اول سریع فیلتر کن، بعد عمیق تست کن.
-━━━━━━━━━
-***⚙️***
- مرحله ۱ — range-scout فیلتر سریع:
-از ۶۵ هزار IP فقط اونایی که به پورت ۵۳ جواب میدن رو پیدا میکنه.
-مثلاً از ۶۵ هزار ۲۰۰ تا DNS واقعی.
-• رنج‌های CIDR اپراتورهای ایرانی رو خودکار از RIPEstat میگیره
-• اپراتور رو انتخاب کن (MCI، ایرانسل، مخابرات و ...)
-• روی هر IP سه تست میزنه:
-  ۱. آیا اصلاً DNS جواب میده؟ (پورت ۵۳)
-  ۲. آیا recursive resolve میکنه؟
-  ۳. آیا پایداره؟
-• خروجی TXT — هر خط یه IP
-***🔗***
- 
-[https://github.com/iampedii/range-scout](https://github.com/iampedii/range-scout)
-راهنمای استفاده از این نرم افزار در فایل readme پروژه و صفحه گیتهاب موجود است. 
-━━━━━━━
-***⚙️***
- مرحله ۲ — findns  یا هر ابزار تست e2e دیگه (تست واقعی تانل):
-قابلیت تست روی TUI یا CLI 
-اون ۲۰۰ تا IP رو میگیره و تست واقعی میزنه ببینه کدومشون با تانل DNS کار میکنن.
-مثلا روی CLI: 
-findns scan -i range-scout-export.txt --domain YOUR_DOMAIN --pubkey YOUR_KEY --query-size 50 --workers 5
-• تست hijack (آیا ریزالور جواب DNS رو دستکاری میکنه؟)
-• تست tunnel resolve (آیا کوئری تانل رو فوروارد میکنه؟)
-• تست e2e واقعی (یه SOCKS5 CONNECT از داخل تانل رد میکنه)
-• ریزالورهایی که واقعاً کار میکنن رو لیست میکنه
-***🔗***
- 
-[https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1](https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1)
-━━━━━━━
-***🎯***
- چرا دو مرحله؟
-range-scout سریعه ولی سطحیه فقط میگه "این IP یه DNS server هست"
-findns عمیقه ولی کنده روی رنج بزرگ تست تانل واقعی روی ۶۵ هزار IP ساعت‌ها طول میکشه
-با هم: range-scout هزاران رو به چند تا میرسونه، findns اونا رو عمیق تست میکنه. نتیجه در چند دقیقه بجای چند ساعت.
-━━━━━━━
-***⚠️***
- نکته:
-بهتره range-scout رو ازبچه های  خارج ایران بزنید چون فیلترینگ نتایج رو خراب میکنه.
-اگه مجبورید از داخل بزنید، دامنه‌های stability رو عوض کنید به دامنه‌هایی که فیلتر نیستن (مثلاً 
-[example.com](http://example.com/)
- یا 
-[nic.ir](http://nic.ir/)
-). دامنه فیلتر شده مثل 
-[google.com](http://google.com/)
- باعث میشه ریزالور سالم اشتباهاً unstable تشخیص داده بشه.
-فایل های هر دو برنامه در کامنت این پست قرار گرفتند:
-
----
-
-### 🕒 2026-03-19 00:03:11 UTC
-این DNS ها رو تست کنید، براتون وصله؟ 
-[#DNS](?q=%23DNS)
- 
-[2.188.21.190](http://2.188.21.190/)
-[2.144.22.69](http://2.144.22.69/)
-[2.188.2.54](http://2.188.2.54/)
-[2.188.42.210](http://2.188.42.210/)
-[2.188.38.247](http://2.188.38.247/)
-[2.188.2.253](http://2.188.2.253/)
-[2.188.21.130](http://2.188.21.130/)
-[2.188.21.200](http://2.188.21.200/)
-[2.188.21.100](http://2.188.21.100/)
-[2.188.21.90](http://2.188.21.90/)
-
----
-
-### 🕒 2026-03-18 20:42:09 UTC
-**👀به‌روزرسانی:**
- داده‌های شبکه نشان می‌دهند که در 444 مین ساعت از دومین قطعی طولانی اینترنت در ایران در سال 2026، یک بازگشت کوتاه‌مدت اتصال اینترنت رخ داده است؛ به‌طوری‌که برخی کاربران گزارش داده‌اند به‌طور موقت دوباره آنلاین شده‌اند، احتمالاً به‌دلیل یک اختلال در سیستم فیلترینگ. با این حال، این اتصال پایدار نیست
-حدود 5 تا 10 درصد نت وصل شده بود که فک کنم بستنش مهندس های جاکش رژیم
-
----
-
-### 🕒 2026-03-18 20:31:30 UTC
-***🦁***
-***☀️***
- آپدیت جدید کلاینت شیر و خورشید سایفون
-***📅***
- نسخه 2026.03.17
-***⚠️***
-***⚠️***
- هشدار مهم:
-با توجه به وضعیت فعلی اینترنت ایران، احتمال زیادی وجود داره که این نسخه هم وصل نشه. ولی نسبت به نسخه‌های قبلی بهتر عمل میکنه و شانس اتصال بیشتره.
----
-***🔥***
- قابلیت جدید: Beast Mode حالت قدرتمند
-***✅***
- چیکار میکنه؟
-به زبان ساده: وقتی Beast Mode روشنه، برنامه همه راه‌های ممکن رو برای وصل شدن امتحان میکنه.
-***🔄***
- فرق با حالت عادی:
-• حالت عادی: یه سرور رندم انتخاب میکنه و فقط یه روش اتصال رو امتحان میکنه
-• مود Beast Mode همه سرورها + همه روش‌های اتصال ممکن رو تست میکنه
-***📱***
- چطوری فعالش کنم؟
-***1️⃣***
- برنامه رو باز کنید
-***2️⃣***
- تنظیم پروتکل رو روی Auto یا Direct بذارید
-***3️⃣***
- مطمئن بشید Beast Mode روشنه
-***4️⃣***
- وصل بشید و صبر کنید
-***💡***
- نکته: میتونید از قسمت لاگ‌ها ببینید که برنامه داره چه سرورها و پروتکل‌هایی رو تست میکنه.
----
-***📥***
- لینک گیتهاب:
-[https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed)
-فایل دانلود هم پیوست شده. 
-[#شیر_و_خورشید](?q=%23%D8%B4%DB%8C%D8%B1_%D9%88_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF)
- 
-[#سایفون](?q=%23%D8%B3%D8%A7%DB%8C%D9%81%D9%88%D9%86)
-
----
-
-### 🕒 2026-03-18 19:35:17 UTC
-بعضی از بچه ها انگاری از مخابرات تونستن بدون فیلتر وصل بشن؟
-وصلین؟
-کانفیگ ها چطوره؟
-احتمالا زیاد دارن فایروال ها رو اپدیت میکنن..
 
 ---
 

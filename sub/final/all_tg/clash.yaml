@@ -485,7 +485,6 @@ proxies:
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.184.155:51480, server: 94.101.184.155, port: 51480, type: socks5, username: "@Begoo_VPN", password: "@Begoo_VPN", skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: socks3.nirvana-smoke.com:3389 2, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b9096c09358, password: Azir69b9096c09358, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -522,7 +521,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -549,7 +547,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -576,7 +573,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -612,7 +608,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -639,7 +634,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -666,7 +660,6 @@ proxy-groups:
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - socks3.nirvana-smoke.com:3389
-      - socks3.nirvana-smoke.com:3389 2
   - name: دانلود منیجر 📥
     type: select
     proxies:
