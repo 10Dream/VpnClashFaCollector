@@ -7,12 +7,10 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: "@filembad", server: 188.121.116.114, port: 8080, type: vmess, uuid: 24c9821b-413d-4cee-8d45-e56b5df4332d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 2", server: 45.39.241.51, port: 38543, type: vmess, uuid: f54778cc-ce26-4f8d-923f-f8e62b090cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 3", server: kklo.1xq.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: kklo.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: "@filembad 3", server: bahar.cringeworld.ir, port: 31245, type: vmess, uuid: f19b0825-cc4f-4bf1-9b04-98e5700ef086, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1049", server: kklo.1xq.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: kklo.1xq.indevs.in}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1115", server: nqzkb.cmvvb.online, port: 443, type: vmess, uuid: 16604b48-7497-428c-a6d4-b017b3a30ce4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nqzkb.cmvvb.online}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AE", server: cg1c15.waimaojd.com, port: 443, type: vmess, uuid: 4378a67e-d277-44b5-a99b-a947fff1ee21, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: cg1c15.waimaojd.com}}, udp: true, tfo: false}
-  - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: planb.mojcn.com, port: 16618, type: vmess, uuid: 42355be2-af61-4b3b-866c-d3c5ea8748c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: febce1d29a8a4c68e016e0bec83fa245.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46@oneclickvpnkeys, server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 4", server: 45.39.241.51, port: 38543, type: vmess, uuid: f54778cc-ce26-4f8d-923f-f8e62b090cde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 71@oneclickvpnkeys, server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -23,11 +21,13 @@ proxies:
   - {name: "@v2rayconfigamir 6914", server: 159.89.29.136, port: 80, type: vmess, uuid: d20d6ede-433c-11ed-b81f-cfd905df9958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: cx.com}}, udp: true, tfo: false}
   - {name: 3@oneclickvpnkeys, server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: am.nftydreams.io, port: 2002, type: vmess, uuid: d2514b25-5889-403e-871c-fb10b05d17f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 6", server: am.nftydreams.io, port: 2002, type: vmess, uuid: e49c6b32-d220-49c9-8bed-981248a06c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 5", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 6", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 7", server: am.nftydreams.io, port: 2002, type: vmess, uuid: d2514b25-5889-403e-871c-fb10b05d17f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 8", server: am.nftydreams.io, port: 2002, type: vmess, uuid: e49c6b32-d220-49c9-8bed-981248a06c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: cg1d05.waimaojd.com, port: 443, type: vmess, uuid: 6abe3ac8-e1f8-4b24-bb67-191bc23b5fab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cg1d05.waimaojd.com, network: ws, ws-opts: {path: /, headers: {Host: cg1d05.waimaojd.com}}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: d2fog4flcfgb8c.cloudfront.net, port: 443, type: vmess, uuid: e070e567-7996-45a9-9016-0143420946ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /8536cb1926c24bbc99d7bd93350ec564, headers: {Host: d2fog4flcfgb8c.cloudfront.net}}, udp: true, tfo: false}
-  - {name: "@filembad 7", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 9", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7714", server: mghnnbj.1yy.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: mghnnbj.1yy.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: mghnnbj.1yy.ccwu.cc}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -40,9 +40,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -55,9 +53,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: ♻️ 自动选择
     type: url-test
@@ -70,9 +70,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -85,9 +83,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: 🌍 国外媒体
     type: select
@@ -100,9 +100,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -115,9 +113,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: 📲 电报信息
     type: select
@@ -129,9 +129,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -144,9 +142,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: Ⓜ️ 微软服务
     type: select
@@ -158,9 +158,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -173,9 +171,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: 🍎 苹果服务
     type: select
@@ -187,9 +187,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -202,9 +200,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
   - name: 🎯 全球直连
     type: select
@@ -238,9 +238,7 @@ proxy-groups:
       - "@filembad 3"
       - "@v2rayconfigamir 1049"
       - "@v2rayconfigamir 1115"
-      - "[openproxylist.com] vmess-AE"
       - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
       - 46@oneclickvpnkeys
       - "@filembad 4"
       - 71@oneclickvpnkeys
@@ -253,9 +251,11 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - "@filembad 7"
+      - "@filembad 8"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 7"
+      - "@filembad 9"
       - "@v2rayconfigamir 7714"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
