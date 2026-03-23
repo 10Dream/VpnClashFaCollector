@@ -492,6 +492,7 @@ proxies:
   - {name: lucy.ns.cloudflare.com:443, server: lucy.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 098fd515-29de-4d74-b77d-d8ab878a7e2c, servername: rivvers.info, network: ws, ws-opts: {path: /resgdws, headers: {Host: rivvers.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, network: ws, ws-opts: {path: /, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 nltw4.lckdwn.ru:8443, server: nltw4.lckdwn.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c61a6c0-9bc7-4cb8-9188-6d86d5989388, servername: nltw4.lckdwn.ru, host: nltw4.lckdwn.ru, path: /, reality-opts: {public-key: XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00, short-id: d5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 138.124.32.50:2443, server: 138.124.32.50, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 28a6ce90-7fd8-4aff-99b1-726083fcd5dc, servername: use.typekit.net, host: use.typekit.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q, short-id: 0ec0e06a8bb19bc1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.185.166.71:1443, server: 93.185.166.71, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 34e43eef-56e8-4097-b5cf-94ba0e2ea43e, servername: nl17.fastlanehosting.ru, alpn: ["h2,http/1.1"], host: nl17.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.151.106.62:443, server: 45.151.106.62, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.85.253.87:443, server: 95.85.253.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 35b9becb-2488-447c-ad69-e839f2fc13c1, servername: eh.vk.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,7 +507,6 @@ proxies:
   - {name: 172.64.53.115:443, server: 172.64.53.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.user68f797c2f3e1b.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.user68f797c2f3e1b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.53.126:443, server: 172.64.53.126, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.user68f797c2f3e1b.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.user68f797c2f3e1b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cf.008500.xyz:443, server: cf.008500.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi695fcee895881.workers.dev, network: ws, ws-opts: {path: /@OnNetVpn, headers: {Host: powered-by-surena.configfarsi695fcee895881.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 cdn-nl-cf.barryvpn.com:8443, server: cdn-nl-cf.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cabb434-f480-478a-9586-a5667167eeb1, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 pl5.lckdwn.ru:443, server: pl5.lckdwn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6f99ed2f-9879-40e3-b5b4-5590c60f8e4a, servername: vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU, short-id: b5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.44.45:443, server: 162.159.44.45, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7270612b-49f6-4b04-999c-34d8263da767, servername: picassooo.info, network: ws, ws-opts: {path: /aymdlws, headers: {Host: picassooo.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.106.202:38765, server: 64.188.106.202, port: 38765, type: vless, tls: true, packet-encoding: xudp, uuid: 7a0ae662-eee7-44c0-8998-d575870bd749, servername: aws.amazon.com, host: aws.amazon.com, path: /, reality-opts: {public-key: fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY, short-id: d789a31a7a7014}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -534,6 +534,7 @@ proxies:
   - {name: 194.87.44.157:443, server: 194.87.44.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: nld10.frostbot.ru, host: nld10.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: bff3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.15.152.226:443, server: 45.15.152.226, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: fin2.frostbot.ru, host: fin2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: be91008fd0a4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.150.65.43:443, server: 45.150.65.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: us1.frostbot.ru, host: us1.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: 5589c1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 pass.enigmabot.ru:443, server: pass.enigmabot.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇪🇸 [openproxylist.com] vmess-ES", server: 85.90.217.42, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-ID", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
@@ -582,6 +583,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -596,7 +598,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -624,6 +625,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -662,6 +664,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -676,7 +679,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -704,6 +706,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -742,6 +745,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -756,7 +760,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -784,6 +787,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -831,6 +835,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -845,7 +850,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -873,6 +877,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -911,6 +916,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -925,7 +931,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -953,6 +958,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -991,6 +997,7 @@ proxy-groups:
       - lucy.ns.cloudflare.com:443
       - 77.110.119.35:2053
       - 🇷🇺 nltw4.lckdwn.ru:8443
+      - 138.124.32.50:2443
       - 93.185.166.71:1443
       - 45.151.106.62:443
       - 95.85.253.87:443
@@ -1005,7 +1012,6 @@ proxy-groups:
       - 172.64.53.115:443
       - 172.64.53.126:443
       - cf.008500.xyz:443
-      - 🇳🇱 cdn-nl-cf.barryvpn.com:8443
       - 🇷🇺 pl5.lckdwn.ru:443
       - 162.159.44.45:443
       - 64.188.106.202:38765
@@ -1033,6 +1039,7 @@ proxy-groups:
       - 194.87.44.157:443
       - 45.15.152.226:443
       - 45.150.65.43:443
+      - 🇷🇺 pass.enigmabot.ru:443
       - 🇪🇸 [openproxylist.com] vmess-ES
       - "[openproxylist.com] vmess-ID"
       - 🇩🇪 [openproxylist.com] vmess-DE
