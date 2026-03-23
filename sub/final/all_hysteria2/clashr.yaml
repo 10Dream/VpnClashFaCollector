@@ -13,6 +13,8 @@ proxies:
   - {name: d@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: c@oneclickvpnkeys, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@oneclickvpnkeys`", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🩸10", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -27,6 +29,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -41,6 +45,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -55,6 +61,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -68,6 +76,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -81,6 +91,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -94,6 +106,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -129,6 +143,8 @@ proxy-groups:
       - d@oneclickvpnkeys
       - c@oneclickvpnkeys
       - "@oneclickvpnkeys`"
+      - "@filembad`"
+      - "@tel_melli🩸10"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

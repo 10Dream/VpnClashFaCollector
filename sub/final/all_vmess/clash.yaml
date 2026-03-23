@@ -487,6 +487,7 @@ proxies:
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@filembad 6", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 7", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: 35.240.225.23, port: 8880, type: vmess, uuid: c5dd6680-64ad-4f04-9952-49d94984f9eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@filembad 8", server: am.nftydreams.io, port: 2002, type: vmess, uuid: d2514b25-5889-403e-871c-fb10b05d17f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 9", server: am.nftydreams.io, port: 2002, type: vmess, uuid: e49c6b32-d220-49c9-8bed-981248a06c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: d2fog4flcfgb8c.cloudfront.net, port: 443, type: vmess, uuid: e070e567-7996-45a9-9016-0143420946ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /8536cb1926c24bbc99d7bd93350ec564, headers: {Host: d2fog4flcfgb8c.cloudfront.net}}, udp: true, tfo: false}
@@ -533,6 +534,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
@@ -569,6 +571,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
@@ -605,6 +608,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
@@ -650,6 +654,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
@@ -686,6 +691,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
@@ -722,6 +728,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 6"
       - "@filembad 7"
+      - 🇸🇬 [openproxylist.com] vmess-SG
       - "@filembad 8"
       - "@filembad 9"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
