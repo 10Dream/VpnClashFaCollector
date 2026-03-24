@@ -465,81 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| AT | 542ms | ⛽️01@oneclickvpnkeys", server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| AT | 508ms | ⛽️68@oneclickvpnkeys", server: betty.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad`", server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 3007", server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 109.120.180.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 109.120.180.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 429ms |, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 455ms | @filembad`, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 464ms |, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 484ms | ***✅***@AR14N24b, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys", server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| EE | 475ms | @filembad`", server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| EE | 484ms |", server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| EE | 499ms | ***✅***@AR14N24b", server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| EE | 503ms | @v2rayconfigamir 1662", server: 193.109.120.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: est15.frostbot.ru, host: est15.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A, short-id: 8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 504ms |, server: 194.87.44.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: nld10.frostbot.ru, host: nld10.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: bff3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys", server: 45.15.152.226, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: fin2.frostbot.ru, host: fin2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: be91008fd0a4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| FI | 540ms |", server: 45.15.152.226, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: fin2.frostbot.ru, host: fin2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: be91008fd0a4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 67ms |, server: 45.150.65.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: us1.frostbot.ru, host: us1.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: 5589c1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: pass.enigmabot.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad` 2", server: STAR.SPEED.mygoldiran.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fda75d73-9b90-412f-ac4b-a3f24e32c7de, network: ws, ws-opts: {path: /wp-content/uploads/user/, headers: {Host: STAR.SPEED.mygoldiran.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad` 3", server: STAR.SPEED.mygoldiran.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fda75d73-9b90-412f-ac4b-a3f24e32c7de, network: ws, ws-opts: {path: /wp-content/uploads/user/, headers: {Host: STAR.SPEED.mygoldiran.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys, server: de12.frostbot.ru, port: 6443, type: vless, tls: true, packet-encoding: xudp, uuid: fdc8d6e7-9520-4580-aefb-50185b539bdd, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc, short-id: b9605803fb4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad` 4", server: 77.83.245.135, port: 34205, type: vless, tls: true, packet-encoding: xudp, uuid: fddac2e2-1fc8-4cab-8061-83d83185fc9c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`", server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff7662c0-d71b-4aa1-afbf-b81dd2bc5972, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff7662c0-d71b-4aa1-afbf-b81dd2bc5972, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad` 5", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff7662c0-d71b-4aa1-afbf-b81dd2bc5972, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 50GB-v3- @unvisible_drops", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff7662c0-d71b-4aa1-afbf-b81dd2bc5972, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys, server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffc1bcfa-4846-4bee-be26-5d7464f91e3d, servername: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad", server: mel.idbede.com, port: 8443, type: vmess, uuid: 66df5198-60f7-426a-8750-9dc0eec8d79a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893, server: n1761214904.wpg27.xyz, port: 443, type: vmess, uuid: 7f6f64ae-3778-434c-adfc-95cb67ee8b73, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761214904.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222, server: 61.245.11.60, port: 80, type: vmess, uuid: a3e3a710-79f8-4ae0-b83c-607aab40d197, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 61.245.11.60}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 2", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: b4e1fa54-647f-4379-b695-eb9b5c458f90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 3", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: bc983b05-1c89-40ce-9356-82bb54dec67f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 4", server: bahar.cringeworld.ir, port: 31245, type: vmess, uuid: f19b0825-cc4f-4bf1-9b04-98e5700ef086, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 5", server: bm.nftydreams.io, port: 2005, type: vmess, uuid: 07545093-62f3-4f2a-8c63-318aa5a8415b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 1910", server: 61.245.11.60, port: 80, type: vmess, uuid: a3e3a710-79f8-4ae0-b83c-607aab40d197, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 6310", server: n1752833184.lie5d.cyou, port: 443, type: vmess, uuid: 6c7d09e3-9cfa-41c8-8194-e81eb21bfb88, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1752833184.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1752833184.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys, server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE", server: 164.92.245.167, port: 2096, type: vmess, uuid: 4c95d617-efd8-4045-98d5-4d00e96667f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 6", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 7", server: 178.104.67.88, port: 17055, type: vmess, uuid: 636e5317-0f8b-499c-9903-ca0d3d837f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)", server: 185.181.183.124, port: 28094, type: vmess, uuid: a6440729-1046-4a9c-bc19-7c0ede4bf4d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 8", server: 185.206.95.35, port: 43828, type: vmess, uuid: 0ab3efb7-79ee-48e8-b089-084fef1cd88c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 9", server: 193.151.131.146, port: 2053, type: vmess, uuid: 4223a522-14ab-b8b3-4349-cf38d34343dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 10", server: 193.151.131.146, port: 2086, type: vmess, uuid: 4223a522-14ab-b8b3-4349-cf38d34343dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 11", server: 193.151.131.146, port: 2096, type: vmess, uuid: 4223a522-14ab-b8b3-4349-cf38d34343dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG", server: 35.240.225.23, port: 8880, type: vmess, uuid: c5dd6680-64ad-4f04-9952-49d94984f9eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "| IT | 278ms | 🏆46@oneclickvpnkeys", server: 45.92.70.236, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys, server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| SE | 417ms | @gilass_on 🍒۹", server: 46.246.126.154, port: 443, type: vmess, uuid: f2fd0786-1059-4f64-d54e-3f3a568c6c68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 6194", server: 61.245.11.60, port: 80, type: vmess, uuid: a3e3a710-79f8-4ae0-b83c-607aab40d197, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys, server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 9308", server: 8.218.52.5, port: 443, type: vmess, uuid: 1f2daf43-ff90-4df9-9276-dfb8486d72bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214915.mv7wh.tech, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 12", server: am.nftydreams.io, port: 2002, type: vmess, uuid: e49c6b32-d220-49c9-8bed-981248a06c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 13", server: bm.nftydreams.io, port: 2005, type: vmess, uuid: 07545093-62f3-4f2a-8c63-318aa5a8415b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE", server: d2fog4flcfgb8c.cloudfront.net, port: 443, type: vmess, uuid: e070e567-7996-45a9-9016-0143420946ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /8536cb1926c24bbc99d7bd93350ec564, headers: {Host: d2fog4flcfgb8c.cloudfront.net}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 14", server: elma.ns.cloudflare.com, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: elma.ns.cloudflare.com, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 15", server: elma.ns.cloudflare.com, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: elma.ns.cloudflare.com, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 16", server: elma.ns.cloudflare.com, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: elma.ns.cloudflare.com, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 17", server: elma.ns.cloudflare.com, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: elma.ns.cloudflare.com, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 18", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 05e5f974-142e-47d2-b01b-86f9c441b5e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 19", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 9074efff-12c9-4641-8550-513dba860c93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 20", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: e97d0f6d-0d1b-4e81-97ff-5fc0b7ef0ff8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 21", server: mel.idbede.com, port: 8443, type: vmess, uuid: 5aa3dc0e-b490-4de2-80f3-b222103548ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 22", server: mel.idbede.com, port: 8443, type: vmess, uuid: 66df5198-60f7-426a-8750-9dc0eec8d79a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 23", server: mel.idbede.com, port: 8443, type: vmess, uuid: cfe7ba8b-7bd6-447c-b54d-564632e61d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 24", server: xm.nftydreams.io, port: 2003, type: vmess, uuid: 0d1a9faa-272c-4050-892c-5a611a9755b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 25", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 7f3ffb77-e8ab-4321-b885-81aefc64b953, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 26", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 308d0175-9774-42f9-8494-dfbf6b155458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE", server: d2fog4flcfgb8c.cloudfront.net, port: 443, type: vmess, uuid: e070e567-7996-45a9-9016-0143420946ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /8536cb1926c24bbc99d7bd93350ec564, headers: {Host: d2fog4flcfgb8c.cloudfront.net}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 05e5f974-142e-47d2-b01b-86f9c441b5e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 2", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 9074efff-12c9-4641-8550-513dba860c93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 3", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 0353e1cb-7e39-4a3a-aada-ad25a2d5c3b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 4", server: mel.idbede.com, port: 8443, type: vmess, uuid: 12d5e940-4cfc-4294-b479-4195c29dbc35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 5", server: mel.idbede.com, port: 8443, type: vmess, uuid: 47ca7e88-e96d-44ab-98cd-cc9a8f387586, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 6", server: mel.idbede.com, port: 8443, type: vmess, uuid: 47ca7e88-e96d-44ab-98cd-cc9a8f387586, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 7", server: mel.idbede.com, port: 8443, type: vmess, uuid: 47ca7e88-e96d-44ab-98cd-cc9a8f387586, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 8", server: mel.idbede.com, port: 8443, type: vmess, uuid: 5aa3dc0e-b490-4de2-80f3-b222103548ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 9", server: mel.idbede.com, port: 8443, type: vmess, uuid: 66df5198-60f7-426a-8750-9dc0eec8d79a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 10", server: mel.idbede.com, port: 8443, type: vmess, uuid: 89e31f52-5e5e-4a46-ad8f-c6dd1ba5aee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 11", server: mel.idbede.com, port: 8443, type: vmess, uuid: e60d22b9-b881-412d-8b0b-7b8dea233198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 12", server: mel.idbede.com, port: 8443, type: vmess, uuid: 12d5e940-4cfc-4294-b479-4195c29dbc35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 13", server: mel.idbede.com, port: 8443, type: vmess, uuid: cfe7ba8b-7bd6-447c-b54d-564632e61d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 14", server: xm.nftydreams.io, port: 2003, type: vmess, uuid: 0d1a9faa-272c-4050-892c-5a611a9755b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 15", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 7f3ffb77-e8ab-4321-b885-81aefc64b953, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 16", server: mel.digitalldns.com, port: 8443, type: vmess, uuid: 308d0175-9774-42f9-8494-dfbf6b155458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 17", server: mel.idbede.com, port: 8443, type: vmess, uuid: e60d22b9-b881-412d-8b0b-7b8dea233198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -556,243 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -808,243 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AT | 542ms | ⛽️01@oneclickvpnkeys"
-      - "| AT | 508ms | ⛽️68@oneclickvpnkeys"
-      - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | @filembad`"
-      - "| null | 99999ms | @v2rayconfigamir 3007"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | 3"
-      - 🇵🇱 | PL | 429ms |
-      - 🇵🇱 | PL | 447ms | @v2rayconfigamir 5304
-      - 🇵🇱 | PL | 455ms | @filembad`
-      - 🇵🇱 | PL | 464ms |
-      - 🇵🇱 | PL | 484ms | ***✅***@AR14N24b
-      - "| EE | 482ms | 👁️‍🗨️71@oneclickvpnkeys"
-      - "| EE | 475ms | @filembad`"
-      - "| EE | 484ms |"
-      - "| EE | 499ms | ***✅***@AR14N24b"
-      - "| EE | 503ms | @v2rayconfigamir 1662"
-      - 🇳🇱 | NL | 504ms |
-      - "| FI | 550ms | 👁️‍🗨️93@oneclickvpnkeys"
-      - "| FI | 540ms |"
-      - 🇺🇸 | US | 67ms |
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | @filembad` 2"
-      - "| null | 99999ms | @filembad` 3"
-      - 🇩🇪 | DE | 676ms | ⛽️31@oneclickvpnkeys
-      - "| null | 99999ms | @filembad` 4"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN`"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @filembad` 5"
-      - "| null | 99999ms | 50GB-v3- @unvisible_drops"
-      - 🇩🇪 | DE | 365ms | 👁️‍🗨️38@oneclickvpnkeys
+      - 🇩🇪 | null | 99999ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad"
-      - 🇭🇰 | HK | 1407ms | @v2rayconfigamir 2893
-      - 🇵🇭 | PH | 1370ms | @v2rayconfigamir 8222
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
       - "| null | 99999ms | @filembad 4"
       - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @v2rayconfigamir 1910"
-      - "| null | 99999ms | @v2rayconfigamir 6310"
-      - "| null | 99999ms | 🇮🇩[openproxylist.com] vmess-ID"
-      - 🇩🇪 | DE | 380ms | 👑3@oneclickvpnkeys
-      - 🇩🇪 | DE | 381ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | 🔰 @PewezaVPN (تلگرام)"
       - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
-      - 🇸🇬 | SG | 934ms | 🇸🇬[openproxylist.com] vmess-SG
-      - "| IT | 278ms | 🏆46@oneclickvpnkeys"
-      - 🇩🇪 | DE | 305ms | 🛸71@oneclickvpnkeys
-      - "| SE | 417ms | @gilass_on 🍒۹"
-      - "| null | 99999ms | @v2rayconfigamir 6194"
-      - 🇬🇧 | GB | 248ms | 🏆37@oneclickvpnkeys
-      - "| null | 99999ms | @v2rayconfigamir 9308"
       - "| null | 99999ms | @filembad 12"
       - "| null | 99999ms | @filembad 13"
-      - 🇩🇪 | DE | 626ms | 🇩🇪[openproxylist.com] vmess-DE
       - "| null | 99999ms | @filembad 14"
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
-      - "| null | 99999ms | @filembad 18"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
-      - "| null | 99999ms | @filembad 24"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
   - name: دانلود منیجر 📥
     type: select
     proxies:

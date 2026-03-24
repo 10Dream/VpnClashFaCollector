@@ -469,9 +469,9 @@ proxies:
   - {name: 65@oneclickvpnkeys, server: 104.16.190.233, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 85@oneclickvpnkeys, server: spring-tooth-7fa3.ahmadrj.workers.dev, port: 443, type: trojan, password: Nova-Proxy, skip-cert-verify: false, network: ws, ws-opts: {path: ""}, udp: true, tfo: false}
   - {name: "@tel_melli🩸9", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@filembad`", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 9@oneclickvpnkeys, server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: /, headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 17@oneclickvpnkeys, server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: /, headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⛽️21@oneclickvpnkeys, server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7@oneclickvpnkeys, server: 104.18.12.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -583,9 +583,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys
@@ -687,9 +687,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys
@@ -791,9 +791,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys
@@ -904,9 +904,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys
@@ -1008,9 +1008,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys
@@ -1112,9 +1112,9 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - "@tel_melli🩸9"
-      - "@filembad`"
       - 9@oneclickvpnkeys
       - 17@oneclickvpnkeys
+      - "@filembad`"
       - ⛽️21@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 19@oneclickvpnkeys

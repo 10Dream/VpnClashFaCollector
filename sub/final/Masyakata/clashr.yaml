@@ -20,7 +20,6 @@ proxies:
   - {name: ir.gafe-lorbad.ir:443 2, server: ir.gafe-lorbad.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b29e21bd-d6d6-4a84-83b0-90cc9cbad5b5, host: ir.gafe-lorbad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@white_configs لطفا برای حمایت جوین شید", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.worker…, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.worker…}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@crayingroom بیا تلگرام", server: null.bache-molavi.sbs, port: 51456, type: vless, tls: true, packet-encoding: xudp, uuid: e70780b2-7ccc-4add-8ab2-7b7df57a74a7, host: null.bache-molavi.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxymelimon جوین شو تلگرام`", server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -43,7 +42,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: ♻️ 自动选择
     type: url-test
@@ -66,7 +64,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: 🌍 国外媒体
     type: select
@@ -89,7 +86,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: 📲 电报信息
     type: select
@@ -111,7 +107,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: Ⓜ️ 微软服务
     type: select
@@ -133,7 +128,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: 🍎 苹果服务
     type: select
@@ -155,7 +149,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
   - name: 🎯 全球直连
     type: select
@@ -199,7 +192,6 @@ proxy-groups:
       - ir.gafe-lorbad.ir:443 2
       - "@white_configs لطفا برای حمایت جوین شید"
       - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@crayingroom بیا تلگرام"
       - "@proxymelimon جوین شو تلگرام`"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
