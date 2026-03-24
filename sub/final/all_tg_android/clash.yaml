@@ -469,25 +469,22 @@ proxies:
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@configraygan, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@mtproto_proserver, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080 3, server: 127.0.0.1, port: 1080, type: socks5, username: "@@Capoit", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, username: "@@Capoit", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080*, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808*, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.232.152.98:54123, server: 185.232.152.98, port: 54123, type: socks5, username: beni, password: beni, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.212.97.133:1080, server: 188.212.97.133, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 193.151.141.100:3333, server: 193.151.141.100, port: 3333, type: socks5, username: a, password: a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.58.119.206:8080, server: 193.58.119.206, port: 8080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.85.251.197:35269, server: 194.85.251.197, port: 35269, type: socks5, username: vxJmomhbh1, password: ch21ALrQE2, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.245:5201, server: 2.144.2.245, port: 5201, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.27:1080, server: 2.144.20.27, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.23.249:8888, server: 2.144.23.249, port: 8888, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.180.23.229:3030, server: 2.180.23.229, port: 3030, type: socks5, username: beiten393, password: !<str> 123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.184.155:51480, server: 94.101.184.155, port: 51480, type: socks5, username: "@Begoo_VPN", password: "@Begoo_VPN", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -510,24 +507,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -540,24 +534,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -570,24 +561,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: اتصال پایدار 🔗
     type: url-test
@@ -609,24 +597,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -639,24 +624,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -669,24 +651,21 @@ proxy-groups:
       - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
-      - 127.0.0.1:1080 3
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 185.232.152.98:54123
       - 188.212.97.133:1080
-      - 193.151.141.100:3333
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
       - 2.144.20.27:1080
       - 2.144.23.249:8888
       - 2.179.186.225:1080
-      - 2.180.23.229:3030
       - 46.245.94.249:1080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
-      - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
   - name: دانلود منیجر 📥
     type: select
