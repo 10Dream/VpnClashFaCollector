@@ -483,6 +483,7 @@ proxies:
   - {name: 2.144.23.249:8888, server: 2.144.23.249, port: 8888, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 80.71.149.37:8080, server: 80.71.149.37, port: 8080, type: socks5, username: admin, password: pass, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.184.155:51480, server: 94.101.184.155, port: 51480, type: socks5, username: "@Begoo_VPN", password: "@Begoo_VPN", skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
@@ -520,6 +521,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585
@@ -547,6 +549,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585
@@ -574,6 +577,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585
@@ -610,6 +614,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585
@@ -637,6 +642,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585
@@ -664,6 +670,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
       - tel-pro-2.qcluster.org:4585

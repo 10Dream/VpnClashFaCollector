@@ -30,10 +30,10 @@ proxies:
   - {name: 15.224.128.206:22222, server: 15.224.128.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.33.201:22222, server: 15.236.33.201, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.237.55.242:22222, server: 15.237.55.242, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.159.228.130:22222, server: 18.159.228.130, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.182.165:22222, server: 18.199.182.165, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22222, server: 3.120.169.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.150.62:22222, server: 3.124.150.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.69.114.26:22222, server: 3.69.114.26, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.73.207.163:22222, server: 3.73.207.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.241.230:22222, server: 35.181.241.230, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.46.125:22222, server: 35.181.46.125, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -90,7 +90,6 @@ proxies:
   - {name: "@v2rayconfigamir 8038", server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1038", server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: //, headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxymelimon جوین شو تلگرام 4", server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 50GB-v2- @unvisible_drops, server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e942f04b-4aae-4155-93d0-61fe03f24ec4, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9275", server: pl-waw-1.blook.network, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f3689c7c-d233-4fdb-b5ee-1bc8a65a637e, servername: pl-waw-1.blook.network, host: pl-waw-1.blook.network, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI, short-id: 578dc0c4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5309", server: s725.ccgfw.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297ua16es725.ccgfw.top, host: u710297ua16es725.ccgfw.top, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3007", server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -135,10 +134,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -195,7 +194,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -240,10 +238,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -300,7 +298,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -345,10 +342,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -405,7 +402,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -449,10 +445,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -509,7 +505,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -553,10 +548,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -613,7 +608,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -657,10 +651,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -717,7 +711,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
@@ -783,10 +776,10 @@ proxy-groups:
       - 15.224.128.206:22222
       - 15.236.33.201:22222
       - 15.237.55.242:22222
+      - 18.159.228.130:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
-      - 3.69.114.26:22222
       - 3.73.207.163:22222
       - 35.181.241.230:22222
       - 35.181.46.125:22222
@@ -843,7 +836,6 @@ proxy-groups:
       - "@v2rayconfigamir 8038"
       - "@v2rayconfigamir 1038"
       - "@proxymelimon جوین شو تلگرام 4"
-      - 50GB-v2- @unvisible_drops
       - "@v2rayconfigamir 9275"
       - "@v2rayconfigamir 5309"
       - "@v2rayconfigamir 3007"
