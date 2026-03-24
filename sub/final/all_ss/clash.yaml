@@ -466,12 +466,13 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@filembad`", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 91.220.113.214, port: 34262, type: ss, cipher: 2022-blake3-aes-256-gcm, password: J5KqtYhJbpZAMcoBR24xmvLge8Dfdh1jVMvAUxkqdHM=:ds00RVAZtgm3vfIRD4iRoNtXeJSpiupFHlBxq5V1/2g=, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 193.151.141.100, port: 24574, type: ss, cipher: 2022-blake3-aes-256-gcm, password: TB2A4q8w42DYlm+dTZGvz4MDNxxNqh/OsvL7rS4SMI4=:KknH67qYS99xY2hAzPs66dicrEKRFoDsp6A1ZVOVVdY=, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 16@oneclickvpnkeys, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
   - {name: 38.54.59.16:11201, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: 83@oneclickvpnkeys, server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
   - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: "@i10VPN 🚀| با ما متصل بمون⚡", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: 149.104.71.134:11201, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
@@ -479,26 +480,35 @@ proxies:
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 193.135.174.135:990 2, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 5.181.2.76:36608, server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
   - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 2", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
+  - {name: 49@oneclickvpnkeys, server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: ⛽️35@oneclickvpnkeys, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 195.93.253.240:14130, server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: Y66N7eDMqbn5uPWEu5Vpy1, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 37.139.32.113, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: ZDXwcFoJzFbQpQNCfjEMyxTUfZWYs1wC, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 37.139.32.113, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: ZDXwcFoJzFbQpQNCfjEMyxTUfZWYs1wC, udp: true, tfo: false}
   - {name: 163.171.207.11:29464, server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
   - {name: "@FreeConfigForYou 2", server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@tel_melli🌞3", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 🇺🇸 USA | @KIA_NET چنل‌تلگرم, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: 75@oneclickvpnkeys`, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: " ", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.194:8080, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "@FreeConfigForYou 3", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "  2", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 57.129.140.88:8388 2, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  3", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -507,16 +517,19 @@ proxies:
   - {name: 🇬🇧 UK | @KIA_NET چنل‌تلگرم, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 188.121.117.72:1010, server: 188.121.117.72, port: 1010, type: ss, cipher: aes-256-gcm, password: 8725ba8d-c977-4917-b0e7-8d0dd6a121b1, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 188.121.117.72, port: 1010, type: ss, cipher: aes-256-gcm, password: 8725ba8d-c977-4917-b0e7-8d0dd6a121b1, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1`", server: 188.121.117.72, port: 1010, type: ss, cipher: aes-256-gcm, password: 8725ba8d-c977-4917-b0e7-8d0dd6a121b1, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 84@oneclickvpnkeys, server: 154.53.60.212, port: 80, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
+  - {name: 53@oneclickvpnkeys, server: 38.180.161.123, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
+  - {name: 38.180.152.210:8881, server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
   - {name: 85.208.108.20:6379, server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -535,11 +548,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -547,26 +561,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -575,16 +598,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -593,11 +619,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -605,26 +632,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -633,16 +669,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -651,11 +690,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -663,26 +703,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -691,16 +740,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -718,11 +770,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -730,26 +783,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -758,16 +820,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -776,11 +841,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -788,26 +854,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -816,16 +891,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -834,11 +912,12 @@ proxy-groups:
     proxies:
       - "@filembad`"
       - "@filembad` 2"
-      - "@filembad` 3"
       - 16@oneclickvpnkeys
+      - "@filembad` 3"
       - 25@oneclickvpnkeys
       - 38.54.59.16:11201
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
+      - 83@oneclickvpnkeys
       - 141.95.106.127:11201
       - "@i10VPN 🚀| با ما متصل بمون⚡"
       - 149.104.71.134:11201
@@ -846,26 +925,35 @@ proxy-groups:
       - 193.135.174.135:990
       - 193.135.174.135:990 2
       - 5.181.2.76:36608
+      - "@filembad` 4"
       - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
+      - 49@oneclickvpnkeys
+      - "@filembad` 5"
       - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
       - ⛽️35@oneclickvpnkeys
-      - 195.93.253.240:14130
+      - "@filembad` 6"
+      - "@filembad` 7"
       - 163.171.207.11:29464
       - "@FreeConfigForYou 2"
       - tinkered-pennies-puppies.freesocks.work:443
+      - "@filembad` 8"
+      - "@tel_melli🌞3"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم
+      - 75@oneclickvpnkeys`
+      - "***✅***@AR14N24b"
       - 82.38.31.176:8080
       - " "
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 82.38.31.194:8080
       - "@FreeConfigForYou 3"
+      - "@filembad` 9"
       - 57.129.140.88:8388
       - "  2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 3"
       - 57.129.140.88:8388 2
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
       - 82.38.31.35:8080
       - "  3"
       - 82.38.31.61:8080
@@ -874,16 +962,19 @@ proxy-groups:
       - 🇬🇧 UK | @KIA_NET چنل‌تلگرم
       - 2@oneclickvpnkeys
       - 188.121.117.72:1010
-      - "@filembad` 4"
       - "***🌪***-@SPEEDS_VPN1`"
       - 144.217.164.29:12000
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 144.217.7.33:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
+      - 84@oneclickvpnkeys
+      - 53@oneclickvpnkeys
+      - 38.180.152.210:8881
+      - "@filembad` 10"
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:

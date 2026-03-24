@@ -467,13 +467,13 @@ rule-providers:
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080#@configraygan, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080#@mtproto_proserver, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, username: "@@Capoit", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080*, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808*, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.232.152.98:54123, server: 185.232.152.98, port: 54123, type: socks5, username: beni, password: beni, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.212.97.133:1080, server: 188.212.97.133, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.58.119.206:8080, server: 193.58.119.206, port: 8080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -483,6 +483,7 @@ proxies:
   - {name: 2.144.23.249:8888, server: 2.144.23.249, port: 8888, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.201.152.68:800, server: 5.201.152.68, port: 800, type: socks5, username: tel1, password: tel2eg, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.71.149.37:8080, server: 80.71.149.37, port: 8080, type: socks5, username: admin, password: pass, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.184.155:51480, server: 94.101.184.155, port: 51480, type: socks5, username: "@Begoo_VPN", password: "@Begoo_VPN", skip-cert-verify: false, udp: true, tfo: false}
@@ -505,13 +506,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -521,6 +522,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
@@ -533,13 +535,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -549,6 +551,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
@@ -561,13 +564,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -577,6 +580,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
@@ -598,13 +602,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -614,6 +618,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
@@ -626,13 +631,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -642,6 +647,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
@@ -654,13 +660,13 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@configraygan
       - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080 2
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
       - 171.22.27.147:1080
+      - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
       - 193.58.119.206:8080
@@ -670,6 +676,7 @@ proxy-groups:
       - 2.144.23.249:8888
       - 2.179.186.225:1080
       - 46.245.94.249:1080
+      - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
       - 94.101.184.155:51480
