@@ -7,7 +7,6 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080#@mtproto_proserver, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080*, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808*, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -15,6 +14,7 @@ proxies:
   - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.232.152.98:54123, server: 185.232.152.98, port: 54123, type: socks5, username: beni, password: beni, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.212.97.133:1080, server: 188.212.97.133, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.130.27:1010, server: 193.151.130.27, port: 1010, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.58.119.206:8080, server: 193.58.119.206, port: 8080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.85.251.197:35269, server: 194.85.251.197, port: 35269, type: socks5, username: vxJmomhbh1, password: ch21ALrQE2, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.245:5201, server: 2.144.2.245, port: 5201, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -25,6 +25,7 @@ proxies:
   - {name: 5.201.152.68:800, server: 5.201.152.68, port: 800, type: socks5, username: tel1, password: tel2eg, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.71.149.37:8080, server: 80.71.149.37, port: 8080, type: socks5, username: admin, password: pass, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.152.162:3467, server: 87.248.152.162, port: 3467, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -34,7 +35,6 @@ proxy-groups:
       - DIRECT
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -42,6 +42,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -52,6 +53,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: ♻️ 自动选择
     type: url-test
@@ -61,7 +63,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -69,6 +70,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -79,6 +81,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: 🌍 国外媒体
     type: select
@@ -88,7 +91,6 @@ proxy-groups:
       - 🎯 全球直连
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -96,6 +98,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -106,6 +109,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: 📲 电报信息
     type: select
@@ -114,7 +118,6 @@ proxy-groups:
       - 🎯 全球直连
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -122,6 +125,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -132,6 +136,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: Ⓜ️ 微软服务
     type: select
@@ -140,7 +145,6 @@ proxy-groups:
       - 🚀 节点选择
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -148,6 +152,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -158,6 +163,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: 🍎 苹果服务
     type: select
@@ -166,7 +172,6 @@ proxy-groups:
       - 🎯 全球直连
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -174,6 +179,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -184,6 +190,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
   - name: 🎯 全球直连
     type: select
@@ -214,7 +221,6 @@ proxy-groups:
       - ♻️ 自动选择
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080#@mtproto_proserver
       - 127.0.0.1:1080*
       - 127.0.0.1:10808
       - 127.0.0.1:10808*
@@ -222,6 +228,7 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.232.152.98:54123
       - 188.212.97.133:1080
+      - 193.151.130.27:1010
       - 193.58.119.206:8080
       - 194.85.251.197:35269
       - 2.144.2.245:5201
@@ -232,6 +239,7 @@ proxy-groups:
       - 5.201.152.68:800
       - 80.71.149.37:8080
       - 87.107.105.184:1080
+      - 87.248.152.162:3467
       - tel-pro-2.qcluster.org:4585
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
