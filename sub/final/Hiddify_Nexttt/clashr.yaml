@@ -18,6 +18,7 @@ proxies:
   - {name: Astro 7, server: 94.101.186.212, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 1, server: 94.101.187.219, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 12, server: 94.101.187.219, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ayyub202734_19377 🇮🇷 ², server: cloud3.vpsino.com, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 3a1a6c1e-d46f-6b9a-6d10-867de4f67595, host: cloud3.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -37,6 +38,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -56,6 +58,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -75,6 +78,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: 📲 电报信息
     type: select
     proxies:
@@ -93,6 +97,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -111,6 +116,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -129,6 +135,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,6 +176,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

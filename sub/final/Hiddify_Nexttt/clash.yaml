@@ -478,6 +478,7 @@ proxies:
   - {name: Astro 7, server: 94.101.186.212, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 1, server: 94.101.187.219, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 12, server: 94.101.187.219, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ayyub202734_19377 🇮🇷 ², server: cloud3.vpsino.com, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 3a1a6c1e-d46f-6b9a-6d10-867de4f67595, host: cloud3.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -507,6 +508,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -526,6 +528,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -545,6 +548,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -573,6 +577,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -592,6 +597,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -611,6 +617,7 @@ proxy-groups:
       - Astro 7
       - Astro 1
       - Astro 12
+      - ayyub202734_19377 🇮🇷 ²
   - name: دانلود منیجر 📥
     type: select
     proxies:
