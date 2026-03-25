@@ -52,6 +52,7 @@ proxies:
   - {name: 51.102.254.79:22223, server: 51.102.254.79, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22223, server: 51.44.137.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22223 2, server: 51.44.137.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.2.160:22223, server: 51.44.2.160, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.15.225:22223, server: 51.45.15.225, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.165.179:22223, server: 52.47.165.179, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.177.162.163:22223, server: 63.177.162.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -70,10 +71,12 @@ proxies:
   - {name: 51.102.254.79:22222, server: 51.102.254.79, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22222, server: 51.44.137.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22222 2, server: 51.44.137.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.2.160:22222, server: 51.44.2.160, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.15.225:22222, server: 51.45.15.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.165.179:22222, server: 52.47.165.179, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.177.162.163:22222, server: 63.177.162.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ar.ubmirror.com:55057, server: ar.ubmirror.com, port: 55057, type: vless, tls: true, packet-encoding: xudp, uuid: 026d3137-54d8-4d7b-90d8-a006b60f717e, host: ar.ubmirror.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: pic1.myket.mom:37001, server: pic1.myket.mom, port: 37001, type: vless, tls: true, packet-encoding: xudp, uuid: 0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd, servername: www.amazon.com, host: www.amazon.com, path: /, reality-opts: {public-key: vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ, short-id: c385}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.188.88.163:443, server: 5.188.88.163, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0509acee-63e3-4364-95cc-21c601f059be, servername: booking.com, host: booking.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.68.140:22224, server: 13.37.68.140, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.248.208:22224, server: 13.38.248.208, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -93,6 +96,7 @@ proxies:
   - {name: 51.102.254.79:22224 3, server: 51.102.254.79, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22224, server: 51.44.137.34, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.137.34:22224 2, server: 51.44.137.34, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.2.160:22224, server: 51.44.2.160, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.45.15.225:22224, server: 51.45.15.225, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.165.179:22224, server: 52.47.165.179, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.177.162.163:22224, server: 63.177.162.163, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -101,6 +105,7 @@ proxies:
   - {name: rocket.clearpa66thdata.shop:18273 2, server: rocket.clearpa66thdata.shop, port: 18273, type: vless, tls: true, packet-encoding: xudp, uuid: 095ec094-2a99-414d-b389-7007cd86e690, host: rocket.clearpa66thdata.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: aparatrat1.info:2083, server: aparatrat1.info, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 0eb91122-ae4e-4944-809b-8f21ca9a3450, host: aparatrat1.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.124.214.188:443, server: 176.124.214.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f637e9e-d25b-4588-bde0-dac7f36b3c93, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: n0X8cA7Ndd42e8dYC8OVWm8qniP_dxjy7GeY8LWNEjQ, short-id: 6f822eda1c375660}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 213.176.74.67:2053, server: 213.176.74.67, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 pl01.zqwerty.ru:2053, server: pl01.zqwerty.ru, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80, server: tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 11e3cbed-a0da-4c2f-a295-0397451a2d54, network: ws, ws-opts: {path: /, headers: {Host: tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.118.42.35:2053, server: 103.118.42.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: ylnhh.cc.cd, network: ws, ws-opts: {path: /Telegram🇨🇳+@WangCai2, headers: {Host: ylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -160,6 +165,7 @@ proxies:
   - {name: 51.195.119.195:2053, server: 51.195.119.195, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.98.237.23:8443, server: 87.98.237.23, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: plcdn23.suio.me:443, server: plcdn23.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: plcdn23.suio.me, host: plcdn23.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.192.160.53:44919, server: 91.192.160.53, port: 44919, type: vless, tls: true, packet-encoding: xudp, uuid: 6341758e-cb23-4b35-cb8d-018fdffad9aa, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.48.237:22955, server: 152.53.48.237, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.143.234.200:443, server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 65964037-bec2-4fd7-b7c8-053047f48034, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dl.fastprofsor.com:22618, server: dl.fastprofsor.com, port: 22618, type: vless, tls: true, packet-encoding: xudp, uuid: 6828e0e6-90ef-4035-b9fa-f5435e52f3b2, host: dl.fastprofsor.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -208,6 +214,7 @@ proxies:
   - {name: 52.195.208.63:14564 2, server: 52.195.208.63, port: 14564, type: vless, tls: true, packet-encoding: xudp, uuid: b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6, servername: www.apple.com, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: mci.ir}, reality-opts: {public-key: PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4, short-id: 9e569fc87f8d54}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: snapp.ir:80, server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6337939-de25-41bd-b067-333a15abbd65, network: ws, ws-opts: {path: /, headers: {Host: ar.liarashop.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cloud3.vpsino.com:6344 4, server: cloud3.vpsino.com, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: b6d348ac-daf2-c07c-5aac-f3851287951f, host: cloud3.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.226.117.223:8443, server: 185.226.117.223, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b78582f9-07f7-4b47-837c-3ef3e31cafee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: porttt4.webchipro2.ir:3040, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: b9653688-1470-f844-f106-a12f10fb3517, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tu3.bing-net.com:3049, server: tu3.bing-net.com, port: 3049, type: vless, tls: true, packet-encoding: xudp, uuid: bb29ad39-9249-47f9-a8e0-122b8621c296, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65.21.145.122:30448, server: 65.21.145.122, port: 30448, type: vless, tls: true, packet-encoding: xudp, uuid: bb89519d-d352-466e-a223-ad7bf282fb4f, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -228,6 +235,7 @@ proxies:
   - {name: 79.175.177.239:443, server: 79.175.177.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e1a9ff20-1111-4f5a-a395-123456789abc, servername: www.aparat.com, host: www.aparat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: meeeliii.marzabarvana.com:5355, server: meeeliii.marzabarvana.com, port: 5355, type: vless, tls: true, packet-encoding: xudp, uuid: e349eeee-169a-4e50-9512-7a6cfddbf8ee, network: ws, ws-opts: {path: /, headers: {Host: meeeliii.marzabarvana.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: meeeliii.marzabarvana.com:5355 2, server: meeeliii.marzabarvana.com, port: 5355, type: vless, tls: true, packet-encoding: xudp, uuid: e45c6bc1-a7a2-46b5-a6ee-966886c7e43d, network: ws, ws-opts: {path: /, headers: {Host: meeeliii.marzabarvana.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 82.192.72.240:443, server: 82.192.72.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e49a185d-2ebb-4ed0-8977-a9fda30d03e8, servername: nl.reality.tv123.ru, host: nl.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.148.31.0:15855, server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.143.233.200:443 2, server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e7b0a4b2-b1b3-4b8e-b8a3-79422428f5c8, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.193.153.187:443, server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: //, headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -296,6 +304,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -314,10 +323,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -337,6 +348,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -345,6 +357,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -404,6 +417,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -452,6 +466,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -472,6 +487,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -540,6 +556,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -558,10 +575,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -581,6 +600,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -589,6 +609,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -648,6 +669,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -696,6 +718,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -716,6 +739,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -784,6 +808,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -802,10 +827,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -825,6 +852,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -833,6 +861,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -892,6 +921,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -940,6 +970,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -960,6 +991,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -1027,6 +1059,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -1045,10 +1078,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -1068,6 +1103,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -1076,6 +1112,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -1135,6 +1172,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -1183,6 +1221,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -1203,6 +1242,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -1270,6 +1310,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -1288,10 +1329,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -1311,6 +1354,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -1319,6 +1363,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -1378,6 +1423,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -1426,6 +1472,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -1446,6 +1493,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -1513,6 +1561,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -1531,10 +1580,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -1554,6 +1605,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -1562,6 +1614,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -1621,6 +1674,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -1669,6 +1723,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -1689,6 +1744,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
@@ -1778,6 +1834,7 @@ proxy-groups:
       - 51.102.254.79:22223
       - 51.44.137.34:22223
       - 51.44.137.34:22223 2
+      - 51.44.2.160:22223
       - 51.45.15.225:22223
       - 52.47.165.179:22223
       - 63.177.162.163:22223
@@ -1796,10 +1853,12 @@ proxy-groups:
       - 51.102.254.79:22222
       - 51.44.137.34:22222
       - 51.44.137.34:22222 2
+      - 51.44.2.160:22222
       - 51.45.15.225:22222
       - 52.47.165.179:22222
       - 63.177.162.163:22222
       - ar.ubmirror.com:55057
+      - pic1.myket.mom:37001
       - 5.188.88.163:443
       - 13.37.68.140:22224
       - 13.38.248.208:22224
@@ -1819,6 +1878,7 @@ proxy-groups:
       - 51.102.254.79:22224 3
       - 51.44.137.34:22224
       - 51.44.137.34:22224 2
+      - 51.44.2.160:22224
       - 51.45.15.225:22224
       - 52.47.165.179:22224
       - 63.177.162.163:22224
@@ -1827,6 +1887,7 @@ proxy-groups:
       - rocket.clearpa66thdata.shop:18273 2
       - aparatrat1.info:2083
       - 176.124.214.188:443
+      - 213.176.74.67:2053
       - 🇷🇺 pl01.zqwerty.ru:2053
       - tobitobi-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80
       - 103.118.42.35:2053
@@ -1886,6 +1947,7 @@ proxy-groups:
       - 51.195.119.195:2053
       - 87.98.237.23:8443
       - plcdn23.suio.me:443
+      - 91.192.160.53:44919
       - 152.53.48.237:22955
       - 185.143.234.200:443
       - dl.fastprofsor.com:22618
@@ -1934,6 +1996,7 @@ proxy-groups:
       - 52.195.208.63:14564 2
       - snapp.ir:80
       - cloud3.vpsino.com:6344 4
+      - 185.226.117.223:8443
       - porttt4.webchipro2.ir:3040
       - tu3.bing-net.com:3049
       - 65.21.145.122:30448
@@ -1954,6 +2017,7 @@ proxy-groups:
       - 79.175.177.239:443
       - meeeliii.marzabarvana.com:5355
       - meeeliii.marzabarvana.com:5355 2
+      - 82.192.72.240:443
       - 45.148.31.0:15855
       - 185.143.233.200:443 2
       - 212.193.153.187:443
