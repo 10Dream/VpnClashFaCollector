@@ -43,6 +43,7 @@ proxies:
   - {name: 15.236.33.201:22223, server: 15.236.33.201, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.237.55.242:22223, server: 15.237.55.242, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.159.228.130:22223, server: 18.159.228.130, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.195.152.136:22223, server: 18.195.152.136, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.182.165:22223, server: 18.199.182.165, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22223, server: 3.120.169.133, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.150.62:22223, server: 3.124.150.62, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -62,6 +63,7 @@ proxies:
   - {name: 15.236.33.201:22222, server: 15.236.33.201, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.237.55.242:22222, server: 15.237.55.242, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.159.228.130:22222, server: 18.159.228.130, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.195.152.136:22222, server: 18.195.152.136, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.182.165:22222, server: 18.199.182.165, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22222, server: 3.120.169.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.150.62:22222, server: 3.124.150.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -84,6 +86,7 @@ proxies:
   - {name: 15.236.33.201:22224, server: 15.236.33.201, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.237.55.242:22224, server: 15.237.55.242, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.159.228.130:22224, server: 18.159.228.130, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.195.152.136:22224, server: 18.195.152.136, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.182.165:22224, server: 18.199.182.165, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.169.133:22224, server: 3.120.169.133, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.150.62:22224, server: 3.124.150.62, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -103,6 +106,7 @@ proxies:
   - {name: 185.143.233.200:443, server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 07ed4a85-d973-440a-a20e-54496bd8b985, servername: alef.ir.oadeflantrogm.mapircdn.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.mapircdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: rocket.clearpa66thdata.shop:18273, server: rocket.clearpa66thdata.shop, port: 18273, type: vless, tls: true, packet-encoding: xudp, uuid: 095ec094-2a99-414d-b389-7007cd86e690, host: rocket.clearpa66thdata.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: rocket.clearpa66thdata.shop:18273 2, server: rocket.clearpa66thdata.shop, port: 18273, type: vless, tls: true, packet-encoding: xudp, uuid: 095ec094-2a99-414d-b389-7007cd86e690, host: rocket.clearpa66thdata.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vix.nsa03.com:9000, server: vix.nsa03.com, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: 0a4c5a85-7089-446d-a817-26212ff67ed6, host: vix.nsa03.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: aparatrat1.info:2083, server: aparatrat1.info, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 0eb91122-ae4e-4944-809b-8f21ca9a3450, host: aparatrat1.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.124.214.188:443, server: 176.124.214.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f637e9e-d25b-4588-bde0-dac7f36b3c93, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: n0X8cA7Ndd42e8dYC8OVWm8qniP_dxjy7GeY8LWNEjQ, short-id: 6f822eda1c375660}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.176.74.67:2053, server: 213.176.74.67, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -177,6 +181,7 @@ proxies:
   - {name: dk01.sonicsonic.icu:443, server: dk01.sonicsonic.icu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 71a5d7f2-2ac6-4020-acaf-3c59efa4e856, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.179.197:443, server: 94.101.179.197, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 788d2a40-12fe-4296-b802-d218308e769b, servername: archive-azd1101.telewebion.ir, host: archive-azd1101.telewebion.ir, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.106.202:38765, server: 64.188.106.202, port: 38765, type: vless, tls: true, packet-encoding: xudp, uuid: 7a0ae662-eee7-44c0-8998-d575870bd749, servername: aws.amazon.com, host: aws.amazon.com, path: /, reality-opts: {public-key: fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY, short-id: d789a31a7a7014}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gg.starspeed.site:12720, server: gg.starspeed.site, port: 12720, type: vless, tls: true, packet-encoding: xudp, uuid: 7da100bb-499a-40e0-b09a-4b075a2d57a1, host: digikala.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cloud.vpsino.com:63822, server: cloud.vpsino.com, port: 63822, type: vless, tls: true, packet-encoding: xudp, uuid: 812d0507-c8bc-ffe5-ec36-0b6917d92108, host: cloud.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cloud.vpsino.com:63822 2, server: cloud.vpsino.com, port: 63822, type: vless, tls: true, packet-encoding: xudp, uuid: 812d0507-c8bc-ffe5-ec36-0b6917d92108, host: cloud.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip-meli3.nightgemshop.com:443, server: vip-meli3.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 82990c58-26b7-4a75-81fe-66e63489e5e9, host: vip-meli3.nightgemshop.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -237,6 +242,7 @@ proxies:
   - {name: meeeliii.marzabarvana.com:5355 2, server: meeeliii.marzabarvana.com, port: 5355, type: vless, tls: true, packet-encoding: xudp, uuid: e45c6bc1-a7a2-46b5-a6ee-966886c7e43d, network: ws, ws-opts: {path: /, headers: {Host: meeeliii.marzabarvana.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82.192.72.240:443, server: 82.192.72.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e49a185d-2ebb-4ed0-8977-a9fda30d03e8, servername: nl.reality.tv123.ru, host: nl.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.148.31.0:15855, server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cloud.vpsino.com:48324 4, server: cloud.vpsino.com, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: e6be088f-767b-5704-4a9a-5e9830b8118c, host: cloud.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.143.233.200:443 2, server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e7b0a4b2-b1b3-4b8e-b8a3-79422428f5c8, servername: alef.ir.oadeflantrogm.airasiadl.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.airasiadl.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.193.153.187:443, server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: //, headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.193.153.187:443 2, server: 212.193.153.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e81b43d3-bb75-07d0-8b11-f526aef4fef4, servername: lk-cdn.deploy-assure.ru, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: lk-cdn.deploy-assure.ru}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -245,7 +251,9 @@ proxies:
   - {name: 193.242.125.31:11892 2, server: 193.242.125.31, port: 11892, type: vless, tls: true, packet-encoding: xudp, uuid: eef019f8-ce5a-4f48-932f-f0fce4ecb0fc, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: farzandeiran.iransalar.top:41316, server: farzandeiran.iransalar.top, port: 41316, type: vless, tls: true, packet-encoding: xudp, uuid: f2b041e5-58be-41c6-a090-3bf44ba7ee2d, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 pl-waw-1.blook.network:443, server: pl-waw-1.blook.network, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f3689c7c-d233-4fdb-b5ee-1bc8a65a637e, servername: pl-waw-1.blook.network, host: pl-waw-1.blook.network, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI, short-id: 578dc0c4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.124.89.24:443, server: 89.124.89.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7bae22e-20ab-11f1-835c-0242ac110002, servername: nl1.cyphervpn.pro, host: nl1.cyphervpn.pro, path: /, reality-opts: {public-key: YW-C1ihJAmuzFtvNLUggNlEh86DQm8jvfrJ-wMj7XQY, short-id: 5bfa0c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s725.ccgfw.top:443, server: s725.ccgfw.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297ua16es725.ccgfw.top, host: u710297ua16es725.ccgfw.top, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: SofeWhite.legendperm.ir:4722, server: SofeWhite.legendperm.ir, port: 4722, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c0e80-a66c-4132-9b90-509d4ed369d5, host: SofeWhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.109.233:2727, server: 188.121.109.233, port: 2727, type: vless, tls: true, packet-encoding: xudp, uuid: fb612bee-93e3-483f-8536-69c8e737eaec, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.234.98:443, server: 144.31.234.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 138.124.104.221:443, server: 138.124.104.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: pol2.frostbot.ru, host: pol2.frostbot.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w, short-id: e043995937}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -295,6 +303,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -314,6 +323,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -336,6 +346,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -355,6 +366,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -429,6 +441,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -489,6 +502,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -497,7 +511,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -547,6 +563,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -566,6 +583,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -588,6 +606,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -607,6 +626,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -681,6 +701,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -741,6 +762,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -749,7 +771,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -799,6 +823,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -818,6 +843,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -840,6 +866,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -859,6 +886,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -933,6 +961,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -993,6 +1022,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -1001,7 +1031,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -1050,6 +1082,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -1069,6 +1102,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -1091,6 +1125,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -1110,6 +1145,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -1184,6 +1220,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -1244,6 +1281,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -1252,7 +1290,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -1301,6 +1341,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -1320,6 +1361,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -1342,6 +1384,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -1361,6 +1404,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -1435,6 +1479,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -1495,6 +1540,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -1503,7 +1549,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -1552,6 +1600,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -1571,6 +1620,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -1593,6 +1643,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -1612,6 +1663,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -1686,6 +1738,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -1746,6 +1799,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -1754,7 +1808,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
@@ -1825,6 +1881,7 @@ proxy-groups:
       - 15.236.33.201:22223
       - 15.237.55.242:22223
       - 18.159.228.130:22223
+      - 18.195.152.136:22223
       - 18.199.182.165:22223
       - 3.120.169.133:22223
       - 3.124.150.62:22223
@@ -1844,6 +1901,7 @@ proxy-groups:
       - 15.236.33.201:22222
       - 15.237.55.242:22222
       - 18.159.228.130:22222
+      - 18.195.152.136:22222
       - 18.199.182.165:22222
       - 3.120.169.133:22222
       - 3.124.150.62:22222
@@ -1866,6 +1924,7 @@ proxy-groups:
       - 15.236.33.201:22224
       - 15.237.55.242:22224
       - 18.159.228.130:22224
+      - 18.195.152.136:22224
       - 18.199.182.165:22224
       - 3.120.169.133:22224
       - 3.124.150.62:22224
@@ -1885,6 +1944,7 @@ proxy-groups:
       - 185.143.233.200:443
       - rocket.clearpa66thdata.shop:18273
       - rocket.clearpa66thdata.shop:18273 2
+      - vix.nsa03.com:9000
       - aparatrat1.info:2083
       - 176.124.214.188:443
       - 213.176.74.67:2053
@@ -1959,6 +2019,7 @@ proxy-groups:
       - dk01.sonicsonic.icu:443
       - 94.101.179.197:443
       - 64.188.106.202:38765
+      - gg.starspeed.site:12720
       - cloud.vpsino.com:63822
       - cloud.vpsino.com:63822 2
       - vip-meli3.nightgemshop.com:443
@@ -2019,6 +2080,7 @@ proxy-groups:
       - meeeliii.marzabarvana.com:5355 2
       - 82.192.72.240:443
       - 45.148.31.0:15855
+      - cloud.vpsino.com:48324 4
       - 185.143.233.200:443 2
       - 212.193.153.187:443
       - 212.193.153.187:443 2
@@ -2027,7 +2089,9 @@ proxy-groups:
       - 193.242.125.31:11892 2
       - farzandeiran.iransalar.top:41316
       - 🇵🇱 pl-waw-1.blook.network:443
+      - 89.124.89.24:443
       - s725.ccgfw.top:443
+      - SofeWhite.legendperm.ir:4722
       - 188.121.109.233:2727
       - 144.31.234.98:443
       - 138.124.104.221:443
