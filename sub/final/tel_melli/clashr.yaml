@@ -8,15 +8,9 @@ proxies:
   - {name: "@tel_melli🩸10", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞3", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@tel_melli🩸9", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@tel_melli💥7", server: 15.237.55.242, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞8", server: 18.159.228.130, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥10", server: 3.124.150.62, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥5", server: 15.237.55.242, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥9", server: 3.124.150.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🩸11`", server: 93.185.166.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 006c3eb9-4f44-4442-a1ec-5de48df2ae69, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Y3f9ANzzBvO_n89wALWn6KrdLTqAf68MeLQdgSrxtks, short-id: 3d385088cec747a4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥8", server: 15.237.55.242, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞11", server: 18.159.228.130, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥11`", server: 3.124.150.62, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞10", server: 51.102.254.79, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-bored, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎", server: 51.102.254.79, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🩸3", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 07ed4a85-d973-440a-a20e-54496bd8b985, servername: alef.ir.oadeflantrogm.mapircdn.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.mapircdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -25,6 +19,8 @@ proxies:
   - {name: "@tel_melli🩸5", server: 185.161.70.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎2`", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💛`", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli💛", server: onlazh2.khakimilad.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 351ab55e-22ea-4e7c-a4df-4bd0273225f9, servername: www.aparat.com, host: www.aparat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AAZAKzA6b6g4dvXrZwyEM5WdrKcwisfUyWoXbVDlmVA, short-id: d2537da1d2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli💛` 2", server: onlazh2.khakimilad.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 351ab55e-22ea-4e7c-a4df-4bd0273225f9, servername: www.aparat.com, host: www.aparat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AAZAKzA6b6g4dvXrZwyEM5WdrKcwisfUyWoXbVDlmVA, short-id: d2537da1d2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎1`", server: 217.16.27.208, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 36d63b0e-af50-4989-adf0-5a0787948237, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E, short-id: 00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎2` 2", server: 104.17.52.46, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🩸8", server: cloud.vpsino.com, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 4a129f3d-4cc8-fdfc-7e23-7e804599c759, host: cloud.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -32,15 +28,11 @@ proxies:
   - {name: "@tel_melli🌞4", server: dl.fastprofsor.com, port: 58545, type: vless, tls: true, packet-encoding: xudp, uuid: 4fb7274f-ac19-45a4-9494-afc5e789ec33, host: dl.fastprofsor.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🩸2", server: 83.217.201.48, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 52dbc2d8-00c5-0bb8-a898-22718fb85c12, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🩸7", server: 176.124.223.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥3", server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥", server: cloud.vpsino.com, port: 63822, type: vless, tls: true, packet-encoding: xudp, uuid: 812d0507-c8bc-ffe5-ec36-0b6917d92108, host: cloud.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💛1`", server: vip-meli3.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 82990c58-26b7-4a75-81fe-66e63489e5e9, host: vip-meli3.nightgemshop.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💛2`", server: vip-meli3.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 82990c58-26b7-4a75-81fe-66e63489e5e9, host: vip-meli3.nightgemshop.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥6", server: p.gostargate.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98bd825a-6195-4d1b-ae4f-50085f37e558, host: static.telewebion.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥2", server: 91.220.113.212, port: 57719, type: vless, tls: true, packet-encoding: xudp, uuid: a28078e4-174f-43c8-8573-2a6301f08076, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli💎1", server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: ba26f6fc-25da-427d-88e9-37ca26eaa520, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞9", server: tu3.bing-net.com, port: 3049, type: vless, tls: true, packet-encoding: xudp, uuid: bb29ad39-9249-47f9-a8e0-122b8621c296, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞6", server: trust.maf-borfax.ir, port: 99, type: vless, tls: true, packet-encoding: xudp, uuid: bb64090f-7332-4f28-9c24-ecaf07c2fb46, host: trust.maf-borfax.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💥4", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞", server: 172.66.1.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d2d0f796-edb0-427a-af32-ae360679f9e7, servername: rAyAn-007.fOtOn.dPdNs.oRg, network: ws, ws-opts: {path: /, headers: {Host: rAyAn-007.fOtOn.dPdNs.oRg}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -51,15 +43,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -68,6 +54,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -75,15 +63,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: ♻️ 自动选择
     type: url-test
@@ -94,15 +78,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -111,6 +89,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -118,15 +98,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: 🌍 国外媒体
     type: select
@@ -137,15 +113,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -154,6 +124,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -161,15 +133,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: 📲 电报信息
     type: select
@@ -179,15 +147,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -196,6 +158,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -203,15 +167,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: Ⓜ️ 微软服务
     type: select
@@ -221,15 +181,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -238,6 +192,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -245,15 +201,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: 🍎 苹果服务
     type: select
@@ -263,15 +215,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -280,6 +226,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -287,15 +235,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
   - name: 🎯 全球直连
     type: select
@@ -327,15 +271,9 @@ proxy-groups:
       - "@tel_melli🩸10"
       - "@tel_melli🌞3"
       - "@tel_melli🩸9"
-      - "@tel_melli💥7"
       - "@tel_melli🌞8"
-      - "@tel_melli💥10"
-      - "@tel_melli💥5"
-      - "@tel_melli💥9"
       - "@tel_melli🩸11`"
-      - "@tel_melli💥8"
       - "@tel_melli🌞11"
-      - "@tel_melli💥11`"
       - "@tel_melli🌞10"
       - "@tel_melli💎"
       - "@tel_melli🩸3"
@@ -344,6 +282,8 @@ proxy-groups:
       - "@tel_melli🩸5"
       - "@tel_melli💎2`"
       - "@tel_melli💛`"
+      - "@tel_melli💛"
+      - "@tel_melli💛` 2"
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🩸8"
@@ -351,15 +291,11 @@ proxy-groups:
       - "@tel_melli🌞4"
       - "@tel_melli🩸2"
       - "@tel_melli🩸7"
-      - "@tel_melli💥3"
-      - "@tel_melli💥"
       - "@tel_melli💛1`"
       - "@tel_melli💛2`"
-      - "@tel_melli💥6"
-      - "@tel_melli💥2"
+      - "@tel_melli💎1"
       - "@tel_melli🌞9"
       - "@tel_melli🌞6"
-      - "@tel_melli💥4"
       - "@tel_melli🌞"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
