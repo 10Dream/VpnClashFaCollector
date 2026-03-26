@@ -16,7 +16,6 @@ vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?&security=tls&alpn
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#
 vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.115:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.126:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#
 vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.185:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cqsvMHPf2pc9Z54Q-apTtcYfesNjjPSecAKaKrsoL0Y&security=reality&sid=4d94c4fb&sni=tunnel.vk-apps.com&type=tcp#
 vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&security=reality&sid=12af0dd9&sni=tunnel.vk-apps.com&type=tcp#
@@ -36,6 +35,7 @@ vless://GhostVPN_9510016@195.2.92.183:443?type=tcp&security=reality&fp=chrome&pb
 vless://a1056081-76c5-4185-a16d-da6657e088d0@82.41.181.60:443?encryption=none&fp=chrome&pbk=R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE&security=reality&sid=c0&sni=www.google.com&type=tcp#
 vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY&security=reality&sid=3aee9bf2757b2d1f&sni=www.apple.com&type=tcp#
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=api.livecut.cc&type=ws&headerType=none&host=api.livecut.cc&path=%2Fmusic#
+vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=%2Fmusic#
 vless://ad51da8f-c04c-4843-afaa-295accf942e3@185.116.214.253:443?encryption=none&fp=chrome&pbk=upQDBPxUldlllbz4A_Zp4YAHM_sIkyQxIbQvRryKm1s&security=reality&sid=86&sni=www.google.com&type=tcp#
 vless://ae0e984d-423e-4d80-8c0e-1d127340b3b9@150.241.203.76:11846?encryption=none&fp=chrome&pbk=e0Ab0q-jsGRsEclV-tUUoNM3-g79sWQqSL4k7UYft3w&security=reality&sid=49&sni=www.google.com&type=tcp#
 vless://b9662467-171c-4afc-8fac-dabf62fc47cc@64.188.106.173:2443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=EeM87Tb64-rdyOYJmKlx3OqxVXCLHIJvGGuDrc-In1k&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=www.microsoft.com&type=grpc#
