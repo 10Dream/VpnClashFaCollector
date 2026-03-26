@@ -466,6 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@saministamm`", server: atlas.irpairinghosting24.org, port: 4051, type: vless, tls: true, packet-encoding: xudp, uuid: 75c2e936-cf92-4bb1-f6c4-7a1f777f59cb, host: atlas.irpairinghosting24.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: saministamm, server: 104.64.32.87, port: 5984, type: vless, tls: true, packet-encoding: xudp, uuid: 9c0b4941-5f45-4445-9f58-3f52cf41c137, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm.`", server: 77.83.245.135, port: 34205, type: vless, tls: true, packet-encoding: xudp, uuid: bc6f9208-ba56-4678-a29c-afc8b8af9b89, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -484,6 +485,7 @@ proxy-groups:
     type: select
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -492,6 +494,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -500,6 +503,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -517,6 +521,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -525,6 +530,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -533,6 +539,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@saministamm`"
+      - saministamm
       - "@saministamm.`"
   - name: دانلود منیجر 📥
     type: select

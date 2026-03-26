@@ -8,6 +8,7 @@ proxies:
   - {name: n8mrcg00470027f.cybervena.com:50099, server: n8mrcg00470027f.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg004732fk8.cybervena.com:50099, server: n8mrcg004732fk8.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg004772avg.cybervena.com:50099, server: n8mrcg004772avg.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: n8mrcg005938lsz.cybervena.com:50099, server: n8mrcg005938lsz.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005961xa6.cybervena.com:50099, server: n8mrcg005961xa6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005988a7z.cybervena.com:50099, server: n8mrcg005988a7z.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg006015jsm.cybervena.com:50099, server: n8mrcg006015jsm.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -72,7 +73,6 @@ proxies:
   - {name: 172.64.146.102:443, server: 172.64.146.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 130e98f6-18ad-4505-9a6e-6e00424bd058, servername: 639073677251729790.corolla-perma.info, network: ws, ws-opts: {path: /jsdrzrws, headers: {Host: 639073677251729790.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.79.195:443, server: 64.188.79.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _tTZXX4uMTKGE6P_jUxO5bg_dfYkcG99oxqF1ph_sUg, short-id: 8ef8c87dbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.125.78.120:443, server: 89.125.78.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 138.124.32.50:2443, server: 138.124.32.50, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 28a6ce90-7fd8-4aff-99b1-726083fcd5dc, servername: use.typekit.net, host: use.typekit.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q, short-id: 0ec0e06a8bb19bc1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.78.121:30353, server: 64.188.78.121, port: 30353, type: vless, tls: true, packet-encoding: xudp, uuid: 3a4e812e-b3e8-4008-81b6-2d63405736b3, servername: www.icloud.com, host: www.icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: kLPBaVSLHWbPQUYr3IzAzsDmDl9o2Gh8FcP1ONxxCWk, short-id: badd0a3410}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cdn-gr-cf.barryvpn.com:8443, server: cdn-gr-cf.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d737761-5951-462e-86c1-ff921d9f9999, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 pl.nitroo-tech.ru:48885, server: pl.nitroo-tech.ru, port: 48885, type: vless, tls: true, packet-encoding: xudp, uuid: 3f88f137-a506-4386-8936-b0b4d7349478, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI, short-id: 6d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -115,7 +115,6 @@ proxies:
   - {name: 185.181.208.246:443, server: 185.181.208.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f26b76-ebc8-4f46-a3cf-8438c2f249a0, servername: www.google.com, host: www.google.com, path: /, reality-opts: {public-key: UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE, short-id: dc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.47.45:443, server: 172.66.47.45, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.180.65:443, server: 109.120.180.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 pass.enigmabot.ru:443, server: pass.enigmabot.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de12.frostbot.ru:6443, server: de12.frostbot.ru, port: 6443, type: vless, tls: true, packet-encoding: xudp, uuid: fdc8d6e7-9520-4580-aefb-50185b539bdd, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc, short-id: b9605803fb4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 103.229.124.3, port: 20521, type: vmess, uuid: 292e9c90-25b3-4ff5-b98a-9ef5877714ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
 proxy-groups:
@@ -127,6 +126,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -191,7 +191,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -234,7 +233,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: ♻️ 自动选择
@@ -246,6 +244,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -310,7 +309,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -353,7 +351,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🌍 国外媒体
@@ -365,6 +362,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -429,7 +427,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -472,7 +469,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 📲 电报信息
@@ -483,6 +479,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -547,7 +544,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -590,7 +586,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: Ⓜ️ 微软服务
@@ -601,6 +596,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -665,7 +661,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -708,7 +703,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🍎 苹果服务
@@ -719,6 +713,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -783,7 +778,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -826,7 +820,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🎯 全球直连
@@ -859,6 +852,7 @@ proxy-groups:
       - n8mrcg00470027f.cybervena.com:50099
       - n8mrcg004732fk8.cybervena.com:50099
       - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg005938lsz.cybervena.com:50099
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
@@ -923,7 +917,6 @@ proxy-groups:
       - 172.64.146.102:443
       - 64.188.79.195:443
       - 89.125.78.120:443
-      - 138.124.32.50:2443
       - 64.188.78.121:30353
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
@@ -966,7 +959,6 @@ proxy-groups:
       - 185.181.208.246:443
       - 172.66.47.45:443
       - 109.120.180.65:443
-      - 🇷🇺 pass.enigmabot.ru:443
       - 🇩🇪 de12.frostbot.ru:6443
       - 🇭🇰 [openproxylist.com] vmess-HK
 rules:
