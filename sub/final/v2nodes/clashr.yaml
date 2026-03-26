@@ -65,15 +65,20 @@ proxies:
   - {name: 77.239.126.65:5540, server: 77.239.126.65, port: 5540, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: eh.vk.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.2.160:22222, server: 51.44.2.160, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.177.162.163:22222, server: 63.177.162.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 nl-4.tr202507.com:443, server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.23.211.125:30385, server: 193.23.211.125, port: 30385, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca20960-99aa-4c92-b44d-e08829ef1a69, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw, short-id: 6232ac20545869}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95.163.152.83:443, server: 95.163.152.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1034a55b-ea7e-4a96-a7fa-d7cae5ab5523, servername: autotuojat.fi, host: autotuojat.fi, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ExkbbVbDnjp9RRcjSVbUzrkKnq78gL5KPOIJFAwXdXY, short-id: 977198bfb51105}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.253.40.7:2053, server: 5.253.40.7, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.131.8.31:2053, server: 94.131.8.31, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 la1.zqwerty.ru:2053, server: la1.zqwerty.ru, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, servername: music.yandex.ru, host: music.yandex.ru, path: /, reality-opts: {public-key: aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ, short-id: 0858af97f4e7324d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.146.102:443, server: 172.64.146.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 130e98f6-18ad-4505-9a6e-6e00424bd058, servername: 639073677251729790.corolla-perma.info, network: ws, ws-opts: {path: /jsdrzrws, headers: {Host: 639073677251729790.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de.vpn-club-service.ru:443, server: de.vpn-club-service.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 15041021-33ff-447e-bdd2-5a6f226f5ba2, servername: help.max.ru, host: help.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: yDPh2enztmRE8NH294bVNoILyZaQmZnH1gBvrd9RGQo, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.166.42:443, server: 144.31.166.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.79.195:443, server: 64.188.79.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _tTZXX4uMTKGE6P_jUxO5bg_dfYkcG99oxqF1ph_sUg, short-id: 8ef8c87dbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.125.78.120:443, server: 89.125.78.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.42.116.74:52006, server: 5.42.116.74, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 1f0a8364-ae34-07d0-b999-34a723111ebd, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 72.56.12.195:52006, server: 72.56.12.195, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 1f0a8364-ae34-07d0-b999-34a723111ebd, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.78.121:30353, server: 64.188.78.121, port: 30353, type: vless, tls: true, packet-encoding: xudp, uuid: 3a4e812e-b3e8-4008-81b6-2d63405736b3, servername: www.icloud.com, host: www.icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: kLPBaVSLHWbPQUYr3IzAzsDmDl9o2Gh8FcP1ONxxCWk, short-id: badd0a3410}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇦🇺 au-1.barryvpn.com:8443, server: au-1.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d737761-5951-462e-86c1-ff921d9f9999, servername: pass.qvinti.net, host: pass.qvinti.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: 93983a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cdn-gr-cf.barryvpn.com:8443, server: cdn-gr-cf.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d737761-5951-462e-86c1-ff921d9f9999, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 pl.nitroo-tech.ru:48885, server: pl.nitroo-tech.ru, port: 48885, type: vless, tls: true, packet-encoding: xudp, uuid: 3f88f137-a506-4386-8936-b0b4d7349478, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI, short-id: 6d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.239.139:25340, server: 144.31.239.139, port: 25340, type: vless, tls: true, packet-encoding: xudp, uuid: 40fb2d29-374c-4255-ae56-bf3ad95b8b37, servername: www.sony.com, host: www.sony.com, path: /, reality-opts: {public-key: fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE, short-id: 4830d187}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -89,6 +94,7 @@ proxies:
   - {name: 150.241.75.139:443, server: 150.241.75.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f98c4f8-19f4-471d-8ed5-10c0550c0423, servername: tunnel.vk-apps.com, host: tunnel.vk-apps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw, short-id: c34685e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.106.203:59851, server: 64.188.106.203, port: 59851, type: vless, tls: true, packet-encoding: xudp, uuid: 60c63b41-63f3-4602-b9f3-9ee2e1369447, servername: www.icloud.com, host: www.icloud.com, path: /, reality-opts: {public-key: DRYYaJ_Ne7bp2CZgJrYMuBy3o835I0s6p-H_HjTsWRc, short-id: a211}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82.26.94.193:443, server: 82.26.94.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 66143a11-6e84-466e-9b83-5cfebfd2aea8, servername: www.nvidia.com, host: www.nvidia.com, path: /, reality-opts: {public-key: Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI, short-id: a26f9030ae}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.84.222.114:443, server: 45.84.222.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d40449f-92df-4256-9607-679241455d49, servername: pingless.com, host: pingless.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.4.127:443, server: 144.31.4.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e0a9f75-b424-493b-b7e6-cebd7ea8642d, servername: plcdn14.melodramaonline.net, host: plcdn14.melodramaonline.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 vpn5.osaku.ru:12436, server: vpn5.osaku.ru, port: 12436, type: vless, tls: true, packet-encoding: xudp, uuid: 816be889-2d68-4941-acf5-94662015811c, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 8hRsFW43gU0_uB-RhXw0N4Q8gXVlNjlIAWmFnltm6gg, short-id: 41eccb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.130.25:443, server: 144.31.130.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 897f023a-7507-40c0-9a74-ab77be0a47f0, servername: nt1-2.buzzapi.space, host: nt1-2.buzzapi.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oCVM_P_-0CRIrazcAWCMSb7koEeYyBaUZ5LniuSLIAM, short-id: 0cc901919042144d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -97,9 +103,11 @@ proxies:
   - {name: 89.19.215.209:443, server: 89.19.215.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90c9c25c-df6c-4438-83d3-ef97166a9184, servername: 5post-gate.x5.ru, host: 5post-gate.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.3.222.170:465, server: 195.3.222.170, port: 465, type: vless, tls: true, packet-encoding: xudp, uuid: 916de9ac-1fe3-4c93-887a-ce4285d0bb9b, servername: download.docker.com, host: download.docker.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: k5VAU_3EaQMgR9FB7cqIu-lp35aZttOvAYNZW0TOki0, short-id: 336f5d66c86BcED2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 92b82d0f-d2f8-4f6f-b177-08f681a337e6, servername: 639073677243791121.camry-perma.info, network: ws, ws-opts: {path: /njvqoews, headers: {Host: 639073677243791121.camry-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.251.69.48:8443, server: 87.251.69.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98d8cefc-499a-4969-9a59-f03e947adf78, servername: at16.fastlanehosting.ru, alpn: ["h2,http/1.1"], host: at16.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.2.92.183:443, server: 195.2.92.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: GhostVPN_9510016, servername: vk.com, host: vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h_2ltojrlOLaZtaxFDkpiJpyPzWIshh9a5rDskjq3R8, short-id: ffffffffff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82.41.181.60:443, server: 82.41.181.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a1056081-76c5-4185-a16d-da6657e088d0, servername: www.google.com, host: www.google.com, path: /, reality-opts: {public-key: R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE, short-id: c0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.238.232:443, server: 144.31.238.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a1afced8-420b-430d-b25a-08db1c3332da, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY, short-id: 3aee9bf2757b2d1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95.85.234.172:443, server: 95.85.234.172, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a6abf70b-f734-42e5-ace6-208e4d53d207, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc, short-id: 844886de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: api.livecut.cc:443, server: api.livecut.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac421bf3-470d-4e21-a56d-c8d622f6df2f, servername: api.livecut.cc, network: ws, ws-opts: {path: /music, headers: {Host: api.livecut.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: api.livecut.cc:443 2, server: api.livecut.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac421bf3-470d-4e21-a56d-c8d622f6df2f, servername: api.livecut.cc, network: ws, ws-opts: {path: /music, headers: {Host: api.livecut.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.116.214.253:443, server: 185.116.214.253, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad51da8f-c04c-4843-afaa-295accf942e3, servername: www.google.com, host: www.google.com, path: /, reality-opts: {public-key: upQDBPxUldlllbz4A_Zp4YAHM_sIkyQxIbQvRryKm1s, short-id: 86}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -110,6 +118,7 @@ proxies:
   - {name: 94.103.0.92:2443, server: 94.103.0.92, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: c01733dd-3e58-4da9-910b-cdd4560295bc, servername: crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.120.165.70:443, server: 87.120.165.70, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ce540111-fd82-4459-b974-06d83beb01d5, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lV5fIH2s_069wG5vNewgNziNzg8z02nxe2wNaADlkB4, short-id: 8aed6925}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.5.65.88:587, server: 194.5.65.88, port: 587, type: vless, tls: true, packet-encoding: xudp, uuid: d08a63e7-dbea-4a36-a239-9f0b37a46b40, servername: cdn.jsdelivr.net, host: cdn.jsdelivr.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7r9MsSx2CHwOw7C29CGPdoMj5oDf5TQ3zSWjLlhtRUo, short-id: d0debC9C5dE710e1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.27.121.28:64000, server: 2.27.121.28, port: 64000, type: vless, tls: true, packet-encoding: xudp, uuid: d08a63e7-dbea-4a36-a239-9f0b37a46b40, servername: notion.so, host: notion.so, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dlBsx7pNsGbUWcVaeIiXqPs4s8sENsJRzPGnsZ8CH0Q, short-id: cbfdda0fad80decc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: e2.aurorix.net:25930, server: e2.aurorix.net, port: 25930, type: vless, tls: true, packet-encoding: xudp, uuid: d70415c7-b3fb-43e9-915a-df66b2274c32, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk, short-id: 911451a18252bb5a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.189.174:443, server: 109.120.189.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e928d85d-f223-03e8-a1d2-a56e9fbd50e0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.181.208.246:443, server: 185.181.208.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f26b76-ebc8-4f46-a3cf-8438c2f249a0, servername: www.google.com, host: www.google.com, path: /, reality-opts: {public-key: UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE, short-id: dc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -183,15 +192,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -207,6 +221,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -215,9 +230,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -228,6 +245,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -301,15 +319,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -325,6 +348,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -333,9 +357,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -346,6 +372,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -419,15 +446,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -443,6 +475,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -451,9 +484,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -464,6 +499,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -536,15 +572,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -560,6 +601,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -568,9 +610,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -581,6 +625,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -653,15 +698,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -677,6 +727,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -685,9 +736,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -698,6 +751,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -770,15 +824,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -794,6 +853,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -802,9 +862,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -815,6 +877,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443
@@ -909,15 +972,20 @@ proxy-groups:
       - 77.239.126.65:5540
       - 51.44.2.160:22222
       - 63.177.162.163:22222
-      - 🇳🇱 nl-4.tr202507.com:443
       - 193.23.211.125:30385
+      - 95.163.152.83:443
       - 5.253.40.7:2053
       - 94.131.8.31:2053
       - 🇷🇺 la1.zqwerty.ru:2053
       - 172.64.146.102:443
+      - 🇩🇪 de.vpn-club-service.ru:443
+      - 144.31.166.42:443
       - 64.188.79.195:443
       - 89.125.78.120:443
+      - 5.42.116.74:52006
+      - 72.56.12.195:52006
       - 64.188.78.121:30353
+      - 🇦🇺 au-1.barryvpn.com:8443
       - cdn-gr-cf.barryvpn.com:8443
       - 🇵🇱 pl.nitroo-tech.ru:48885
       - 144.31.239.139:25340
@@ -933,6 +1001,7 @@ proxy-groups:
       - 150.241.75.139:443
       - 64.188.106.203:59851
       - 82.26.94.193:443
+      - 45.84.222.114:443
       - 144.31.4.127:443
       - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
@@ -941,9 +1010,11 @@ proxy-groups:
       - 89.19.215.209:443
       - 195.3.222.170:465
       - 192.200.160.20:443
+      - 87.251.69.48:8443
       - 195.2.92.183:443
       - 82.41.181.60:443
       - 144.31.238.232:443
+      - 95.85.234.172:443
       - api.livecut.cc:443
       - api.livecut.cc:443 2
       - 185.116.214.253:443
@@ -954,6 +1025,7 @@ proxy-groups:
       - 94.103.0.92:2443
       - 87.120.165.70:443
       - 194.5.65.88:587
+      - 2.27.121.28:64000
       - e2.aurorix.net:25930
       - 109.120.189.174:443
       - 185.181.208.246:443

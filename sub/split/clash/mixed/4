@@ -469,8 +469,8 @@ proxies:
   - {name: "@filembad 2", server: mel.idbede.com, port: 8443, type: vmess, uuid: 7c1c9625-6671-4b7a-815d-3983d3ba00dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@icv2ray", server: mel.idbede.com, port: 8443, type: vmess, uuid: e8392279-1a4b-4b30-98cc-0762020ef46f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: mel.idbede.com, port: 8443, type: vmess, uuid: 4924423b-d46f-4cc1-8fa4-07bf6184d3c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 4", server: speed.cloudflare.com, port: 443, type: vmess, uuid: ffffffff-ffff-ffff-ffff-ffffffffffff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speed.cloudflare.com}}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: gsmvp.gsmvx.com, port: 2001, type: vmess, uuid: a7443503-fb1d-086d-11b2-2e37b32994d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Join+Telegram:@Farah_VPN 🇨🇳, server: n1747624280.lie5d.cyou, port: 443, type: vmess, uuid: 49dcf4b4-81eb-4fe2-91d3-86dc2e27ced5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1747624280.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1747624280.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@filembad 4", server: gsmvp.gsmvx.com, port: 2001, type: vmess, uuid: a7443503-fb1d-086d-11b2-2e37b32994d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,8 +491,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -503,8 +503,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -515,8 +515,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,8 +536,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -548,8 +548,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -560,8 +560,8 @@ proxy-groups:
       - "@filembad 2"
       - "@icv2ray"
       - "@filembad 3"
+      - Join+Telegram:@Farah_VPN 🇨🇳
       - "@filembad 4"
-      - "@filembad 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:
