@@ -466,6 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@Hiddify_Nexttt", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: Niderland@Hiddify_Nexttt, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: Astro 4, server: 188.121.117.216, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 11, server: 188.121.117.216, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 6, server: 188.121.118.232, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,7 +480,9 @@ proxies:
   - {name: Astro 1, server: 94.101.187.219, port: 48324, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Astro 12, server: 94.101.187.219, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 20dff991-201e-28b0-b584-fd5c8861de4d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ayyub202734_19377 🇮🇷 ², server: cloud3.vpsino.com, port: 6344, type: vless, tls: true, packet-encoding: xudp, uuid: 3a1a6c1e-d46f-6b9a-6d10-867de4f67595, host: cloud3.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Hiddify_nexttt, server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 60c91e12-13a5-4930-af02-747182a9324f, network: ws, ws-opts: {path: /, headers: {Host: dl.avenflow.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hiddify_nexttt, server: us.dianalux.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 47da4ff9-ae0c-47cc-8b6c-f72ca16649d3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: fast.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nothome.noeq12.site:5050, server: nothome.noeq12.site, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: 523cece2-1be9-47e4-bcad-60def7d726d9, host: nothome.noeq12.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hiddify_nexttt 2, server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 60c91e12-13a5-4930-af02-747182a9324f, network: ws, ws-opts: {path: /, headers: {Host: dl.avenflow.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Hiddify_Nexttt, server: 104.64.32.87, port: 5984, type: vless, tls: true, packet-encoding: xudp, uuid: 9c0b4941-5f45-4445-9f58-3f52cf41c137, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -498,6 +501,7 @@ proxy-groups:
     type: select
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -512,6 +516,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -520,6 +526,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -534,6 +541,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -542,6 +551,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -556,6 +566,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: اتصال پایدار 🔗
     type: url-test
@@ -573,6 +585,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -587,6 +600,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -595,6 +610,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -609,6 +625,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -617,6 +635,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Hiddify_Nexttt"
+      - Niderland@Hiddify_Nexttt
       - Astro 4
       - Astro 11
       - Astro 6
@@ -631,6 +650,8 @@ proxy-groups:
       - Astro 12
       - ayyub202734_19377 🇮🇷 ²
       - Hiddify_nexttt
+      - nothome.noeq12.site:5050
+      - Hiddify_nexttt 2
       - Hiddify_Nexttt
   - name: دانلود منیجر 📥
     type: select
