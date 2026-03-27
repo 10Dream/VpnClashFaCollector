@@ -477,6 +477,7 @@ proxies:
   - {name: "@tel_melli💎1`", server: 217.16.27.208, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 36d63b0e-af50-4989-adf0-5a0787948237, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E, short-id: 00}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎2` 2", server: 104.17.52.46, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞4", server: dl.fastprofsor.com, port: 58545, type: vless, tls: true, packet-encoding: xudp, uuid: 4fb7274f-ac19-45a4-9494-afc5e789ec33, host: dl.fastprofsor.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli📶", server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎2", server: 185.143.234.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: affa41b7-95d2-407e-b38f-5a294744304f, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎1", server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: ba26f6fc-25da-427d-88e9-37ca26eaa520, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🌞9", server: tu3.bing-net.com, port: 3049, type: vless, tls: true, packet-encoding: xudp, uuid: bb29ad39-9249-47f9-a8e0-122b8621c296, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -510,6 +511,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"
@@ -533,6 +535,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"
@@ -556,6 +559,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"
@@ -588,6 +592,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"
@@ -611,6 +616,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"
@@ -634,6 +640,7 @@ proxy-groups:
       - "@tel_melli💎1`"
       - "@tel_melli💎2` 2"
       - "@tel_melli🌞4"
+      - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
       - "@tel_melli🌞9"

@@ -8,6 +8,7 @@ proxies:
   - {name: 160.16.124.17:1524, server: 160.16.124.17, port: 1524, type: trojan, password: 6d29eb2f74293cb01a19b32cf08ad2e9, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.70.180:3700, server: 160.16.70.180, port: 3700, type: trojan, password: 6d29eb2f74293cb01a19b32cf08ad2e9, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.192.204.27:23255, server: 13.192.204.27, port: 23255, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95.40.26.214:37223, server: 95.40.26.214, port: 37223, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 12👻@oneclickvpnkeys, server: caring-ghoul.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13👻@oneclickvpnkeys, server: growing-tuna.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 27@oneclickvpnkeys, server: 104.16.190.233, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
@@ -32,10 +33,6 @@ proxies:
   - {name: "  4", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: "  5", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: www.gossipglove.com:443, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: www.gossipglove.com:443 2, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "  6", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys, server: 141.227.139.214, port: 443, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: github.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 100@oneclickvpnkeys`, server: 77.239.126.65, port: 5540, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: eh.vk.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.239.126.65:5540, server: 77.239.126.65, port: 5540, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: eh.vk.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -53,9 +50,6 @@ proxies:
   - {name: 51.44.127.193:22223, server: 51.44.127.193, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[23684] - Telegram : @configraygan", server: 51.44.127.193, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: 51.44.127.193, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.44.137.34:22223, server: 51.44.137.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2, server: 51.44.137.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.44.137.34:22223 2, server: 51.44.137.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.2.160:22223, server: 51.44.2.160, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.165.179:22223, server: 52.47.165.179, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.75.88:22223, server: 52.47.75.88, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -82,9 +76,6 @@ proxies:
   - {name: 51.44.127.193:22222, server: 51.44.127.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[23685] - Telegram : @configraygan", server: 51.44.127.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: 51.44.127.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.44.137.34:22222, server: 51.44.137.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3, server: 51.44.137.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.44.137.34:22222 2, server: 51.44.137.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.2.160:22222, server: 51.44.2.160, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.165.179:22222, server: 52.47.165.179, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.75.88:22222, server: 52.47.75.88, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -104,6 +95,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -128,10 +120,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -149,9 +137,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -178,9 +163,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -200,6 +182,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -224,10 +207,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -245,9 +224,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -274,9 +250,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -296,6 +269,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -320,10 +294,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -341,9 +311,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -370,9 +337,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -391,6 +355,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -415,10 +380,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -436,9 +397,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -465,9 +423,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -486,6 +441,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -510,10 +466,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -531,9 +483,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -560,9 +509,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -581,6 +527,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -605,10 +552,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -626,9 +569,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -655,9 +595,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
@@ -698,6 +635,7 @@ proxy-groups:
       - 160.16.124.17:1524
       - 160.16.70.180:3700
       - 13.192.204.27:23255
+      - 95.40.26.214:37223
       - 12👻@oneclickvpnkeys
       - 13👻@oneclickvpnkeys
       - 27@oneclickvpnkeys
@@ -722,10 +660,6 @@ proxy-groups:
       - "  4"
       - 188.114.98.0:443
       - "  5"
-      - www.gossipglove.com:443
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - www.gossipglove.com:443 2
-      - "  6"
       - 65@oneclickvpnkeys
       - 100@oneclickvpnkeys`
       - 77.239.126.65:5540
@@ -743,9 +677,6 @@ proxy-groups:
       - 51.44.127.193:22223
       - "[23684] - Telegram : @configraygan"
       - "***✅***@AR14N24b 5"
-      - 51.44.137.34:22223
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - 51.44.137.34:22223 2
       - 51.44.2.160:22223
       - 52.47.165.179:22223
       - 52.47.75.88:22223
@@ -772,9 +703,6 @@ proxy-groups:
       - 51.44.127.193:22222
       - "[23685] - Telegram : @configraygan"
       - "***✅***@AR14N24b 11"
-      - 51.44.137.34:22222
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - 51.44.137.34:22222 2
       - 51.44.2.160:22222
       - 52.47.165.179:22222
       - 52.47.75.88:22222
