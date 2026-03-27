@@ -466,7 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 61@oneclickvpnkeys, server: ct.090227.xyz, port: 443, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
-  - {name: 85@oneclickvpnkeys, server: spring-tooth-7fa3.ahmadrj.workers.dev, port: 443, type: trojan, password: Nova-Proxy, skip-cert-verify: false, network: ws, ws-opts: {path: ""}, udp: true, tfo: false}
   - {name: 52@oneclickvpnkeys, server: www.speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 026d15a6-0b97-4883-a229-ec4325afb0de, network: ws, ws-opts: {path: /eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 023.electrocellco-cf-023.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[23836] ConfigRaygan", server: www.speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 026d15a6-0b97-4883-a229-ec4325afb0de, network: ws, ws-opts: {path: /eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 023.electrocellco-cf-023.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: www.speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 026d15a6-0b97-4883-a229-ec4325afb0de, network: ws, ws-opts: {path: /eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 023.electrocellco-cf-023.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -596,7 +595,6 @@ proxy-groups:
     type: select
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
@@ -716,7 +714,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
@@ -836,7 +833,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
@@ -965,7 +961,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
@@ -1085,7 +1080,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
@@ -1205,7 +1199,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 61@oneclickvpnkeys
-      - 85@oneclickvpnkeys
       - 52@oneclickvpnkeys
       - "[23836] ConfigRaygan"
       - "***✅***@AR14N24b"
