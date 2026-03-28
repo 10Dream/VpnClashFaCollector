@@ -24,36 +24,25 @@ proxies:
   - {name: r3mrcg001222869.cybervena.com:50099, server: r3mrcg001222869.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0071643p7.cybervena.com:50099, server: r3mrcg0071643p7.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg007169a5m.cybervena.com:50099, server: r3mrcg007169a5m.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: n8mrcg00470027f.cybervena.com:50099, server: n8mrcg00470027f.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: n8mrcg004732fk8.cybervena.com:50099, server: n8mrcg004732fk8.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: n8mrcg004772avg.cybervena.com:50099, server: n8mrcg004772avg.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: n8mrcg004767yf3.cybervena.com:50099, server: n8mrcg004767yf3.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005938lsz.cybervena.com:50099 2, server: n8mrcg005938lsz.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005961xa6.cybervena.com:50099, server: n8mrcg005961xa6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005969zt4.cybervena.com:50099, server: n8mrcg005969zt4.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005977h4d.cybervena.com:50099, server: n8mrcg005977h4d.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005988a7z.cybervena.com:50099, server: n8mrcg005988a7z.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: n8mrcg0059894bj.cybervena.com:50099, server: n8mrcg0059894bj.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg006015jsm.cybervena.com:50099, server: n8mrcg006015jsm.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg0060183sf.cybervena.com:50099, server: n8mrcg0060183sf.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg006021kdp.cybervena.com:50099, server: n8mrcg006021kdp.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: n8mrcg006043yc6.cybervena.com:50099, server: n8mrcg006043yc6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: namrcg001611cy4.cybervena.com:50099, server: namrcg001611cy4.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: namrcg002765945.cybervena.com:50099, server: namrcg002765945.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: namrcg002771r35.cybervena.com:50099, server: namrcg002771r35.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: namrcg002799rpd.cybervena.com:50099, server: namrcg002799rpd.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: nbmrcg0034458by.cybervena.com:50099, server: nbmrcg0034458by.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg003449jp6.cybervena.com:50099, server: nbmrcg003449jp6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: nbmrcg003455e98.cybervena.com:50099, server: nbmrcg003455e98.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg003466pb9.cybervena.com:50099, server: nbmrcg003466pb9.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg0034686rw.cybervena.com:50099, server: nbmrcg0034686rw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: nbmrcg003494xuj.cybervena.com:50099, server: nbmrcg003494xuj.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: ncmrcg000019wnj.cybervena.com:50099, server: ncmrcg000019wnj.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: ncmrcg0001797nk.cybervena.com:50099, server: ncmrcg0001797nk.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001121x36.cybervena.com:50099, server: r3mrcg001121x36.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: r3mrcg001162ctc.cybervena.com:50099, server: r3mrcg001162ctc.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: r3mrcg001166nc2.cybervena.com:50099, server: r3mrcg001166nc2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001168e8p.cybervena.com:50099, server: r3mrcg001168e8p.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0011778me.cybervena.com:50099, server: r3mrcg0011778me.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: r3mrcg001180yjm.cybervena.com:50099, server: r3mrcg001180yjm.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0011993za.cybervena.com:50099, server: r3mrcg0011993za.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001213klw.cybervena.com:50099, server: r3mrcg001213klw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001233myh.cybervena.com:50099, server: r3mrcg001233myh.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -62,7 +51,6 @@ proxies:
   - {name: r3mrcg001286ek2.cybervena.com:50099, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg00129437x.cybervena.com:50099, server: r3mrcg00129437x.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001296egb.cybervena.com:50099, server: r3mrcg001296egb.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: r3mrcg007116sfa.cybervena.com:50099, server: r3mrcg007116sfa.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg007117fb8.cybervena.com:50099, server: r3mrcg007117fb8.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg007144ll4.cybervena.com:50099, server: r3mrcg007144ll4.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0071465vz.cybervena.com:50099, server: r3mrcg0071465vz.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -76,7 +64,6 @@ proxies:
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: uss.sudao888.xyz:51110, server: uss.sudao888.xyz, port: 51110, type: ss, cipher: chacha20-ietf-poly1305, password: b4e92f5c-80d5-4c00-b028-168f7493c197, udp: true, tfo: false}
   - {name: 20.87.107.99:443, server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: sZkBY3BYyx8U8ws2, udp: true, tfo: false}
   - {name: th9384tj.50888.dpdns.org:20002, server: th9384tj.50888.dpdns.org, port: 20002, type: ss, cipher: aes-128-gcm, password: fbce6f23-39e0-44b6-bbd4-2b4a15ee783c, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -96,10 +83,11 @@ proxies:
   - {name: n1.chateditimage.com:443, server: n1.chateditimage.com, port: 443, type: trojan, password: de7d6444-a7a8-4b3a-bf26-bc6939bb0279, sni: n1.chateditimage.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.227.139.214:443, server: 141.227.139.214, port: 443, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: github.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.239.126.65:5540, server: 77.239.126.65, port: 5540, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: eh.vk.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 103.231.73.181:4443, server: 103.231.73.181, port: 4443, type: trojan, password: strong-secret-pass-777, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.131.105.125:4443, server: 94.131.105.125, port: 4443, type: trojan, password: strong-secret-pass-777, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.25.182:22222, server: 13.37.25.182, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.80.167:22222, server: 52.47.80.167, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.167.73.199:443, server: 89.167.73.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a77a746-518e-4f13-b6c6-7c3989a79a43, servername: metrika.yandex.ru, host: metrika.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T-Cg9CDkain2I9EYPBPQFJuS4vDigTqECYUP_6LTXjI, short-id: 7347e861d40e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 193.23.211.125:30385, server: 193.23.211.125, port: 30385, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca20960-99aa-4c92-b44d-e08829ef1a69, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw, short-id: 6232ac20545869}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.163.152.83:443, server: 95.163.152.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1034a55b-ea7e-4a96-a7fa-d7cae5ab5523, servername: autotuojat.fi, host: autotuojat.fi, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ExkbbVbDnjp9RRcjSVbUzrkKnq78gL5KPOIJFAwXdXY, short-id: 977198bfb51105}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.vpn-club-service.ru:443, server: de.vpn-club-service.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 15041021-33ff-447e-bdd2-5a6f226f5ba2, servername: help.max.ru, host: help.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: yDPh2enztmRE8NH294bVNoILyZaQmZnH1gBvrd9RGQo, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.166.42:443, server: 144.31.166.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -112,14 +100,11 @@ proxies:
   - {name: 5.42.116.74:52006, server: 5.42.116.74, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 1f0a8364-ae34-07d0-b999-34a723111ebd, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.12.195:52006, server: 72.56.12.195, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 1f0a8364-ae34-07d0-b999-34a723111ebd, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇦🇺 au-1.barryvpn.com:8443, server: au-1.barryvpn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d737761-5951-462e-86c1-ff921d9f9999, servername: pass.qvinti.net, host: pass.qvinti.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM, short-id: 93983a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 pl.nitroo-tech.ru:48885, server: pl.nitroo-tech.ru, port: 48885, type: vless, tls: true, packet-encoding: xudp, uuid: 3f88f137-a506-4386-8936-b0b4d7349478, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI, short-id: 6d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 42b32d2f-42c1-4f63-a005-22ffbddcda53, servername: 639073677236045352.mustang-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: /xxfzrfws, headers: {Host: 639073677236045352.mustang-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 pol.pinkweb.one:443, server: pol.pinkweb.one, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4dde0df3-aa67-417c-882e-28beb3886961, servername: pol.pinkweb.one, host: pol.pinkweb.one, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WfCGASxNxAvNzJZH6Onu5HB2Nup4ZHB_Lpyru_1aqWA, short-id: fbb0342cef1b13ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 77.92.145.222:443, server: 77.92.145.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53821f3c-5b03-456a-89f3-f8379f130752, servername: www.vk.com, host: www.vk.com, path: /, reality-opts: {public-key: sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI, short-id: 4730242d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.106.203:59851, server: 64.188.106.203, port: 59851, type: vless, tls: true, packet-encoding: xudp, uuid: 60c63b41-63f3-4602-b9f3-9ee2e1369447, servername: www.icloud.com, host: www.icloud.com, path: /, reality-opts: {public-key: DRYYaJ_Ne7bp2CZgJrYMuBy3o835I0s6p-H_HjTsWRc, short-id: a211}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.197.250:443, server: 144.31.197.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d40449f-92df-4256-9607-679241455d49, servername: n.sni-347-default.ssl.fastly.net, host: n.sni-347-default.ssl.fastly.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.84.222.114:443, server: 45.84.222.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d40449f-92df-4256-9607-679241455d49, servername: pingless.com, host: pingless.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.80.212:2053, server: 64.188.80.212, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 7d40449f-92df-4256-9607-679241455d49, servername: stats.vk-portal.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 vpn5.osaku.ru:12436, server: vpn5.osaku.ru, port: 12436, type: vless, tls: true, packet-encoding: xudp, uuid: 816be889-2d68-4941-acf5-94662015811c, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 8hRsFW43gU0_uB-RhXw0N4Q8gXVlNjlIAWmFnltm6gg, short-id: 41eccb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.130.25:443, server: 144.31.130.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 897f023a-7507-40c0-9a74-ab77be0a47f0, servername: nt1-2.buzzapi.space, host: nt1-2.buzzapi.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oCVM_P_-0CRIrazcAWCMSb7koEeYyBaUZ5LniuSLIAM, short-id: 0cc901919042144d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de19.fastlanehosting.ru:1443, server: de19.fastlanehosting.ru, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 901bab26-b439-4706-8c00-aaf4a76d95e4, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2-PK2RY8YRcxqD01Me8ZSRK91iSgE3Zls2P0WFwxqig, short-id: b8a8f008c9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.3.222.170:465, server: 195.3.222.170, port: 465, type: vless, tls: true, packet-encoding: xudp, uuid: 916de9ac-1fe3-4c93-887a-ce4285d0bb9b, servername: download.docker.com, host: download.docker.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: k5VAU_3EaQMgR9FB7cqIu-lp35aZttOvAYNZW0TOki0, short-id: 336f5d66c86BcED2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -138,11 +123,16 @@ proxies:
   - {name: 95.85.248.95:853, server: 95.85.248.95, port: 853, type: vless, tls: true, packet-encoding: xudp, uuid: d08a63e7-dbea-4a36-a239-9f0b37a46b40, servername: unfiltered.adguard-dns.com, host: unfiltered.adguard-dns.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UOPACBba4vgjdJglUksPMLBuNllDlqthy3sklLNJjj4, short-id: aCE47eEaCa4c8B3b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.141.169.152:443, server: 79.141.169.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dbb66087-10c5-451e-8d97-ea179984bce2, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DV5H1RoEhSpU4YqZ6YIzl4NbCI6IGJGPLSCOCkkDR3A, short-id: a7bf5154}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.12.146.179:8443, server: 45.12.146.179, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e033ef6e-ab4b-47d4-a523-ff568d2c8dbb, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.149.114.75:8443, server: 45.149.114.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e033ef6e-ab4b-47d4-a523-ff568d2c8dbb, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 82.117.255.37:8443, server: 82.117.255.37, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e033ef6e-ab4b-47d4-a523-ff568d2c8dbb, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.131.101.19:8443, server: 94.131.101.19, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e033ef6e-ab4b-47d4-a523-ff568d2c8dbb, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.121.86.108:443, server: 87.121.86.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee72108d-41b3-4be4-963a-13a95a4796ad, servername: pingless.com, host: pingless.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GnyHApux-sf54vjdnYzRrdMlywEcGbaXHLCeckwpTnQ, short-id: 4d9c2e683b7f1a05}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.85.235.33:443, server: 95.85.235.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee72108d-41b3-4be4-963a-13a95a4796ad, servername: pingless.com, host: pingless.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eJzVOqHtvfmnH6f2CksHoITVV3smwjReJe-3iTk9lRs, short-id: d4e5f60718a1b2c3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.12.136.48:443, server: 45.12.136.48, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f8c5b018-f51a-4137-be8a-50a451630589, servername: mirror.yandex.ru, host: mirror.yandex.ru, path: /, reality-opts: {public-key: E-fIlniARgucl-Y8wctxQr4wPuDibRYnOCHCYAEVbws, short-id: 0cfdd64c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: static.ubejiasu.top, port: 31518, type: vmess, uuid: 957d12d8-048d-4b57-b09c-f19d027484a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true, tfo: false}
   - {name: "🇰🇷 [openproxylist.com] vmess-KR", server: chuncheon03.zgjok.com, port: 443, type: vmess, uuid: 81d5cac4-d039-4874-9a20-c391f580012d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: chuncheon03.zgjok.com}}, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: static.ubejiasu.top, port: 31517, type: vmess, uuid: 957d12d8-048d-4b57-b09c-f19d027484a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 103.229.124.3, port: 20521, type: vmess, uuid: 292e9c90-25b3-4ff5-b98a-9ef5877714ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -169,36 +159,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -207,7 +186,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -221,7 +199,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -241,10 +218,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -257,14 +235,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -283,11 +258,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: ♻️ 自动选择
     type: url-test
@@ -314,36 +294,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -352,7 +321,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -366,7 +334,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -386,10 +353,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -402,14 +370,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -428,11 +393,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🌍 国外媒体
     type: select
@@ -459,36 +429,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -497,7 +456,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -511,7 +469,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -531,10 +488,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -547,14 +505,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -573,11 +528,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 📲 电报信息
     type: select
@@ -603,36 +563,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -641,7 +590,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -655,7 +603,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -675,10 +622,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -691,14 +639,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -717,11 +662,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: Ⓜ️ 微软服务
     type: select
@@ -747,36 +697,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -785,7 +724,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -799,7 +737,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -819,10 +756,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -835,14 +773,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -861,11 +796,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🍎 苹果服务
     type: select
@@ -891,36 +831,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -929,7 +858,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -943,7 +871,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -963,10 +890,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -979,14 +907,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -1005,11 +930,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
   - name: 🎯 全球直连
     type: select
@@ -1057,36 +987,25 @@ proxy-groups:
       - r3mrcg001222869.cybervena.com:50099
       - r3mrcg0071643p7.cybervena.com:50099
       - r3mrcg007169a5m.cybervena.com:50099
-      - n8mrcg00470027f.cybervena.com:50099
-      - n8mrcg004732fk8.cybervena.com:50099
-      - n8mrcg004772avg.cybervena.com:50099
+      - n8mrcg004767yf3.cybervena.com:50099
       - n8mrcg005938lsz.cybervena.com:50099 2
       - n8mrcg005961xa6.cybervena.com:50099
       - n8mrcg005969zt4.cybervena.com:50099
       - n8mrcg005977h4d.cybervena.com:50099
       - n8mrcg005988a7z.cybervena.com:50099
+      - n8mrcg0059894bj.cybervena.com:50099
       - n8mrcg006015jsm.cybervena.com:50099
       - n8mrcg0060183sf.cybervena.com:50099
       - n8mrcg006021kdp.cybervena.com:50099
-      - n8mrcg006043yc6.cybervena.com:50099
       - namrcg001611cy4.cybervena.com:50099
-      - namrcg002765945.cybervena.com:50099
       - namrcg002771r35.cybervena.com:50099
-      - namrcg002799rpd.cybervena.com:50099
-      - nbmrcg0034458by.cybervena.com:50099
       - nbmrcg003449jp6.cybervena.com:50099
-      - nbmrcg003455e98.cybervena.com:50099
       - nbmrcg003466pb9.cybervena.com:50099
       - nbmrcg0034686rw.cybervena.com:50099
-      - nbmrcg003494xuj.cybervena.com:50099
-      - ncmrcg000019wnj.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
       - r3mrcg001121x36.cybervena.com:50099
-      - r3mrcg001162ctc.cybervena.com:50099
-      - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
       - r3mrcg0011778me.cybervena.com:50099
-      - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
       - r3mrcg001213klw.cybervena.com:50099
       - r3mrcg001233myh.cybervena.com:50099
@@ -1095,7 +1014,6 @@ proxy-groups:
       - r3mrcg001286ek2.cybervena.com:50099
       - r3mrcg00129437x.cybervena.com:50099
       - r3mrcg001296egb.cybervena.com:50099
-      - r3mrcg007116sfa.cybervena.com:50099
       - r3mrcg007117fb8.cybervena.com:50099
       - r3mrcg007144ll4.cybervena.com:50099
       - r3mrcg0071465vz.cybervena.com:50099
@@ -1109,7 +1027,6 @@ proxy-groups:
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - uss.sudao888.xyz:51110
       - 20.87.107.99:443
       - th9384tj.50888.dpdns.org:20002
       - 144.217.164.29:12000
@@ -1129,10 +1046,11 @@ proxy-groups:
       - n1.chateditimage.com:443
       - 141.227.139.214:443
       - 77.239.126.65:5540
+      - 103.231.73.181:4443
+      - 94.131.105.125:4443
       - 13.37.25.182:22222
       - 52.47.80.167:22222
       - 89.167.73.199:443
-      - 193.23.211.125:30385
       - 95.163.152.83:443
       - 🇩🇪 de.vpn-club-service.ru:443
       - 144.31.166.42:443
@@ -1145,14 +1063,11 @@ proxy-groups:
       - 5.42.116.74:52006
       - 72.56.12.195:52006
       - 🇦🇺 au-1.barryvpn.com:8443
-      - 🇵🇱 pl.nitroo-tech.ru:48885
-      - 188.114.98.0:443
       - 🇵🇱 pol.pinkweb.one:443
-      - 77.92.145.222:443
       - 64.188.106.203:59851
+      - 144.31.197.250:443
       - 45.84.222.114:443
       - 64.188.80.212:2053
-      - 🇷🇺 vpn5.osaku.ru:12436
       - 144.31.130.25:443
       - 🇩🇪 de19.fastlanehosting.ru:1443
       - 195.3.222.170:465
@@ -1171,11 +1086,16 @@ proxy-groups:
       - 95.85.248.95:853
       - 79.141.169.152:443
       - 45.12.146.179:8443
+      - 45.149.114.75:8443
+      - 82.117.255.37:8443
+      - 94.131.101.19:8443
       - 87.121.86.108:443
       - 95.85.235.33:443
       - 45.12.136.48:443
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

@@ -465,6 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@saministamm تلگرام ما", server: 188.121.121.250, port: 59240, type: vless, tls: true, packet-encoding: xudp, uuid: 7e4a5d22-7089-4be7-8e8a-be4e17f5216d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: 94.183.170.10, port: 2152, type: vmess, uuid: ff94fc7b-03a6-4bae-bd74-c2ef549fbe0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -482,6 +483,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -489,6 +491,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -496,6 +499,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -512,6 +516,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -519,6 +524,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -526,6 +532,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm تلگرام ما"
       - "@saministamm"
   - name: دانلود منیجر 📥
     type: select

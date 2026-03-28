@@ -467,6 +467,7 @@ rule-providers:
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, username: "@", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:12334, server: 127.0.0.1, port: 12334, type: socks5, username: "@KalbodTeam", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1990, server: 127.0.0.1, port: 1990, type: socks5, username: "@KalbodTeam", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1995, server: 127.0.0.1, port: 1995, type: socks5, username: "@KalbodTeam", skip-cert-verify: false, udp: true, tfo: false}
@@ -515,6 +516,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
@@ -553,6 +555,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
@@ -591,6 +594,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
@@ -638,6 +642,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
@@ -676,6 +681,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
@@ -714,6 +720,7 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 127.0.0.1:1080 2
       - 127.0.0.1:12334
       - 127.0.0.1:1990
       - 127.0.0.1:1995
