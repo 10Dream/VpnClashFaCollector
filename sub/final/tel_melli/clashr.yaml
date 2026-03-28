@@ -12,6 +12,7 @@ proxies:
   - {name: "@tel_melli📶", server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎2", server: 185.143.234.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: affa41b7-95d2-407e-b38f-5a294744304f, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💎1", server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: ba26f6fc-25da-427d-88e9-37ca26eaa520, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dlc-new11.persianpinggame.com:5111, server: dlc-new11.persianpinggame.com, port: 5111, type: vless, tls: true, packet-encoding: xudp, uuid: d061c520-1cdb-11f1-972f-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -25,6 +26,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -38,6 +40,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -51,6 +54,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: 📲 电报信息
     type: select
     proxies:
@@ -63,6 +67,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -75,6 +80,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -87,6 +93,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -121,6 +128,7 @@ proxy-groups:
       - "@tel_melli📶"
       - "@tel_melli💎2"
       - "@tel_melli💎1"
+      - dlc-new11.persianpinggame.com:5111
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
