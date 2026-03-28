@@ -476,7 +476,6 @@ proxies:
   - {name: 13.39.70.196:22223, server: 13.39.70.196, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.83.28:22223, server: 15.236.83.28, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.15.58:22223, server: 18.195.15.58, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.152.136:22223, server: 18.195.152.136, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.71.108:22223, server: 3.69.71.108, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.127.193:22223, server: 51.44.127.193, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.75.88:22223, server: 52.47.75.88, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -487,7 +486,6 @@ proxies:
   - {name: 13.39.70.196:22222, server: 13.39.70.196, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.83.28:22222, server: 15.236.83.28, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.15.58:22222, server: 18.195.15.58, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.152.136:22222, server: 18.195.152.136, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.71.108:22222, server: 3.69.71.108, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.127.193:22222, server: 51.44.127.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.75.88:22222, server: 52.47.75.88, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -502,7 +500,6 @@ proxies:
   - {name: 13.39.70.196:22224, server: 13.39.70.196, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.83.28:22224, server: 15.236.83.28, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.15.58:22224, server: 18.195.15.58, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.152.136:22224, server: 18.195.152.136, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.71.108:22224, server: 3.69.71.108, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.71.108:22224 2, server: 3.69.71.108, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.127.193:22224, server: 51.44.127.193, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -635,7 +632,6 @@ proxies:
   - {name: sv1.vhuma.com:4043, server: sv1.vhuma.com, port: 4043, type: vless, tls: true, packet-encoding: xudp, uuid: b6c59b88-b31c-47e2-a3ff-eb395bc06a3f, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: STAR.SPEED.mygoldiran.com:80, server: STAR.SPEED.mygoldiran.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b8ab59b3-c7f5-42c4-8e09-d0ccaf259c9d, network: ws, ws-opts: {path: /wp-content/uploads/user/, headers: {Host: STAR.SPEED.mygoldiran.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 100110011001100.usa.allmobo.sbs:1045, server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: ba26f6fc-25da-427d-88e9-37ca26eaa520, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tu3.bing-net.com:3049, server: tu3.bing-net.com, port: 3049, type: vless, tls: true, packet-encoding: xudp, uuid: bb29ad39-9249-47f9-a8e0-122b8621c296, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lithuania1.labburo.su:443, server: lithuania1.labburo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bc019623-ecae-4ee0-8826-6e96f6942263, servername: lithuania1.labburo.su, host: lithuania1.labburo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8, short-id: 3c7dbf0e7bd3d03c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.218.139.138:443, server: 185.218.139.138, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bd1f211f-4622-45f8-a88e-33e02fc7fa90, servername: aparat.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: m7.lionets.nl}, reality-opts: {public-key: HMAEaqE4DTw2r1wqS8ZUdUtEajDc2TZKRM1MgiaNcnk, short-id: 855d95419c7bd8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.144.49.116:8443, server: 45.144.49.116, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bf263367-bb63-4663-b4a1-34946107a72e, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I, short-id: b2a1c97a38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -719,7 +715,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -730,7 +725,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -745,7 +739,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -878,7 +871,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443
@@ -952,7 +944,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -963,7 +954,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -978,7 +968,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -1111,7 +1100,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443
@@ -1185,7 +1173,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -1196,7 +1183,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -1211,7 +1197,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -1344,7 +1329,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443
@@ -1427,7 +1411,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -1438,7 +1421,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -1453,7 +1435,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -1586,7 +1567,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443
@@ -1660,7 +1640,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -1671,7 +1650,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -1686,7 +1664,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -1819,7 +1796,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443
@@ -1893,7 +1869,6 @@ proxy-groups:
       - 13.39.70.196:22223
       - 15.236.83.28:22223
       - 18.195.15.58:22223
-      - 18.195.152.136:22223
       - 3.69.71.108:22223
       - 51.44.127.193:22223
       - 52.47.75.88:22223
@@ -1904,7 +1879,6 @@ proxy-groups:
       - 13.39.70.196:22222
       - 15.236.83.28:22222
       - 18.195.15.58:22222
-      - 18.195.152.136:22222
       - 3.69.71.108:22222
       - 51.44.127.193:22222
       - 52.47.75.88:22222
@@ -1919,7 +1893,6 @@ proxy-groups:
       - 13.39.70.196:22224
       - 15.236.83.28:22224
       - 18.195.15.58:22224
-      - 18.195.152.136:22224
       - 3.69.71.108:22224
       - 3.69.71.108:22224 2
       - 51.44.127.193:22224
@@ -2052,7 +2025,6 @@ proxy-groups:
       - sv1.vhuma.com:4043
       - STAR.SPEED.mygoldiran.com:80
       - 🇺🇸 100110011001100.usa.allmobo.sbs:1045
-      - tu3.bing-net.com:3049
       - lithuania1.labburo.su:443
       - 185.218.139.138:443
       - 45.144.49.116:8443

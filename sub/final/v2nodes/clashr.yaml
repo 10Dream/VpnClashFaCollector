@@ -97,7 +97,6 @@ proxies:
   - {name: 77.239.126.65:5540, server: 77.239.126.65, port: 5540, type: trojan, password: mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG, sni: eh.vk.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.25.182:22222, server: 13.37.25.182, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.2.160:22222, server: 51.44.2.160, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.177.162.163:22222, server: 63.177.162.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.167.73.199:443, server: 89.167.73.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a77a746-518e-4f13-b6c6-7c3989a79a43, servername: metrika.yandex.ru, host: metrika.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T-Cg9CDkain2I9EYPBPQFJuS4vDigTqECYUP_6LTXjI, short-id: 7347e861d40e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.23.211.125:30385, server: 193.23.211.125, port: 30385, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca20960-99aa-4c92-b44d-e08829ef1a69, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw, short-id: 6232ac20545869}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.163.152.83:443, server: 95.163.152.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1034a55b-ea7e-4a96-a7fa-d7cae5ab5523, servername: autotuojat.fi, host: autotuojat.fi, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ExkbbVbDnjp9RRcjSVbUzrkKnq78gL5KPOIJFAwXdXY, short-id: 977198bfb51105}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -247,7 +246,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -397,7 +395,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -547,7 +544,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -696,7 +692,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -845,7 +840,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -994,7 +988,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
@@ -1165,7 +1158,6 @@ proxy-groups:
       - 77.239.126.65:5540
       - 13.37.25.182:22222
       - 51.44.2.160:22222
-      - 63.177.162.163:22222
       - 89.167.73.199:443
       - 193.23.211.125:30385
       - 95.163.152.83:443
