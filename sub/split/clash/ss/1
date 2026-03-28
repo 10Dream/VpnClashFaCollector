@@ -467,6 +467,8 @@ rule-providers:
 proxies:
   - {name: 151.242.251.144:8080, server: 151.242.251.144, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: "@filembad`", server: vip.tekcloud.site, port: 20900, type: ss, cipher: chacha20-ietf-poly1305, password: 5IWCXfBeojarVe9vi33O2jbltyEqFtGj, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8215", server: 154.205.154.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5b978047b47f7eab, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 154.205.154.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5b978047b47f7eab, udp: true, tfo: false}
   - {name: 14@oneclickvpnkeys, server: 57.130.28.148, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 74918bc801d53a4b, udp: true, tfo: false}
   - {name: n8mrcg005958sxh.cybervena.com:50099, server: n8mrcg005958sxh.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: n8mrcg005972g7w.cybervena.com:50099, server: n8mrcg005972g7w.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -474,9 +476,9 @@ proxies:
   - {name: nbmrcg0034305hx.cybervena.com:50099, server: nbmrcg0034305hx.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg003437cgb.cybervena.com:50099, server: nbmrcg003437cgb.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg003507ck6.cybervena.com:50099, server: nbmrcg003507ck6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: nbmrcg003507ck6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: ncmrcg000110w54.cybervena.com:50099, server: ncmrcg000110w54.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0011305nw.cybervena.com:50099, server: r3mrcg0011305nw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: r3mrcg001142988.cybervena.com:50099, server: r3mrcg001142988.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0011606bh.cybervena.com:50099, server: r3mrcg0011606bh.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg00121233v.cybervena.com:50099, server: r3mrcg00121233v.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001222869.cybervena.com:50099, server: r3mrcg001222869.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -498,6 +500,7 @@ proxies:
   - {name: 10🐤@oneclickvpnkeys, server: namrcg001611cy4.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: namrcg002762ymv.cybervena.com:50099, server: namrcg002762ymv.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: namrcg002765945.cybervena.com:50099, server: namrcg002765945.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: namrcg002771r35.cybervena.com:50099, server: namrcg002771r35.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: namrcg002799rpd.cybervena.com:50099, server: namrcg002799rpd.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: 18🐤@oneclickvpnkeys, server: nbmrcg003437cgb.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: nbmrcg0034458by.cybervena.com:50099, server: nbmrcg0034458by.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -510,9 +513,11 @@ proxies:
   - {name: 17🐤@oneclickvpnkeys, server: ncmrcg000019wnj.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: ncmrcg000021myh.cybervena.com:50099, server: ncmrcg000021myh.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: ncmrcg0001797nk.cybervena.com:50099, server: ncmrcg0001797nk.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: r3mrcg001121x36.cybervena.com:50099, server: r3mrcg001121x36.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001162ctc.cybervena.com:50099, server: r3mrcg001162ctc.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001166nc2.cybervena.com:50099, server: r3mrcg001166nc2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001168e8p.cybervena.com:50099, server: r3mrcg001168e8p.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
+  - {name: r3mrcg0011778me.cybervena.com:50099, server: r3mrcg0011778me.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: 16🐤@oneclickvpnkeys, server: r3mrcg0011778me.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg001180yjm.cybervena.com:50099, server: r3mrcg001180yjm.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
   - {name: r3mrcg0011993za.cybervena.com:50099, server: r3mrcg0011993za.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
@@ -544,10 +549,11 @@ proxies:
   - {name: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334, server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 23334, type: ss, cipher: chacha20-ietf-poly1305, password: 309a74a1-364f-4788-b44f-fb15013f69fb, udp: true, tfo: false}
   - {name: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401, server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org, port: 23401, type: ss, cipher: chacha20-ietf-poly1305, password: 309a74a1-364f-4788-b44f-fb15013f69fb, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 80.210.59.246, port: 9730, type: ss, cipher: chacha20-ietf-poly1305, password: J5X9W6QsFiW8stgzcSmI8i, udp: true, tfo: false}
   - {name: 15🐤@oneclickvpnkeys, server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: "[23916] ConfigRaygan", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 13@oneclickvpnkeys, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@filembad` 3", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
@@ -556,24 +562,29 @@ proxies:
   - {name: 18@oneclickvpnkeys, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true, tfo: false}
   - {name: "[23869] ConfigRaygan", server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 97@oneclickvpnkeys, server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: cloud.cloudtls.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: jzlkBwoekkAnhIeyUXrY+JpFLKUxrttWHi38b3nONEc=, udp: true, tfo: false}
   - {name: " ", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "  2", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.218:8080, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: Niderland@Hiddify_Nexttt, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "@mtproto_proserver", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: ⚡Telegram - @prrofile_purple, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "  3", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  4", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "[23677] - Telegram : @configraygan", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: ️2@oneclickvpnkeys, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "[23674] - Telegram : @configraygan", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: ️16@oneclickvpnkeys, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 20.87.107.99:443, server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: sZkBY3BYyx8U8ws2, udp: true, tfo: false}
@@ -605,6 +616,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -612,9 +625,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -636,6 +649,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -648,9 +662,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -682,10 +698,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -694,24 +711,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
@@ -733,6 +755,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -740,9 +764,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -764,6 +788,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -776,9 +801,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -810,10 +837,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -822,24 +850,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
@@ -861,6 +894,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -868,9 +903,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -892,6 +927,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -904,9 +940,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -938,10 +976,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -950,24 +989,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
@@ -998,6 +1042,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -1005,9 +1051,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -1029,6 +1075,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -1041,9 +1088,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -1075,10 +1124,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -1087,24 +1137,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
@@ -1126,6 +1181,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -1133,9 +1190,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -1157,6 +1214,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -1169,9 +1227,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -1203,10 +1263,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -1215,24 +1276,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
@@ -1254,6 +1320,8 @@ proxy-groups:
     proxies:
       - 151.242.251.144:8080
       - "@filembad`"
+      - "@v2rayconfigamir 8215"
+      - "***✅***@AR14N24b"
       - 14@oneclickvpnkeys
       - n8mrcg005958sxh.cybervena.com:50099
       - n8mrcg005972g7w.cybervena.com:50099
@@ -1261,9 +1329,9 @@ proxy-groups:
       - nbmrcg0034305hx.cybervena.com:50099
       - nbmrcg003437cgb.cybervena.com:50099
       - nbmrcg003507ck6.cybervena.com:50099
-      - "@filembad` 2"
       - ncmrcg000110w54.cybervena.com:50099
       - r3mrcg0011305nw.cybervena.com:50099
+      - r3mrcg001142988.cybervena.com:50099
       - r3mrcg0011606bh.cybervena.com:50099
       - r3mrcg00121233v.cybervena.com:50099
       - r3mrcg001222869.cybervena.com:50099
@@ -1285,6 +1353,7 @@ proxy-groups:
       - 10🐤@oneclickvpnkeys
       - namrcg002762ymv.cybervena.com:50099
       - namrcg002765945.cybervena.com:50099
+      - namrcg002771r35.cybervena.com:50099
       - namrcg002799rpd.cybervena.com:50099
       - 18🐤@oneclickvpnkeys
       - nbmrcg0034458by.cybervena.com:50099
@@ -1297,9 +1366,11 @@ proxy-groups:
       - 17🐤@oneclickvpnkeys
       - ncmrcg000021myh.cybervena.com:50099
       - ncmrcg0001797nk.cybervena.com:50099
+      - r3mrcg001121x36.cybervena.com:50099
       - r3mrcg001162ctc.cybervena.com:50099
       - r3mrcg001166nc2.cybervena.com:50099
       - r3mrcg001168e8p.cybervena.com:50099
+      - r3mrcg0011778me.cybervena.com:50099
       - 16🐤@oneclickvpnkeys
       - r3mrcg001180yjm.cybervena.com:50099
       - r3mrcg0011993za.cybervena.com:50099
@@ -1331,10 +1402,11 @@ proxy-groups:
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334
       - e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401
       - 193.135.174.135:990
+      - "@filembad` 2"
       - 15🐤@oneclickvpnkeys
       - "[23916] ConfigRaygan"
       - 13@oneclickvpnkeys
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - "@filembad` 3"
@@ -1343,24 +1415,29 @@ proxy-groups:
       - 18@oneclickvpnkeys
       - "[23869] ConfigRaygan"
       - 97@oneclickvpnkeys
-      - "***✅***@AR14N24b 2"
-      - " "
       - "***✅***@AR14N24b 3"
-      - "  2"
-      - "***✅***@AR14N24b 4"
-      - 82.38.31.218:8080
       - "@filembad` 4"
-      - Niderland@Hiddify_Nexttt
+      - " "
+      - "***✅***@AR14N24b 4"
+      - "  2"
       - "***✅***@AR14N24b 5"
-      - "@mtproto_proserver"
-      - "  3"
+      - 82.38.31.218:8080
+      - "@filembad` 5"
+      - Niderland@Hiddify_Nexttt
       - "***✅***@AR14N24b 6"
+      - "@mtproto_proserver"
+      - "@filembad` 6"
+      - ⚡Telegram - @prrofile_purple
+      - "***✅***@AR14N24b 7"
+      - "  3"
+      - "***✅***@AR14N24b 8"
       - 82.38.31.35:8080
       - "  4"
       - "[23677] - Telegram : @configraygan"
       - ️2@oneclickvpnkeys
+      - "***✅***@AR14N24b 9"
       - 82.38.31.62:8080
-      - "@filembad` 5"
+      - "@filembad` 7"
       - "[23674] - Telegram : @configraygan"
       - ️16@oneclickvpnkeys
       - 20.87.107.99:443
