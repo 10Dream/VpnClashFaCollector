@@ -473,10 +473,11 @@ proxies:
   - {name: "🇰🇷 [openproxylist.com] vmess-KR", server: chuncheon03.zgjok.com, port: 443, type: vmess, uuid: 81d5cac4-d039-4874-9a20-c391f580012d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: chuncheon03.zgjok.com}}, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: v30.hdacd.com, port: 30830, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: static.ubejiasu.top, port: 31517, type: vmess, uuid: 957d12d8-048d-4b57-b09c-f19d027484a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true, tfo: false}
+  - {name: ♦2@oneclickvpnkeys, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: 143.204.111.65, port: 80, type: vmess, uuid: 2b893f18-fd37-415b-b3e9-a30a710e3668, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /wss, headers: {Host: d1c6766qu9kywf.cloudfront.net}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1704", server: 159.89.29.136, port: 80, type: vmess, uuid: d20d6ede-433c-11ed-b81f-cfd905df9958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: cx.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5023", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1065", server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
+  - {name: ♦81@oneclickvpnkeys, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
   - {name: "@filembad 4", server: mel.usdtbama.com, port: 8443, type: vmess, uuid: 096defea-3a54-4deb-a345-d0efc233db4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 5", server: mel.usdtbama.com, port: 8443, type: vmess, uuid: 096defea-3a54-4deb-a345-d0efc233db4c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 6", server: mel.usdtbama.com, port: 8443, type: vmess, uuid: 3b8749bf-e4b9-48e1-8f6e-297c695ea6b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -510,10 +511,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"
@@ -537,10 +539,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"
@@ -564,10 +567,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"
@@ -600,10 +604,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"
@@ -627,10 +632,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"
@@ -654,10 +660,11 @@ proxy-groups:
       - 🇰🇷 [openproxylist.com] vmess-KR
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US
+      - ♦2@oneclickvpnkeys
       - "@filembad 3"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - "@v2rayconfigamir 1065"
+      - ♦81@oneclickvpnkeys
       - "@filembad 4"
       - "@filembad 5"
       - "@filembad 6"

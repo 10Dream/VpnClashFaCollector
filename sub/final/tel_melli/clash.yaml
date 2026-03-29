@@ -465,10 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@tel_melli💛", server: onlazh2.khakimilad.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 351ab55e-22ea-4e7c-a4df-4bd0273225f9, servername: www.aparat.com, host: www.aparat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AAZAKzA6b6g4dvXrZwyEM5WdrKcwisfUyWoXbVDlmVA, short-id: d2537da1d2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli📶", server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💎2", server: 185.143.234.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: affa41b7-95d2-407e-b38f-5a294744304f, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@tel_melli💎1", server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: ba26f6fc-25da-427d-88e9-37ca26eaa520, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ✅@tel_melli✅3, server: 2.188.227.168, port: 36729, type: vless, tls: true, packet-encoding: xudp, uuid: af4212b2-14e9-4431-9112-02eedf88c1da, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ✅@tel_melli✅2, server: 2.188.227.168, port: 36729, type: vless, tls: true, packet-encoding: xudp, uuid: b358bf1e-cb40-4791-8017-0eb7e70d72ef, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dlc-new11.persianpinggame.com:5111, server: dlc-new11.persianpinggame.com, port: 5111, type: vless, tls: true, packet-encoding: xudp, uuid: d061c520-1cdb-11f1-972f-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -486,10 +485,9 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -497,10 +495,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -508,10 +505,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: اتصال پایدار 🔗
     type: url-test
@@ -528,10 +524,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -539,10 +534,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -550,10 +544,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@tel_melli💛"
       - "@tel_melli📶"
-      - "@tel_melli💎2"
-      - "@tel_melli💎1"
+      - ✅@tel_melli✅3
+      - ✅@tel_melli✅2
       - dlc-new11.persianpinggame.com:5111
   - name: دانلود منیجر 📥
     type: select

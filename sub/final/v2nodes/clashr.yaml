@@ -106,7 +106,6 @@ proxies:
   - {name: 185.42.163.177:1888, server: 185.42.163.177, port: 1888, type: vless, tls: true, packet-encoding: xudp, uuid: a47fb050-8477-4d86-9332-5f687f572d94, servername: www.kernel.org, host: www.kernel.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM, short-id: 16b7f8a207cda6e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.85.234.172:443, server: 95.85.234.172, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a6abf70b-f734-42e5-ace6-208e4d53d207, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc, short-id: 844886de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: api.livecut.cc:443, server: api.livecut.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac421bf3-470d-4e21-a56d-c8d622f6df2f, servername: api.livecut.cc, network: ws, ws-opts: {path: /music, headers: {Host: api.livecut.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: api.livecut.cc:443 2, server: api.livecut.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac421bf3-470d-4e21-a56d-c8d622f6df2f, servername: api.livecut.cc, network: ws, ws-opts: {path: /music, headers: {Host: api.livecut.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c1a5ecfa-8a01-4070-91e0-0328b82388ad, servername: 639073677243396643.camry-perma.info, network: ws, ws-opts: {path: /phnkfhws, headers: {Host: 639073677243396643.camry-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.27.121.28:64000, server: 2.27.121.28, port: 64000, type: vless, tls: true, packet-encoding: xudp, uuid: d08a63e7-dbea-4a36-a239-9f0b37a46b40, servername: notion.so, host: notion.so, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dlBsx7pNsGbUWcVaeIiXqPs4s8sENsJRzPGnsZ8CH0Q, short-id: cbfdda0fad80decc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.85.248.95:853, server: 95.85.248.95, port: 853, type: vless, tls: true, packet-encoding: xudp, uuid: d08a63e7-dbea-4a36-a239-9f0b37a46b40, servername: unfiltered.adguard-dns.com, host: unfiltered.adguard-dns.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UOPACBba4vgjdJglUksPMLBuNllDlqthy3sklLNJjj4, short-id: aCE47eEaCa4c8B3b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -230,7 +229,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -354,7 +352,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -478,7 +475,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -601,7 +597,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -724,7 +719,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -847,7 +841,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
@@ -992,7 +985,6 @@ proxy-groups:
       - 185.42.163.177:1888
       - 95.85.234.172:443
       - api.livecut.cc:443
-      - api.livecut.cc:443 2
       - 192.200.160.20:443
       - 2.27.121.28:64000
       - 95.85.248.95:853
