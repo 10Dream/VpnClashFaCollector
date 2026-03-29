@@ -6,12 +6,10 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "@v2rayconfigamir 8215", server: 154.205.154.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5b978047b47f7eab, udp: true, tfo: false}
-  - {name: " ", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "  2", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "@mtproto_proserver", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "  3", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "  4", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: " ", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "  2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6920", server: outgoing-ladybird.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8514", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3320", server: top-goshawk.rooster465.autos, port: 443, type: trojan, password: WF42809561, sni: top-goshawk.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
@@ -19,13 +17,11 @@ proxies:
   - {name: "@v2rayconfigamir 6687", server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9146", server: 45.85.118.0, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7018", server: 65.109.129.120, port: 80, type: trojan, password: b65cbe72-59e2-4011-a22b-760621b5921f, sni: fl.configasli.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  5", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "  6", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "  7", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "  3", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "  4", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 13.36.242.117:22222, server: 13.36.242.117, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.130.107:22222, server: 13.37.130.107, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.210.125:22222, server: 13.37.210.125, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.25.182:22222, server: 13.37.25.182, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.70.196:22222, server: 13.39.70.196, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.132.93:22222, server: 15.188.132.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.184.73:22222, server: 15.236.184.73, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -33,70 +29,54 @@ proxies:
   - {name: 18.158.157.203:22222, server: 18.158.157.203, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.57.119:22222, server: 3.120.57.119, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.122.157.102:22222, server: 3.122.157.102, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.78.2.6:22222, server: 3.78.2.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.121.226:22222, server: 51.44.121.226, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.80.167:22222, server: 52.47.80.167, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.58.26.183:22222, server: 52.58.26.183, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.59.137:22222, server: 63.183.59.137, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram:  @Zero_Tunnel", server: 13.39.70.196, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@aloconfig_com", server: 52.58.26.183, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.135.159:443, server: 152.53.135.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f7f64bd-db72-43af-8be7-f3863de7f922, servername: us.reality.tv123.ru, host: us.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: اگه میخوای قطع نشی, server: arvancloud.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1011e6d2-009a-48e6-af63-83796521a0e2, network: ws, ws-opts: {path: /, headers: {Host: test.zahedimobile.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram:  @CroSs_Guildd", server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 13050079-6b9e-4c4e-a3b7-eedc945003ea, servername: alef.ir.oadeflantrogm.abrirmahan.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.abrirmahan.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 50GB | 02-v6- @unvisible_drops, server: 185.143.233.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 13050079-6b9e-4c4e-a3b7-eedc945003ea, servername: alef.ir.oadeflantrogm.abrirmahan.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.abrirmahan.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  8", server: 159.89.87.21, port: 28190, type: vless, tls: true, packet-encoding: xudp, uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e, servername: aws.amazon.com, host: aws.amazon.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 🌸", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19666df6-009d-4426-8f05-7e19b7dc9da9, servername: my.simin123.shop, network: ws, ws-opts: {path: /, headers: {Host: my.simin123.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@@cllubvpn لطفا برای حمایت جوین شید", server: 172.64.146.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, servername: terazhediii.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhediii.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 64.188.79.195:443, server: 64.188.79.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1babf197-af69-406e-aae2-83c411ae979f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _tTZXX4uMTKGE6P_jUxO5bg_dfYkcG99oxqF1ph_sUg, short-id: 8ef8c87dbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5973", server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2_mod_shop (تلگرام)", server: arvancloud.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1d3774f9-76d2-45bb-8a8a-2ad79aee03d6, servername: ai.faloweram.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ai.faloweram.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3663", server: 93.115.27.83, port: 22230, type: vless, tls: true, packet-encoding: xudp, uuid: 3ba5aeb7-10f5-401b-9c71-cf10885154c5, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI, short-id: a9725715bf4c62ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ghalagyann", server: 104.17.148.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  9", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  10", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 2", server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 26a8a48e-262c-4e9a-8717-f8976f7cfea2, network: ws, ws-opts: {path: "/DL?ed=2053", headers: {Host: m4.articler.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  5", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  6", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 3", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d0e0ed6-188a-43cd-a1ee-57c987a02e4b, servername: kharidfollower.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kharidfollower.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:2096, server: 104.17.147.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@aloconfig_com 2", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@aloconfig_com", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 50GB | 03-v2- @unvisible_drops, server: 185.143.234.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5b01a49e-83c0-4275-84ef-eafecda60b58, servername: alef.ir.oadeflantrogm.iranaircdn.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.iranaircdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9359", server: 45.131.4.192, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1, network: ws, ws-opts: {path: /, headers: {Host: silent-paper-fa57.fipiyag989.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8783", server: 135.125.123.246, port: 5432, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 159.223.24.65:443, server: 159.223.24.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3860", server: 31.59.120.161, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1059", server: 51.38.227.72, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 57.129.63.149:8443, server: 57.129.63.149, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?Telegram🇨🇳@WangCai2=", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.130.132.180:8443, server: 94.130.132.180, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @app_bedal", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetroMap, server: 152.53.48.237, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2658", server: 82.26.91.244, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6f99ed2f-9879-40e3-b5b4-5590c60f8e4a, servername: vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU, short-id: b5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @prrofile_purple 2, server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7b85b51d-4b64-4931-854c-5130389297ab, network: ws, ws-opts: {path: /, headers: {Host: dl2.avenflow.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPARTAN_YT🇺🇸", server: im2.newdesigne.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7f651de1-8396-4b98-aa75-f818bc68c793, network: ws, ws-opts: {path: /, headers: {Host: im2.newdesigne.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1238", server: ip1-fast.tyryqyserver.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 85df0ad4-8818-4aa5-9799-4bb7232de9e0, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: tamamde1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9009", server: ip3-fast.tyryqyserver.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 85df0ad4-8818-4aa5-9799-4bb7232de9e0, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: tamamde1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3494", server: 94.131.8.19, port: 45448, type: vless, tls: true, packet-encoding: xudp, uuid: 96fcf8cc-535d-46c4-b8f9-76058df48e3b, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E, short-id: 958639bf55e679}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇮🇷 Iran 🍓 @Nftvici, server: 185.143.234.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9da0953c-9ae1-44d9-8482-68d4dac8e6d9, servername: alef.ir.oadeflantrogm.mahanmapcdn.com, network: ws, ws-opts: {path: /, headers: {Host: alef.ir.oadeflantrogm.mahanmapcdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fast, server: 185.143.234.122, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a1d9eaf5-9e03-4c67-af0b-e238b865b373, network: ws, ws-opts: {path: /, headers: {Host: amm4.avenflow.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1888", server: api.livecut.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac421bf3-470d-4e21-a56d-c8d622f6df2f, servername: api.livecut.cc, network: ws, ws-opts: {path: /music, headers: {Host: api.livecut.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Blank_Vpn لطفا برای حمایت جوین شید", server: 185.143.234.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: affa41b7-95d2-407e-b38f-5a294744304f, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9629", server: download.riferoser.icu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b6c0c044-7329-4b40-b342-133d047bf1e2, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc, short-id: bff6a88f0127}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 7878", server: lithuania1.labburo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bc019623-ecae-4ee0-8826-6e96f6942263, servername: lithuania1.labburo.su, host: lithuania1.labburo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8, short-id: 3c7dbf0e7bd3d03c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4766", server: 45.144.49.116, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bf263367-bb63-4663-b4a1-34946107a72e, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I, short-id: b2a1c97a38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V2rayng_Saz, server: 85.133.249.43, port: 58387, type: vless, tls: true, packet-encoding: xudp, uuid: c060fdda-385d-aea1-3982-5a6c92876481, host: arvancloud.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @prrofile_purple 3, server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c20fa220-f6fe-46df-84a8-55d8c2ae8146, network: ws, ws-opts: {path: /, headers: {Host: dl.avenflow.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8823", server: 45.83.21.107, port: 59997, type: vless, tls: true, packet-encoding: xudp, uuid: c3dd7afc-151f-44f6-8263-ad3c8420ae2f, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI, short-id: 816473be23c2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy", server: 46.224.85.174, port: 29911, type: vless, tls: true, packet-encoding: xudp, uuid: c8c5cd19-9d3e-4825-b298-2aef3822d68a, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  11", server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7054", server: 103.245.237.124, port: 58202, type: vless, tls: true, packet-encoding: xudp, uuid: cca053d5-7123-4a87-83d6-babe4e9c8115, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 4", server: 185.143.234.122, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d29cf368-c2d3-4d72-bbc0-cb4588039226, network: ws, ws-opts: {path: /, headers: {Host: dl.koremusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram:  @Zero_Tunnel@Zero_Tunnel", server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d8680ca0-b97c-40cf-9726-16c362eadf88, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: alfred-af5ad8949d-alfred13.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: مخصوص ترکیب با سایفون 🍓 @ghalagyann, server: 185.143.233.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: db3cf6e8-515a-47e0-8572-eb47bb611fb2, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 Vless-HK-Iran, server: 79.141.169.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dbb66087-10c5-451e-8d97-ea179984bce2, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DV5H1RoEhSpU4YqZ6YIzl4NbCI6IGJGPLSCOCkkDR3A, short-id: a7bf5154}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  12", server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 2", server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: df76bbdf-1c19-4300-8a74-b60718e7c704, network: ws, ws-opts: {path: /, headers: {Host: ar.liarashop.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  7", server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, network: ws, ws-opts: {path: /http}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7753", server: 141.101.121.14, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3465", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @prrofile_purple 4, server: 185.143.233.200, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f2169fd1-8862-4cfb-b2bd-d87bdd42c37d, network: ws, ws-opts: {path: /, headers: {Host: asd.arnewluncher.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @prrofile_purple 2, server: 185.143.233.200, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f2169fd1-8862-4cfb-b2bd-d87bdd42c37d, network: ws, ws-opts: {path: /, headers: {Host: asd.arnewluncher.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8626", server: 217.13.104.133, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: f367c5cd-1a01-4ad6-bb02-fa8fb4ed13ab, servername: alfabank.ru, host: alfabank.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw, short-id: f6f561090bdf7bf4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3906", server: 217.13.104.133, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: f367c5cd-1a01-4ad6-bb02-fa8fb4ed13ab, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 8969", server: 45.12.136.48, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f8c5b018-f51a-4137-be8a-50a451630589, servername: mirror.yandex.ru, host: mirror.yandex.ru, path: /, reality-opts: {public-key: E-fIlniARgucl-Y8wctxQr4wPuDibRYnOCHCYAEVbws, short-id: 0cfdd64c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7969", server: pq-hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3127", server: 45.12.132.183, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 45.12.132.183}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1704", server: 159.89.29.136, port: 80, type: vmess, uuid: d20d6ede-433c-11ed-b81f-cfd905df9958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: cx.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5023", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
-  - {name: Join+Telegram:@Farah_VPN 🇨🇳, server: n1747624280.lie5d.cyou, port: 443, type: vmess, uuid: 49dcf4b4-81eb-4fe2-91d3-86dc2e27ced5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1747624280.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1747624280.lie5d.cyou}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -104,12 +84,10 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -117,13 +95,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -131,70 +107,54 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -202,12 +162,10 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -215,13 +173,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -229,70 +185,54 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -300,12 +240,10 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -313,13 +251,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -327,82 +263,64 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -410,13 +328,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -424,82 +340,64 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -507,13 +405,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -521,82 +417,64 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -604,13 +482,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -618,70 +494,54 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -710,12 +570,10 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "@v2rayconfigamir 8215"
-      - " "
-      - "  2"
       - "@mtproto_proserver"
       - ⚡Telegram - @prrofile_purple
-      - "  3"
-      - "  4"
+      - " "
+      - "  2"
       - "@v2rayconfigamir 6920"
       - "@v2rayconfigamir 8514"
       - "@v2rayconfigamir 3320"
@@ -723,13 +581,11 @@ proxy-groups:
       - "@v2rayconfigamir 6687"
       - "@v2rayconfigamir 9146"
       - "@v2rayconfigamir 7018"
-      - "  5"
-      - "  6"
-      - "  7"
+      - "  3"
+      - "  4"
       - 13.36.242.117:22222
       - 13.37.130.107:22222
       - 13.37.210.125:22222
-      - 13.37.25.182:22222
       - 13.39.70.196:22222
       - 15.188.132.93:22222
       - 15.236.184.73:22222
@@ -737,70 +593,54 @@ proxy-groups:
       - 18.158.157.203:22222
       - 3.120.57.119:22222
       - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
       - 52.47.80.167:22222
-      - 52.58.26.183:22222
       - 63.183.59.137:22222
       - "Telegram:  @Zero_Tunnel"
-      - "@aloconfig_com"
       - 152.53.135.159:443
-      - اگه میخوای قطع نشی
       - "Telegram:  @CroSs_Guildd"
       - 50GB | 02-v6- @unvisible_drops
-      - "  8"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "@@cllubvpn لطفا برای حمایت جوین شید"
-      - 64.188.79.195:443
       - "@v2rayconfigamir 5973"
       - "@v2_mod_shop (تلگرام)"
-      - "@v2rayconfigamir 3663"
-      - "@ghalagyann"
-      - "  9"
-      - "  10"
+      - "Telegram:  @Zero_Tunnel 2"
+      - "  5"
+      - "  6"
+      - "Telegram:  @Zero_Tunnel 3"
       - 104.17.147.22:2096
-      - "@aloconfig_com 2"
+      - "@aloconfig_com"
       - 50GB | 03-v2- @unvisible_drops
       - "@v2rayconfigamir 9359"
       - "@v2rayconfigamir 8783"
-      - 159.223.24.65:443
       - "@v2rayconfigamir 3860"
       - "@v2rayconfigamir 1059"
-      - 57.129.63.149:8443
-      - 94.130.132.180:8443
       - NetroMap
       - "@v2rayconfigamir 2658"
-      - ⚡Telegram - @prrofile_purple 2
       - "@SPARTAN_YT🇺🇸"
-      - "@v2rayconfigamir 1238"
-      - "@v2rayconfigamir 9009"
       - "@v2rayconfigamir 3494"
       - 🇮🇷 Iran 🍓 @Nftvici
       - fast
-      - "@v2rayconfigamir 1888"
       - "@Blank_Vpn لطفا برای حمایت جوین شید"
       - "@v2rayconfigamir 9629"
-      - "@v2rayconfigamir 7878"
       - "@v2rayconfigamir 4766"
       - V2rayng_Saz
-      - ⚡Telegram - @prrofile_purple 3
       - "@v2rayconfigamir 8823"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - "  11"
       - "@v2rayconfigamir 7054"
+      - "Telegram:  @Zero_Tunnel 4"
       - "Telegram:  @Zero_Tunnel@Zero_Tunnel"
       - مخصوص ترکیب با سایفون 🍓 @ghalagyann
-      - 🇭🇰 Vless-HK-Iran
-      - "  12"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "  7"
       - "@v2rayconfigamir 7753"
       - "@v2rayconfigamir 3465"
-      - ⚡Telegram - @prrofile_purple 4
+      - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 8626"
       - "@v2rayconfigamir 3906"
-      - "@v2rayconfigamir 8969"
       - "@v2rayconfigamir 7969"
       - "@v2rayconfigamir 3127"
       - "@v2rayconfigamir 1704"
       - "@v2rayconfigamir 5023"
-      - Join+Telegram:@Farah_VPN 🇨🇳
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
