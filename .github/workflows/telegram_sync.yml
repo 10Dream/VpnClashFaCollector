@@ -2,7 +2,7 @@ name: Auto Proxy Update and Convert
 
 on:
   schedule:
-    - cron: '0 */06 * * *'
+    - cron: '0 * * * *'   # هر 1 ساعت یک‌بار
   workflow_dispatch:
     inputs:
       run_scraper:
@@ -19,17 +19,17 @@ on:
         description: 'Run Speed Tester?'
         required: true
         type: boolean
-        default: true
+        default: false
       run_generator:
         description: 'Run Sub Generator?'
         required: true
         type: boolean
-        default: true
+        default: false
       run_web:
         description: 'Run Web Panel Generator?'
         required: true
         type: boolean
-        default: true
+        default: false
 
 jobs:
   build:
@@ -61,20 +61,21 @@ jobs:
         if: github.event_name == 'schedule' || inputs.run_extractor == true
         run: python src/config_extractor.py
 
+      # مراحل زیر فقط در اجرای دستی و در صورت فعال‌بودن input اجرا می‌شوند
       - name: 3. Run Speed Tester
-        if: github.event_name == 'schedule' || inputs.run_tester == true
+        if: github.event_name == 'workflow_dispatch' && inputs.run_tester == true
         run: python src/config_tester.py
 
       - name: 3.5 Run Config Extractor (Post-Test)
-        if: github.event_name == 'schedule' || (inputs.run_extractor == true && inputs.run_tester == true)
+        if: github.event_name == 'workflow_dispatch' && inputs.run_extractor == true && inputs.run_tester == true
         run: python src/config_extractor.py
 
       - name: 4. Run Sub Generator
-        if: github.event_name == 'schedule' || inputs.run_generator == true
+        if: github.event_name == 'workflow_dispatch' && inputs.run_generator == true
         run: python src/sub_generator.py
 
       - name: 5. Run Web Panel Generator
-        if: github.event_name == 'schedule' || inputs.run_web == true
+        if: github.event_name == 'workflow_dispatch' && inputs.run_web == true
         run: python src/web_generator.py
 
       - name: 6. Fast Static Page Setup
