@@ -75,6 +75,7 @@ PROTOCOLS = [
 ]
 
 NON_MIXED_PROTOCOLS = {'tg', 'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt'}
+# پروتکل‌هایی که نیازی به اعتبارسنجی ساختاری پیچیده ندارند و باید مستقیماً ذخیره شوند
 NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
@@ -101,8 +102,6 @@ VALID_SS_CIPHERS = {
 # ==========================================
 # توابع کمکی (Helper Functions)
 # ==========================================
-
-
 
 def normalize_b64(raw):
     if not raw:
@@ -258,6 +257,7 @@ def filter_problematic_configs(data_map):
     removed = 0
 
     for proto, lines in data_map.items():
+        # پروتکل‌های خاص (مثل slipnet-enc) اعتبارسنجی نمی‌شوند و مستقیم عبور می‌کنند
         if proto in NON_VALIDATED_PROTOCOLS:
             filtered[proto].update(lines)
             continue
@@ -270,6 +270,7 @@ def filter_problematic_configs(data_map):
     logger.info(f"Problematic proxy filter: kept={sum(len(v) for v in filtered.values())}, removed={removed}")
     return filtered
 
+
 def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
         prefix = rf'(?:tg:\/\/(?:proxy|socks)\?|https:\/\/t\.me\/(?:proxy|socks)\?)'
@@ -278,7 +279,11 @@ def get_flexible_pattern(protocol_prefix):
     else:
         escaped = re.escape(protocol_prefix)
         prefix = rf'{escaped}:(?:\/\/|\/)'
+    
+    # اطمینان از استخراج کامل تا رسیدن به فاصله، براکت‌ها یا انتهای خط
+    # این الگو برای رشته‌های بلند Base64 (مانند slipnet-enc) ایده‌آل است.
     return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
+
 
 def clean_telegram_link(link):
     """پاکسازی لینک تلگرام"""
@@ -289,6 +294,7 @@ def clean_telegram_link(link):
     except Exception as e:
         logger.error(f"Error cleaning link: {e}")
         return link
+
 
 def is_windows_compatible(link):
     """فیلتر سخت‌گیرانه برای ویندوز (Secret Check)"""
@@ -317,6 +323,7 @@ def is_windows_compatible(link):
         return True
     except Exception:
         return False
+
 
 def is_behind_cloudflare(link):
     """تشخیص کانفیگ‌های پشت کلادفلر"""
@@ -353,6 +360,7 @@ def is_behind_cloudflare(link):
         return False
     return False
 
+
 def save_content(directory, filename, content_list):
     """ذخیره محتوا در فایل متنی و Base64"""
     if not content_list: 
@@ -377,6 +385,7 @@ def save_content(directory, filename, content_list):
     except Exception as e:
         logger.error(f"Failed to save {filename} in {directory}: {e}")
 
+
 def extract_configs_from_text(text):
     """استخراج تمام کانفیگ‌ها از متن"""
     patterns = {p: get_flexible_pattern(p) for p in PROTOCOLS}
@@ -387,12 +396,14 @@ def extract_configs_from_text(text):
         matches = re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE)
         for match in matches:
             raw_link = match.group(0).strip()
+            # پاکسازی فقط برای تلگرام انجام می‌شود تا دیتای base64 سایر پروتکل‌ها آسیب نبیند
             clean_link = clean_telegram_link(raw_link) if proto == 'tg' else raw_link
             if clean_link:
                 extracted_data[proto].add(clean_link)
                 count += 1
     
     return extracted_data, count
+
 
 def merge_hysteria(data_map):
     """ترکیب hy2 و hysteria2"""
@@ -404,6 +415,7 @@ def merge_hysteria(data_map):
     if 'hy2' in processed_map: del processed_map['hy2']
     processed_map['hysteria2'] = hy2_combined
     return processed_map
+
 
 def write_files_standard(data_map, output_dir):
     """
@@ -454,7 +466,7 @@ def write_files_standard(data_map, output_dir):
             logger.info(f"Telegram Configs in {output_dir}: Total={len(lines)}, Win={len(windows_tg)}, Android={len(android_tg)}")
 
         else:
-            # پروتکل‌های جمع‌آوری‌شده که نباید وارد mixed شوند
+            # پروتکل‌های جمع‌آوری‌شده که نباید وارد mixed شوند (مانند slipnet-enc)
             if proto in {'slipnet', 'slipnet-enc'}:
                 slipnet_mixed_content.update(lines)
             save_content(output_dir, proto, lines)
@@ -465,6 +477,7 @@ def write_files_standard(data_map, output_dir):
         save_content(output_dir, "cloudflare", cloudflare_content)
     if slipnet_mixed_content:
         save_content(output_dir, "slipnet_mixed", slipnet_mixed_content)
+
 
 def auto_base64_all(directory):
     """تولید Base64 برای تمام فایل‌های متنی موجود"""
@@ -491,6 +504,7 @@ def auto_base64_all(directory):
                         logger.error(f"Auto-base64 error for {file}: {e}")
     logger.info(f"Generated {count} missing base64 files.")
 
+
 def cleanup_legacy_hy2(directory):
     """حذف فایل‌های قدیمی hy2"""
     if not os.path.exists(directory): return
@@ -505,6 +519,7 @@ def cleanup_legacy_hy2(directory):
                     logger.error(f"Error deleting {file}: {e}")
     if deleted_count > 0:
         logger.info(f"Cleaned up {deleted_count} legacy hy2 files.")
+
 
 def fetch_url_content(url):
     """دانلود محتوا از اینترنت"""
@@ -539,6 +554,7 @@ def load_split_source_content(item):
         return fetch_url_content(url)
     return ""
 
+
 def save_split_output(config_list, base_name, chunk_size):
     """ذخیره فایل‌های تقسیم‌بندی شده"""
     if not config_list:
@@ -568,6 +584,7 @@ def save_split_output(config_list, base_name, chunk_size):
             
         with open(os.path.join(path_base64, file_number), "w", encoding="utf-8") as f:
             f.write(b64_str)
+
 
 def process_split_mode():
     """اجرای حالت تقسیم‌بندی"""
@@ -626,6 +643,7 @@ def extract_iran_configs_from_tested(base_dir="sub/tested"):
 
     save_content(base_dir, "emoji_iran", iran_tagged)
     logger.info(f"IR emoji extraction complete. Found {len(iran_tagged)} configs.")
+
 
 def main():
     logger.info("Starting Config Extractor...")
