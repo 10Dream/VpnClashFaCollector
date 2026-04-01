@@ -1,8 +1,103 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-03-31 13:30:21 UTC
+بروزرسانی: 2026-04-01 14:03:42 UTC
 
-### 🕒 2026-03-30 13:52:13 UTC
-این تیک Proxy only mode رو داخل برنامه SlipNet بزنید و به کانفیگ مورد نظر متصل شید و بعد توی تلگرام به پروکسی زیر متصل شید  https://t.me/socks?server=0.0.0.0&port=10880 یا این https://t.me/socks?server=127.0.0.1&port=10880
+### 🕒 2026-04-01 13:48:15 UTC
+[ShadowProxy66](https://t.me/ShadowProxy66)
+ pinned «
+مشکل کانفیگهای اسلیپ پیدا کردن dns مناسب هس با این روش دیگ مشکل پیدا کردن dns رو نداریم  این آموزش روی کانفیگهایSlipstream انجام میشه  تا اخرین مرحله با دقت بخونید که مشکلی نداشته باشید
+»
+
+---
+
+### 🕒 2026-04-01 13:29:42 UTC
+روش فوق رو نت‌های مختلف تست شده و جواب داده پس بادقت بخونید و انجام بدید و کمی هم صبوری به خرج بدید
+موفق باشید 
+***❤️***
+تمام
+
+---
+
+### 🕒 2026-04-01 13:25:51 UTC
+کانفیگهای ک وارد کردین ،  روی علامت مداد که کنار کانفیگ هست بزنید صفحه ای باز میشه، در اون صفحه یه کادری هست که تعدادی dns بصورت پیش فرض  جایگذاری شده ، در کنار اون کادر، یه دکمه به نام لوکال "local" هست
+کافیه یه بار روی اون بزنید تا لوکال دی ان اس خودتون بصورت اتوماتیک در کادر وارد بشه، پیشنهاد میکنم هنگام انجام این کار، هر وی پی انی دیگ دارید خاموش کنید سپس انجام بدید گزینه مورد نظر رو زدید از گوشه بالا ذخیره رو بزنید
+حالا بزنید متصل شه اگه سبز شد وارد تلگرام شید منتظر شید تلگرام بالا بیاد اگه نیومد قطع وصل کنید یه کم صبوری نشون بدید تا تل بالا بیاد اگه باز نیومد ۳۰ ثانیه حالت هواپیما بذارید و دوباره روی اتصال بزنید
+***📍***
+توجه داشته باشید این آموزش روی کانفیگهای Slipstream جواب میده
+
+---
+
+### 🕒 2026-04-01 13:25:35 UTC
+تنظیمات SlipNet
+در صفحه اصلی روی چرخ دنده بالای صفحه بزنید و وارد تنظیمات بشید
+Auto connection on boot = OFF
+Proxy only mode = OFF
+Kill switch = OFF
+Auto reconnect = ON
+Sleep timer = OFF
+Battery optimization = 100% set and do it
+Dns resolver scanner = no need this parameter or option
+Listen address = localhost (
+[127.0.0.1](http://127.0.0.1/)
+)
+Listen port = 1080 [please set this number] 
+Http proxy = ON
+Http proxy port = 8989  [please set this number]
+Disable QUIC = ON
+VPN MTU = [see your local Dns MTU and set] [my MTU is 512 or 900] [this parameter should be true] 
+Bandwidth limit = nothing [no need to set anything] 
+Append http proxy to VPN = ON
+Global Dns resolver override = OFF
+Remote Dns server = choose "costum" 
+Set your local Dns into primary Dns server box
+Set "
+[8.8.4.4](http://8.8.4.4/)
+" into Fallback Dns server box
+*Attention* => this parameter should be set by your local Dns for success connect internet stayblity
+Dns worker = DEFAULT 
+Usually no need to change this parameter 
+Enable split tunneling = ON
+MODE = only selected app use VPN 
+Select app = your favorite :) 
+Enable Domain routing = OFF
+Enable Geo-bypass = ON
+Country = IRAN
+Chipher = AUTO
+Compression = ON
+Max channel = AUTO 
+somtime change this parameter  how traffic data on your ip or dns [minimize 4 maximum 50] 
+Pravent Dns Fallback = ON
+(اجباری نیس حالت vpn باشه میتونید حالت پروکسی هم استفاده کنید)
+
+---
+
+### 🕒 2026-04-01 13:24:59 UTC
+قبل از هر چیزی اگه vpn روشنی دارید خاموش کنید و پشت زمینه هرچی آپ دارید ببندید
+و نکته دیگ قسمت تنظیمات گوشی  (نام نقاط دسترسی apn) حالت استاندارد باشه mcinet واسه همراه و mtnirancell برای ایرانسل و فقط درگاه و پراکسی باید خالی از هر عددی باشه اگه متوجه نشدید این آموزش رو ببنید
+[https://t.me/vpn_proxy400/5223?single](https://t.me/vpn_proxy400/5223?single)
+گوشی رو دو دیقه حالت هواپیما بذارید یا بهتره یکبار ریستارت کنید
+بقیش طبق آموزش انجام بدید
+
+---
+
+### 🕒 2026-04-01 13:24:00 UTC
+slipnet-enc://AXnkRQ8/o0HOdGylA1q+p/z5UEWU3jK8KFeiuTbvBJW0JVNwLkT+Cqy3puD4kqs5kaK5psQJqcN6kaJ76fgQTFZe9A5vv780yJ2qWKcYhEQwsKDbvt8kfesbFDgV2cuUeogUesrmXMDy877VRR5IPFD8DGNtD+ndJM+AaL9Jjo+5VjeHyiXLs/sT1iPi7B9RfRWnTB//EN84n/1ePEDRWldzda7usUTv+FBZbzTuB+glrmVNnULACd4n0k3LEhp/CyeOVOFgtiRu4WPsFjbgWuCn8Aor4GbkM0Ud4GTodKe79v8BEVm05UCtqAIBv1jxuNsVhyqQ3OwL55wbBvClrLgzie/ao36PU+WodyW46WbR/+w=
+slipnet-enc://AblSKQWhvKC/ac/6aFnpMJa8egV5xaHu9IrBDCCBPN3o0uHP8IYc6ZwnojRUy51yaRol9QvVrg5NRoCEjXuW5c0VX+/voG3+Ok4qYwOgL7MsYvnxUyySZxCOIS/MUXvmUTeNNfYf89g/OIwCgGEUdx8+jYmXoSlH3IgjuhfSBhH5FScr0HqoNULyeSiAaOXQVYeTZNUbuAFZ/gxM2qMnEPojMK66/QZN4LX69F0yhAm2Z+hrqbnVahuxKOFOPre2beAkP3R2JG36Z7sJjafJDKJB60AMghAvR/qtabYKJ8Ni0oeGL937jw2RQ+ZHstOrGEOjtkOUcE3+wmudPag=
+slipnet-enc://AchX3OHtzKP/MOg5rlOI03fUnBvXzIrCc0z2itGdg5Omybk0xdEZAosIaX4dloDdBpz1eNmopyipq7ODtz2RPVkSX+yDYQNc7Zoe3tSkWKcV+WDsQZQY9JMi5EVSIZhP43AqtaPWeQ4xarx4s1nSi3YV628JGYoRVJEgIxur6voz2Pcn810xU4m4LvfgASShj5bDBWFi9uP8A/hTRo6c6zkNDHZ0WpLpxVaRtiOmC+XU0rgtWHjtttg1ifOzH7e5fpRfJ86CC4c5hYdg8DIH5lWSUPWaXkby/Cs6ffCRVrqo3+CX2igZPFPp9UlCZVPPqXgC519Rvf64JsBcTxHYdYDoQ16RzLyef1WduF2/yDRSDWk=
+slipnet-enc://AY/on9eirMWhR+FAa5WolLO6ig+0ue3ZK/o7QTuL5aY+OIhVWuZJW7DaNbls9F36+nmhJ3zjFt2YcydCuy8CFEsbnuL8Tv6mcqokmQV2nX+SVQSL4ECK6lYI2rIOpHs+57vkrLP49p/rixUC+9CHGh1reKL4YQx8TLcky+vHvbIuYTCXkUya+77qcPxDX771a+icumi0xHI784JU7tQTbL8L16U3SwwgOqNa7zQlavgJeuutPNUccT9jh+4XsFjTHjIaOzEt8zHmR9AqKJn/uahfbUYZEMHb9HabGne9mpC5f251ur13cNxWyDUE3ms8+XknRzfJNQrgc4m2dHgm4+tQFqHhJHa6tWxEJiSPv0J4ABLmO9cr1PND2Z0hAIMmPdXvu1KrB/xS6Bzr0wDyWYGgNbWXUO8g/yvTCH7BqZrN0Bx8w9/BZIfLV90rOLD7jeYcdP+m8MAzJ0ww22tBBJqZAcsk1oRn2jwosjWy8r6sXnqgg3uGKevDtXD1epdn
+slipnet-enc://AUSYDJSMqwx42RxN34/73lwvSPeFPUhP36ZqAJqCBNOuvnpvDnmr9Kbh0y0t5aqyb8TzV5ewmMmbPlIxPMlt5HeC88GNEUapvrzwSvNWUbDsRXf5jF4epti4hT9OnkI9jx3tRamF04phU9GVY1Byvv81/PzN9R9SN9/kq3Su1AWe4LxFWjApxmT8ZMvlAuSTWisFhUTlR/055cHL1jgj5j9u7uFJlmc5qKn/HCl/eAXRyk+F250T3wkipy1UNg1hShmiCdzRRWGEeH8WzU8yBFP5iTEDxphE22Rvd7UoWydue3e6UWOtveMZsxgB41RZXVE1P7Vb7OTj3lHg/hcfEpW6xMyp49DYdv3Bps2/sKhRhuflhgw=
+slipnet-enc://AVYHibhGVbBWgXW8DTL3Ry+VrfEUA5AASO0ABY2Zge5VfemYCgQ6fVD3cHsrYES+TqYff52ArkzMOba5iIQXc85SB+4uK95taeutItxjjFthWa7Wb3uoD3bVPeBV2Fjd8FTq5jA4xP0tt3rQSKvmVAt2LIvsDPRawsKNTahV/wPdBkb7qHhSp+GPpRutF5+FFq/vE4BHjjTPahoDhPDmbE/SoEEBS5x5AzfSly1uaFkx2AC4ngVN0/NnjcS0HA41wRjpdjFmGCcO8h6X+kg+NUvwSP9KBcNQl0u9AQnS2aFFe1ZqnxIXNOc5Mwa/Ew907CtY6nNErXzQkCZnAnuPAemFgzodyuB3sWVT5dzz8AyzO8wckkKm2csexDIJWeA/KxOge4YGsP/i1TSkVQ7PDVqX72ApeygY3ts=
+slipnet-enc://AS5GuW29A2HA4RNAC9G3BLsa8pe20SfQQ5Cw1fR2Zx7XgEgftV3irli2Xd/TvQS1U/YCJi4YT4AoFth/+bo+2dWVvzXwlmaySVrrbhn1TJFHKaOPcibG891ckmJ8bJiK01BxBUIZwIonMVocNW4v6b+UmTMOOK35boJ03wKlASYaW5b/3ZOYy1i6ULB3pbDNwAOs7d6X58/zXYDYfuFwS2M3GyjHpvwbLoAwQcNzp5Lkq6S+SuKneND3Es6onhYfgj5g0b2fs9wfZjFwjgdjNMBtmXPLjowUqNRthBbYPx3+eg8p2vE7fiN5vJtt1JxjFBTR2LsIQhJHt9ENv5/tJJjIB/vQkj5V8GOzrho3QEDTUVnA
+slipnet-enc://AW6eCYng3JTB2pKesbaX6IKUTEipMA678C2yz92dnZogr12nYDBBpiWvsyJdDf34eCGikPF1EFS/D1/MYs+0sBPJxSauQOclO4lNtLApIOGNFIxfDwT0ZhyGHP0wjRsg2Fyb6NXQ+/ytd2Dn7tw5rAxsvt89sknsYMlNCyAlg/j/JnGI1008Eo8epO5cFGmVg7e0e8mj+n98u8R4ivtgycRfj8X/vDvqmDAWC8oGMBC6ch1JB3NrfeBIPIqmwgVNcBWBYnSw7d8uXUGO8Zs1kyRkTjo51RuHLfmPgKZvV34h1yMAw1172yhFG20b9s5oUCrcxDOC9oeZw2O9zVAxP2YjYHg/BvIMj8fXCBQB3Wdc/ss=
+slipnet-enc://Ad73Fty91x6JTdAVdj7f/tcER8311pP+OX953zIiGlxkbxwFu6hgDODpcuHrueJwUvCOOp5m9LWA9a5cis7WJJ/5H92GpA1DjGYyuXyAvbYqfrgMgvWuBNaCZ3gjOWxYxcmm4TQJHP2jlwezZeNHfyeN1BgQoCGzr3x3HU3unVihQ85RuuTKCnrwrsgV7y8A5aWJDqwpD1Qq3OQ3VGdkm8Kxi2jYb7XsM1oPC9veHnN/Bq2t0IobLCamQruEHFTyyBJHZlnUUnQ/uzd/HadRw9Y72WtGTSEAPqjPlh8h8pnsftaKmEQEBDiITt2TCX9EfUA7OJq5XA0sAKceegw94q9FuTXip4Tc+2fa2giMXc3jIHg=
+slipnet-enc://AdMuM5Zkm+RXE3MRKE/Jta8UPyGiC9XKhdbTjs0mVZGG1SSlxms6Xj+tFY+4Tyfp1zWZrJIMqsFfV85IT3sxY7PIWCQYtY0h4E+kRWHRagAy1DQk2IhAhmFmILyCynUReef/SBIT1HNX2GPrlhKpq6Y35NTUjfl5ZgUX2FNarmT1dVdasd3Erl1TaHyMUxV4rJ86YYA0UbHOZHDRId+hTvNwNhWWjMF9W1uv3R0GUEtxi/XDNZSGJwUJyQE9OsF8h9emMaLJW+Uq359FFk+L6Qh9Qq1P7CqSHxcjnAy+VNoPhtsSKbMAOZXuXvPMaFWCOhwe6MS8Dp6vGaRXlZik4pq0tNOOrGqj1QQjyL4jtunr1w==
+[تعداد 10 کانفیگ SlipNet آخرین نسخه](https://t.me/ShadowProxy66/14917?single)
+
+---
+
+### 🕒 2026-04-01 13:23:15 UTC
+مشکل کانفیگهای اسلیپ پیدا کردن dns مناسب هس با این روش دیگ مشکل پیدا کردن dns رو نداریم
+این آموزش روی کانفیگهایSlipstream انجام میشه
+تا اخرین مرحله با دقت بخونید که مشکلی نداشته باشید
 
 ---
 
