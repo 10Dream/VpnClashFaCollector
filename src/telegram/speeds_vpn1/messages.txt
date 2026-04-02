@@ -1,5 +1,108 @@
 # آرشیو کانال: @speeds_vpn1
-بروزرسانی: 2026-04-02 16:12:51 UTC
+بروزرسانی: 2026-04-02 17:57:14 UTC
+
+### 🕒 2026-04-02 16:44:36 UTC
+> ↪️ **Forwarded**
+
+***🔹***
+**آموزش termux+vaydns**
+بعد اینکه دانلود کردی میری تو فایل ها پوشه Download و از زیپ درش میاری
+بعدش میری تو ترموکس دستورات زیر رو میزنی :
+برای دادن دسترسی حافظه به ترموکس:
+`termux-setup-storage`
+انتقال فایل به محیط Termux:
+cp -f /storage/emulated/0/Download/vaydns/vaydns/vaydns-client-linux-arm64 ~/ && touch -t 202401010000 ~/vaydns-client-linux-arm64
+بعدش برای اجرا کردن:
+cd ~
+chmod +x vaydns-client-linux-arm64
+./vaydns-client-linux-arm64 \
+--domain t.iampedi8.live \
+--listen 127.0.0.1:7000 \
+--pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e \
+--udp 2.188.21.190:53 \
+--record-type cname
+  تو تلگرام هم و وصل میشی به پروکسی زیر
+[https://t.me/socks?server=127.0.0.1&port=7000](https://t.me/socks?server=127.0.0.1&port=7000)
+برای متوقف کردنش هم گزینه ctrl که بالای کیبورد هست رو میزنی و بعدشم حرف c 
+برای اجرای دوباره هم میتونی فلش بالا رو بزنی تا برگرده به دستور قبلی و مجدد اجرا کنی یا باز دستور ران کردنشو بزنی:
+./vaydns-client-linux-arm64 \
+--domain t.iampedi8.live \
+--listen 127.0.0.1:7000 \
+--pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e \
+--udp 2.188.21.190:53 \
+--record-type cname
+
+---
+
+### 🕒 2026-04-02 16:22:54 UTC
+***❗️***
+در ابتدا دقت کنید این آموزش اتصال مقداری امکان داره پیچیده باشه برای یسری از دوستان   
+***🔰***
+برنامه TERMUX/ترموکس   https://guardnet.ir/?view=1775139535_bf00c4b7.apk  
+***🔰***
+ کلاینت vaydns   https://guardnet.ir/?view=1775144428_af11cb14.zip   
+***❗️***
+بعد از دانلود صبر کنید…
+
+---
+
+### 🕒 2026-04-02 16:14:42 UTC
+***🛜***
+**سرور اختصاصی**
+ 
+**slipnet**
+***☑***
+***🔵***
+**برای **
+ ایرانسل 
+***🛜***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`slipnet-enc://AYo0XGxVEfZqwijubjvT+SKlqcMvN7TQVncxsZZQenjWRDU9bUb9vezVID2IM88WNFacs1IbNCnF6r8RwxrUGReh51a6zRzfS/qlwN7I5jDZSnoNaiQsjNNbaioZDXIZjc9wiaoyvIFmTKKyT1n4/BWcYh+VcwViMkbILO/0TjTX4p+09qytC37VCn+ZOLAFnXiyS+OOdiyR0ZGEJmp0mmN43TUSWw4Ko4Ajy3IhkhtTnjOa2iWmjkAtDp39/eHHUpaVE9242pWh3RavyKkLsztyxhNNYyi9uWy8o+pAZ4nh1/DTW33BeHKA1+IFZuEyzHOYhHDAMn30o3qEb7902w8J8V6QRFgnpOybyLcaNh8fvEKSUwivSif4vihU1dDycINRM4lIz7pUhp0JkTY6nrl/vaxbif42wW1mAi4eOTeNR6ALjwLzOF2rG1LLFOya2gcYsfPfctx19oAIM2/dscMoadT8NhsZjvJTgyj4FFppFpCzSwNpA+FQVpm0YTgdsYslN7N9d6+rnT2ZHg0ggsS9d0PUD2iYqqZUsYMec5zZ8y+Kw0BcuiYS8S6sN9Mk/MdAUv/1rLPemcaq9GxQdBKtg/QigMisSYgemSIdteGlC8uLklPuCTSLal5g9X0=`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+**⚪️**
+**حتما از تنظیمات VPN MTU رو رویِ 512 بگذارید و تنظیمات رو ذخیره کنید .**
+**⚪️**
+**زمانی که کانفیگ رو ادد کردید قبل از اتصال رویِ علامتِ مداد کنارِ کانفیگ بزنید و DNS Query Size رو هم یکبار رویِ 50 بزارید و تست کنید و هم یکبار 60 بزارید و متصل بشید .**
+**⚪️**
+**حتما از تنظیمات گزینه‌ ی Proxy-only Mode رو‌ فعال کنید . بعد از اینکه کانفیگ متصل شد ، اگر که از جدید ترین ورژن SlipNet ( ورژنِ 2.4.4 ) استفاده می‌کنید به یکی از پروکسی هایِ زیر در تلگرام متصل شَوید .**
+[https://t.me/socks?server=0.0.0.0&port=10880](https://t.me/socks?server=0.0.0.0&port=10880)
+[https://t.me/socks?server=0.0.0.0&port=10880](https://t.me/socks?server=0.0.0.0&port=10880)
+**اگر از نسخه هایِ قبلیِ SlipNet استفاده می‌کنید به پروکسی هایِ زیر متصل شَوید .**
+[https://t.me/socks?server=0.0.0.0&port=1080](https://t.me/socks?server=0.0.0.0&port=1080)
+[https://t.me/socks?server=127.0.0.1&port=1080](https://t.me/socks?server=127.0.0.1&port=1080)
+***💙***
+**با ری اکشن ، فوروارد پست از ما حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[**آموزش اتصال به کانفیگ **](https://t.me/Speeds_vpnhelp/41?single)
+***⚫***
+***🔺***
+[**آپدیت برنامه**](https://t.me/Speeds_vpnhelp/55?single)
+***⚫***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
 
 ### 🕒 2026-04-02 16:03:50 UTC
 > ↪️ **Forwarded**
@@ -989,120 +1092,6 @@ Username / Password → خالی
 
 ### 🕒 2026-04-01 18:57:08 UTC
 حمایت ها کم شده
-
----
-
-### 🕒 2026-04-01 16:53:27 UTC
-***🛜***
-سرور اختصاصی slipnet
-***☑***
- 
-***🔵***
-برای همه اپراتورها 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
- 
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
- slipnet-enc://ARJBfFABvEUxMW57UeZsZr5EePQMS7wAiDCaJ6URtIXSuF6dnLPBExqvks4lh6pT5xNQfxtXu+0y85g72vjVi3c1140YJBST5W0OFW4E6Ch1RmH9MbKUmdjqeqbzJuhaNUK1jKWVXIiEyOmxUqsw52MzqxUwzcdmRxOwCd07JcePqkv1iX1baPWbBu…
-
----
-
-### 🕒 2026-04-01 16:52:15 UTC
-***🛜***
-سرور اختصاصی slipnet
-***☑***
- 
-***🔵***
-برای همه اپراتورها 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
- 
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
- slipnet-enc://ARJBfFABvEUxMW57UeZsZr5EePQMS7wAiDCaJ6URtIXSuF6dnLPBExqvks4lh6pT5xNQfxtXu+0y85g72vjVi3c1140YJBST5W0OFW4E6Ch1RmH9MbKUmdjqeqbzJuhaNUK1jKWVXIiEyOmxUqsw52MzqxUwzcdmRxOwCd07JcePqkv1iX1baPWbBu…
-
----
-
-### 🕒 2026-04-01 16:51:29 UTC
-***🛜***
-**سرور اختصاصی**
- 
-**slipnet**
-***☑***
-***🔵***
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`slipnet-enc://ARJBfFABvEUxMW57UeZsZr5EePQMS7wAiDCaJ6URtIXSuF6dnLPBExqvks4lh6pT5xNQfxtXu+0y85g72vjVi3c1140YJBST5W0OFW4E6Ch1RmH9MbKUmdjqeqbzJuhaNUK1jKWVXIiEyOmxUqsw52MzqxUwzcdmRxOwCd07JcePqkv1iX1baPWbBu83j59gnPsAFDPsftRPZ+gm6CBTMy6RXglMhmcxPN29v5Zkd60H00t+uzWZFb/aE4haTzCM8GJ0xfgzot/IicWI+VLAu9JiTvQjvqDEECD8wuhx7HQg0dDIn65couRV/Yc7G5I3tMA3tpqmOQo6qkDAFFwSJ7g8jIYUSQ7in7bPj1WN5I2xrilA2Frx2f0/tFIiMDDcpQVEbpr6cTjnrrMLzfSits5MlusJZqaZqtAqZ7zEJd45SX0M78AljCmKacb790yah8CypiWV8+huNSq1laWf/shMgzPuAXqonrjFYCl2ez7d8CD3dJpV/IO2XOIEw3pxV3Px/Eqhtc9B01WakB3ZkKPYDOe69HVPZX5YEVLtDPrH38DcHeXpWCd3nThBy9WI/b3m06o3fP0xUaTyq/g0PqEk3iG4qEATbXscODGxeoVOg0jBu219NqhRHWXKxo4jkNG+TBNF5Luj76KnPb8C`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از ما حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[**آموزش اتصال به کانفیگ **](https://t.me/Speeds_vpnhelp/41?single)
-***⚫***
-***🔺***
-[**آپدیت برنامه**](https://t.me/Speeds_vpnhelp/55?single)
-***⚫***
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-04-01 16:39:10 UTC
-> ↪️ **Forwarded**
-
-شاهزاده رضا پهلوی:
-من به عنوان صدای ملتی دربرابر شما ایستاده ام که صدایشان خاموش شده. ملتی که صدایشان برای 33 روزه خاموش شده
-پیامکی در کار نیست. ارتباطی در کار نیست. نمیتونن به خانواده هاشون خبری بدن
-صدای بیش از 90 میلیون نفری که خاموش شده
-این خاموشی تصادفی نیست. این صدای خاموشیه رژیمیه که میخواد انقلابی رو در تاریکی بکُشه
-شاهزاده رضا پهلوی خطاب به دانشجویان دانشگاه لیبرتی:
-در همین حال که شما آینده‌تان را برنامه‌ریزی می‌کنید، جوانان ایرانی به این فکر می‌کنند که چگونه یک روز دیگر دوام بیاورند.
-درحالی که شما عاشق می‌شوید، جوانان ایرانی عشق و آرزوهایشان ناممکن می‌شود.
-جوانان ایرانی برای قطره‌ای از آزادی و حق انسانی، صدها دانش‌آموز و دانشجوی ایرانی به خیابان آمدند و کشته شدند.
-***🖥***
- 
-[@begakhbr](https://t.me/begakhbr)
- | بگا خبر 
-***🟢***
 
 ---
 
