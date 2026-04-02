@@ -1,5 +1,5 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-04-02 13:25:08 UTC
+بروزرسانی: 2026-04-02 15:04:08 UTC
 
 ### 🕒 2026-04-01 15:16:49 UTC
 اگه پست آموزشی 
@@ -9,89 +9,6 @@
 با تشکر مدیریت کانال
 ***❤️***
 [@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-04-01 14:10:40 UTC
-علاوه برdns لوکال 
-`10.10.10.10`
-اینم با کانفیگای اسلیپ استریم متصل میشه  با نت ایرانسل متصله بقیه نتها هم تست کنید
-نشد ۳۰ ثانیه حالت هواپیما بذارید دوباره تست کنید
-
----
-
-### 🕒 2026-04-01 13:48:15 UTC
-[ShadowProxy66](https://t.me/ShadowProxy66)
- pinned «
-مشکل کانفیگهای اسلیپ پیدا کردن dns مناسب هس با این روش دیگ مشکل پیدا کردن dns رو نداریم  این آموزش روی کانفیگهای Slipstream انجام میشه  تا اخرین مرحله با دقت بخونید که مشکلی نداشته باشید 
-***👇***
-»
-
----
-
-### 🕒 2026-04-01 13:29:42 UTC
-روش فوق رو نت‌های مختلف تست شده و جواب داده پس بادقت بخونید و انجام بدید و کمی هم صبوری به خرج بدید
-موفق باشید 
-***❤️***
-***💯***
-تمام
-
----
-
-### 🕒 2026-04-01 13:25:51 UTC
-کانفیگهای ک وارد کردین ،  روی علامت مداد که کنار کانفیگ هست بزنید صفحه ای باز میشه، در اون صفحه یه کادری هست که تعدادی dns بصورت پیش فرض  جایگذاری شده ، در کنار اون کادر، یه دکمه به نام لوکال "local" هست
-کافیه یه بار روی اون بزنید تا لوکال دی ان اس خودتون بصورت اتوماتیک در کادر وارد بشه، پیشنهاد میکنم هنگام انجام این کار، هر وی پی انی دیگ دارید خاموش کنید سپس انجام بدید گزینه مورد نظر رو زدید از گوشه بالا ذخیره رو بزنید
-حالا بزنید متصل شه اگه سبز شد وارد تلگرام شید منتظر شید تلگرام بالا بیاد اگه نیومد قطع وصل کنید یه کم صبوری نشون بدید تا تل بالا بیاد اگه باز نیومد ۳۰ ثانیه حالت هواپیما بذارید و دوباره روی اتصال بزنید
-***📍***
-توجه داشته باشید این آموزش روی کانفیگهای Slipstream جواب میده
-
----
-
-### 🕒 2026-04-01 13:25:35 UTC
-تنظیمات SlipNet
-در صفحه اصلی روی چرخ دنده بالای صفحه بزنید و وارد تنظیمات بشید
-Auto connection on boot = OFF
-Proxy only mode = OFF
-Kill switch = OFF
-Auto reconnect = ON
-Sleep timer = OFF
-Battery optimization = 100% set and do it
-Dns resolver scanner = no need this parameter or option
-Listen address = localhost (
-[127.0.0.1](http://127.0.0.1/)
-)
-Listen port = 1080 [please set this number] 
-Http proxy = ON
-Http proxy port = 8989  [please set this number]
-Disable QUIC = ON
-VPN MTU = [see your local Dns MTU and set] [my MTU is 512 or 900] [this parameter should be true] 
-Bandwidth limit = nothing [no need to set anything] 
-Append http proxy to VPN = ON
-Global Dns resolver override = OFF
-Remote Dns server = choose "costum" 
-Set your local Dns into primary Dns server box
-Set "
-[8.8.4.4](http://8.8.4.4/)
-" into Fallback Dns server box
-*Attention* => this parameter should be set by your local Dns for success connect internet stayblity
-Dns worker = DEFAULT 
-Usually no need to change this parameter 
-Enable split tunneling = ON
-MODE = only selected app use VPN 
-Select app = your favorite :) 
-Enable Domain routing = OFF
-Enable Geo-bypass = ON
-Country = IRAN
-Chipher = AUTO
-Compression = ON
-Max channel = AUTO 
-somtime change this parameter  how traffic data on your ip or dns [minimize 4 maximum 50] 
-Pravent Dns Fallback = ON
-(اجباری نیس حالت vpn باشه میتونید حالت پروکسی هم استفاده کنید)
-[https://t.me/ShadowProxy66/14729](https://t.me/ShadowProxy66/14729)
-***👇***
-***👇***
-***👇***
 
 ---
 
