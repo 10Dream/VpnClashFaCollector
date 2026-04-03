@@ -1,5 +1,70 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-04-03 15:44:39 UTC
+بروزرسانی: 2026-04-03 16:46:43 UTC
+
+### 🕒 2026-04-03 16:42:19 UTC
+***🗂️***
+ پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS 
+***🔥***
+ نسخه v1.4.0  
+***⚡***
+ پشتیبانی کامل از VayDNS • دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz • حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS) • پروتکل KCP/smux با بازیابی خودکار…
+
+---
+
+### 🕒 2026-04-03 16:41:39 UTC
+> ↪️ **Forwarded**
+
+***🗂️***
+ پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS
+***🔥***
+ نسخه v1.4.0
+***⚡***
+ پشتیبانی کامل از VayDNS
+• دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz
+• حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS)
+• پروتکل KCP/smux با بازیابی خودکار اتصال
+• سازگار با SlipNet — کافیه نوع تانل رو DNSTT انتخاب کنید
+• دانلود و نصب خودکار باینری vaydns-server
+***📈***
+ دستور --monitor مانیتورینگ لحظه‌ای:
+• نمایش CPU، حافظه، پایداری هر تانل
+• تعداد اتصالات فعال SOCKS/SSH/DNS
+• لاگ‌های اخیر سرویس‌ها
+***🔍***
+ دستور --diag عیب‌یابی کامل:
+• بررسی باینری‌ها (dnstm, dnstt-server, noizdns, vaydns)
+• وضعیت سرویس‌ها با نمایش لاگ خطا
+• بررسی پورت ۵۳، فایروال، SSH، کلیدها
+• تشخیص تداخل systemd-resolved
+• هشدار MTU بالا برای تانل‌های DNSTT/NoizDNS/VayDNS
+• شمارش مشکلات با راهنمای رفع
+***🐛***
+ رفع باگ‌های مهم گزاش شده در گیتهاب
+***🔧***
+ بهبودها:
+• ۹ رکورد DNS (2 رکورد جدید برای VayDNS)
+• گزینه ۴ در --add-tunnel برای انتخاب VayDNS
+• تولید لینک SSH برای VayDNS در مدیریت کاربران
+• پاکسازی کامل VayDNS در --uninstall و --remove-tunnel
+***📥***
+ آپدیت:
+curl -fsSL -o 
+[dnstm-setup.sh](http://dnstm-setup.sh/)
+ 
+[https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh](https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh)
+sudo bash 
+[dnstm-setup.sh](http://dnstm-setup.sh/)
+***🔗***
+ 
+[https://github.com/SamNet-dev/dnstm-setup](https://github.com/SamNet-dev/dnstm-setup)
+
+---
+
+### 🕒 2026-04-03 16:19:05 UTC
+بچه‌ها برای شما هم سایت‌های ایرانی کژدار و مریض و بدحال بالا میان؟
+یا فقط اینترنت‌های من این ریختیه
+
+---
 
 ### 🕒 2026-04-03 15:11:07 UTC
 > ↪️ **Forwarded**
