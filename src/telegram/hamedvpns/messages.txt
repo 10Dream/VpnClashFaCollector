@@ -1,5 +1,48 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-04-03 09:07:50 UTC
+بروزرسانی: 2026-04-03 10:08:02 UTC
+
+### 🕒 2026-04-03 09:31:18 UTC
+روش ترکیب ترموکس و vaydns 
+***🔥***
+Termux + Vaydns 
+***✔️***
+اول از همه این نسخه از ترموکس رو دانلود کن
+[https://guardnet.ir/?view=1775139535_bf00c4b7.apk](https://guardnet.ir/?view=1775139535_bf00c4b7.apk)
+‌
+بعدش کلاینت vaydns هم که به صورت zip آپلود کردم رو دانلود کن
+[https://guardnet.ir/?view=1775144428_af11cb14.zip](https://guardnet.ir/?view=1775144428_af11cb14.zip)
+‌
+بعد اینکه دانلود کردی میری تو فایل ها پوشه Download و از زیپ درش میاری
+‌
+***✅***
+ بعدش میری تو ترموکس دستورات زیر رو میزنی :
+‌
+برای دادن دسترسی حافظه به ترموکس :‌
+`termux-setup-storage`
+انتقال فایل به محیط Termux :
+`cp /storage/emulated/0/Download/af11cb14/vaydns/vaydns-client-linux-arm64 ~/ && touch -t 202401010000 ~/vaydns-client-linux-arm64`
+( تا اینجای آموزش رو یه عزیز دیگه نوشته اما بقیه ی دستوراتش مشکل داشت و باعث ارور میشد ) 
+حالا به فایل دسترسی اجرایی میدیم : 
+`chmod +x vaydns-client-linux-arm64`
+بعد از اون هم اجراش میکنیم 
+`./vaydns-client-linux-arm64 \  --domain t.iampedi8.live \  --listen 127.0.0.1:7001 \  --pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e \  --udp 2.188.21.190:53 \  --record-type cname`
+وقتی اجرا شد ، توی تلگرام به این پروکسی وصل میشید 
+***👇***
+***👇***
+***👇***
+[https://t.me/socks?server=127.0.0.1&port=7001](https://t.me/socks?server=127.0.0.1&port=7001)
+و تمام .
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-04-03 09:06:23 UTC
 Am tunnel Lite - Pro 
