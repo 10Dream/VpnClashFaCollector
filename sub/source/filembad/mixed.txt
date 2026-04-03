@@ -16,6 +16,7 @@ trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&h
 trojan://jkkpYrXuj8@ir1.iobase.ir:443?type=tcp&security=tls#%40filembad`
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@144.31.5.132:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%40filembad`
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%40filembad`
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.219.80:2083?path=%2Ftrojan-ws&security=tls&insecure=1&host=xo.e0f.cx&type=ws&allowInsecure=1&sni=xo.e0f.cx#%40filembad`
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%40filembad`
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%40filembad`
 trojan://telegram-id-directvpn@13.38.154.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
@@ -33,8 +34,8 @@ trojan://telegram-id-privatevpns@15.188.250.243:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@18.193.170.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
 trojan://telegram-id-privatevpns@63.183.109.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad
 trojan://telegram-id-privatevpns@63.183.109.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
-trojan://telegram-id-privatevpns@63.183.56.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
 vless://00000000-0000-4000-8000-000000000000@176.124.203.183:8082?path=/XIXVPN?ed=2560&security=tls&encryption=none&insecure=1&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&allowInsecure=1&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me#%40filembad`
+vless://00c2d153-ab37-4725-a465-7e1960aecef9@185.143.234.235:80?security=none&encryption=none&host=vix.idcenter.top&type=ws#%40filembad`
 vless://00c2d153-ab37-4725-a465-7e1960aecef9@185.143.234.235:80?type=ws&host=vix.idcenter.top#%40filembad`
 vless://00e444c0-a123-4290-8d6b-40ea7f47ccb5@snapp.ir:8080?path=%2F&security=none&encryption=none&host=arv.liarashop.ir&type=ws#%40filembad`
 vless://02876ce1-b52a-4ac9-912c-ed45fc0f0681@im2.newdesigne.ir:80?encryption=none&host=&path=%2F&security=none&type=ws#%40filembad`
@@ -169,6 +170,7 @@ vless://89354e3c-5037-4ee1-a88e-201fa0501bc6@home.netabin.ir:8443?security=none&
 vless://92cc0357-4337-4c2a-a384-47a0e6a5d238@185.143.233.235:80?path=%2F&security=none&encryption=none&host=vix.idcenter.top&type=ws#%40filembad`
 vless://93bf33f5-4b1b-4986-adb5-29849714c1b1@s2.yektataravat.ir:10432?type=tcp&encryption=none&security=none#%40filembad`
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@162.159.36.20:443?path=%2Ftixvuws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#%40filembad`
+vless://95e3615d-d9b9-4daa-9f40-501413e39a6c@mlh.mynethub99.top:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mlh.mynethub99.top#%40filembad`
 vless://969e84c8-cf86-44d5-a961-ae960324100d@video.ir.temas-lomat.ir:80?security=none&encryption=none&headerType=none&type=tcp#%40filembad`
 vless://969e84c8-cf86-44d5-a961-ae960324100d@video.ir.temas-lomat.ir:80?type=tcp&encryption=none&security=none#%40filembad`
 vless://9901524b-525b-45f9-8f31-cd5f0df0c468@new.idbedam.com:1000?mode=multi&security=&encryption=none&type=grpc#%40filembad`
@@ -218,15 +220,11 @@ vless://cde730ef-5d37-42dc-b59b-0c9b918d79b9@snapp.ir:80?type=ws&encryption=none
 vless://d1008bd8-3801-4c76-9d4b-6f6ec5d43c00@185.143.234.235:80?type=ws&host=vix.idcenter.top#%40filembad`
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.152:10121?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#%40filembad`
 vless://d29cf368-c2d3-4d72-bbc0-cb4588039226@185.143.234.122:80?encryption=none&security=none&type=ws&host=dl.koremusic.ir&path=%2F#%40filembad`
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.5:2083?path=%2F&security=tls&encryption=none&host=newwk1.f1w.de5.net&type=ws&sni=newwk1.f1w.de5.net#%40filembad`
 vless://d3c170c2-6cb3-426b-9a41-ff3e48d07179@23.137.249.110:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=23.137.249.110&fp=chrome&type=ws&sni=23.137.249.110#%40filembad`
 vless://d3c170c2-6cb3-426b-9a41-ff3e48d07179@23.137.249.110:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=23.137.249.110&fp=chrome&type=ws&allowInsecure=0&sni=23.137.249.110#%40filembad`
 vless://d434fb62-e435-4a3a-b831-72ce03e4f04b@185.143.234.200:80?path=%2F&security=none&encryption=none&host=shop2.plusself.ir&type=ws#%40filembad`
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%40filembad`
-vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%40filembad`
 vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security=none&encryption=none&headerType=none&type=tcp#%40filembad`
 vless://d79d6c22-f1a1-41c3-8aae-1e69e758c6b5@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%40filembad`
-vless://d925cd1a-cf27-4a11-8880-e633b152af09@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%40filembad`
 vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=&fp=chrome&type=tcp&sni=cp.dsdivar.ir#%40filembad`
 vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cp.dsdivar.ir#%40filembad`
 vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=cp.dsdivar.ir#%40filembad`
@@ -234,14 +232,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#%40filembad`
 vless://df415006-bb08-4319-82b7-1bc531b7bfd4@po.tehranionliine.ir:80?type=ws&security=none&path=/&host=#%40filembad`
 vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#%40filembad`
-vless://e25a811c-712c-4641-b64d-8ab6b4f54582@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%40filembad`
 vless://e338e7bc-c252-4bce-bf72-b7a5854c5172@185.143.234.235:80?type=ws&host=vix.idcenter.top#%40filembad`
 vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?encryption=none&type=tcp&headerType=http&security=none#%40filembad`
 vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?security=&encryption=none&headerType=http&type=tcp#%40filembad`
 vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?security=none&encryption=none&headerType=http&type=tcp#%40filembad`
 vless://e3982463-8047-416f-8b0c-c8a08f3a006b@194.33.105.177:6061?security=none&encryption=none&headerType=none&type=tcp#%40filembad`
 vless://e4b5ae50-0b7b-4875-8706-b06dbc56e335@rfiksma.top:13232?security=none&encryption=none&headerType=none&type=tcp#%40filembad`
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%40filembad`
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%40filembad`
 vless://e7069d96-1583-43f4-bac9-f503e4404550@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.realirshop.com#%40filembad`
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@2.144.4.185:80?path=%2Fapi%2Fv1%2Firc&security=tls&encryption=none&alpn=h2&host=vod.ensf.top&type=ws&sni=vod.ensf.top#%40filembad`
