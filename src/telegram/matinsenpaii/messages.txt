@@ -1,5 +1,5 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-04-04 15:39:37 UTC
+بروزرسانی: 2026-04-04 16:42:59 UTC
 
 ### 🕒 2026-04-04 15:37:58 UTC
 ***⚡️***
@@ -139,7 +139,24 @@ slipnet://MTZ8ZG5zdHR8di5pcmFubW90b3IuYml6fHYuaXJhbm1vdG9yLmJpenw4LjguOC44OjUzOj
 [79.143.84.18](http://79.143.84.18/)
 , 
 [188.75.80.176](http://188.75.80.176/)
+,
+[2.188.21.200:53](http://2.188.21.200:53/)
+,
+[2.188.21.90:53](http://2.188.21.90:53/)
+,
+[2.188.21.190:53](http://2.188.21.190:53/)
+,
+[2.188.21.100:53](http://2.188.21.100:53/)
+,
+[2.188.21.120:53](http://2.188.21.120:53/)
+,
+[2.188.21.240:53](http://2.188.21.240:53/)
 اینها دی ان اس هایی هستن که به خودم 6/6 داده بودن روی همراه و شاتل پس حتما گزینه Test nearby IPs رو هم بزنید تا اسکن کامل تر روی اون Range انجام بشه. و بعدش هم E2E
+***📌***
+از اینجا هم میتونید با پروژه سم عزیز، روی سرور و دامنه شخصی خودتون VayDns رو بالا بیارید:
+[https://t.me/MatinSenPaii/2502](https://t.me/MatinSenPaii/2502)
+ 
+کسی اگر باز نکته‌ی مفیدی داره برای اسکن و اتصال این زیر بگه
 
 ---
 
@@ -163,71 +180,6 @@ Vaydns رو ستاپ کنید روی سرورتون و منتظر آپدیت Sli
 ### 🕒 2026-04-03 19:18:09 UTC
 رفقا اگر کسی سرور ایرانسل داره، به دوستم پیام بفرسته:
 [@MaybeMrPatrick](https://t.me/MaybeMrPatrick)
-
----
-
-### 🕒 2026-04-03 16:42:19 UTC
-***🗂️***
- پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS 
-***🔥***
- نسخه v1.4.0  
-***⚡***
- پشتیبانی کامل از VayDNS • دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz • حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS) • پروتکل KCP/smux با بازیابی خودکار…
-
----
-
-### 🕒 2026-04-03 16:41:39 UTC
-> ↪️ **Forwarded**
-
-***🗂️***
- پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS
-***🔥***
- نسخه v1.4.0
-***⚡***
- پشتیبانی کامل از VayDNS
-• دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz
-• حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS)
-• پروتکل KCP/smux با بازیابی خودکار اتصال
-• سازگار با SlipNet — کافیه نوع تانل رو DNSTT انتخاب کنید
-• دانلود و نصب خودکار باینری vaydns-server
-***📈***
- دستور --monitor مانیتورینگ لحظه‌ای:
-• نمایش CPU، حافظه، پایداری هر تانل
-• تعداد اتصالات فعال SOCKS/SSH/DNS
-• لاگ‌های اخیر سرویس‌ها
-***🔍***
- دستور --diag عیب‌یابی کامل:
-• بررسی باینری‌ها (dnstm, dnstt-server, noizdns, vaydns)
-• وضعیت سرویس‌ها با نمایش لاگ خطا
-• بررسی پورت ۵۳، فایروال، SSH، کلیدها
-• تشخیص تداخل systemd-resolved
-• هشدار MTU بالا برای تانل‌های DNSTT/NoizDNS/VayDNS
-• شمارش مشکلات با راهنمای رفع
-***🐛***
- رفع باگ‌های مهم گزاش شده در گیتهاب
-***🔧***
- بهبودها:
-• ۹ رکورد DNS (2 رکورد جدید برای VayDNS)
-• گزینه ۴ در --add-tunnel برای انتخاب VayDNS
-• تولید لینک SSH برای VayDNS در مدیریت کاربران
-• پاکسازی کامل VayDNS در --uninstall و --remove-tunnel
-***📥***
- آپدیت:
-curl -fsSL -o 
-[dnstm-setup.sh](http://dnstm-setup.sh/)
- 
-[https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh](https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh)
-sudo bash 
-[dnstm-setup.sh](http://dnstm-setup.sh/)
-***🔗***
- 
-[https://github.com/SamNet-dev/dnstm-setup](https://github.com/SamNet-dev/dnstm-setup)
-
----
-
-### 🕒 2026-04-03 16:19:05 UTC
-بچه‌ها برای شما هم سایت‌های ایرانی کژدار و مریض و بدحال بالا میان؟
-یا فقط اینترنت‌های من این ریختیه
 
 ---
 
