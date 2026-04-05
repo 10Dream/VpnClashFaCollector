@@ -1,5 +1,28 @@
 # آرشیو کانال: @configx2ray
-بروزرسانی: 2026-04-05 20:39:35 UTC
+بروزرسانی: 2026-04-05 21:39:58 UTC
+
+### 🕒 2026-04-05 21:36:27 UTC
+`{"remarks":" https://t.me/ConfigX2ray (145)","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"185.238.140.212","port":443,"users":[{"id":"6fb4c229-6f9a-449a-a533-9f2a8040c71c","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"www.microsoft.com","fingerprint":"chrome","show":false,"publicKey":"gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE","shortId":"6ba85179e30d4fc2"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+**بزنید روش کپی بشه بعدش مثل سرور های v2ray یا v2box وارد برنامه منید و با سایفون ترکیب بزنید عالیه **
+**❤️**
+آموزش استفادع : 
+***👇***
+[https://t.me/V2rayngHiddify1/1665](https://t.me/V2rayngHiddify1/1665)
+Channel :  
+[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
+
+---
+
+### 🕒 2026-04-05 21:25:03 UTC
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید   فقط رایگان هارو بفرستید دمتون گرم  دایرکت چنل :  http://t.me/ConfigX2ray?direct
+
+---
+
+### 🕒 2026-04-05 21:25:03 UTC
+**هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : **
+[http://t.me/ConfigX2ray?direct](http://t.me/ConfigX2ray?direct)
+
+---
 
 ### 🕒 2026-04-05 20:24:06 UTC
 **یکم زمان بدید بهشون تا وصل بشن پخش کردنشونم که یادتون نره بفرستید تا بقیه هم استفاده کنن**
@@ -390,60 +413,6 @@ Channel :
 رمز فایل : 
 `@ConfigX2ray`
  Channel :  
-[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-04 21:22:41 UTC
-***⚡️***
-**آموزش ترکیب V2rayNG + Psiphon**
-**آموزش به صورت کلیپ **
-***👇***
-[https://t.me/V2rayngHiddify1/1664](https://t.me/V2rayngHiddify1/1664)
-**آموزش به صورت متن**
- 
-***👇***
-[https://t.me/V2rayngHiddify1/1665](https://t.me/V2rayngHiddify1/1665)
-
----
-
-### 🕒 2026-04-04 21:10:40 UTC
-[https://t.me/socks?server=45.81.16.158&port=10808&user=&pass=](https://t.me/socks?server=45.81.16.158&port=10808&user=&pass=)
-[https://t.me/socks?server=45.81.16.158&port=10808](https://t.me/ConfigX2ray/36044)
-[https://t.me/socks?server=45.81.16.158&port=10808](https://t.me/socks?server=45.81.16.158&port=10808)
-حداقل یکی دو دقیقه زمان بدید تا متصل بشه تست شده هر سه 
-***❤️***
-Channel :  
-[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-04 21:08:12 UTC
-`vless://52057620-80b4-4727-a677-ca7f87359c64@185.173.107.159:443?security=&encryption=none&headerType=&type=tcp#https://t.me/ConfigX2ray `
-با سایفون ترکیب بزنید 
-***❤️***
-Channel :  
-[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-04 20:53:33 UTC
-کانفیگ برای Npv tunnel 
-***⭕️***
-به هیچ وج دانلود نزنید باهاش
-***❤️***
-رمز فایل : 
-`@ConfigX2ray`
- Channel :  
-[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-04 20:48:55 UTC
-`vless://273da639-e098-47bf-970a-85dc764b8026@1.2.godjustme.shop:4023?security=&encryption=none&headerType=http&type=tcp#https://t.me/ConfigX2ray`
-ترکیبی با سایفون 
-***❤️***
-Channel :  
 [https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
 
 ---
