@@ -1,5 +1,19 @@
 # آرشیو کانال: @netaccount
-بروزرسانی: 2026-04-06 07:57:23 UTC
+بروزرسانی: 2026-04-06 09:22:38 UTC
+
+### 🕒 2026-04-06 08:53:17 UTC
+`vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=6ba85179e30d4fc2#NetAccount`
+Psiphon+v2ray
+[آموزش متصل شدن ترکیبی وی تو ری با سایفون](https://t.me/NetAccount/16014?single)
+
+---
+
+### 🕒 2026-04-06 08:20:30 UTC
+`{"remarks":"***⚡️***@UnNurmal","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"185.238.140.212","port":443,"users":[{"id":"6fb4c229-6f9a-449a-a533-9f2a8040c71c","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"www.microsoft.com","fingerprint":"chrome","show":false,"publicKey":"gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE","shortId":"6ba85179e30d4fc2"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+Psiphon+v2ray
+[آموزش اتصال ترکیبی وی تو ری با سایفون](https://t.me/NetAccount/16014?single)
+
+---
 
 ### 🕒 2026-04-06 07:56:23 UTC
 دی ان اس AM Tunnel 
@@ -189,14 +203,6 @@ V2ray+Psiphon
 
 ### 🕒 2026-04-05 09:33:18 UTC
 `vless://00cdfff8-6009-48f1-a37f-dac6eb729f66@ir.notrinoo.click:44398?type=tcp&encryption=none&security=none#NetAccount`
-
----
-
-### 🕒 2026-04-05 09:21:46 UTC
-نیویورک تایمز در گزارش‌ خود نوشته است که CIA از مخالفین رژیم ایران (مردم بومی) نیز برای نجات خلبان استفاده کرده است!
-چند نکته برای این عملیات نجات:
-جنگنده F-15E در نقطه‌ای استان کهگیلویه و بویراحمد سقوط کرده و خلبانان در استان بودند. خلبان و افسر آتش توسط نیروی هوایی آمریکا در نزدیکی دهدشت نجات یافته است! افسر تسلیحات ابتدا در کوه سیاه در استان کهگیلویه و بویراحمد شناسایی شد. هواپیما‌های آمریکایی اعلام کردند در منطقه‌ای باز در جنوب اصفهان فرود آمدند. فاصله بین کوه سیاه و جنوب اصفهان در خط مستقیم دستکم 231 کیلومتر است (اگر فرض کنیم او با هلیکوپتر از تیم نجات خلبان به آنجا رفته باشد)، در حالی که فاصله جاده‌ای 428 کیلومتر است.این بدان معناست که واقعاً دور از ذهن نیست که CIA از حمایت شهروندان کشورمان حداقل تا زمانی که هواپیما‌ها به محل حضور افسر اتش برسند برخوردار بوده است.
-P_raetorio
 
 ---
 
