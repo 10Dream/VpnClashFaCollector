@@ -1,11 +1,24 @@
 # آرشیو کانال: @configx2ray
-بروزرسانی: 2026-04-06 20:45:15 UTC
+بروزرسانی: 2026-04-06 21:45:29 UTC
 
-### 🕒 2026-04-06 20:37:35 UTC
-**اگه کانفیگ برای ترکیب با سایفون دارید که الان وصله رو دایرکت چنل بدید تا متود برداری کنم چندتا از روش بسازم بزارم چنل استفاده کنید **
-**❤️**
-**دایرکت چنل: **
+### 🕒 2026-04-06 21:29:27 UTC
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید   فقط رایگان هارو بفرستید دمتون گرم  دایرکت چنل :  http://t.me/ConfigX2ray?direct
+
+---
+
+### 🕒 2026-04-06 21:29:27 UTC
+**هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : **
 [http://t.me/ConfigX2ray?direct](http://t.me/ConfigX2ray?direct)
+
+---
+
+### 🕒 2026-04-06 20:49:53 UTC
+`vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=%2F&security=&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade# https://t.me/ConfigX2rayvless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=6ba85179e30d4fc2# https://t.me/ConfigX2rayvless://7dfb08b3-420d-4aaa-b7e4-5d85068eb774@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws# https://t.me/ConfigX2rayvless://dbffbd74-59db-46a3-942c-e8f543e36914@188.121.125.121:2000?security=&encryption=none&headerType=none&type=tcp# https://t.me/ConfigX2ray`
+**ترکیب با سایفون بزنید ❤️آموزش استفادع : **
+***👇***
+[https://t.me/V2rayngHiddify1/1665](https://t.me/V2rayngHiddify1/1665)
+Channel :  
+[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
 
 ---
 
@@ -599,29 +612,6 @@ Channel :
 [https://t.me/V2rayngHiddify1/1665](https://t.me/V2rayngHiddify1/1665)
 Channel :  
 [https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-05 21:36:27 UTC
-`{"remarks":" https://t.me/ConfigX2ray (145)","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"185.238.140.212","port":443,"users":[{"id":"6fb4c229-6f9a-449a-a533-9f2a8040c71c","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"www.microsoft.com","fingerprint":"chrome","show":false,"publicKey":"gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE","shortId":"6ba85179e30d4fc2"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
-**بزنید روش کپی بشه بعدش مثل سرور های v2ray یا v2box وارد برنامه کنید و با سایفون ترکیب بزنید عالیه **
-**❤️**
-آموزش استفادع : 
-***👇***
-[https://t.me/V2rayngHiddify1/1665](https://t.me/V2rayngHiddify1/1665)
-Channel :  
-[https://t.me/ConfigX2ray](https://t.me/ConfigX2ray)
-
----
-
-### 🕒 2026-04-05 21:25:03 UTC
-هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید   فقط رایگان هارو بفرستید دمتون گرم  دایرکت چنل :  http://t.me/ConfigX2ray?direct
-
----
-
-### 🕒 2026-04-05 21:25:03 UTC
-**هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : **
-[http://t.me/ConfigX2ray?direct](http://t.me/ConfigX2ray?direct)
 
 ---
 
