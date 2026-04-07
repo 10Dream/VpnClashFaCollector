@@ -1,36 +1,29 @@
 # آرشیو کانال: @WebPackClub
-بروزرسانی: 2026-04-06 13:17:44 UTC
+بروزرسانی: 2026-04-07 15:13:54 UTC
 
-### 🕒 2026-04-05 13:33:12 UTC
-پنج پروتکل ارتباطی مختلف - کانفیگ رایگان ۶ اپریل
-   [dnstt] iranux
-slipnet://MjB8ZG5zdHRfc3NofGRuc3R0fHQuenBhY2suc2hvcHw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDQxMzkwNjg4MmVlNmQ5YzY5Mzg1Zjc5NWRlYzMxN2QzM2E0YzQ4MmJiY2RhYmE1MGRmNTM2ZDQxODQ3OTJhMzZ8aXJhbnV4fGlyYW51eHwxfGlyYW51eHxpcmFudXh8MjJ8MHw5Mi4xMTMuMTUwLjIxMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwfDB8MHwwfDB8MA==
-    [noizdns] iranux
- slipnet://MjB8c2F5ZWRuc19zc2h8bm9pemRuc3x0LnpwYWNrLnNob3B8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw0MTM5MDY4ODJlZTZkOWM2OTM4NWY3OTVkZWMzMTdkMzNhNGM0ODJiYmNkYWJhNTBkZjUzNmQ0MTg0NzkyYTM2fGlyYW51eHxpcmFudXh8MXxpcmFudXh8aXJhbnV4fDIyfDB8OTIuMTEzLjE1MC4yMTF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MHwwfDB8MHwwfDA=
-    [slipstream] iranux
-    slipnet://MjB8c2xpcHN0cmVhbV9zc2h8c2xpcHN0cmVhbXxzLnpwYWNrLnNob3B8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8aXJhbnV4fGlyYW51eHwxfGlyYW51eHxpcmFudXh8MjJ8MHw5Mi4xMTMuMTUwLjIxMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwfDB8MHwwfDB8MA==
-    [vaydns] iranux
-    slipnet://MjB8dmF5ZG5zX3NzaHx2YXlkbnN8di56cGFjay5zaG9wfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NDc2YzUzY2NiMGY5NjQ1ZmY0OWZjNGQ0OGEzZjk3M2E0YTA5Y2JjMjM0NDU0ZTZjODQyZTVkMDc5MjU1MzAxNnxpcmFudXh8aXJhbnV4fDF8aXJhbnV4fGlyYW51eHwyMnwwfDkyLjExMy4xNTAuMjExfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHxuc3wxMDF8MHwwfDB8MHwwfDI=
-    [naive] iranux
-    slipnet://MjB8bmFpdmVfc3NofG5haXZlfHpwYWNrLnNob3B8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8aXJhbnV4fGlyYW51eHwxfGlyYW51eHxpcmFudXh8MjJ8MHw5Mi4xMTMuMTUwLjIxMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8aXJhbnV4fGFYSmhiblY0fDB8fDB8MHx8MHx8MHwwfDEwODB8MHx0eHR8MTAxfDB8MHwwfDB8MHww
-
----
-
-### 🕒 2026-04-05 13:23:51 UTC
-نسخه های جدید SlipNet Beta
-
----
-
-### 🕒 2026-04-05 13:22:20 UTC
-**تفاوت نسخه‌ها: کامل (Full) در برابر سبک (Lite)**
-- نسخه کامل (Full): این نسخه شامل تمامی انواع تونل‌های ارتباطی از جمله DNSTT، NoizDNS، VayDNS، Snowflake و NaiveProxy (که با Tor ادغام شده است) می‌شود. اگر به تمام قابلیت‌ها و پروتکل‌های پیشرفته نیاز دارید، این نسخه مناسب شماست.
-- نسخه سبک (Lite): این نسخه فقط شامل تونل‌های پایه یعنی DNSTT، NoizDNS و VayDNS است. به دلیل حذف Tor، Snowflake و NaiveProxy، حجم دانلود بسیار کمتری دارد و برای کسانی که فقط به امکانات اصلی نیاز دارند یا فضای خالی کمتری در گوشی خود دارند، ایده‌آل است.
-**کدام فایل APK را باید دانلود کنیم؟**
-برای نصب برنامه، نسخه‌های مختلفی بر اساس معماری پردازنده (CPU) دستگاه‌ها ارائه شده است:
-- یونیورسال (universal): این نسخه روی تمامی دستگاه‌ها به درستی کار می‌کند. اما از آنجایی که فایل‌های مربوط به تمام معماری‌ها را در خود جای داده است، حجم دانلود آن از بقیه نسخه‌ها بسیار بیشتر است.
-- نسخه arm64-v8a: این نسخه مخصوص اکثر گوشی‌های هوشمند مدرن و جدید (تولید سال ۲۰۱۶ به بعد) است. حجم دانلود آن کمتر از نسخه یونیورسال است. نکته: اگر مطمئن نیستید گوشی شما چه مدلی است، به احتمال بسیار زیاد همین نسخه برای شما مناسب است.
-- نسخه armeabi-v7a: این نسخه برای گوشی‌ها و دستگاه‌های قدیمی‌تر که دارای پردازنده‌های ۳۲ بیتی ARM هستند، طراحی شده است.
-- نسخه x86_64: این فایل منحصراً برای نصب روی شبیه‌سازهای اندروید (مانند بلواستکس در کامپیوتر) و لپ‌تاپ‌های کروم‌بوک (Chromebooks) کاربرد دارد.
+### 🕒 2026-04-07 14:00:50 UTC
+ده پروتکل ارتباطی متفاوت بر پایه ‌DNS  - کانفیگ رایگان ۷ اپریل
+   [dnstt-socks] iranux
+slipnet://MjB8ZG5zdHR8ZG5zdHQtc29ja3N8dC53ZWJwYWNrLnNic3w4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDA3MDUzZTE0NjBiNTYzOTI5Y2M4NTA1OTc1MzI1NTYwMGY2MTRjNDBjNWRhOWE3ZGQ5YWJkYzc3YjFhZTkzMjF8aXJhbnV4fGlyYW51eHwwfHx8MjJ8MHwxOTMuMTgwLjIxMi40NHwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwfDB8MHwwfDB8MA==
+    [noizdns-socks] iranux
+slipnet://MjB8c2F5ZWRuc3xub2l6ZG5zLXNvY2tzfHQud2VicGFjay5zYnN8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwwNzA1M2UxNDYwYjU2MzkyOWNjODUwNTk3NTMyNTU2MDBmNjE0YzQwYzVkYTlhN2RkOWFiZGM3N2IxYWU5MzIxfGlyYW51eHxpcmFudXh8MHx8fDIyfDB8MTkzLjE4MC4yMTIuNDR8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MHwwfDB8MHwwfDA=
+    [dnstt-ssh] iranux
+slipnet://MjB8ZG5zdHRfc3NofGRuc3R0LXNzaHx0cy53ZWJwYWNrLnNic3w4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDA3MDUzZTE0NjBiNTYzOTI5Y2M4NTA1OTc1MzI1NTYwMGY2MTRjNDBjNWRhOWE3ZGQ5YWJkYzc3YjFhZTkzMjF8aXJhbnV4fGlyYW51eHwxfGlyYW51eHxpcmFudXh8MjJ8MHwxOTMuMTgwLjIxMi40NHwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwfDB8MHwwfDB8MA==
+    [noizdns-ssh] iranux
+slipnet://MjB8c2F5ZWRuc19zc2h8bm9pemRucy1zc2h8dHMud2VicGFjay5zYnN8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwwNzA1M2UxNDYwYjU2MzkyOWNjODUwNTk3NTMyNTU2MDBmNjE0YzQwYzVkYTlhN2RkOWFiZGM3N2IxYWU5MzIxfGlyYW51eHxpcmFudXh8MXxpcmFudXh8aXJhbnV4fDIyfDB8MTkzLjE4MC4yMTIuNDR8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MHwwfDB8MHwwfDA=
+    [slipstream-socks] iranux
+slipnet://MjB8c3N8c2xpcHN0cmVhbS1zb2Nrc3xzLndlYnBhY2suc2JzfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8fGlyYW51eHxpcmFudXh8MHx8fDIyfDB8MTkzLjE4MC4yMTIuNDR8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MHwwfDB8MHwwfDA=
+    [slipstream-ssh] iranux
+slipnet://MjB8c2xpcHN0cmVhbV9zc2h8c2xpcHN0cmVhbS1zc2h8c3Mud2VicGFjay5zYnN8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8aXJhbnV4fGlyYW51eHwxfGlyYW51eHxpcmFudXh8MjJ8MHwxOTMuMTgwLjIxMi40NHwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwfDB8MHwwfDB8MA==
+    [vaydns-socks] iranux
+slipnet://MjB8dmF5ZG5zfHZheWRucy1zb2Nrc3x2LndlYnBhY2suc2JzfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8ZTI1M2FlYzBjNjlkY2M0NTgyODg2NDAyYzFlYWRiZGU0ZWQ4YjM4YTUwYjMxODZlMjBhZWQ0MTg2Yzc0NTMyMnxpcmFudXh8aXJhbnV4fDB8fHwyMnwwfDE5My4xODAuMjEyLjQ0fDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHxuc3wxMDF8MHwwfDB8MHwwfDI=
+    [vaydns-ssh] iranux
+slipnet://MjB8dmF5ZG5zX3NzaHx2YXlkbnMtc3NofHZzLndlYnBhY2suc2JzfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8ZTI1M2FlYzBjNjlkY2M0NTgyODg2NDAyYzFlYWRiZGU0ZWQ4YjM4YTUwYjMxODZlMjBhZWQ0MTg2Yzc0NTMyMnxpcmFudXh8aXJhbnV4fDF8aXJhbnV4fGlyYW51eHwyMnwwfDE5My4xODAuMjEyLjQ0fDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHxuc3wxMDF8MHwwfDB8MHwwfDI=
+    [naive-socks] iranux
+slipnet://MjB8bmFpdmV8bmFpdmUtc29ja3N8d2VicGFjay5zYnN8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8aXJhbnV4fGlyYW51eHwwfHx8MjJ8MHwxOTMuMTgwLjIxMi40NHwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8aXJhbnV4fGFYSmhiblY0fDB8fDB8MHx8MHx8MHwwfDEwODB8MHx0eHR8MTAxfDB8MHwwfDB8MHww
+    [naive-ssh] iranux
+slipnet://MjB8bmFpdmVfc3NofG5haXZlLXNzaHx3ZWJwYWNrLnNic3w4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHxpcmFudXh8aXJhbnV4fDF8aXJhbnV4fGlyYW51eHwyMnwwfDE5My4xODAuMjEyLjQ0fDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3xpcmFudXh8YVhKaGJuVjR8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MHwwfDB8MHwwfDA=
+  ══════════════════════════════════════════════════════
 
 ---
 
