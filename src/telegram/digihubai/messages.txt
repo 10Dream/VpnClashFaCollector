@@ -1,5 +1,138 @@
 # آرشیو کانال: @digihubai
-بروزرسانی: 2026-04-13 16:20:45 UTC
+بروزرسانی: 2026-04-13 18:09:12 UTC
+
+### 🕒 2026-04-13 18:05:57 UTC
+اون اسپوفی که شنیدید و ازش میترسید IP Spoofing هست که ارتباطی به این روش نداره. مشکل امنیتی نداره استفاده کنید.
+
+---
+
+### 🕒 2026-04-13 17:51:56 UTC
+SNI-Spoofing_by_patterniha_v1.rar
+
+---
+
+### 🕒 2026-04-13 17:48:42 UTC
+***🔹***
+آموزش ویدیویی :  {   "LISTEN_HOST": "127.0.0.1",   "LISTEN_PORT": 40443,   "CONNECT_IP": "104.16.80.73",   "CONNECT_PORT": 443,   "FAKE_SNI": "static.cloudflareinsights.com" }  
+***🔹***
+کانفیگ کلودفلر سالم(اگر خودتون ندارید) : https://t.me/DigiHubAI/44397   
+***🔸***
+از این…
+
+---
+
+### 🕒 2026-04-13 17:46:58 UTC
+***🔹***
+**آموزش ویدیویی :**
+{
+  "LISTEN_HOST": "127.0.0.1",
+  "LISTEN_PORT": 40443,
+  "CONNECT_IP": "104.16.80.73",
+  "CONNECT_PORT": 443,
+  "FAKE_SNI": "static.cloudflareinsights.com"
+}
+***🔹***
+**کانفیگ کلودفلر سالم(اگر خودتون ندارید) :**
+[https://t.me/DigiHubAI/44397](https://t.me/DigiHubAI/44397)
+**🔸از این دامین‌ها هم میتونید پینگ بگیرید، هر کدوم اوکی بود، آیپیش رو تو فایل کانفیگ بذارید :**
+[static.cloudflareinsights.com](http://static.cloudflareinsights.com/)
+رو ایپی 
+[104.16.80.73](http://104.16.80.73/)
+**
+[security.vercel.com](http://security.vercel.com/)
+رو ایپی 
+[104.18.4.130](http://104.18.4.130/)
+**
+[e7.c.lencr.org](http://e7.c.lencr.org/)
+[e8.c.lencr.org](http://e8.c.lencr.org/)
+[e9.c.lencr.org](http://e9.c.lencr.org/)
+[r10.c.lencr.org](http://r10.c.lencr.org/)
+[r11.c.lencr.org](http://r11.c.lencr.org/)
+[r13.c.lencr.org](http://r13.c.lencr.org/)
+[stg-e5.c.lencr.org](http://stg-e5.c.lencr.org/)
+[stg-e7.c.lencr.org](http://stg-e7.c.lencr.org/)
+[stg-e8.c.lencr.org](http://stg-e8.c.lencr.org/)
+[stg-ye1.c.lencr.org](http://stg-ye1.c.lencr.org/)
+[stg-r11.c.lencr.org](http://stg-r11.c.lencr.org/)
+[stg-ye2.c.lencr.org](http://stg-ye2.c.lencr.org/)
+[stg-yr2.c.lencr.org](http://stg-yr2.c.lencr.org/)
+[yr1.c.lencr.org](http://yr1.c.lencr.org/)
+[ye2.c.lencr.org](http://ye2.c.lencr.org/)
+رو ایپی 
+[104.18.20.213](http://104.18.20.213/)
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
+
+### 🕒 2026-04-13 17:06:39 UTC
+***📌***
+**یک سری از سایت‌هایی که رفته تو وایت‌لیست :**
+● 
+[sciencedirect.com](http://sciencedirect.com/)
+ 
+● 
+[pubmed.ncbi.nlm.nih.gov](http://pubmed.ncbi.nlm.nih.gov/)
+ 
+● 
+[react.dev](http://react.dev/)
+ 
+● 
+[nexjs.org](http://nexjs.org/)
+ 
+● 
+[Python.org](http://Python.org/)
+● ‌‎
+[pubmed.ncbi.nlm.nih.gov](http://pubmed.ncbi.nlm.nih.gov/)
+● 
+[link.springer.com](http://link.springer.com/)
+‎ 
+● 
+[sciencedirect.com](http://sciencedirect.com/)
+‎ 
+● 
+[vercel.com](http://vercel.com/)
+● 
+[sourceforge.net](http://sourceforge.net/)
+● 
+[letsencrypt.org](http://letsencrypt.org/)
+***❌***
+ ممکنه در بعضی مناطق، روی برخی از اپراتورها همچنان بسته باشن.
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
+
+### 🕒 2026-04-13 16:59:27 UTC
+> ↪️ **Forwarded**
+
+اگه بگم سالها تلاش مستقیم و غیر مستقیم پشت این برنامه بوده دروغ نگفتم.
+در نهایت تصمیم گرفتم این برنامه را رایگان در اختیار همه قرار دهم ولی واقعا به حمایت شما برای پروژه های  بعدی که در نظر دارم نیاز دارم ممنون میشم اگه این برنامه کمکی به دسترسی شما به اینترنت آزاد کرد حمایت رو فراموش نکنید.
+///
+این برنامه یک tcp-forwarder میباشد که موقع فوروارد dpi را دور میزند. مانند فرگمنت و یا دومین-فرانتینگ ولی با پیچیدگی های فنی بسیار بیشتر.
+///
+بعد از انجام تغییرات مورد نظر در فایل کانفیگ این برنامه را به صورت 
+Run as administrator
+اجرا کنید.
+تنها نیاز دارید آدرس اتصال کانفیگ-پروکسی خود را تغییر دهید به آدرس لیسن برنامه.
+"
+[127.0.0.1:40443](http://127.0.0.1:40443/)
+" for local,
+"your_pc_lan_ip:40443" for other lan devices
+همچنین در ویندوز در صورتی که از tun استفاده میکنید باید connect_ip را از tun رد نکنید و بایپس کنید.
+///
+به طور مثال برای کانفیگهای پشت کلودفلر میتونید از هر ip و sni که تا الان وایت شده برای connect_ip و fake_sni استفاده کنید.
+///
+در حال حاضر فقط کانکشنهای tls پشتیبانی میشوند.
+///
+به امید ایران آزاد و مقتدر 
+[@patterniha](https://t.me/patterniha)
+
+---
+
+### 🕒 2026-04-13 16:29:45 UTC
+جدی مقامات ج.ا نفری یه نمکدون توماتحتشون فرو شده، این همه بانمکی منطقی نیست.
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
 
 ### 🕒 2026-04-13 15:29:33 UTC
 ترامپ بعد از حمله به پاپ، اعلام پیامبری کرد.
@@ -125,11 +258,6 @@
 ***📌***
 **آپدیت جدید کلاینت SlipNet :**
 [@DigiHubAI](https://t.me/DigiHubAI)
-
----
-
-### 🕒 2026-04-12 18:06:58 UTC
-در انتظار باز شدن یک آیپی...
 
 ---
 

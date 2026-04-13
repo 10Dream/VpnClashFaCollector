@@ -1,5 +1,69 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-04-13 16:29:43 UTC
+بروزرسانی: 2026-04-13 18:17:33 UTC
+
+### 🕒 2026-04-13 18:07:14 UTC
+از این کلمه فرار کنید
+
+---
+
+### 🕒 2026-04-13 18:07:05 UTC
+همیشه گفتم بازم میگم هرچیزی که اسپوف داشت نکنید
+***😂***
+
+---
+
+### 🕒 2026-04-13 18:06:53 UTC
+در کل نکنید
+
+---
+
+### 🕒 2026-04-13 17:50:53 UTC
+آموزش درست بخونید 
+بوس
+
+---
+
+### 🕒 2026-04-13 17:50:33 UTC
+کانفیگ خالی قرار نیست براتون وصل بشه اون برنامرو باید نصب کنید اوکی کنید
+
+---
+
+### 🕒 2026-04-13 17:47:08 UTC
+خیر برای گوشی نیست ویندوز
+
+---
+
+### 🕒 2026-04-13 17:46:09 UTC
+خب اول این فایل رو دانلود کنید
+لینک دانلود داخلی
+***👇***
+[download](https://www.uploadina.com/aa785a2cbe0620b3/SNI-Spoofing_by_.rar)
+خب  حالا فایل رو روی سیستم اکسترکت کنید و یه فایل به اسم کانفیگ توش هست که این کانفیگ json رو توش قرار میدین و سیو میکنید 
+config json : 
+`{  "LISTEN_HOST": "127.0.0.1",  "LISTEN_PORT": 40443,  "CONNECT_IP": "104.16.80.73",  "CONNECT_PORT": 443,  "FAKE_SNI": "static.cloudflareinsights.com"} `
+خب بعد برنامه رو که اسمش SNI Spoofing هست اجرا میکنید  
+بعدش برنامه v2ray یا netmod کامپیوتر اجرا کنید و این کانفیگ اضافه کنید
+`trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#`
+M2
+و بعد کانکت و تمام.
+
+---
+
+### 🕒 2026-04-13 17:43:05 UTC
+آموزشش میزارم ولی بازم میگم امنیت برنامه پای خودتونه.
+
+---
+
+### 🕒 2026-04-13 17:40:34 UTC
+تست کردم خوبه
+
+---
+
+### 🕒 2026-04-13 17:13:14 UTC
+{"remarks":"M2","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"37.152.189.74","port":4431,"users":[{"id":"dcea6c11-6b5e-4f5c-90b6-125be491a340","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","wsSettings":{"path":"/ek/irinn/live/1080p/","headers":{"Host":"live-azd1102.telewebion.ir"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+100 مگابایت
+
+---
 
 ### 🕒 2026-04-13 15:00:08 UTC
 خب دوستان میگن قبلاً گذاشتم
