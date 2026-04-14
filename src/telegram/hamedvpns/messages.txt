@@ -1,15 +1,11 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-04-14 17:22:03 UTC
+بروزرسانی: 2026-04-14 19:29:07 UTC
 
-### 🕒 2026-04-14 13:54:31 UTC
-***🚨***
-شورای عالی فضای مجازی:
- اینترنت‌ همچنان به دلیل مسائل امنیتی محدود خواهد ماند/ سیتنا
-
----
-
-### 🕒 2026-04-14 11:31:20 UTC
-صداش در اومد که جریان چیه...
+### 🕒 2026-04-14 18:54:46 UTC
+کد تلگرام درست شده و ارسال میشه 
+معلوم نیست اختلاله یا نه ولی اگه از اکانتی پرت شدید بیرون سریع لاگین کنین 
+اگه کسی هم میشناسید پرت شده بیرون حتما بهش بگید.
+..
 
 ---
 
@@ -112,109 +108,6 @@ vless://bd2d5309-137d-4d12-9db9-8a36b1e8afdd@172.64.149.54:443?path=%2F14dcc7e1&
 اینم لینک گیتهاب اصلی پروژه 
 ***😎***
 [https://github.com/patterniha/SNI-Spoofing](https://github.com/patterniha/SNI-Spoofing)
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-04-13 19:16:06 UTC
-اینم ویدیو آموزشیش توسط رضا عزیز برای همه درست شد .
-{
-  "LISTEN_HOST": "127.0.0.1",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "104.16.80.73",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "static.cloudflareinsights.com"
-}
-``
-`vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=%2F#test`
-لینک مشاهده و دانلود ویدیو از نت داخلی :
-[https://uupload.ir/view/vid_20260413_224918_003_9lw9.mp4/](https://uupload.ir/view/vid_20260413_224918_003_9lw9.mp4/)
-[http://kalbod-team.ir/f/1feca5187ab6408c](http://kalbod-team.ir/f/1feca5187ab6408c)
-میتونید از کانفیگ های این ربات هم استفاده کنید برای این روش جوابگو هستند :
-***👉***
-***👉***
- 
-[https://t.me/cpivpn_bot](https://t.me/cpivpn_bot)
- 
-***✅***
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-04-13 19:13:45 UTC
-خب اول این فایل رو دانلود کنید
-لینک دانلود داخلی :
-***👉***
-***👉***
- 
-[download](https://www.uploadina.com/aa785a2cbe0620b3/SNI-Spoofing_by_.rar)
- 
-***👈***
-***👈***
-خب  حالا فایل رو روی سیستم اکسترکت کنید و یه فایل به اسم کانفیگ توش هست که این کانفیگ json رو توش قرار میدین و سیو میکنید 
-config json : 
-`{  "LISTEN_HOST": "127.0.0.1",  "LISTEN_PORT": 40443,  "CONNECT_IP": "104.16.80.73",  "CONNECT_PORT": 443,  "FAKE_SNI": "static.cloudflareinsights.com"} `
-خب بعد برنامه رو که اسمش SNI Spoofing هست اجرا میکنید  
-حال برنامه ی v2ray پی سی رو که احتمال ۹۰٪ همتون دارید اجرا کنید و این کانفیگ رو اضافه کنید 
-`trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#1`
-و بعد وصل کنید به صورت معمول 
-مرجع اصلی : 
-[@patterniha](https://t.me/patterniha)
- خیلی ممنون هستیم ازش ، به امید ادامه دار بودن مسیر 
-***❤️***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-04-13 19:04:09 UTC
-سایت هایی که از دیروز در وایت لیست شبکه اینترنت داخلی اضافه شدن:
-- 
-[vercel.com](http://vercel.com/)
- اکثر اپراتور ها
-- 
-[vercel.app](http://vercel.app/)
- اکثر اپراتورها
-- 
-[sourceforge.net](http://sourceforge.net/)
- تعداد اندکی از اپراتورها
-- 
-[letsencrypt.org](http://letsencrypt.org/)
- تعدادی از اپراتورها 
-- 
-[http://ubuntu.com](http://ubuntu.com/)
- جدید باز شده
-- 
-[http://react.dev](http://react.dev/)
- جدید باز شده
-- 
-[http://Python.org](http://Python.org/)
- همه اپراتور ها
-...
 ‌‌
 [@hamedvpns](https://t.me/hamedvpns)
  

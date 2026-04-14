@@ -1,5 +1,5 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-04-14 17:29:52 UTC
+بروزرسانی: 2026-04-14 19:36:53 UTC
 
 ### 🕒 2026-04-14 17:08:15 UTC
 `slipnet-enc://AVjOSGzEmGn3GIs00iicbfVcldXBcydVuo0dUkks16gb/f/gpHckQZptyB/n5jJLPJz6Orlhd0SEpFsJNR71lNC8MocRdCutJKX4KgntQA01AOvg21f+qDVoL59P1jwcy/d+jwnjuqHRgkx30ooSpkdL3TgPm6TiuFjDKtUkANT46W4XXdR/1FxVOt4tYZFCU9urzmIlWqLxFmBZFSViYuEvUjxYN/LtD1ywZu+Yw64OBQJS/Qt4HQrd/jtIRNITy24rclKilTog8w5+IjbE/PXsyvq4kw4dBpwSwT10mXsVmUPJEwIsRZTZZEbIve++Rr3fF/geXGfLn7Qhcskdw6Lp2K6yd+OCNWonRFUnKhzJpfUesBh3d7s6SZ3DZZ0BFNxGuMTxlfsw2Mn2niZecQFbrv7go3fjzeEtjcnWPXbGhu1gZc/nLJiWnmVCo3FG7qqQnVOL/tkgoBd/+dN0HxNzmuhxqM+Vjtb/zP0+WGNqolgGhAvNlT6faRW36lFFhQ==`
@@ -411,22 +411,6 @@ SNI-Spoofing_by_.rar
 
 ### 🕒 2026-04-13 19:50:49 UTC
 SNI-Spoofing_by_.rar
-
----
-
-### 🕒 2026-04-13 17:46:09 UTC
-خب اول این فایل رو دانلود کنید
-لینک دانلود داخلی
-***👇***
-[download](https://www.uploadina.com/aa785a2cbe0620b3/SNI-Spoofing_by_.rar)
-خب  حالا فایل رو روی سیستم اکسترکت کنید و یه فایل به اسم کانفیگ توش هست که این کانفیگ json رو توش قرار میدین و سیو میکنید 
-config json : 
-`{  "LISTEN_HOST": "127.0.0.1",  "LISTEN_PORT": 40443,  "CONNECT_IP": "104.16.80.73",  "CONNECT_PORT": 443,  "FAKE_SNI": "static.cloudflareinsights.com"} `
-خب بعد برنامه رو که اسمش SNI Spoofing هست اجرا میکنید  
-بعدش برنامه v2ray یا netmod کامپیوتر اجرا کنید و این کانفیگ اضافه کنید
-`trojan://`
-مثلا کانفیگ
-و بعد کانکت و تمام.
 
 ---
 
