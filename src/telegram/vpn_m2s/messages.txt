@@ -1,17 +1,13 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-04-14 15:32:32 UTC
+بروزرسانی: 2026-04-14 17:29:52 UTC
 
-### 🕒 2026-04-14 13:52:20 UTC
-تنها چیز قشنگش این موزیک پلی باشه بغل دوربین جلو آیکون اومده 
-***🤣***
-***🤣***
-***🤣***
+### 🕒 2026-04-14 17:08:15 UTC
+`slipnet-enc://AVjOSGzEmGn3GIs00iicbfVcldXBcydVuo0dUkks16gb/f/gpHckQZptyB/n5jJLPJz6Orlhd0SEpFsJNR71lNC8MocRdCutJKX4KgntQA01AOvg21f+qDVoL59P1jwcy/d+jwnjuqHRgkx30ooSpkdL3TgPm6TiuFjDKtUkANT46W4XXdR/1FxVOt4tYZFCU9urzmIlWqLxFmBZFSViYuEvUjxYN/LtD1ywZu+Yw64OBQJS/Qt4HQrd/jtIRNITy24rclKilTog8w5+IjbE/PXsyvq4kw4dBpwSwT10mXsVmUPJEwIsRZTZZEbIve++Rr3fF/geXGfLn7Qhcskdw6Lp2K6yd+OCNWonRFUnKhzJpfUesBh3d7s6SZ3DZZ0BFNxGuMTxlfsw2Mn2niZecQFbrv7go3fjzeEtjcnWPXbGhu1gZc/nLJiWnmVCo3FG7qqQnVOL/tkgoBd/+dN0HxNzmuhxqM+Vjtb/zP0+WGNqolgGhAvNlT6faRW36lFFhQ==`
 
 ---
 
-### 🕒 2026-04-14 13:51:42 UTC
-ای کاش آپدیت نمیکردم اندروید
-***😂***
+### 🕒 2026-04-14 16:11:52 UTC
+`slipnet-enc://AZLF5dmTgiyUOZn4fL1MDPzUNeHz+TIl79E280pTn8uu7+kFCBNCr2GPSC4vx3a5fqMdG6YFJEmcexJEEuRBMOHH7TKCwx0Tx/I/aUeKItNbFr1LvX5eoL0d2uxWjD74g5MR+taT3Lns/XGGuw59mLo8DaYxZzU25dHwTTfTF60EqKTHkCl66hCr1f9uh3OBS8RfgqMpM7IA97HbZ90V5b4HzfcFQnBjyK/l2dOGiiO3irZZ+walaL/3vtkpOp8l0QdR+SGIxDv0croAeJ1oGFadwrMG4m+C3iBGqv0sEg4fE1DoB9HM1uhm9LY1VQJodAa5BxJ5QNH8efDZ+78TCTw9Dyai88uaRe4n/Dpxslt0+NDEI8DXqRsn0n1X7s0C9CEmJ+FI+osrcty5zxbpeGMv4Nub1T0ouFMpPVLUzdLbyrGZ++QLC5mK9v2QS3YIvE2RKjY/VuCejbSkQFo0nA7anYgfdmHvgretN1mVlOJ/rpsC4A5ItoBl2TyKBp8JjNU2dFjQ3UvsC9f6x4KlmOoGNgehUAscUJx+eyH8+AAb3JEuIgLWQnb/ueAmVYR/nYo3mx2og/x92O+SSveQYKNVP82xZXUg9gcXd+FUQfcM5y+S+u6uEKBJv6Em+FxgoeWUxys5Pf6aehwmiQ7PeGnHsscmgSoWSDW3DQn7HJidvGoB8bxzaH55EMUKMtoqqWIdN9iI+yQuUY299CpFwJHiQA==`
 
 ---
 
@@ -431,12 +427,6 @@ config json :
 `trojan://`
 مثلا کانفیگ
 و بعد کانکت و تمام.
-
----
-
-### 🕒 2026-04-13 17:13:14 UTC
-{"remarks":"M2","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"37.152.189.74","port":4431,"users":[{"id":"dcea6c11-6b5e-4f5c-90b6-125be491a340","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","wsSettings":{"path":"/ek/irinn/live/1080p/","headers":{"Host":"live-azd1102.telewebion.ir"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-100 مگابایت
 
 ---
 
