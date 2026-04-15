@@ -7,6 +7,7 @@ trojan://telegram-id-directvpn@15.237.145.187:22223?security=tls&alpn=http%2F1.1
 trojan://telegram-id-privatevpns@15.237.145.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@3.65.163.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://telegram-id-privatevpns@51.44.188.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@51.44.56.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.21:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.6:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#%40zel2ovpn
@@ -39,6 +40,7 @@ vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&
 vless://Telegram-Parsashonam@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-17%3A34-1
 vless://Telegram-Parsashonam@8.6.112.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-17%3A34-2
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#``vipV2rayNGnp
+vless://c0cac14f-9702-46c2-985f-f5d3b24b456d@s2.xbat.ir:80?path=%2F&security=none&encryption=none&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=2-4jq.pages.dev&type=ws&allowInsecure=0&sni=2-4jq.pages.dev#@InfoTech_VK19
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#@InfoTech_VK12
 vless://d46056cf-da4e-4426-a3e4-39fcbfefa112@63.141.128.188:443?encryption=none&security=tls&sni=d2-us1.djwstlsweb.top&fp=chrome&type=ws&host=d2-us1.djwstlsweb.top&path=%2Fdjjc%2Fus1#%20
