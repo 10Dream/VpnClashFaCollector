@@ -1,5 +1,127 @@
 # آرشیو کانال: @freedom_soldiers1
-بروزرسانی: 2026-04-15 13:48:26 UTC
+بروزرسانی: 2026-04-15 15:13:44 UTC
+
+### 🕒 2026-04-15 14:57:31 UTC
+***🔴***
+ 
+**اختلال شدید اینترنت هم‌اکنون؛ فایروال در حال ارتقاء**
+هم‌اکنون اختلالات شدید در شبکه اینترنت کشور مشاهده می‌شود. گفته می‌شود فایروال (فیلترینگ) در حال به‌روزرسانی و ارتقاء است که این مسئله تاثیر قابل توجهی بر ترافیک خانگی و دیتاسنترها گذاشته است. در نتیجه، بسیاری از فیلترشکن ها، آی‌پی‌های تمیز و کانفیگ ها و روش های رایگان مجدداً از دسترس خارج شده‌اند.
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:43:11 UTC
+ما نه پولداریم نه دختریم البته
+
+---
+
+### 🕒 2026-04-15 14:42:21 UTC
+الان فقط پولدارا آنلاینن و دخترا
+
+---
+
+### 🕒 2026-04-15 14:39:52 UTC
+**هی باز و بسته میکنن فیلترینگ رو ارتقا میدن**
+
+---
+
+### 🕒 2026-04-15 14:38:16 UTC
+**فکر کنم آی پیا بسته شداگه با چیز رایگانی وصلید قطعش نکنید**
+
+---
+
+### 🕒 2026-04-15 14:35:48 UTC
+**بفرستید پیام رسان های داخلی همه بیان**
+
+---
+
+### 🕒 2026-04-15 14:34:38 UTC
+`vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#@Freedom_Soldiers1`
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:33:59 UTC
+`vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?encryption=none&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#@Freedom_Soldiers1`
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:33:07 UTC
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#freedom_soldiers1
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:31:27 UTC
+{"remarks":"freedom_soldiers1","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"8.6.112.6","port":2083,"users":[{"id":"eb211fb7-40c8-4314-8b67-7b5f025e0f62","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/","headers":{"Host":"kamalnet.pages.dev"}},"tlsSettings":{"allowInsecure":false,"serverName":"kamalnet.pages.dev","fingerprint":"chrome","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+
+---
+
+### 🕒 2026-04-15 14:29:07 UTC
+رفتم اکسپلور با این
+
+---
+
+### 🕒 2026-04-15 14:29:01 UTC
+vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#freedom_soldiers1  vless://3a4635c8-3b95-4e62-9769-626e27d7c421@8…
+
+---
+
+### 🕒 2026-04-15 14:28:29 UTC
+vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#freedom_soldiers1
+vless://3a4635c8-3b95-4e62-9769-626e27d7c421@8.6.112.0:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ukr.snaptext.shop&fp=chrome&type=ws&allowInsecure=0&sni=ukr.snaptext.shop#freedom_soldiers1
+
+---
+
+### 🕒 2026-04-15 14:26:23 UTC
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#freedom_soldiers1
+
+---
+
+### 🕒 2026-04-15 14:25:22 UTC
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?host=Koma-YT.PAGeS.Dev&path=%2Ftr&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#freedom_soldiers1
+
+---
+
+### 🕒 2026-04-15 14:22:50 UTC
+vless://8481cfbb-49a2-df3b-2af2-949631ef5848@8.6.112.0:443?mode=packet-up&path=%2Firan%2Fws%3Fed%3D2083&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=228f2b0691350fc6.fooeball90.com&fp=firefox&type=xhttp&allowInsecure=0&sni=228f2b0691350fc6.fooeball90.com#freedom_soldiers1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#freedom_soldiers1
+
+---
+
+### 🕒 2026-04-15 14:20:50 UTC
+vless://61beb227-5709-4999-851d-fe87d2859c56@8.6.112.6:2083?encryption=none&type=xhttp&mode=packet-up&host=chopin.wikimatn.ir&path=/jvbdfb1sd&security=tls&fp=chrome&sni=chopin.wikimatn.ir&alpn=h2#freedom_soldiers1
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:20:12 UTC
+`vless://1c65b8ad-39f9-44b5-b12e-02e4ac517ea2@8.6.112.0:8880?path=%2Fjoin-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#@Freedom_Soldiers1`
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:16:22 UTC
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:16:10 UTC
+`vless://Telegram-Parsashonam@8.6.112.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=test.atlasw.ir&path=/&sni=test.atlasw.ir&fp=chrome#@Freedom_Soldiers1`
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-15 14:15:40 UTC
+آیپیا باز شد دوباره
+
+---
+
+### 🕒 2026-04-15 14:15:03 UTC
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
 
 ### 🕒 2026-04-15 13:27:06 UTC
 **الان اسلیپ نت بزارم یا کانفیگ؟**
@@ -276,40 +398,6 @@ slipnet-enc://AZLF5dmTgiyUOZn4fL1MDPzUNeHz+TIl79E280pTn8uu7+kFCBNCr2GPSC4vx3a5fq
 slipnet-enc://AZSFfkjiduLpBx4KWsyD6nro2S2BQnrOPp0OdXm3eqZFbUywRz49InIQc/5pFooRJNAINA99N5zvRWBXtBQQrDDwITQLWcKYj9GmsLqEToDTKLsl7Ksn0RZBSY0JOoPfWQsLq6J5h02wnOK5DTTMsYSEehNBG85R4CoT88TdrRgUrqmzgdusfNLiasYqcotHrYjfHSHKoiNc0Eb0c5SfKlzgSfRef/ZwM7cCjlSgvQc0UW0NdphovPmf5poXdAuU9cVEN6gfC1XI5sOl/LMbqDEUVY8afa3rGJj8NsUzq1M85Q5Gr+MztjT8KIB96zCUNSW0P6idxfCw2dZYr7cdumjg8foe5OUajCX6lI/nc2uCEf2AgqQX6yXwnh087JltqVTg+/u+KySAH+HjZMBdXi2cZklL4urtfjC4p+QTt2JF55ZWbDaePAexXRpKGtCtTUPeY8PhgmiCIisPWcEBMeht64vA8chx3yKcEI8h1s022xsqbbUYBWl/SGWA7sONYgV9Y0SE9Ynq6XcD6m7lwMJm+lbog2ZBGl4P6MTxQ1nwsdmefguEW6XchjYtzuT7QFRM0GBfX21YmfnYtzoj0OV9Szd6EUpONrmqtD6ZVso+WadtCtUBlF68MQUdIvXGJo7R6Qqp3jQk7NVFnEbRE9ZIKCO4Nnmf3TAZhfzFz/JenJ3NHvt9uHPwRxDPYI+gar6GZUyah9rPSAhz5QXu0Pc7jwF5LrjuiVdwy+MOP8gI2Niqcb3VOzDk3XnBMjbS0eH+NL+viqolDsJ/8OLa0jY9cMxbRlU74VD8++Hbuw==
 **Slipnet**
  
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-14 14:42:34 UTC
-**۳ تصویر جدید منتشر شده از GTAVIتو این اوضاع اینم قراره چند ماه دیگه بیاد**
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-14 14:27:29 UTC
-[tg://proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d09)
-پروکسی منطقه ای
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-14 14:08:52 UTC
-​وقتی در دستت اسلحه داری و من هم اسلحه دارم، 
-**بیا درباره قوانین صحبت کنیم**
-؛
-وقتی دست تو خالی است و دست من هم خالی است، 
-**بیا درباره منطق و حق صحبت کنیم**
-.
-اما اگر تو اسلحه داری و من فقط یک چاقو دارم، 
-**پس حق و حقیقت در دستان توست**
-؛
-و اگر تو اسلحه داری و دست من کاملاً خالی است، 
-**آنچه در دستان توست جانِ من است**
-.
-​قانون، مقررات و اخلاقیات، تنها در شرایط 
-**«برابری متقابل»**
- قابل درک و اجرا هستند.
-**حقیقتِ این دنیا همین است: وقتی زور و قدرت برای حرف زدن از جا بلند می‌شود، حقیقت سکوت می‌کند.**
 [@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
 
 ---
