@@ -10,10 +10,8 @@ trojan://telegram-id-directvpn@15.237.145.187:22223?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@15.237.145.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@isprox
 trojan://telegram-id-privatevpns@15.237.145.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@isprox
 trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@isprox
-trojan://telegram-id-privatevpns@51.44.56.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@isprox
 vless://00ca1851-50a2-4dcb-b795-2a2e51289d44@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=lifeeadmin.pointspeed.ir&type=httpupgrade#@isprox
 vless://0113dbe3-7b54-455f-b412-00c8e3b3c65c@185.143.233.200:80?path=%2F&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#@isprox
-vless://0184768c-bc89-418e-b64b-0d2739b5b547@185.143.234.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org#@isprox
 vless://05b4b2a2-d9f1-46f1-848b-79f61585cf27@94.183.175.172:1313?security=&encryption=none&headerType=none&type=tcp#@isprox
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.0:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#@isprox
 vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@de22.fastplus7.site:2086?type=ws&encryption=none&path=%2F&host=de21.fastplus11.ir&security=none#@isprox
@@ -24,8 +22,6 @@ vless://19d33ef3-0b90-440f-81e4-6b3fba3b3be4@8.6.112.0:2052?mode=auto&path=%2Fpa
 vless://19d33ef3-0b90-440f-81e4-6b3fba3b3be4@8.6.112.0:2052?security=none&encryption=none&headerType=none&type=tcp#@isprox
 vless://1d3ef31d-9cb7-4bb5-b8c6-24666fb99bf1@mc.votirm.fun:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=V2rayNG_mer.elmahstyle.ir&type=ws#@isprox
 vless://2247d5b9-570c-477a-9191-350f6025cb38@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=cloud.endlessteam.site&type=ws&allowInsecure=0&sni=cloud.endlessteam.site#@isprox
-vless://298a44fe-c533-4316-8d8f-e6758c3b0942@varzesh3.com:2086?path=%2FApiFeVxhc4mfT9SsRkRmAhJAxIV%3Fed%3D2560&security=none&encryption=none&host=morfix.donyayeajayeb.ir&type=ws#@isprox
-vless://32a37eaa-ece2-48d5-af2c-1dacbfa372d0@185.143.233.235:80?type=ws&host=vixon.portab.org#@isprox
 vless://3590e014-9fdc-4e74-8f97-1a6013417a39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@isprox
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%2B%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#@isprox
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F+%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#@isprox
@@ -69,8 +65,6 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2
 vless://83a32cfb-1a73-451d-95a9-1c531e18072b@8.6.112.6:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forgermany.fairit.ir&type=ws&allowInsecure=0&sni=d40fc1400747df57.fairit.ir#@isprox
 vless://84695bb3-58a4-4af6-b964-82d2c56fa23f@ips.cf.mobileemdad.top:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/cloudapi&sni=dl.mobileemdad.top&fp=chrome&mode=auto&alpn=h2#@isprox
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@8.6.112.0:443?encryption=none&type=xhttp&mode=packet-up&host=228f2b0691350fc6.fooeball90.com&path=/iran/ws?ed%3D2083&security=tls&fp=firefox&sni=228f2b0691350fc6.fooeball90.com&alpn=h3,h2,http/1.1#@isprox
-vless://93bebf3a-4667-4667-a407-b131f4dae388@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#@isprox
-vless://93bebf3a-4667-4667-a407-b131f4dae388@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#@isprox
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&type=ws&sni=pardazesh-tgws.pages.dev#@isprox
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#@isprox
 vless://Telegram-Parsashonam@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#@isprox
@@ -85,7 +79,6 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@clud.soonteam.top:443?security=tls&
 vless://d8ad3de0-47ab-4043-b1bd-68f526c74099@37.32.27.85:80?path=%2F&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#@isprox
 vless://d9685011-1e43-4f90-920a-609324c24b67@185.143.234.235:80?type=ws&host=vixon.portab.org#@isprox
 vless://e1dc143a-8dfa-4de9-a627-9df1b1282921@pablo.kaktusmarket.ir:80?path=%2F&security=&encryption=none&type=ws#@isprox
-vless://e831ea7a-78e8-44b9-a228-effa30b18e7b@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live#@isprox
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?encryption=none&security=tls&sni=kamalnet.pages.dev&fp=chrome&type=ws&host=kamalnet.pages.dev&path=%2F#@isprox
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#@isprox
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=kamalnet.pages.dev&path=/&sni=kamalnet.pages.dev&fp=chrome#@isprox
