@@ -1,5 +1,29 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-04-16 17:25:05 UTC
+بروزرسانی: 2026-04-16 19:26:58 UTC
+
+### 🕒 2026-04-16 17:51:34 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**dyhkwong/Exclave**
+:
+***🧪***
+ 
+**0.17.31-beta.1**
+ (0.17.31-beta.1) [Pre-release]
+- Fix HTTP/2 outbound panic on error.
+- Fix package name matching error on non-main users.
+- Remove TrustTunnel HTTP/1.1 support and use HTTP/2 or quic-go HTTP/3 internal connection pool.
+- Allow to disable SOCKS5 inbound, disable SOCKS5 inbound UDP support, and set username and password for SOCKS5 and HTTP inbounds. However, if SOCKS5 inbound or SOCKS5 inbound UDP support is disabled, the function of some additional tools will be limited.
+- Allow to manually specify custom package name or U...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/dyhkwong/Exclave/releases/tag/0.17.31-beta.1)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
 
 ### 🕒 2026-04-16 05:31:37 UTC
 نسخه بدون اخطار امنیتی 
