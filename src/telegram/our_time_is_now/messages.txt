@@ -1,14 +1,28 @@
 # آرشیو کانال: @our_time_is_now
-بروزرسانی: 2026-04-06 07:57:30 UTC
+بروزرسانی: 2026-04-17 12:10:10 UTC
 
-### 🕒 2026-04-05 08:41:10 UTC
-slipnet-enc://ASVJrm8Cugi/qswCGWC8ZxuXqenYUsPM5INqSD9Aa2UyOGyotpRGB1vJwnebvulhmEIRDUYgMA/+/VfP9FDwPLHHjnrcaZYP5v1u7Um7LngDlsz0Lrg2WwdAMOTtnkjGF4WpzfE7sc3ZPqbPys4jiruFuatQAqTyHVGRkhR8HB6f9OJl23nMU7YIK7t1KTINq02axC+ciBmYzFN/7qi2tYh4mtP4qAgbwfeVWWpjOA4un2ET8FRAN740cyfiFZefSwFbqiiWK/3v7p7jDTjssCUA/VocXc9Ms4mow8FP0UBOqUTDnHl2vpXv0HFiWniZtpp+Zc2erzdlyxkQ9+/uo0MGHYeVyPe8socmmiDaUZ4JGYexYBbOOP96lXh86KdYWNAFSeEAPjkOpkVrA4ALoKyLwkWN8sgvTNLYZ1PQn/lLV0K6KT/ARHp2buMbri27fo3f1JAu8cLFKvRlNQdHH1uzG1tydWKYyUwmmCnB+BpE7bF3b0nDmeTNoh095fE=
-کانفیگ تست VayDNS 
-برای استفاده از این کانفیگ باید نسخه بتای اسلیپ نت رو نصب کنید. 
-***⚠️***
- لطفا فقط کسایی که علاقه مند و مشتاق هستند تست و بررسی کنند نسخه بتا رو نصب کنند چون ممکنه مشکلاتی داشته باشه. 
-[دانلود نسخه بتا اسلیپ نت از تلگرام توسعه دهنده ](https://t.me/SlipNet_app/227)
+### 🕒 2026-04-17 12:07:19 UTC
+vless://3d652d40-a8f0-4516-98a6-5d4152faf7f0@127.0.0.1:40443?encryption=none&security=tls&sni=bitter.13751129.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=bitter.13751129.xyz&path=%2Fexplore%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA21.OTN%E2%9A%A1%EF%B8%8F
+جهت استفاده با استفاده از روش SNI Spoof 
+[ابزار SNI Spoof روی ویندوز ](https://github.com/patterniha/SNI-Spoofing/tree/main)
+[و روی لینوکس](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v0.3.0)
+ 
+تو اندروید نیاز هست که گوشی روت باشه و فکر میکنم اگه گوشیتون روت هست احتمالا بلد باشید رانش کنید. کانفیگ پیشنهادی برای SNI Spoof 
+{
+  "LISTEN_HOST": "
+[0.0.0.0](http://0.0.0.0/)
+",
+  "LISTEN_PORT": 40443,
+  "CONNECT_IP": "
+[104.19.229.21](http://104.19.229.21/)
+",
+  "CONNECT_PORT": 443,
+  "FAKE_SNI": "
+[hcaptcha.com](http://hcaptcha.com/)
+"
+}
 [***⚡️***Our Time Is Now***⚡️***](https://t.me/our_time_is_now)
+پ.ن: کانفیگ‌ای که گذاشتم بدون محدودیت حجم و زمان هست
 
 ---
 
