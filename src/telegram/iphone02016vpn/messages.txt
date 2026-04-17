@@ -1,5 +1,29 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-04-16 23:50:32 UTC
+بروزرسانی: 2026-04-17 02:53:32 UTC
+
+### 🕒 2026-04-16 23:51:33 UTC
+این کافینگ  نرم افزار های زیر متصل هست برای افرادی که کار ضروری دارن و اینستا و تلگرام و .. باهاش نمیاد 
+سرویس های قابل دسترس با این کانفیگ:
+***✅***
+ Google Search
+***✅***
+ Gmail
+***✅***
+ Google Maps
+***✅***
+ Google Chat
+***✅***
+ Google Drive
+غیرقابل دسترس:
+***❌***
+ Google Play: App installs and updates do not work.
+***❌***
+ YouTube: Videos cannot be played.
+***❌***
+ Google Meet: Calls cannot be established.
+`{  "dns": {    "queryStrategy": "UseIPv4",    "hosts": {      "geosite:google": "www.google.com"    },    "servers": [      "217.218.127.127"    ]  },  "inbounds": [    {      "listen": "127.0.0.1",      "port": 10808,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true,        "userLevel": 8      },      "sniffing": {        "destOverride": [          "http",          "tls"        ],        "enabled": true      },      "tag": "socks"    },    {      "listen": "127.0.0.1",      "port": 10809,      "protocol": "http",      "settings": {        "userLevel": 8      },      "tag": "http"    },    {      "port": 10853,      "protocol": "dokodemo-door",      "settings": {        "address": "217.218.127.127",        "network": "tcp,udp",        "port": 53      },      "tag": "dns-in"    }  ],  "log": {    "loglevel": "none"  },  "outbounds": [    {      "protocol": "freedom",      "settings": {        "domainStrategy": "UseIPv4"      },      "tag": "direct"    },    {      "protocol": "dns",      "tag": "dns-out"    },    {      "protocol": "blackhole",      "settings": {        "response": {          "type": "http"        }      },      "tag": "block"    },    {      "protocol": "socks",      "tag": "dummy",      "settings": {        "servers": [          {            "address": "127.0.0.1",            "port": 10808          }        ]      }    }  ],  "remarks": "Google Services",  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      },      {        "inboundTag": [          "socks-in"        ],        "port": 53,        "outboundTag": "dns-out",        "type": "field"      },      {        "ip": [          "10.10.34.34",          "10.10.34.35",          "10.10.34.36"        ],        "outboundTag": "block",        "type": "field"      }    ]  }}`
+
+---
 
 ### 🕒 2026-04-16 23:42:59 UTC
 `vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#%E2%99%9F%20%40Skyportall%F0%9F%92%99`
