@@ -1,5 +1,52 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-04-17 13:59:35 UTC
+بروزرسانی: 2026-04-17 15:05:29 UTC
+
+### 🕒 2026-04-17 14:02:09 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**Happ-proxy/happ-desktop**
+:
+***✅***
+ 
+**2.9.0**
+ (2.9.0)
+* Improved server list to show protocol/network/security (e.g. "VLESS / XHTTP / REALITY") under the server name by default
+* Improved the "Insecure" subscription toggle — it no longer overrides per-server settings and now works without a premium subscription
+* Improved local VPN security by requiring per-process SOCKS authentication so other apps on the machine can't probe the tunnel
+* Improved DNS-from-JSON parsing to handle IP-in-URL DoH and surface the reason for any fallback in the subscr...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.9.0)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-04-17 14:02:08 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**Happ-proxy/happ-android**
+:
+***✅***
+ 
+**3.18.1**
+ (3.18.1)
+* Improved support for huge json servers' configs
+* Fixed case when app theme & language change was causing app's close
+* Fixed touch & copy zones of input fields (applicable for inbound auth)
+* Fixed case when spinner with empty text was showing dropdown menu with zero size
+* Make dialog's title auto-scalable and single lined
+* Make messages icons (stories & notification permission) sizes consistent
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-android/releases/tag/3.18.1)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
 
 ### 🕒 2026-04-17 07:30:29 UTC
 کانفیگ HTTP INJECToR
