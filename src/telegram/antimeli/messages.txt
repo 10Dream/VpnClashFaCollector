@@ -1,5 +1,40 @@
 # آرشیو کانال: @antimeli
-بروزرسانی: 2026-04-17 17:54:17 UTC
+بروزرسانی: 2026-04-17 19:06:45 UTC
+
+### 🕒 2026-04-17 18:53:30 UTC
+آموزش spoofsni با گوشی
+برنامه ترموکس رو نصب کنید.
+قبل اینکه کاری رکنید اول چک کنید آیا این روش واستون جواب میده یا نه
+این دستور رو بزنید 
+`ping hcaptcha.com`
+اگه نوشت time out جواب نمیده باید یه sni دیگه تست کنید. اگه نوشت time= 131 و ... برید مرحله بعد. کلید ctrl و حرف c بزنید تا متوقف بشه دستور
+به vpn وصل بشید چون باید پکیج دانلود کنید. 300 مگ حجم لازم داره
+دستورات رو به ترتیب بزنید
+`pkg update`
+`pkg upgrade`
+`pkg install python`
+`pkg install git`
+`termux-setup-storage`
+`git clone`
+ 
+`https://github.com/Rainman69/SNISPF.git`
+`cd SNISPF`
+`pip install .`
+حالا برید vpn رو قطع کنید و دستور زیر رو بزنید
+`snispf -l 0.0.0.0:40443 -c 104.19.229.21 -s hcaptcha.com`
+حالا برید وارد برنامه ویتوری بشید
+بزارید رو حالت پردکسی مود. حالت vpn نباشه
+این کانفیگ رو اد کنید و وصل بشید
+`trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#Config%203trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#cloudvless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=%2F#testtrojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#gossipglovevless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&type=ws&host=y6-3cj.PAgES.DEV&path=%2F#qruzvpn`
+ اگه میخواین از حالت vpn ویتوری استفاده کنید و اینستاگرام بیاد باید ترموکس رو از لیست تونل برنامه حذف کنید و ویتوری رو تو همون حالت vpn وصل کنید
+***💎***
+CH: 
+[@antimeli](https://t.me/antimeli)
+***💎***
+GP: 
+[@antimelichat](https://t.me/antimelichat)
+
+---
 
 ### 🕒 2026-04-17 16:23:19 UTC
 {
