@@ -1,13 +1,149 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-04-18 10:05:44 UTC
+بروزرسانی: 2026-04-18 10:57:12 UTC
 
-### 🕒 2026-04-18 10:02:21 UTC
-دایرکت کانال اطلاع بدید
+### 🕒 2026-04-18 10:35:23 UTC
+سرعت آپلود بینالمللم از نت داخلی بیشتره 
+***😂***
+***😂***
+***😂***
+***😂***
+***😂***
 
 ---
 
-### 🕒 2026-04-18 10:01:18 UTC
-روش اتصال گوشی به کامپیوتر برای Spoof بزارم یا وصلید
+### 🕒 2026-04-18 10:34:58 UTC
+20 دقیقست 10 مگابایت فایل دارم آپلود میکنم
+
+---
+
+### 🕒 2026-04-18 10:34:39 UTC
+آموزش مرحله به مرحله و خیلی ساده SNI Spoofing    ۱. دانلود برنامه Patterniha    آخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).  https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0   دانلود فایل با اینترنت داخلی  ۲. استخراج فایل‌ها    فایل رو…
+
+---
+
+### 🕒 2026-04-18 10:14:47 UTC
+آموزش مرحله به مرحله و خیلی ساده SNI Spoofing    ۱. دانلود برنامه Patterniha    آخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).  https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0   دانلود فایل با اینترنت داخلی  ۲. استخراج فایل‌ها    فایل رو…
+
+---
+
+### 🕒 2026-04-18 10:14:12 UTC
+رو ایرانسل 100% وصل میشه
+مخابرات و رایتل هم برای من وصل شد اما برای بعضیا نمیشه برای بعضیا میشه
+
+---
+
+### 🕒 2026-04-18 10:14:09 UTC
+یکبار انجام بدید از دفعه بعد اگه یک وقت این Sni از کار افتاد فقط کافیه آدرس sni و پورت جدید بزنید داخل برنامه Sni Spoof
+
+---
+
+### 🕒 2026-04-18 10:12:56 UTC
+واقعاً ارزشش داره یاد بگیرید
+
+---
+
+### 🕒 2026-04-18 10:12:07 UTC
+**حالا اتصال گوشی به ویندوز**
+اول هات اسپات ویندوز روشن کنید
+با گوشی بهش وصل بشید
+بعد
+توی ویندوز، برید cmd
+بزنید: ipconfig
+آی‌پی ویندوز رو بردارید(اونی که نوشته ipv4 Adress اعداد جلوش میشه آیپی ویندوز شما)
+چک کنید که v2rayN روی ویندوز پورتش چیه. احتمالا 10808
+توی v2ray ویندوز برید:
+settings-> core settings -> allow connection from lan
+روی موبایل، برید توی v2ray و یه کانفیگ manual ساکس۵ اضافه کن. آی‌پی سیستم رو که بالاتر درآورده بودی با پورت v2rayN بزن. 
+نکته:
+احتمال داره برای بعضیا پورت 10808 وصل نشه فقط کافیه هم تو برنامه ویندوز پورت ادیت کنید بزارید 10809
+هم تو کانفیگ ساکسی که تو برنامه اندروید ساختید پورت بزارید 10809
+تمااااامممممم.
+
+---
+
+### 🕒 2026-04-18 10:08:24 UTC
+برای Sni spoof  vless://4e2b604a-d9ac-47f1-9892-e714bef4905e@127.0.0.1:40443?encryption=none&security=tls&sni=persiaaa.persiatmw.us&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=persiaaa.persiatmw.us&path=%2Fassignment&mode=aut…
+
+---
+
+### 🕒 2026-04-18 10:08:12 UTC
+ویدیو آموزش
+
+---
+
+### 🕒 2026-04-18 10:07:12 UTC
+آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  
+۱. دانلود برنامه Patterniha  
+آخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).
+[https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
+[ دانلود فایل با اینترنت داخلی](http://kalbod-team.ir/f/e4c7d3b8fc2c4dbe)
+۲. استخراج فایل‌ها  
+فایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.
+۳. فایل JSON رو آماده کنین  
+تو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین
+بعد این محتوا رو دقیق کپی کنین داخلش:
+{
+  "LISTEN_HOST": "
+[0.0.0.0](http://0.0.0.0/)
+",
+  "LISTEN_PORT": 40443,
+  "CONNECT_IP": "
+[104.19.229.21](http://104.19.229.21/)
+",
+  "CONNECT_PORT": 443,
+  "FAKE_SNI": "
+[www.hcaptcha.com](http://www.hcaptcha.com/)
+",
+  "QUEUE_NUM": 1000,
+  "HANDSHAKE_TIMEOUT_MS": 2000
+}
+۴. برنامه رو اجرا کنین  
+- روی فایل Patterniha.exe راست کلیک کنین  
+- گزینه Run as administrator رو بزنین (خیلی مهمه!)
+۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  
+تو کانفیگی که داری فقط این دو تا رو عوض کن:
+- Address یا آدرس سرور → 
+[127.0.0.1](http://127.0.0.1/)
+ 
+- Port یا پورت → 40443
+بقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.
+۶. وصل شو  
+کانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.
+نکات مهم:
+ اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه
+- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.
+- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.
+- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.
+[hcaptcha.com](http://hcaptcha.com/)
+[newassets.hcaptcha.com](http://newassets.hcaptcha.com/)
+[js.hcaptcha.com](http://js.hcaptcha.com/)
+[imgs.hcaptcha.com](http://imgs.hcaptcha.com/)
+[imgs2.hcaptcha.com](http://imgs2.hcaptcha.com/)
+[imgs3.hcaptcha.com](http://imgs3.hcaptcha.com/)
+[assets.hcaptcha.com](http://assets.hcaptcha.com/)
+[api.hcaptcha.com](http://api.hcaptcha.com/)
+[analytics.hcaptcha.com](http://analytics.hcaptcha.com/)
+[stats.hcaptcha.com](http://stats.hcaptcha.com/)
+[three-cust.hcaptcha.com](http://three-cust.hcaptcha.com/)
+[tg.hcaptcha.com](http://tg.hcaptcha.com/)
+[primary.hcaptcha.com](http://primary.hcaptcha.com/)
+[dashboard.hcaptcha.com](http://dashboard.hcaptcha.com/)
+[billing.hcaptcha.com](http://billing.hcaptcha.com/)
+[accounts.hcaptcha.com](http://accounts.hcaptcha.com/)
+[proxy.hcaptcha.com](http://proxy.hcaptcha.com/)
+[loader.hcaptcha.com](http://loader.hcaptcha.com/)
+[challenge-tasks.hcaptcha.com](http://challenge-tasks.hcaptcha.com/)
+[serverless.hcaptcha.com](http://serverless.hcaptcha.com/)
+[health-check.hcaptcha.com](http://health-check.hcaptcha.com/)
+[email.hcaptcha.com](http://email.hcaptcha.com/)
+***©️***
+whitedns
+
+---
+
+### 🕒 2026-04-18 10:06:44 UTC
+آموزش قدم به قدم اتصال یبار دیگه میزارم حواستون باشه برنامه واسه کامپیوتر نه اندروید!
+بعدش میتونید گوشیتون به هات اسپات ویندوز وصل کنید و ....
 
 ---
 
