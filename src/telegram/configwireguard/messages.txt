@@ -1,5 +1,30 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-18 17:43:30 UTC
+بروزرسانی: 2026-04-18 19:00:00 UTC
+
+### 🕒 2026-04-18 18:15:26 UTC
+سایتهای جدیدی که دقایقی پیش در اکثر اینترنت ها باز شده اند :
+[sciencedirect.com](http://sciencedirect.com/)
+ 
+[github.com](http://github.com/)
+[e7.c.lencr.org](http://e7.c.lencr.org/)
+ 
+[npmjs.com](http://npmjs.com/)
+
+---
+
+### 🕒 2026-04-18 18:15:26 UTC
+سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 
+[2.189.52.0/24](http://2.189.52.0/24)
+ و 
+[2.189.53.0/24](http://2.189.53.0/24)
+ (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت کشور خارج نمی‌شود
+جهت بررسی این موضوع میتوانید انتهای سایت های کلودفلر را پت /cdn-cgi/trace  اضافه کنید و ایپی متصل شده را مشاهده کنید  ( اگر ایپی اینترنت شما مشاهده نشود به معنای هایجک شدن آن می باشد ) 
+به این صورت : 
+[https://www.sciencedirect.com/cdn-cgi/trace](https://www.sciencedirect.com/cdn-cgi/trace)
+[https://e7.c.lencr.org/cdn-cgi/trace](https://e7.c.lencr.org/cdn-cgi/trace)
+[https://www.npmjs.com/cdn-cgi/trace](https://www.npmjs.com/cdn-cgi/trace)
+
+---
 
 ### 🕒 2026-04-18 14:37:37 UTC
 لینک داخلی نسخه اسلیپنت ۲.۵.۲  Slipnet 2.5.2  Full universal  http://kalbod-team.ir/f/c709ac71778b4839  Full V8a http://kalbod-team.ir/f/0b5ad4a22d3f41b5 •••••••••••••  Lite universal  http://kalbod-team.ir/f/20773593e61f471f  Lite V8a http://kalbod-team.…
