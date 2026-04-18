@@ -1,5 +1,5 @@
 # آرشیو کانال: @kia_net
-بروزرسانی: 2026-04-18 07:22:22 UTC
+بروزرسانی: 2026-04-18 09:04:25 UTC
 
 ### 🕒 2026-04-17 16:13:26 UTC
 ***🚀***
@@ -86,59 +86,6 @@
 
 ### 🕒 2026-04-17 12:11:22 UTC
 {"remarks":"کیانت","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"fuckrc.enhanzy.com","port":443,"users":[{"id":"c2bf8051-3fce-4e16-b10c-ca15176136b5","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-
----
-
-### 🕒 2026-04-17 08:04:25 UTC
-**آموزش جدید اتصال با روش spoofsni در اندروید با ترموکس و V2Ray**
- 
-**ابتدا برنامه ی Termux را از یکی از لینک های داخلی زیر نصب کنید:**
-**لینک داخلی :**
-[https://uplod.ir/ebhs63tr7jzs/Termux.zip.htm](https://uplod.ir/ebhs63tr7jzs/Termux.zip.htm)
- 
-**قبل اینکه مراحل رو برید اول چک کنید آیا این روش برای شما جواب میده یا نهاین دستور رو در ترموکس بزنید :**
-`ping static.cloudflareinsights.com`
-اگه نوشت Time Out یعنی جواب نمیده باید یه SNI دیگه تست کنید. اما اگر پینگ داد (مطابق عکس بالا) یعنی این روش براتون وصل میشه. برای ادامه مراحل در ترموکس کلید CTRL و حرف C رو بزنید تا دستور پینگ متوقف بشه.
- به VPN وصل بشید چون در ترموکس باید پکیج دانلود بشه و ادامه مراحل نیاز به فیلترشکن داره.
- 
-**دستورات زیر رو به ترتیب بزنید: **
-pkg update
-pkg upgrade
-pkg install python
-pkg install git
-termux-setup-storage
-git clone 
-[https://github.com/Rainman69/SNISPF.git](https://github.com/Rainman69/SNISPF.git)
-cd SNISPF
-pip install .
- 
-**خب حالا VPN خودتون رو قطع کنید و دستور زیر رو بزنید:**
-snispf -l 
-[0.0.0.0:40443](http://0.0.0.0:40443/)
- -c 
-[104.16.80.73](http://104.16.80.73/)
- -s 
-[static.cloudflareinsights.com](http://static.cloudflareinsights.com/)
- حالا برید وارد برنامه V2RayNG بشید و از منوی کناری Per-app settings رو بزنید تیک Enable per-app رو فعال کنید و فقط تلگرام رو انتخاب کنید  به عقب برگردید این سرور رو اضافه کنید و وصل بشید:
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=%2F#@V2raysCollector
-برای قطع کردن اتصال کافیه در ترموکس دکمه CTRL و دکمه C در کیبورد گوشیتون رو بزنید و سرور V2ray هم داخل برنامه قطع کنید. برای اتصال مجدد فقط کافیه دستور SNI رو دوباره در ترموکس وارد کنید و اینتر بزنید که اجرا بشه یعنی این دستور:
-snispf -l 
-[0.0.0.0:40443](http://0.0.0.0:40443/)
- -c 
-[104.16.80.73](http://104.16.80.73/)
- -s 
-[static.cloudflareinsights.com](http://static.cloudflareinsights.com/)
-در مرحله اخر  v2ray رو روشن کنید 
-چند تا Sni متصل :
-104.17.72.206
-188.114.98.0
-104.18.12.149
-104.18.16.56
-172.64.149.54
-104.16.80.73
-static.cloudflareinsights.com
-sourceforge.net
-[@kia_net](https://t.me/kia_net)
 
 ---
 
