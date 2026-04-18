@@ -1,5 +1,110 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-18 11:41:33 UTC
+بروزرسانی: 2026-04-18 13:12:17 UTC
+
+### 🕒 2026-04-18 12:54:00 UTC
+SlipNet v2.5.2 — Changelog  New Tunnel: VLESS over CDN  - VLESS over WebSocket through any CDN IP (Cloudflare tested). Routes UUID + raw TCP payload through the CDN edge to your server. - WebSocket is the only transport currently exposed in the UI — importing…
+
+---
+
+### 🕒 2026-04-18 12:50:24 UTC
+**SlipNet v2.5.2 — Changelog**
+**New Tunnel: VLESS over CDN**
+- VLESS over WebSocket through any CDN IP (Cloudflare tested). Routes UUID + raw TCP payload through the CDN edge to your server.
+- 
+**WebSocket is the only transport currently exposed in the UI — importing a VLESS URI with a non-WebSocket transport (tcp, grpc, kcp, etc.) surfaces a warning and is skipped.**
+- Reality URIs are accepted but downgraded to plain TLS; XTLS-Vision flows are silently ignored. (A raw-TCP VLESS path exists inside the bridge for future use but is not reachable from the profile editor or the URI importer.)
+- Built-in local SOCKS5 front — works in both VPN and proxy-only modes.
+---
+**SNI Fragmentation (DPI Bypass)**
+Six strategies (selectable per profile):
+- 
+**Micro ★★**
+ — 1 byte per TLS record + forced TCP MSS cap. Strongest against reassembling DPI; reduces post-handshake throughput.
+- 
+**Multi ★**
+ — 16–40 byte TLS records with random jitter. Balanced stealth and speed.
+- 
+**Disorder ★**
+ — TTL-bombs the first half so packets arrive out of order. Defeats in-order reassembly DPI.
+- 
+**Fake**
+ — Sends a decoy ClientHello (custom hostname) with low TTL; kernel retransmit delivers the real one after DPI decision.
+- 
+**SNI Split**
+ — Classic byte-split inside the SNI hostname. Low overhead.
+- 
+**Half**
+ — Splits the ClientHello in half. Fallback when SNI location cannot be parsed.
+**Advanced options (Profile Editor):**
+- 
+**Decoy Hostname (Fake)**
+ — Any allowed SNI (default: 
+`www.google.com`
+). Truncated or space-padded to match real hostname length.
+- 
+**Decoy TTL (Fake / Disorder)**
+ — 1–64 hops. Must expire between local DPI and CDN edge.
+- 
+**Fragment Delay**
+ — ~50 ms (normal networks), 300–500 ms (aggressive DPI).
+- 
+**Force TCP MSS**
+ — 
+`0`
+ = auto (Micro / padding only), 
+`40–1400`
+ = explicit cap, negative = disabled.
+- 
+**ClientHello Padding**
+ — Micro-fragments every byte (~6× overhead).
+- 
+**TLS SNI Override**
+ — Replace handshake SNI (domain fronting).
+- 
+**WS Header Obfuscation**
+ — Browser-like randomized WebSocket upgrade headers.
+- 
+**WS Cover Traffic**
+ — Random-size ping frames during relay.
+---
+**Locked profiles**
+- VayDNS advanced settings are now editable on locked profiles. The full block (Response Record Type, Query Length, Query Rate Limit, Idle Timeout, Keepalive, UDP Timeout) renders in the locked-profile editor, so users can tune wire-level DNS behavior without needing the unlocked config. Core connection fields (server, UUID, resolvers) remain locked.
+**Server Reachability & Profile Sorting**
+- 
+**Sort by ping**
+ — Reorders profiles by latency (fastest first). Failed profiles sink to bottom; order persists.
+- 
+**Improved DNS-tunnel testing (DNSTT, NoizDNS, VayDNS + SSH):**
+  - Iterates resolvers sequentially; fails only if all fail or time budget is exhausted.
+  - Hard timeout prevents slow profiles from blocking the entire test.
+  - Uses isolated ephemeral tunnel clients (unique ports) instead of shared bridges → fixes 
+`Bridge start failed`
+ / port collisions.
+  - Stops after tunnel handshake (Noise + KCP + smux + SOCKS5 / SSH banner). Avoids false negatives from external fetch checks.
+- 
+**VLESS testing**
+ now targets CDN edge directly (
+`cdnIp:cdnPort`
+) to match real TLS/WS behavior.
+---
+**Fixes**
+- VayDNS / VayDNS+SSH traffic stats now update correctly in proxy-only mode (previously stuck at 0).
+**لینک داخلی نسخه ۲.۵.۲**
+Full universal 
+[http://kalbod-team.ir/f/c709ac71778b4839](http://kalbod-team.ir/f/c709ac71778b4839)
+
+---
+
+### 🕒 2026-04-18 11:51:47 UTC
+برای گوشی ترموکس روت لازم داره
+
+---
+
+### 🕒 2026-04-18 11:47:36 UTC
+***☠️***
+آموزش روش جدید و قدرتمند SNI Spoofing - اتصال رایگان و بدون هزینه به اینترنت آزاد!   دانلود فایل نرم افزار:  دانلود از تلگرام | لینک پروژه در گیتهاب | لینک دانلود داخلی | لینک دانلود داخلی۲  توی این ویدیو آموزش کامل و قدم‌به‌قدم می‌دم که چطور بتونید به صورت…
+
+---
 
 ### 🕒 2026-04-18 11:34:20 UTC
 [**#Spoof**](?q=%23Spoof)
