@@ -1,5 +1,5 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-04-17 23:49:54 UTC
+بروزرسانی: 2026-04-18 02:44:05 UTC
 
 ### 🕒 2026-04-17 19:41:24 UTC
 **AM TUNNEL LITE**
@@ -722,30 +722,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.239.245.250:443?path=%2F%3FTelegr
 ***👍***
  OR 
 ***👎***
-
----
-
-### 🕒 2026-04-16 23:51:33 UTC
-این کافینگ  نرم افزار های زیر متصل هست برای افرادی که کار ضروری دارن و اینستا و تلگرام و .. باهاش نمیاد 
-سرویس های قابل دسترس با این کانفیگ:
-***✅***
- Google Search
-***✅***
- Gmail
-***✅***
- Google Maps
-***✅***
- Google Chat
-***✅***
- Google Drive
-غیرقابل دسترس:
-***❌***
- Google Play: App installs and updates do not work.
-***❌***
- YouTube: Videos cannot be played.
-***❌***
- Google Meet: Calls cannot be established.
-`{  "dns": {    "queryStrategy": "UseIPv4",    "hosts": {      "geosite:google": "www.google.com"    },    "servers": [      "217.218.127.127"    ]  },  "inbounds": [    {      "listen": "127.0.0.1",      "port": 10808,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true,        "userLevel": 8      },      "sniffing": {        "destOverride": [          "http",          "tls"        ],        "enabled": true      },      "tag": "socks"    },    {      "listen": "127.0.0.1",      "port": 10809,      "protocol": "http",      "settings": {        "userLevel": 8      },      "tag": "http"    },    {      "port": 10853,      "protocol": "dokodemo-door",      "settings": {        "address": "217.218.127.127",        "network": "tcp,udp",        "port": 53      },      "tag": "dns-in"    }  ],  "log": {    "loglevel": "none"  },  "outbounds": [    {      "protocol": "freedom",      "settings": {        "domainStrategy": "UseIPv4"      },      "tag": "direct"    },    {      "protocol": "dns",      "tag": "dns-out"    },    {      "protocol": "blackhole",      "settings": {        "response": {          "type": "http"        }      },      "tag": "block"    },    {      "protocol": "socks",      "tag": "dummy",      "settings": {        "servers": [          {            "address": "127.0.0.1",            "port": 10808          }        ]      }    }  ],  "remarks": "Google Services",  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      },      {        "inboundTag": [          "socks-in"        ],        "port": 53,        "outboundTag": "dns-out",        "type": "field"      },      {        "ip": [          "10.10.34.34",          "10.10.34.35",          "10.10.34.36"        ],        "outboundTag": "block",        "type": "field"      }    ]  }}`
 
 ---
 
