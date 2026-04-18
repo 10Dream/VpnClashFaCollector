@@ -1,5 +1,74 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-18 13:12:17 UTC
+بروزرسانی: 2026-04-18 14:47:08 UTC
+
+### 🕒 2026-04-18 14:37:37 UTC
+لینک داخلی نسخه اسلیپنت ۲.۵.۲  Slipnet 2.5.2  Full universal  http://kalbod-team.ir/f/c709ac71778b4839  Full V8a http://kalbod-team.ir/f/0b5ad4a22d3f41b5 •••••••••••••  Lite universal  http://kalbod-team.ir/f/20773593e61f471f  Lite V8a http://kalbod-team.…
+
+---
+
+### 🕒 2026-04-18 14:09:50 UTC
+کانفیگ جیسون + Fragment 
+برای نت های ضعیف‌تر
+***💚***
+{
+  "LISTEN_HOST": "0.0.0.0",
+  "LISTEN_PORT": 40443,
+  "CONNECT_IP": "104.19.229.21",
+  "CONNECT_PORT": 443,
+  "FAKE_SNI": "hcaptcha.com",
+  "BYPASS_METHOD": "fragment",
+  "FRAGMENT_STRATEGY": "sni_split",
+  "FRAGMENT_DELAY": 0.1,
+  "USE_TTL_TRICK": false,
+  "FAKE_SNI_METHOD": "prefix_fake",
+  "SCANNER_ENABLED": false,
+  "SCANNER_COUNT": 100,
+  "SCANNER_CONCURRENCY": 16,
+  "SCANNER_TIMEOUT": 4.0,
+  "SCANNER_TEST_DOWNLOAD": false,
+  "SCANNER_RESCAN_INTERVAL": 0,
+  "SCANNER_CACHE": "",
+  "SCANNER_TOP_N": 10,
+  "SCANNER_CUSTOM_RANGES": [],
+  "SNI_DOMAINS": []
+}
+[@Patternihaaa](https://t.me/Patternihaaa)
+
+---
+
+### 🕒 2026-04-18 14:06:23 UTC
+ورژن گرافیکی SNI Spoof
+دوستانی که با نرم‌افزار قبلی مشکل دارن اینو تست کنن
+[https://github.com/atarevals/SNI-Spoofing/releases](https://github.com/atarevals/SNI-Spoofing/releases)
+داخلی 
+[https://my.files.ir/drive/s/L3p8XC9S4C5olugIkn819e59KdVyHe](https://my.files.ir/drive/s/L3p8XC9S4C5olugIkn819e59KdVyHe)
+مراحل:
+Run as administrator  
+مثل تصویر مقادیر تغییر بدید و استارت کنید
+سپس به کانفیگ های زیر متصل‌شید: 
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#Patternihaaa
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=%2F#Patternihaaa
+[@Patternihaaa](https://t.me/Patternihaaa)
+
+---
+
+### 🕒 2026-04-18 13:44:49 UTC
+**لینک داخلی نسخه اسلیپنت ۲.۵.۲**
+Slipnet 2.5.2
+Full universal 
+[http://kalbod-team.ir/f/c709ac71778b4839](http://kalbod-team.ir/f/c709ac71778b4839)
+Full V8a
+[http://kalbod-team.ir/f/0b5ad4a22d3f41b5](http://kalbod-team.ir/f/0b5ad4a22d3f41b5)
+•••••••••••••
+Lite universal 
+[http://kalbod-team.ir/f/20773593e61f471f](http://kalbod-team.ir/f/20773593e61f471f)
+Lite V8a
+[http://kalbod-team.ir/f/84fe354d06f744d1](http://kalbod-team.ir/f/84fe354d06f744d1)
+Lite V7a
+[http://kalbod-team.ir/f/03d31889a2424a08](http://kalbod-team.ir/f/03d31889a2424a08)
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+
+---
 
 ### 🕒 2026-04-18 12:54:00 UTC
 SlipNet v2.5.2 — Changelog  New Tunnel: VLESS over CDN  - VLESS over WebSocket through any CDN IP (Cloudflare tested). Routes UUID + raw TCP payload through the CDN edge to your server. - WebSocket is the only transport currently exposed in the UI — importing…
@@ -89,9 +158,6 @@ Six strategies (selectable per profile):
 ---
 **Fixes**
 - VayDNS / VayDNS+SSH traffic stats now update correctly in proxy-only mode (previously stuck at 0).
-**لینک داخلی نسخه ۲.۵.۲**
-Full universal 
-[http://kalbod-team.ir/f/c709ac71778b4839](http://kalbod-team.ir/f/c709ac71778b4839)
 
 ---
 
