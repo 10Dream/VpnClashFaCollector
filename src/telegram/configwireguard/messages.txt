@@ -1,5 +1,5 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-18 14:47:08 UTC
+بروزرسانی: 2026-04-18 15:44:25 UTC
 
 ### 🕒 2026-04-18 14:37:37 UTC
 لینک داخلی نسخه اسلیپنت ۲.۵.۲  Slipnet 2.5.2  Full universal  http://kalbod-team.ir/f/c709ac71778b4839  Full V8a http://kalbod-team.ir/f/0b5ad4a22d3f41b5 •••••••••••••  Lite universal  http://kalbod-team.ir/f/20773593e61f471f  Lite V8a http://kalbod-team.…
@@ -265,40 +265,6 @@ slipnet-enc://ATuhJ+oka1AImYB1BRCemvntyieHQPoUJtkaRaVRWo3c/mcV/GVcC1yBRJ+Sa5jrJn
 ### 🕒 2026-04-18 06:36:02 UTC
 slipnet-enc://AYHfk9oT8ypFRsLS3R1qzRBJpf3SHAtIiGHHmhk79tbty4UEzF2orYJdRSwsLwqQswuFdLeqiDpQsTKwbUXsZL+cFcoOBz4Afav62vgpEhlRwTYedzvzTLdKnd8EeLBx28Ucap5DBzTNyWtoYjQ1BmfIxSFSva6rDM29zL23l2oIQwLuQ2uwzuytQDpxAcLGlw/heck3ibN2V7flpqaoVwendT0kx3K4t1g/8TEbmo2dAOUwIYu2A9FnOUzFU91EQ0kk/7dLeOUEhCFQA+8B3BwZutPyODzWlNfi4lhrUHhQCBrmE1AKXT51HABlhv9LzpcHEY8OHG2Dn9N9p0eojD5AYNmHdg5YFhGD4gpgKzkrWMXQcYONKIUXvuYdJkhy4gd0rw/kdnnUx9AiZdAKhvA4fR0PhHNvHeRo4OTtAW9eDkF+hgA8KfpNFHo0iQotPjvVqa5EgRMR0er3x6HLh963HA4zSEULwj3ObtHgrtl4aWyA2wlgvjaNw5BsgHt3lt85VJbZBWOSUi/0yg6XuhDpIEmAF2uUzxDK8AKQtFrAaFdHk5FfU9iNPumMGywb
 slipnet-enc://AVYbAkYOLI8zRIgK6P71P2bxlckluKXPOZ/2sM5ZCAkgzxlvS7XT0UYIKUE8MleSKgWsTvTPBLNu9XGGHREQ5/G+jmz9pN+i1q6PH8v5T32FqRIH4Jg3/BMBS2bED9gMzKliYTnbqz4R0mJlQNTORepMljAzNWK1ZNG5U79X9ety/mpYt4W8ZK6nKuTLk6zg8lxYO/IC8zkXlgQ4RSPUBhLWnNTYqg8XSv7MUWdOve/+mQK1fPGUmnEX9cspR1oFX5w2JuCMf/g0Fs7lf5TXhSWkENBtTX5YJkLtsS0IVbBq063x40xrXl98Eqyh3SR/pT1yhaYwY6DWozS00zE4ddFf3qLUlGX+Emdf+IvitmINVBIfBH5Oq9o11hurHF56BdlzYSAfJVgQlOwJZxIdbeKgUV107AOXQBT7t85GYqK15uYfO/MO89M0FIsbxSzIGrddAj3cCaWbaoy4iPAJrjpsgTAezjKCvI/5DhLMohh2CETHE4sOr6TXwnYYCnS5aa9yAwpkxct+uvzoQEgr04ImcKifvLKDZo5rzr6yUTwaqs0OYkCXAhbRxT9Pc/bQBIUkxQELF0bp6eJH4kDc8d0HoA826eCciWzhUgQPHEZnn8q+ieCGbqMOmEZFvNn/aCYOPy8=
-
----
-
-### 🕒 2026-04-17 15:03:21 UTC
-***🔗***
- لینک دانلود داخلی ورژن  v0.10.2:
-`http://kalbod-team.ir/f/2dacc384c73c4285`
-***⚠️***
- برای امنیت بیشتر بعد از دانلود میتونید با برنامه  hash check مقدار sha256 برنامه رو چک کنید و مطمئن بشید این هست:
-`f89dbe7a6b3d8340de867da4c7d3bbdccb7a45dd7903ffecf51097fff315a78e`
-***✅***
- این نشون میده که برنامه دست نخورده هست
-
----
-
-### 🕒 2026-04-17 15:03:21 UTC
-نسخه جدید (v0.10.2)
-***👆***
-تغیرات مهم این‌ نسخه:
-- بجای اینکه هر کانفیگ یک لیست ریزالور جدا داشته باشه دیگه یک بانک ریزالور هست که برنامه از اون استفاده میکنه، زمان اضافه کردن کانفیگ هم میپرسه میخوای ریزالور های کانفیگ رو به بانک ریزالور اضافه کنم یا نه
-- یک سری باگ بود که رفع کردم
-- برنامه هر یک ساعت یکبار ریزالور هارو مجدد چک میکنه، این رو از این ورژن میتونید از توی تنظیمات غیر فعال کنید
-- یکم ظاهر برنامه عوض شد
-- تفیر پرچم جمهوری اسلامی به پرچم شیر و خورشید (توی اسکنر یک دکمه برای ای پی های ایران هست که پرچم داشت)
-- بیلد arm7a (تست نشده و شاید کار نکنه واسه همین توی کانال نمیزارمش)
-- رفع مشکل رنگ نوتیفیکیشن بار گوشی
-- قابلیت ست کردن پسورد برای برنامه
-- نشون دادن <نظر سنجی ها> (وقتی رو نظرسنجی ریپلای خورده باشه مشکل میخوره و نشونش نمیده!)
-- نشون دادن هایپر لینک ها
-- نشون دادن ریپلای ها (اگر پستی که روش ریپلای شده باشه توی سابقه چت باشه نشونش میده)
-پیشنهاد میکنم اپدیت کنید
-sha256 arm64 (arm8a):
-`f89dbe7a6b3d8340de867da4c7d3bbdccb7a45dd7903ffecf51097fff315a78e`
-[https://github.com/sartoopjj/thefeed](https://github.com/sartoopjj/thefeed)
 
 ---
 
