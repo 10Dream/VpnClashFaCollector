@@ -1,33 +1,29 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-19 17:42:42 UTC
+بروزرسانی: 2026-04-19 19:00:23 UTC
+
+### 🕒 2026-04-19 18:04:48 UTC
+***🚨***
+ 
+**کل اینترنت مملکت رو بردن پشت NAT**
+***🛑***
+ تصور کنید فیلترینگ مثل یه درِ بزرگ قفله که نمی‌ذاره بعضی جاها رو تو اینترنت دید. مردم راه‌های زیادی پیدا کردن که از این در رد بشن چ دولت دیگه نمی‌تونست همه این راه‌ها رو بگیره. خیلی سخت شده بود.
+برای همین دولت یه کار جدید کرد: همه اینترنت ایران رو انداخت تو یه «اتاق بزرگ» (بهش می‌گن NAT). حالا به جای اینکه هر کسی جداگانه از در رد بشه، همه باید اول برن تو این اتاق بزرگ. این همون تبدیل فیلترینگ نرم به سخت هست!!
+***🛑***
+ به نظر من استفاده از NAT یه راهکار موقته واسه اینکه هم بتونن اینترنت رو به صورت محدود متصل نگه دارن و هم با روشهای دور زدن فیلترینگ مقابله کنن.
+این کار یه پیام روشن داره و اونم اینه که الگوریتمها و الگوهای شناسایی ترافیک غیرمجاز که داخل سیستمهای فیلترینگ استفاده میشه، توانایی مقابله کم هزینه با روشهای اخیر دور زدن فیلترینگ رو نداره. در نتیجه تنها راهکار موثری که میمونه اینه که تا زمانی که منابع جدید به سیستم اصافه نشده یا الگوریتمهای بهینه‌تر پیدا نشده، دست به دامن استفاده از تجهیزات استاندارد و پاخورده شبکه مثل روترهای قوی با قابلیت stateful NAT بشن و ترافیک TCP رو داخل کشور terminate کنن، بعدش اون ترافیک رو از فیلترینگ عبور بدن.
+با این روش به جای اینکه تلاش بشه با روشهای آماری و DPI و in software داخل هر بسته بررسی بشه، کار اعتبار و صحت‌سنجی ارتباطات TCP به NAT router ها offload میشه که این کار رو in hardware، با منابع کمتر و سریعتر انجام میدن و قیمت کمتری دارن و میشه راحت خریدشون.
+اصولا وقتی پای NAT وسط بیاد، دیگه شما نمیتونید بسته‌های فیک با checksum اشتباه بفرستید چون NAT router دوباره checksum رو حساب میکنه و بسته رو دور میندازه.
+ولی همچنان با TCP sequence number و TTL کاری نداره.
+از اونجایی که امکان بررسی مستقیم بسته‌ای که از ایران به سمت سرور خارج از کشوری که دست من باشه وجود نداره (چون فقط یه سری IPهای محدود باز هستن) نمیشه در این مورد قطعا نظر داد ولی اگه سروری دارید که میشه از ایران مستقیما دیدش (نه پشت CDN) میتونید این رو تست کنید ببینید چه بلایی سر seq و ttl میاد.
+به هر صورت این مساله از نظر من یه شکست بزرگ برای فیلترینگ ایران محسوب میشه.
+واسه اینم به زودی یه راهی پیدا میشه!
+***©***
+aleskxyz
+
+---
 
 ### 🕒 2026-04-19 06:42:20 UTC
 `slipnet://MjR8ZG5zdHR8QEthbGJvZFRlYW0gLXxxLmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MCwxOTIuMTY4Ljg4LjE4ODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw5YzI1MmY1NjM0NjAwMmY5ZmRkZmQ3YjY4MWZmM2Q1NmZiZjEzMGEwOWFmYmRjMjJhM2U2YjUyMDcxZWM4MTc1fEthbGJvZFRlYW18S2FsYm9kVGVhbXwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDUwfDEwODB8MHx0eHR8MTAxfDAuMHwwfDB8MHwwfDB8MHx8fDgwODB8fDB8L3wxfHx8cm91bmRyb2Jpbnwzslipnet://MjR8c2F5ZWRuc3xAS2FsYm9kVGVhbSAtfHEua2FsYm9kdGVhbS5vbmxpbmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw5YzI1MmY1NjM0NjAwMmY5ZmRkZmQ3YjY4MWZmM2Q1NmZiZjEzMGEwOWFmYmRjMjJhM2U2YjUyMDcxZWM4MTc1fEthbGJvZFRlYW18S2FsYm9kVGVhbXwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MC4wfDB8MHwwfDB8MHwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDM=slipnet://MjR8ZG5zdHRfc3NofEBLYWxib2RUZWFtIC18dy5rYWxib2R0ZWFtLm9ubGluZXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDljMjUyZjU2MzQ2MDAyZjlmZGRmZDdiNjgxZmYzZDU2ZmJmMTMwYTA5YWZiZGMyMmEzZTZiNTIwNzFlYzgxNzV8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDF8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHx0eHR8MTAxfDAuMHwwfDB8MHwwfDB8MHx8fDgwODB8fDB8L3wxfHx8cm91bmRyb2Jpbnwzslipnet://MjR8c2F5ZWRuc19zc2h8QEthbGJvZFRlYW0gLXx3LmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8OWMyNTJmNTYzNDYwMDJmOWZkZGZkN2I2ODFmZjNkNTZmYmYxMzBhMDlhZmJkYzIyYTNlNmI1MjA3MWVjODE3NXxLYWxib2RUZWFtfEthbGJvZFRlYW18MHxLYWxib2RUZWFtfEthbGJvZFRlYW18MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MC4wfDB8MHwwfDB8MHwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDM=slipnet://MjR8c3N8QEthbGJvZFRlYW0gLXxlLmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8fEthbGJvZFRlYW18S2FsYm9kVGVhbXwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MC4wfDB8MHwwfDB8MHwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDM=slipnet://MjR8c2xpcHN0cmVhbV9zc2h8QEthbGJvZFRlYW0gLXxyLmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8fEthbGJvZFRlYW18S2FsYm9kVGVhbXwxfEthbGJvZFRlYW18S2FsYm9kVGVhbXwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwLjB8MHwwfDB8MHwwfDB8fHw4MDgwfHwwfC98MXx8fHJvdW5kcm9iaW58Mw==slipnet://MjR8dmF5ZG5zfEBLYWxib2RUZWFtIC18dC5rYWxib2R0ZWFtLm9ubGluZXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDE4NWVlZjQyOTYzN2FlZTM4MDA2MDc2NGQ4Yzg5ZjlhMDc1MzA5NWYzM2RlZWVmNTQxZGFlYmQ5MjlkM2QxMzV8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8bnN8MTAxfDAuMHwwfDB8MHwwfDJ8MHx8fDgwODB8fDB8L3wxfHx8cm91bmRyb2Jpbnwzslipnet://MjR8dmF5ZG5zX3NzaHxAS2FsYm9kVGVhbSAtfHkua2FsYm9kdGVhbS5vbmxpbmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwxODVlZWY0Mjk2MzdhZWUzODAwNjA3NjRkOGM4OWY5YTA3NTMwOTVmMzNkZWVlZjU0MWRhZWJkOTI5ZDNkMTM1fEthbGJvZFRlYW18S2FsYm9kVGVhbXwxfEthbGJvZFRlYW18S2FsYm9kVGVhbXwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8bnN8MTAxfDAuMHwwfDB8MHwwfDJ8MHx8fDgwODB8fDB8L3wxfHx8cm91bmRyb2Jpbnwz`
-
----
-
-### 🕒 2026-04-18 18:15:26 UTC
-سایتهای جدیدی که دقایقی پیش در اکثر اینترنت ها باز شده اند :
-[sciencedirect.com](http://sciencedirect.com/)
- 
-[github.com](http://github.com/)
-[e7.c.lencr.org](http://e7.c.lencr.org/)
- 
-[npmjs.com](http://npmjs.com/)
-
----
-
-### 🕒 2026-04-18 18:15:26 UTC
-سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 
-[2.189.52.0/24](http://2.189.52.0/24)
- و 
-[2.189.53.0/24](http://2.189.53.0/24)
- (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت کشور خارج نمی‌شود
-جهت بررسی این موضوع میتوانید انتهای سایت های کلودفلر را پت /cdn-cgi/trace  اضافه کنید و ایپی متصل شده را مشاهده کنید  ( اگر ایپی اینترنت شما مشاهده نشود به معنای هایجک شدن آن می باشد ) 
-به این صورت : 
-[https://www.sciencedirect.com/cdn-cgi/trace](https://www.sciencedirect.com/cdn-cgi/trace)
-[https://e7.c.lencr.org/cdn-cgi/trace](https://e7.c.lencr.org/cdn-cgi/trace)
-[https://www.npmjs.com/cdn-cgi/trace](https://www.npmjs.com/cdn-cgi/trace)
 
 ---
 

@@ -1,5 +1,5 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-04-19 17:47:37 UTC
+بروزرسانی: 2026-04-19 19:05:27 UTC
 
 ### 🕒 2026-04-19 13:30:08 UTC
 دوستان میگن متد جدید ترکیب open vpn با sni spoof هست که جواب میده
@@ -74,44 +74,6 @@
 
 ### 🕒 2026-04-18 20:01:35 UTC
 فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده
-
----
-
-### 🕒 2026-04-18 18:41:34 UTC
-***⚡️***
-تست کنید دوستان
-{
-  "LISTEN_HOST": "0.0.0.0",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "203.22.241.9",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "sciencedirect.com",
-  "QUEUE_NUM": 1000,
-  "HANDSHAKE_TIMEOUT_MS": 2000
-}
-{
-  "LISTEN_HOST": "127.0.0.1",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "104.18.20.213",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "e7.c.lencr.org"
-}
-{
-  "LISTEN_HOST": "0.0.0.0",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "87.236.208.39",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "serverless.hcaptcha.com",
-  "QUEUE_NUM": 1000,
-  "HANDSHAKE_TIMEOUT_MS": 2000
-}
-{
-  "LISTEN_HOST": "0.0.0.0",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "104.17.70.206",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "emails.github.com"
-}
 
 ---
 
