@@ -1,5 +1,35 @@
 # آرشیو کانال: @freedom_soldiers1
-بروزرسانی: 2026-04-19 14:49:19 UTC
+بروزرسانی: 2026-04-19 15:47:17 UTC
+
+### 🕒 2026-04-19 15:35:17 UTC
+**مملکت به جنگ نیاز نیست که به عصر حجر برگرده ، همین که یکی از عادی ترین حق های جامعه یعنی اینترنت رو ازش دریغ میکنید ، باعث میشه قرن ۲۱ تبدیل به عصر حجر بشه .**
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-19 15:28:30 UTC
+**میخوان به صاحبان کسب و کار اینترنت پرو بدن ولی به مردم عادی نه ، مثل این هست که پاساژ رو باز کنی ولی جلوش دیوار بکشی مشتری نتونه بیاد داخل !**
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-19 15:25:25 UTC
+**کل اینترنت مملکت رو بردن پشت NAT**
+استفاده از NAT  یه راهکار موقته، واسه اینکه هم بتونن اینترنت رو بصورت محدود متصل نگه دارن و هم با روشهای دور زدن فیلترینگ مقابله کنن. 
+این کار یه پیام روشن داره و اونم اینه که الگوریتمها و الگوهای شناسایی ترافیک غیرمجاز که داخل سیستمهای فیلترینگ استفاده میشه، توانایی مقابله کم هزینه با روشهای اخیر دور زدن فیلترینگ رو نداره. در نتیجه تنها راهکار موثری که می‌مونه اینه که تا زمانی که منابع جدید به سیستم اصافه نشده یا الگوریتمهای بهینه‌تر پیدا نشده، دست به دامن استفاده از تجهیزات استاندارد و پاخورده شبکه مثل روترهای قوی با قابلیت Stateful NAT بشن و ترافیک TCP رو داخل کشور terminate کنن، بعدش اون ترافیک رو از فیلترینگ عبور بدن.
+با این روش به جای اینکه تلاش بشه با روشهای آماری و DPI و in software داخل هر بسته بررسی بشه، کار اعتبار و صحت‌سنجی ارتباطات TCP به NAT routerها offload میشه، که این کار رو in hardware، با منابع کمتر و سریعتر انجام میدن و قیمت کمتری دارن و میشه راحت خریدشون.
+اصولا وقتی پای NAT وسط بیاد، دیگه شما نمیتونید بسته‌های فیک با checksum اشتباه بفرستید، چون NAT router دوباره checksum رو حساب میکنه و بسته رو دور میندازه. ولی همچنان با TCP sequence number و TTL کاری نداره. از اونجایی که امکان بررسی مستقیم بسته‌ای که از ایران به سمت سرور خارج از کشوری که دست من باشه وجود نداره (چون فقط یه سری IPهای محدود باز هستن) نمیشه در این مورد قطعا نظر داد، ولی اگه سروری دارید که میشه از ایران مستقیما دیدش (نه پشت CDN) میتونید این رو تست کنید، ببینید چه بلایی سر seq و ttl میاد.
+به هر صورت این مساله یه شکست بزرگ برای فیلترینگ ایران محسوب میشه. واسه اینم به زودی یه راهی پیدا میشه!
+منبع : کانال IRCF
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-04-19 15:19:55 UTC
+**بعضی از مناطق میگن تلگرام رو همراه اول بدون فیلتر میاد ، باز دارن فایروال رو آپدیت میکنن .**
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
 
 ### 🕒 2026-04-19 13:28:54 UTC
 **﻿با 60 سال سن ازدواج هاشو کرده، بچه هاشو آوردهماشین هاشو خریدهخونه هاشو خریدهزمین هاشو خریدهاز پدر و مادر بهش ارث رسیدهبعد برگشته میگه: جوونای الان خامن، تحت تاثیر رسانه ان نمی فهمن ...**
@@ -328,69 +358,6 @@ slipnet://Mjd8dmF5ZG5zX3NzaHxGcmVlZG9tX1NvbGRpZXJzMXx2cy5ub3QzcmY0bi5zaXRlfDIuMT
 
 ### 🕒 2026-04-18 16:05:17 UTC
 **دوستان رو پست ها اگه براتون وصل میشه لایک و اگه وصل نمیشه دیسلایک بزنیداین باعث میشه بدونیم چی براتون وصل میشه و کیفیت پست ها بالا بره .**
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 15:43:47 UTC
-**Slipstream **
-`slipnet-enc://AV6Qckw3/OCPGcnStTJJH9szftXSmT1BJ3mGjjOAPRMv3iBNa/SGhrvhpdBFgJSXKS3spzLzwM2NUpnj90U3Xsk9tj0CyAMnBiJKqGdfyZJ8MwykzigGRT6ZUmJgYGR5bTGDfyAOEBW90NXOyJXUxZX2ou6Vihbzluc8pQjGmggVU3Z09vVbmSEXktQ+uJA7LEGLJZUaKO6553nHo2aNOsCsJ07/WacNvtB5noLwtscjfWCKoSRpFRszscZAaxe0afaH/Wfk9+ig9PSAPq5MRtxwuuhIiL/LAZzlzYt/NX4qn0bFAs39ZcaXruqTsQylwBs2PL74bN/T52XKOAmbgYtnSGlEpwTAaPtVyZk9380CuFHlOXVqylW5MFCVq9301d6KP2DGs/1tHOXGMb3WZJeYD1koBGu0gKOy3pUrIi+wbsGwMb1i77uhVTcpGCd0VwJz5Yzu4pbYXi77bfgjcnhbJZM0tSD3me1x/irjXyPuU/L7kryvvxwOWCIPZON/n2G9u32fM9mVIw==`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:57:38 UTC
-**VayDNS+SSH**
-`slipnet://Mjd8dmF5ZG5zX3NzaHxARnJlZWRvbV9Tb2xkaWVyczF8Zy5rYWxib2R0ZWFtLm9ubGluZXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDk5M2QyYTJhNzRhYzhjYTBmN2NhZmQ0YWMzYzg2MmRkNzUyNTJhY2M2NWYwMDBhNWUwZjk2YjkzZmFlM2RmNzZ8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDF8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHxuc3wxMDF8MC4wfDB8MHwwfDB8MnwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDN8fHRsc3x3c3wvfHw0NDN8MXxzbmlfc3BsaXR8MzAwfHwwfDB8MHw4fHww`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:56:17 UTC
-**VayDNS**
-`slipnet://Mjd8dmF5ZG5zfEBGcmVlZG9tX1NvbGRpZXJzMXxmLmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8OTkzZDJhMmE3NGFjOGNhMGY3Y2FmZDRhYzNjODYyZGQ3NTI1MmFjYzY1ZjAwMGE1ZTBmOTZiOTNmYWUzZGY3NnxLYWxib2RUZWFtfEthbGJvZFRlYW18MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHxuc3wxMDF8MC4wfDB8MHwwfDB8MnwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDN8fHRsc3x3c3wvfHw0NDN8MXxzbmlfc3BsaXR8MzAwfHwwfDB8MHw4fHww`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:55:12 UTC
-**Slipstream+SSH**
-`slipnet://Mjd8c2xpcHN0cmVhbV9zc2h8QEZyZWVkb21fU29sZGllcnMxfHAua2FsYm9kdGVhbS5vbmxpbmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDF8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHwwfDEwODB8MHx0eHR8MTAxfDAuMHwwfDB8MHwwfDB8MHx8fDgwODB8fDB8L3wxfHx8cm91bmRyb2JpbnwzfHx0bHN8d3N8L3x8NDQzfDF8c25pX3NwbGl0fDMwMHx8MHwwfDB8OHx8MA==`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:52:54 UTC
-**Slipstream**
-`slipnet://Mjd8c3N8QEZyZWVkb21fU29sZGllcnMxfG8ua2FsYm9kdGVhbS5vbmxpbmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8S2FsYm9kVGVhbXxLYWxib2RUZWFtfDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwLjB8MHwwfDB8MHwwfDB8fHw4MDgwfHwwfC98MXx8fHJvdW5kcm9iaW58M3x8dGxzfHdzfC98fDQ0M3wxfHNuaV9zcGxpdHwzMDB8fDB8MHwwfDh8fDA=`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:51:15 UTC
-**NoizDNS+SSH**
-`slipnet://Mjd8c2F5ZWRuc19zc2h8QEZyZWVkb21fU29sZGllcnMxfGkua2FsYm9kdGVhbS5vbmxpbmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwwMDM2MzJhMmEwNDJiMGJjZDBkZWNhOTQwNDkwOGNhYjM5MjYxZTBhODk1MTY2YWI0OTkzYjE2NzA5OWMwMDA1fEthbGJvZFRlYW18S2FsYm9kVGVhbXwwfEthbGJvZFRlYW18S2FsYm9kVGVhbXwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgwfDB8dHh0fDEwMXwwLjB8MHwwfDB8MHwwfDB8fHw4MDgwfHwwfC98MXx8fHJvdW5kcm9iaW58M3x8dGxzfHdzfC98fDQ0M3wxfHNuaV9zcGxpdHwzMDB8fDB8MHwwfDh8fDA=`
-**Slipnet**
- 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-04-18 14:49:57 UTC
-**DNSTT+SSH**
-`slipnet://Mjd8ZG5zdHRfc3NofEBGcmVlZG9tX1NvbGRpZXJzMXxpLmthbGJvZHRlYW0ub25saW5lfDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MDAzNjMyYTJhMDQyYjBiY2QwZGVjYTk0MDQ5MDhjYWIzOTI2MWUwYTg5NTE2NmFiNDk5M2IxNjcwOTljMDAwNXxLYWxib2RUZWFtfEthbGJvZFRlYW18MXxLYWxib2RUZWFtfEthbGJvZFRlYW18MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MHwwfHR4dHwxMDF8MC4wfDB8MHwwfDB8MHwwfHx8ODA4MHx8MHwvfDF8fHxyb3VuZHJvYmlufDN8fHRsc3x3c3wvfHw0NDN8MXxzbmlfc3BsaXR8MzAwfHwwfDB8MHw4fHww`
-**Slipnet**
- 
 [@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
 
 ---
