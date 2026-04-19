@@ -1,5 +1,5 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-04-19 09:11:37 UTC
+بروزرسانی: 2026-04-19 10:10:26 UTC
 
 ### 🕒 2026-04-19 08:07:45 UTC
 `slipnet-enc://AXn4XFdkDO0ubgS32F2uqACoiViRRzwHyqYv2MEbY9yaQeAyMjC1ZPpMndGwR1U/6qMrGtC39pe8xRQHPBT4s+DvI2p2EJ1MLlCgFUSB490SQ2h357Us3tj/3da28rdXKABzOF4Hu96alUuygJaFKA6NcCnpG23ktXqtlt20pb/MoX+qRzWVD8/GV+aXvIc5YVu/RkixNTHNfEBV2rKEuVRpV9cJJi3w0TbK1sJQJ7qjMamnP8y2lYL4AU3OiBIiJbKf7ekCKOMb2BZLjDYRxQ2ZzjVih8YA+avhaGNc99gVOwVigX9Yu+JtoPJ9HpB77hUakAmcEdpVQwSku3LnDkuXD6MVYKNeCnhh6hMtHcNm2pz9MlseBnIG1rxGRBVAIQT1KN/jU9B90eE8OLtA1Ziajji8JCMs+uMatnM9k3n23B30K8PbAjyBTKyoW3c9oupmdyeHT2QfA06AZdU+tKeZ6waWUulAZpz6pTNlBvkITLtKvwIRBSPNxetPj/KHvwIbLTJziFzwx3EjpNY3IkvGtqkabfZAQxpPT1iSAYNlN039zPDB3WYbK70ECNIqhzUrGMYfHYM+HSnu7s8RMSV+GLyvjIWtBPja+Es9Hit3Mr3yuC9BaYYf4lw11iAQiGRNlgryEMASt9yzudai15dxJ39DiKC1j6xMiG2rrq/cX3hVQT38Opw6mzovCHJuDuFQAXwHWatJ7B0SpVOGjGEdVnDq+1Xt4cCzaUGjuE2GW1ilxtwfJLMYI1zr7ZOnNIqKe6aiscjXCfdJGNg=`
@@ -147,111 +147,6 @@ settings-> core settings -> allow connection from lan
 احتمال داره برای بعضیا پورت 10808 وصل نشه فقط کافیه هم تو برنامه ویندوز پورت ادیت کنید بزارید 10809
 هم تو کانفیگ ساکسی که تو برنامه اندروید ساختید پورت بزارید 10809
 تمااااامممممم.
-
----
-
-### 🕒 2026-04-18 10:08:24 UTC
-برای Sni spoof  vless://4e2b604a-d9ac-47f1-9892-e714bef4905e@127.0.0.1:40443?encryption=none&security=tls&sni=persiaaa.persiatmw.us&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=persiaaa.persiatmw.us&path=%2Fassignment&mode=aut…
-
----
-
-### 🕒 2026-04-18 10:08:12 UTC
-ویدیو آموزش
-
----
-
-### 🕒 2026-04-18 10:07:12 UTC
-آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  
-۱. دانلود برنامه Patterniha  
-آخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).
-[https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
-[ دانلود فایل با اینترنت داخلی](http://kalbod-team.ir/f/e4c7d3b8fc2c4dbe)
-۲. استخراج فایل‌ها  
-فایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.
-۳. فایل JSON رو آماده کنین  
-تو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین
-بعد این محتوا رو دقیق کپی کنین داخلش:
-{
-  "LISTEN_HOST": "
-[0.0.0.0](http://0.0.0.0/)
-",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "
-[104.19.229.21](http://104.19.229.21/)
-",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "
-[www.hcaptcha.com](http://www.hcaptcha.com/)
-",
-  "QUEUE_NUM": 1000,
-  "HANDSHAKE_TIMEOUT_MS": 2000
-}
-۴. برنامه رو اجرا کنین  
-- روی فایل Patterniha.exe راست کلیک کنین  
-- گزینه Run as administrator رو بزنین (خیلی مهمه!)
-۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  
-تو کانفیگی که داری فقط این دو تا رو عوض کن:
-- Address یا آدرس سرور → 
-[127.0.0.1](http://127.0.0.1/)
- 
-- Port یا پورت → 40443
-بقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.
-۶. وصل شو  
-کانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.
-نکات مهم:
- اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه
-- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.
-- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.
-- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.
-[hcaptcha.com](http://hcaptcha.com/)
-[newassets.hcaptcha.com](http://newassets.hcaptcha.com/)
-[js.hcaptcha.com](http://js.hcaptcha.com/)
-[imgs.hcaptcha.com](http://imgs.hcaptcha.com/)
-[imgs2.hcaptcha.com](http://imgs2.hcaptcha.com/)
-[imgs3.hcaptcha.com](http://imgs3.hcaptcha.com/)
-[assets.hcaptcha.com](http://assets.hcaptcha.com/)
-[api.hcaptcha.com](http://api.hcaptcha.com/)
-[analytics.hcaptcha.com](http://analytics.hcaptcha.com/)
-[stats.hcaptcha.com](http://stats.hcaptcha.com/)
-[three-cust.hcaptcha.com](http://three-cust.hcaptcha.com/)
-[tg.hcaptcha.com](http://tg.hcaptcha.com/)
-[primary.hcaptcha.com](http://primary.hcaptcha.com/)
-[dashboard.hcaptcha.com](http://dashboard.hcaptcha.com/)
-[billing.hcaptcha.com](http://billing.hcaptcha.com/)
-[accounts.hcaptcha.com](http://accounts.hcaptcha.com/)
-[proxy.hcaptcha.com](http://proxy.hcaptcha.com/)
-[loader.hcaptcha.com](http://loader.hcaptcha.com/)
-[challenge-tasks.hcaptcha.com](http://challenge-tasks.hcaptcha.com/)
-[serverless.hcaptcha.com](http://serverless.hcaptcha.com/)
-[health-check.hcaptcha.com](http://health-check.hcaptcha.com/)
-[email.hcaptcha.com](http://email.hcaptcha.com/)
-***©️***
-whitedns
-
----
-
-### 🕒 2026-04-18 10:06:44 UTC
-آموزش قدم به قدم اتصال یبار دیگه میزارم حواستون باشه برنامه واسه کامپیوتر نه اندروید!
-بعدش میتونید گوشیتون به هات اسپات ویندوز وصل کنید و ....
-
----
-
-### 🕒 2026-04-18 09:59:35 UTC
-برای Sni spoof
-vless://4e2b604a-d9ac-47f1-9892-e714bef4905e@127.0.0.1:40443?encryption=none&security=tls&sni=persiaaa.persiatmw.us&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=persiaaa.persiatmw.us&path=%2Fassignment&mode=auto#
-***⚡️***
-Telegram:@Vpn_m2s
-vless://cb45da39-01e3-4e07-bc9f-2d2e6c0ac84e@127.0.0.1:40443?encryption=none&security=tls&sni=persiaa.persiatmw.us&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=persiaa.persiatmw.us&path=%2Fassignment&mode=auto#
-***⚡️***
-Telegram:@Vpn_m2s
-vless://47165471-78ac-41ad-aaa6-2eaaee1d5ac6@127.0.0.1:40443?encryption=none&security=tls&sni=persiaaaa.persiatmw.us&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=persiaaaa.persiatmw.us&path=%2Fassignment&mode=auto#
-***⚡️***
-Telegram:@Vpn_m2s
-
----
-
-### 🕒 2026-04-18 09:55:47 UTC
-ایران عالیه یه روش هایی برای اتصال به نت بین‌الملل یاد گرفتم من بفرست کره شمالی 2 روزه همرو وصل میکنم
 
 ---
 
