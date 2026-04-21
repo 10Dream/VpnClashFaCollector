@@ -1,5 +1,146 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-04-21 11:17:55 UTC
+بروزرسانی: 2026-04-21 13:53:47 UTC
+
+### 🕒 2026-04-21 12:22:01 UTC
+**پحش ویدیوهای یوتیوب با استفاده از ترکیب MasterHttpRelayVPN & MITM-DomainFronting) - Serverless Access to Google Services)**
+1. راه اندازی 
+**MasterHttpRelayVPN**
+گیت هاب :
+[اgithub : MasterHttpRelayVPN ](https://github.com/masterking32/MasterHttpRelayVPN)
+نحوه راه اندازی :
+[github : README_FA.md](https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md)
+2. راه اندازی 
+**MasterHttpRelayVPN & MITM-DomainFronting) - Serverless Access to Google Services)**
+با استفاده از هر کدام از ریپازیتورهای زیر ترکیب قابل اجرا می باشد.
+**- MITM-DomainFronting**
+گیت هاب :
+[github : MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting)
+نحوه راه اندازی :
+[github : README.md](https://github.com/patterniha/MITM-DomainFronting/blob/main/README.md)
+**- Serverless Access to Google Services**
+گیت هاب :
+[Serverless Access to Google Services](https://github.com/aleskxyz/serverless)
+نحوه راه اندازی :
+[github : README.md](https://github.com/aleskxyz/serverless/blob/main/README.md)
+پس از راه اندازی MasterHttpRelayVPN و MITM-DomainFronting) - Serverless Access to Google Services) در نرم افزارهایی که در راه اندازی گیت هاب هر پروژه اشاره شده است (مانند نرم افزار V2ray)  یکی از 2 فایل کانفیگ ساخته شده را انتخاب کنید.
+سپس MasterHttpRelayVPN را از  طریق 
+python 
+[main.py](http://main.py/)
+ اجرا کنید.
+3. در مرورگر chrome  یا هر مرورگر مورد استفاده یک  Extensions مانند Proxy SwitchyOmega 3 نصب کنید.
+- در قسمت Option یک Proxy profile  برای MasterHttpRelayVPN ایجاد نمایید.
+Scheme  Protocol  Server  Port
+(default)  HTTP  
+[127.0.0.1](http://127.0.0.1/)
+  8085
+- در قسمت Option یک Proxy profile  برای  MITM-DomainFronting) - Serverless Access to Google Services) ایجاد تمایید. (برای  کانفیگ ساخته شده Xray پورت باید براساس نرم افزار Xray یا Sing-Box باشد )
+Protocol  Server  Port
+HTTP  
+[127.0.0.1](http://127.0.0.1/)
+  10808
+ 
+-در قسمت Option یک Switch Profile برای  ترکیب دو پروفایل ایجاد نمایید.
+Condition Type    Condition Details                  Profile
+Host wildcard   *.
+[youtube.com](http://youtube.com/)
+                            Xray
+Host wildcard   *.
+[gstatic.com](http://gstatic.com/)
+                               Xray
+Host wildcard    *.
+[fonts.googleapis.com](http://fonts.googleapis.com/)
+           Xray
+Host wildcard   *.
+[ytimg.com](http://ytimg.com/)
+                                 Xray
+Host wildcard   *.
+[doubleclick.net](http://doubleclick.net/)
+                        Xray
+Host wildcard   *.
+[ggpht.com](http://ggpht.com/)
+                                Xray
+Host wildcard        *.
+[googlevideo.com](http://googlevideo.com/)
+      MaHttpRVPN
+4- پروکسی  Switch Profile  ایحاد شده را انتخاب کنید و وارد سایت youtube  شوید.
+[@patterniha](https://t.me/patterniha)
+[@masterking32](https://t.me/masterking32)
+[@aleskxyz](https://t.me/aleskxyz)
+[@searchalgorithms](https://t.me/searchalgorithms)
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-04-21 12:10:27 UTC
+فایل گیتهاب پروژه  
+***👆***
+***👆***
+***👆***
+[آموزش اتصال این متود ***👉******👉***](https://github.com/patterniha/MITM-DomainFronting)
+[لینک گیتهاب پروژه ***✅***](https://github.com/patterniha/MITM-DomainFronting)
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-04-21 12:10:14 UTC
+توضیحات و آموزش متود 
+***👆***
+***👆***
+***👆***
+[لینک گیتهاب پروژه ***👉******👉***](https://github.com/patterniha/MITM-DomainFronting)
+...
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-04-21 11:45:04 UTC
+مشت محکمی بر دهان شرکت‌های رانتی که دسترسی به یوتوب رو اشتراکی کردن:
+[https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md](https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md)
+و
+[https://github.com/patterniha/MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting)
+رو تست کنید. 
+توضیحات کامل توی Readme هست .
+درسته من با روش دیگری به یوتیوب دسترسی دارم 
+***😎***
+ بعداً اون رو رو خواهم کرد 
+***😁***
+این متود بر روی ویندوز، لینوکس و اندروید (بدون نیاز به روت) قابل اجراست.
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-04-21 05:04:53 UTC
 SNI 
@@ -93,7 +234,7 @@ SNI Free:
 Example usage :
 `vless://89e808ca-ac12-4e05-a646-61024931c213@5.57.33.95:10803?encryption=none&security=tls&sni=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&path=%2Fapi%2Fv1%2Fuuid%2F98c0df5e-213f-41cb-82ab-b3b4bca54d0b#1`
 `trojan://humanity@5.57.33.95:52966/?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&headerType=none&path=%2fassignment#2`
-دو تا کانفیگ بالا رو تست کنید اگر کار کردن بریم بترکونید 
+دو تا کانفیگ بالا رو تست کنید اگر کار کردن بریم بترکونیم 
 ***😁***
 ‌‌
 [@hamedvpns](https://t.me/hamedvpns)
