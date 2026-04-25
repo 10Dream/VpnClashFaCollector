@@ -1,52 +1,33 @@
 # آرشیو کانال: @letiranbreath
-بروزرسانی: 2026-04-19 14:51:35 UTC
+بروزرسانی: 2026-04-25 21:48:44 UTC
 
-### 🕒 2026-04-18 15:20:01 UTC
-(also just letting you know, i tried to nslookup them, i couldnt, so the accounts with those workers might be terminated, if so i actually cant help, but if you are connected and it works, then hope it works for you i guess)
-
----
-
-### 🕒 2026-04-18 15:15:02 UTC
-you can use them using sni spoofing
-
----
-
-### 🕒 2026-04-18 15:14:54 UTC
-3 of my old bpb panels
+### 🕒 2026-04-25 21:31:05 UTC
+***🎉***
+ کانفیگت آمادست! ━━━━━━━━━━━━━━━  
+***⚡***
+ فرگمنت {"remarks":"@Letiranbreath 
+***⚡***
+ Fragment","log":{"loglevel":"none"},"dns":{"hosts":{"adblock.dns.mullvad.net":["194.242.2.3"]},"queryStrategy":"UseIP","servers":[{"address":"fakedns","domains":["full:jquery.com"],"…
 
 ---
 
-### 🕒 2026-04-18 15:14:40 UTC
-**1.**
- فعال: 
-***✅***
- · بدون محدودیت
-`letiranbreath-oh6lnxuacl26dtb0sngga110su.workers.dev`
-/panel
-***🔑***
+### 🕒 2026-04-25 21:30:49 UTC
+> ↪️ **Forwarded**
+
+***🎉***
  
-282360f6c015569217d0e48514a931d8
- · 2026-02-27 12:08
-**2.**
- فعال: 
-***✅***
- · بدون محدودیت
-`letiranbreath-li02cwicxsouo098y31w853d84.workers.dev`
-/panel
-***🔑***
+**کانفیگت آمادست!**
+━━━━━━━━━━━━━━━
+***⚡***
  
-32452c8ffa4dd1075eb4783b3423c541
- · 2026-02-27 12:07
-**3.**
- فعال: 
-***✅***
- · Forever
-`letiranbreath-0rgf54k053wo4q0jkm9tjriopf.workers.dev`
-/panel
-***🔑***
+**فرگمنت**
+`{"remarks":"@Letiranbreath ***⚡*** Fragment","log":{"loglevel":"none"},"dns":{"hosts":{"adblock.dns.mullvad.net":["194.242.2.3"]},"queryStrategy":"UseIP","servers":[{"address":"fakedns","domains":["full:jquery.com"],"skipFallback":false},{"address":"https://adblock.dns.mullvad.net","tag":"remote-dns"},{"address":"8.8.8.8","domains":["full:jquery.com"],"skipFallback":true}],"tag":"dns"},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"mixed-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"trojan","settings":{"servers":[{"address":"jquery.com","password":"Kdfn$Ya!82X7Z$L&GD$Q4V4O","port":443}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["http/1.1"],"fingerprint":"chrome","serverName":"letirANbREaTh-ZtmER4oiS02Nh4ptwp0Ync2BmFEdlxCJ4nk08T8EtR8F.V8mQewfL6T3FNWDmuL10.wOrkers.deV"},"wsSettings":{"host":"letiranbreath-ztmer4ois02nh4ptwp0ync2bmfedlxcj4nk08t8etr8f.v8mqewfl6t3fnwdmul10.workers.dev","path":"/eyJqdW5rIjoiVnFpVEdnVmdXdCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560"}},"tag":"proxy"},{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"3-8","interval":"4-8"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","tcpFastOpen":true,"happyEyeballs":{"tryDelayMs":250,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"fragment"},{"protocol":"dns","settings":{"nonIPQuery":"reject"},"tag":"dns-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["mixed-in"],"port":53,"outboundTag":"dns-out","type":"field"},{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["remote-dns"],"outboundTag":"proxy","type":"field"},{"inboundTag":["dns"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"network":"udp","outboundTag":"block","type":"field"},{"network":"tcp","outboundTag":"proxy","type":"field"}]},"policy":{"levels":{"0":{"connIdle":300,"handshake":4,"uplinkOnly":1,"downlinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"stats":{}}`
+***🔷***
  
-e48711337bf4198f19f6295f36cc2bc8
- · 2026-02-26 17:03
+**ساده**
+`trojan://Kdfn%24Ya!82X7Z%24L%26GD%24Q4V4O@jquery.com:443?security=tls&type=ws&host=letiranbreath-ztmer4ois02nh4ptwp0ync2bmfedlxcj4nk08t8etr8f.v8mqewfl6t3fnwdmul10.workers.dev&path=%2FeyJqdW5rIjoiVnFpVEdnVmdXdCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=LetIRAnBREath-ztmEr4Ois02nh4pTWp0yNc2bMfEDlXCJ4nK08T8EtR8f.v8MqEwFl6t3FnwDMuL10.WorkerS.Dev&fp=chrome&alpn=http%2F1.1#%40Letiranbreath%20%F0%9F%94%B7%20Clean`
+***💡***
+ اگه یکی وصل نشد، اون یکی رو امتحان کن.
 
 ---
 
