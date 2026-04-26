@@ -1,2 +1,6 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@vmessorg`
-vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?encryption=none&security=tls&sni=kamalnet.pages.dev&fp=chrome&type=ws&host=kamalnet.pages.dev&path=%2F#vmessorg`
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#vmessorg`
+vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?encryption=none&type=ws&host=cdn.hosseincapri.sbs&path=/ws&security=tls&sni=cdn.hosseincapri.sbs#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg`
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg`
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#vmessorg`
+vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?mode=auto&path=%2F&security=none&encryption=none&host=ws.ab841.com.&type=xhttp#vmessorg`

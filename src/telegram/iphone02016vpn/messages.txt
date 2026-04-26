@@ -1,5 +1,221 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-04-26 17:48:33 UTC
+بروزرسانی: 2026-04-26 19:07:01 UTC
+
+### 🕒 2026-04-26 19:06:37 UTC
+***🔶***
+ نسخه SlipNet v2.5.3 منتشر شد:
+تغییرات مهم:
+***🟣***
+ بروزرسانی‌های اسکنر DNS: اضافه شدن حالت‌های TCP و "Both" (هر دو) برای تست و پیشنهاد خودکار بهترین پروتکل انتقال (UDP، TCP یا ترکیبی) جهت دور زدن محدودیت‌های ارائه‌دهندگان اینترنت.
+***🟣***
+ اتصال سریع‌تر در اندروید: بررسی پیش‌نیاز resolverهای TCP/DoT (با مهلت ۸ ثانیه) قبل از اتصال، تا با حذف موارد غیرفعال از توقف در روند اتصال جلوگیری شود.
+***🟣***
+ زنجیره‌سازی تونل‌ها (Tunnel Chaining): پشتیبانی پل‌های SnowflakeBridge و DohBridge از SOCKS5 بالادستی، که اجازه می‌دهد لایه‌ها را روی هم قرار دهید (مانند DoH-over-Tor).
+***🟣***
+ خروجی رمزنگاری‌شده: اضافه شدن گزینه "Export All (Encrypted)" به منوی اصلی.
+***🟣***
+ بهینه‌سازی و مستندات: کاهش حجم فایل باینری Tor (تا ۲۹٪ در armv7) و اضافه شدن راهنمای رسمی کاربران به زبان‌های انگلیسی و فارسی در مخزن برنامه.
+***🤷‍♂***
+***🤷‍♀***
+ کدوم فایل APK را باید دانلود کنیم؟ 
+ 
+***📲***
+ برای نصب برنامه، نسخه‌های مختلفی بر اساس معماری پردازنده (CPU) دستگاه‌ها ارائه شده است:
+***🟣***
+ یونیورسال (universal): این نسخه روی تمامی دستگاه‌ها به درستی کار می‌کند. اما از آنجایی که فایل‌های مربوط به تمام معماری‌ها را در خود جای داده است، حجم دانلود آن از بقیه نسخه‌ها بسیار بیشتر است. 
+***🆒***
+***🟣***
+ نسخه arm64-v8a: این نسخه مخصوص اکثر گوشی‌های هوشمند مدرن و جدید (تولید سال ۲۰۱۶ به بعد) است. حجم دانلود آن کمتر از نسخه یونیورسال است. نکته: اگر مطمئن نیستید گوشی شما چه مدلی است، به احتمال بسیار زیاد همین نسخه برای شما مناسب است.
+***🟣***
+ نسخه armeabi-v7a: این نسخه برای گوشی‌ها و دستگاه‌های قدیمی‌تر که دارای پردازنده‌های ۳۲ بیتی ARM هستند، طراحی شده است.
+***🟣***
+ نسخه x86_64: این فایل منحصراً برای نصب روی شبیه‌سازهای اندروید (مانند بلواستکس در کامپیوتر) و لپ‌تاپ‌های کروم‌بوک (Chromebooks) کاربرد دارد.
+***💾***
+ خوب؟! تفاوت نسخه‌ها: کامل (Full) در برابر سبک (Lite)
+***🟣***
+ نسخه کامل (Full): این نسخه شامل تمامی انواع تونل‌های ارتباطی از جمله DNSTT، NoizDNS، VayDNS، Snowflake و NaiveProxy (که با Tor ادغام شده است) می‌شود. اگر به تمام قابلیت‌ها و پروتکل‌های پیشرفته نیاز دارید، این نسخه مناسب شماست.
+***🟣***
+ نسخه سبک (Lite): این نسخه فقط شامل تونل‌های پایه یعنی DNSTT، NoizDNS و VayDNS است. به دلیل حذف Tor، Snowflake و NaiveProxy، حجم دانلود بسیار کمتری دارد و برای کسانی که فقط به امکانات اصلی نیاز دارند یا فضای خالی کمتری در گوشی خود دارند، ایده‌آل است. 
+***🆒***
+***©***
+ 
+[@SlipNet_app](https://t.me/SlipNet_app)
+ 
+***©***
+Anonvector on GitHub:
+***🔗***
+ 
+[https://github.com/anonvector/SlipNet/](https://github.com/anonvector/SlipNet/)
+***✅***
+ پینگ انفرادی هر کانفیگ در این نسخه برگشته!
+***❌***
+ دامنه کانفیگ در حالت دیباگ همچنان مخفی هست! کار را برای دزد ساده‌تر، و برای مالک سخت تر میکنه! فقط میشه نام کاربری SSH یا SOCKS را دید. 
+***🫥***
+[#SlipNet](?q=%23SlipNet)
+ 
+[#Android](?q=%23Android)
+***🆔***
+ 
+[@SOSIranConnect](https://t.me/SOSIranConnect)
+
+---
+
+### 🕒 2026-04-26 19:02:10 UTC
+**💎V2ray 💎💋 vlees**
+[***🔻***](https://t.me/proxy?server=170.64.171.194&amp;port=443&amp;secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d)
+**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شویدسپس سرور را وارد و متصل شوید.**
+برای ایرانسل 
+`trojan://1234567890@104.20.6.134:443?type=ws&security=tls&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&allowInsecure=1#iphone02016vpntrojan://3407af8d-c2a1-4f9f-b2fa-22c9324bc7b2@188.114.98.0:443?type=ws&security=tls&path=%2F152.42.236.151-8443&host=alya.yumicftigarun.web.id&sni=alya.yumicftigarun.web.id&allowInsecure=1#iphone02016vpnvless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.danfeng.rr.kg&sni=snippet.danfeng.rr.kg&allowInsecure=1#iphone02016vpnvless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?encryption=none&type=ws&security=tls&path=%2F&host=a1d.bioritalin.ir&sni=a1d.bioritalin.ir&allowInsecure=1#iphone02016vpnvless://a48cf885-8b9e-4b90-b783-863723a039d1@104.20.5.134:443?encryption=none&type=ws&security=tls&path=%2Fws&host=cdn.safev2ray.space&sni=cdn.safev2ray.space&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#@iphone02016vpn`
+***⚠️***
+ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+[#نشردهید](?q=%23%D9%86%D8%B4%D8%B1%D8%AF%D9%87%DB%8C%D8%AF)
+[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
+ 
+[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
+ 
+[#MTProto](?q=%23MTProto)
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+ 
+[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
+ 
+[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+حدود 1 الی 2 دقیقه زمان بدید
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-04-26 19:00:32 UTC
+**💋 vlees**
+[***🔻***](https://t.me/proxy?server=170.64.171.194&amp;port=443&amp;secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d)
+**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شویدسپس سرور را وارد و متصل شوید.**
+`vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.5.134:2053?encryption=none&type=ws&security=tls&path=%2F&host=qyi.fqjd663.ggff.net&sni=qyi.fqjd663.ggff.net&alpn=http%2F1.1&fp=chrome&allowInsecure=0#T.me%iphone02016vpnvless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?encryption=none&type=ws&security=tls&path=%2F%25252F&host=cIAllO-EGB.pAGES.dev&sni=cIAllO-EGB.pAGES.dev&allowInsecure=1#T.me%iphone02016vpnvless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?encryption=none&type=ws&path=%2F&host=vip.yaml7.ggff.net#iphone02016vpnvless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.5.134:2053?encryption=none&type=ws&security=tls&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=1#iphone02016vpnvless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@104.20.5.134:80?encryption=none&type=ws&path=%2Fvless-ntls&host=nnet.online#iphone02016vpn`
+***⚠️***
+ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+[#نشردهید](?q=%23%D9%86%D8%B4%D8%B1%D8%AF%D9%87%DB%8C%D8%AF)
+[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
+ 
+[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
+ 
+[#MTProto](?q=%23MTProto)
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+ 
+[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
+ 
+[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+حدود 1 الی 2 دقیقه زمان بدید
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-04-26 18:46:54 UTC
+با هرچی وصلید قطع نکنید..
+
+---
+
+### 🕒 2026-04-26 18:37:39 UTC
+ری اکشن بدید
+
+---
+
+### 🕒 2026-04-26 18:30:59 UTC
+کانفیگ NPV 
+***❤️***
+***✅***
+***💥***
+ کانفیگ عمومی 
+***💥***
+حجم 
+***♻️***
+ : نامحدود 
+***🔥***
+زمان 
+***⌛️***
+ : نامشخص 
+***❤️***
+اپراتور : مناسب تمامی اپراتورها 
+***✅***
+رمز 
+`@iphone02016vpn`
+بعد از زدن روی دکمه اتصال وارد تلگرام بشید و حدود 1 الی 2 دقیقه زمان بدید وصل بشه:
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-04-26 18:22:35 UTC
+1
+`. تلگرام vless://9b9f36d0-93f6-4c39-af54-2428c9c0e794@vzb.piko-network.top:8443?encryption=none&type=tcp&headerType=none#iphone02016vpn2. تلگرامvless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#iphone02016vpn3. تلگرامvless://76b08bdd-2424-fbc6-ffcb-ca67b57aa2f1@detail.barttary.ir:55802?encryption=none&type=tcp&headerType=none#iphone02016vpn`
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-04-26 18:02:38 UTC
+`trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=0#@YamYamProxytrojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#@YamYamProxy`
+***➖***
+***➖***
+***➖***
+***➖***
+ 
+***➖***
+***➖***
+***➖***
+***➖***
+  
+***🐳***
+ 
+[@YamYamProxy](https://t.me/YamYamProxy)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-04-26 17:54:28 UTC
+کار کرد براتون؟؟
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
 
 ### 🕒 2026-04-26 17:41:26 UTC
 ***🟣***
@@ -870,213 +1086,6 @@ Channel :
 ***👇***
 [https://guardnet.ir/f/bd8bb98e6ed7](https://guardnet.ir/f/bd8bb98e6ed7)
  
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-04-25 18:58:27 UTC
-کانفیگ SlipNet 
-***🕊***
- اختصاصی کانال کاملا رایگان متصل 
-***✅***
-***⚡️***
- 
-***⚠️***
-تنظیمات Slipnet حالت پیش فرض  مخصوص  نسخه 2.5.2 نهایی  NoizDNS+SSH 
-***🇳🇱***
-  slipnet-enc://ASKOXBAN9ndxLU9VI/RzEfKDPdVKDVcwJVPCwTnhJuVM3pDKGJZMez9xtjr0+afQV34admCgqCIIq4qSS+LZ8XprRAMz8WcOT4Qee97oh/T0gehoyWy…
-
----
-
-### 🕒 2026-04-25 18:55:18 UTC
-کانفیگ SlipNet 
-***🕊***
- اختصاصی کانال
-کاملا رایگان
-متصل 
-***✅***
-***⚡️***
-***⚠️***
-**تنظیمات Slipnet حالت پیش فرض**
- 
-**مخصوص  نسخه 2.5.2 نهایی**
-**NoizDNS+SSH**
- 
-***🇳🇱***
-`slipnet-enc://ASKOXBAN9ndxLU9VI/RzEfKDPdVKDVcwJVPCwTnhJuVM3pDKGJZMez9xtjr0+afQV34admCgqCIIq4qSS+LZ8XprRAMz8WcOT4Qee97oh/T0gehoyWy4bHlznA3ir91jOfmDmxNpYaWoAKr5NdLVazvZKi6oloWyKHY7qzyYUZxumqCtOWdich+Da5t5/8ZTGHPFrxaqhD1ogHIWPnR2umq0GeOfvg7K31h/uGdaKeNW2CyZRfT0S2VcC86QrxYp6Dz+Hs9ukkg5hkRGabjlIiRWS480YCjZ6vjkEcYsX1xojYwv+w6f18SCt7npr39yet4tdg9Qr3FQrVfJwg/OK+d+78xmRGB7MNj+x0wY+hfODriK7QgRSh5yQsl6EjstQuV/E7gObf8PcnzPaj8xwrv+aedn86X4IbLXWddn6DIbejOEPpED5alISghjyXmg5Fo7EaAzx8MMrQ/lt8yi72wTYaXuBH226dvn/GSaRt53pKQSqGHWko92UpnOixTmms025DPtnvCVD+f974qA3DUi+6Ss6oWPhB8k3R2OT/zL0iEt4x9LKb3BeIs2IYiJsg+DnKWPyorroUo6g+MKgzlDGdJeQF4JAmODs0E5Q2nLPzOPwaoF4kgw7B0UjcnJaYA0U+FJ/81cULcTf+EhxsIRSOYkALlXfx070GdPLGdihjVRfiCDfFn2eszPef/A+6WtwIUsgkbs/gSz6rLNT6tSVURmoiU1reP4dShzqat0nxkhswMyNHmS6ciLQ9Ob4WU/b7lCWw==`
-VPN MTU : 1232 ~ 1280 
-***✅***
-JOIN : 
-[@Sparrk_VPN](https://t.me/Sparrk_VPN)
- 
-***✅***
- 
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-04-25 18:41:26 UTC
-روی پست ها ری‌اکشن بزنید 
-انرژی مثبت بدید
-دوستان خودتون دعوت کنید 
-تعداد ری اکشن ها خوب باشه
-  بریم بعدی 
-***❤️***
-
----
-
-### 🕒 2026-04-25 18:29:01 UTC
-***🟣***
- کانفیگ اسلیپ نت  دکتر میلیکس 3
-***🔻***
- متود Vaydns+ssh
-***🔷***
- فقط لازمه گزینه proxy only mode روشن باشه و به پروکسی زیر وصل باشید :
-[https://t.me/socks?server=127.0.0.1&port=10880&user=%40XGvpn](https://t.me/socks?server=127.0.0.1&port=10880&user=%40XGvpn)
- 
-slipnet-enc://AXXmoc9eDzLA7LOdac0s3ETjLO2f3ubL8GnaBHINy1mwW7OevHxEwAJFFT+JSdH403qcjQDK6W+S34/c+fxGpbafE6iNSDE0M7szkXwy3NsA5kHjdotQVnNY8tt2sutmYAytWobcX5+8IMs0pSnRe7ChgVLBRU2fFgmNzTHC/QSGsKAB8/JftoeKvZ44sKv+HhddjYSIjS8oqw2Fyq1+MpXT0kECxOI//dJ6R44GwnQauzCWH1pLindCiQKH9fa1QQj48Gne1qyJOgwOlZS9lLZ7TTTULt87Rmbaf1DwN26xq/nZXVTtWnc4cK18tltgZSXbCOFAewZ90aFiQF7Ki9aka8scLZwrGlmWB0lIMGEKi6/G0MqEW9Ik8tDnm/LelhChdwaMAHrFeWWz8jxOmbpEZoZ4zfIID85v79W3Y0+TABFKC7BDETL+8ZB05nnSqxKZqAtJhF8EO2PSd59p7oIoxqH05jUQYGs1WgTRHbCkps3QPHHYuMw/YPduWaGD+3JJGhFuERMp2QVjkJAhvTAztZ1KvXiaZETvxAFTIU/Ed4ZVY/WndacIHAmW2O+5JMhrnAW+xPjcSOwYndlYAXKCm+f99sTW/ZP97AkAptl5qaUDNFcT/4pRphAdxNtp6Jin4sHSQnYALuvw+lBiSmBHxfpfn2cFhSOE8DfRuh/mCwenzpPueg==
-***⭕️***
- ری اکشن و استار شما برای حمایت از ما باعث دلگرمی ماست 
-***🩵***
-***🕊️***
- YoozVpn | 
-`@XGVPN`
- 
-***🕊️***
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-04-25 18:26:47 UTC
-***🔶***
- دوستانی گفتند که NoizDNS در منطقه اون‌ها بهتر جواب میده. پیش از این فقط یک دونه از این مدل کانفیگ در کانال داشتیم. به همراه لوکیشن فنلاند، این کانفیگ شانس این عزیزان را برای دسترسی به اینترنت آزاد افزایش میده.
-این کانفیگ خدمت شما 
-***💛***
-***📍***
- میزبان: آلمان
-***🇩🇪***
-Germany  ❺
-***📌***
- مسیر DNS Resolver: چندگانه 
-***🧬***
-، اما بدون قفل برای تست مسیرهای دیگر.
-NoizDNS + SSH 
-***⬇️***
-slipnet-enc://ASMIOSyd0mAaHU/vfNjk05/3wSxM+r4QaWddm+rTY/53J6AR2HiXGy2QZO9Lhw5z/kTyRmpJgTeidB735tGSIQSXEZ5wDhoXLNuoJiEUvpJli5QgVM228r7oBEgfch4kwaaB41uQOBJQzjRdowIG+1ubwHWZorT4RQqXK0hnDeP8eLKIjM1ay12q7aBAV5k8OhF3dhiHVxAnCpY1FFUtczC1kLLWcWipyZ79fpPdRx5Xgo7V2iayb+slYVeZOieTWC0f5nAqTBgVHmwe0hy2cJo/OKlyvclYhoI7h1foTDWIspLCR7K15+Fe5ofJt3JYQl1EosBDnW9vxyJoYjkIxccaWbjT06gCSIKHldfQySLof456TZmikZ2KtASpkKoyU22gG0z82um9J5q4LHfXZ8KEbd9tsTGybtXWp9I7aEZILxIyeySv4j1ipwOMPqp4xxE56OIWkGEsLmc3lDsIlM/i3R45zwsza/dYGyI+h2kNpw3NjD9tSh+7IHOvopM00x+yC1TpQDjNwDJOt/j2sRoSUZ9xxxn5oSnrsOijHsHUf7snQlKK5Pyq8BpMIaHg8FwIYGOBVYnWfNjAIWti2nnn41Up2kBXp7V4mjr5tB/ndm9hbQOPL6LiI84TqWXyEJTTInQNglnnNj+hSmzOZtRcJpQLFGZo/lm5auYJ7h5RshoqTbSTg62+SRarhjEZ2X5wmbfLOIZVTIL6fnAWwuiiIXQ67MYb6ybR1N0i
-***🟣***
- اگر نیاز بود، این تنظیمات را انجام داده و تست کنید:
- 
-۱. خود برنامه SlipNet (تأثیر روی همه‌ی کانفیگ‌های شما!):
-***☝️***
-***⚙***
- 
-***➡️***
-  Network  
-***➡️***
-  VPN MTU:
-بین 512 تا 1232 (۹۹٪ DNS های ایرانی 
-***🇮🇷***
- بیشتر از 512 جواب نمیده!)
-۲. روی هر کانفیگ 
-***☝️***
-***✏️***
- 
-***➡️***
-  DNS Query Size:
- FULL Capacity بین ۵۰ و
- 
-***➡️***
- 
-***☝️***
-***☑️***
- 
-۳. روی کانفیگ NoizDNS
-***☝️***
-***✏️***
- 
-***➡️***
-Stealth mode 
-***🔘***
-⇆
-***⚫️***
- 
-***➡️***
- 
-***☝️***
-***☑️***
- 
-- خاموش: سرعت بالاتر، شناسایی ساده‌تر توسط فیلترینگ 
-- روشن: سرعت کمتر، شناسایی سخت‌تر توسط فیلترینگ
-***⚠️***
- درباره‌ی VPN MTU و DNS QuerySize: 
-- مقدار کوچکتر: سرعت کمتر، اما احتمال اتصال بالاتر
-- مقدار بزرگتر: سرعت بالاتر، اما احتمال اتصال پایین تر (در شرایط اختلال شدید اینترنت) 
-***🚨***
- لطفا بخونید: این کانفیگ‌ها با DNS Resolver تنظیم شده کنونی، امروز به احتمال ۹۹٪ درصد در هیچ کجای ایران کار نخواهند کرد؛ چون در زمان فرستادن این پست، گوگل و کلودفلر در ایران اختلال شدید دارند یا قطع هستند. خودتون DNS Resolver های پیشنهادی در این پست را تست، یا از کانال های دیگه پیدا کنید. 
-***⬇️***
-[https://t.me/SOSIranConnect/89](https://t.me/SOSIranConnect/89)
-***🔁***
- گزینه اشتراک مجدد (تکست و کد QR) این کانفیگ فعال است.
-***🆓***
- رایگان برای مردم ایران 
-***💚***
-***🤍***
-***❤️***
-***🚫***
- هر گونه سوءاستفاده و شکستن قفل ممنوع!
-[#Config](?q=%23Config)
- 
-[#NoizDNS](?q=%23NoizDNS)
- 
-[#SlipNet](?q=%23SlipNet)
-***🆓***
- 
-***🕊***
-[#Config_SlipNet](?q=%23Config_SlipNet)
-***🆔***
- 
-[@SOSIranConnect](https://t.me/SOSIranConnect)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-04-25 18:24:02 UTC
-روی پست ها ری‌اکشن بزنید 
-انرژی مثبت بدید
-دوستان خودتون دعوت کنید 
-تعداد ری اکشن ها خوب باشه
-  بریم بعدی 
-***❤️***
-
----
-
-### 🕒 2026-04-25 18:20:13 UTC
-عراقچی:
-سفر به فاکستان بسیار (بنزین بزنید) ثمربخش (پاوربانکا رو شارژ کنید) بود
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)
