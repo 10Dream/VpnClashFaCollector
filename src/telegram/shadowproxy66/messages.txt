@@ -1,65 +1,8 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-04-27 17:37:03 UTC
+بروزرسانی: 2026-04-27 19:38:13 UTC
 
 ### 🕒 2026-04-26 19:39:01 UTC
 راهنمای کامل SlipNet (فارسی)
-
----
-
-### 🕒 2026-04-26 19:37:37 UTC
-slipnet-enc://AQBHganlPWZ9ab2aRl6NvCGkNGK5ImjbDv81kUE5DAEmf0jQw66uLJoJFqzL6933Mru3z/1TtaaX86Yzat9Qltpn81FJT0nmqja8RASQXwunB3S2X3Wx2i5NkH+ETGVZKNeVfO5MD4t2ilGumSkPpxRMzxqz07d4YHdLclpWsX1B3xcoVBcTFoAKzAmTPX+tzg8zTQHbmnYtRXxAIbCZJohxyGv4J9l/7phd7jf3FOCeJvdBZ…
-
----
-
-### 🕒 2026-04-26 19:23:24 UTC
-لینک داخلی
-[SlipNet-v2.5.3-full-release-arm64-v8a.apk](https://guardts.ir/f/5a55dd0c5cb4)
-[SlipNet-v2.5.3-lite-release-universal.apk](https://storage.iran.liara.space/irs/v1/2026-04-26/5123824ad8d5295fcaaf87f33284447b.apk)
-
----
-
-### 🕒 2026-04-26 18:48:03 UTC
-SlipNet v2.5.3 — تغییرات مهم
-بروزرسانی‌های اسکنر DNS: اضافه شدن حالت‌های TCP و "Both" (هر دو) برای تست و پیشنهاد خودکار بهترین پروتکل انتقال (UDP، TCP یا ترکیبی) جهت دور زدن محدودیت‌های ارائه‌دهندگان اینترنت.
-اتصال سریع‌تر در اندروید: بررسی پیش‌نیاز resolverهای TCP/DoT (با مهلت ۸ ثانیه) قبل از اتصال، تا با حذف موارد غیرفعال از توقف در روند اتصال جلوگیری شود.
-زنجیره‌سازی تونل‌ها (Tunnel Chaining): پشتیبانی پل‌های SnowflakeBridge و DohBridge از SOCKS5 بالادستی، که اجازه می‌دهد لایه‌ها را روی هم قرار دهید (مانند DoH-over-Tor).
-خروجی رمزنگاری‌شده: اضافه شدن گزینه "Export All (Encrypted)" به منوی اصلی.
-بهینه‌سازی و مستندات: کاهش حجم فایل باینری Tor (تا ۲۹٪ در armv7) و اضافه شدن راهنمای رسمی کاربران به زبان‌های انگلیسی و فارسی در مخزن برنامه.
-GitHub: 
-[https://github.com/anonvector/SlipNet/](https://github.com/anonvector/SlipNet/)
-
----
-
-### 🕒 2026-04-26 18:02:06 UTC
-dmxlc3M6Ly8yNjUyNGNjZS1kNTE0LTQwMTQtYTQyNi0zNjVmYjI2NmExNGRAMTA0LjIwLjYuMTM0OjQ0Mz9wYXRoPSUyRmRhbmZlbmcmc2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZpbnNlY3VyZT0xJmhvc3Q9c25pcHBldC5kYW5mZW5nLnJyLmtnJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1zbmlwcGV0LmRhbmZlbmcucnI…
-
----
-
-### 🕒 2026-04-26 18:01:21 UTC
-dmxlc3M6Ly8yNjUyNGNjZS1kNTE0LTQwMTQtYTQyNi0zNjVmYjI2NmExNGRAMTA0LjIwLjYuMTM0OjQ0Mz9wYXRoPSUyRmRhbmZlbmcmc2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZpbnNlY3VyZT0xJmhvc3Q9c25pcHBldC5kYW5mZW5nLnJyLmtnJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1zbmlwcGV0LmRhbmZlbmcucnIua2cjQ2hhbm5lbCUyMGlkJTNBJTIwJTQwU2hhZG93UHJveHk2NgoKdmxlc3M6Ly9hMDFkYWFjNy0xZTY1LTQ2NDUtODU0ZC1iNDdkMjI2ZjZiMDhAMTA0LjIwLjYuMTM0OjQ0Mz9wYXRoPSUyRiZzZWN1cml0eT10bHMmZW5jcnlwdGlvbj1ub25lJmluc2VjdXJlPTEmaG9zdD15Ni0zY2ouUEFnRVMuREVWJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT15Ni0zY2ouUEFnRVMuREVWI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYKCnZsZXNzOi8vM2E2YjYyNTYtNWEzZC00MzMxLTkxMjYtYzRkYjE2ZGQ2N2RjQDEwNC4yMC42LjEzNDo0NDM/cGF0aD0lMkYmc2VjdXJpdHk9dGxzJmFscG49aDIlMkNodHRwJTJGMS4xJmVuY3J5cHRpb249bm9uZSZpbnNlY3VyZT0wJmhvc3Q9Y2ZjZi5tZXRpcG94Ym96b3JnLnNob3AmZnA9Y2hyb21lJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0wJnNuaT1jZmNmLm1ldGlwb3hib3pvcmcuc2hvcCNDaGFubmVsJTIwaWQlM0ElMjAlNDBTaGFkb3dQcm94eTY2
-***📍***
-3 کانفیگ V2ray متصل
-***⚡️***
- 
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-04-26 17:47:38 UTC
-slipnet-enc://AQBHganlPWZ9ab2aRl6NvCGkNGK5ImjbDv81kUE5DAEmf0jQw66uLJoJFqzL6933Mru3z/1TtaaX86Yzat9Qltpn81FJT0nmqja8RASQXwunB3S2X3Wx2i5NkH+ETGVZKNeVfO5MD4t2ilGumSkPpxRMzxqz07d4YHdLclpWsX1B3xcoVBcTFoAKzAmTPX+tzg8zTQHbmnYtRXxAIbCZJohxyGv4J9l/7phd7jf3FOCeJvdBZgsPyajQcr+NaSOHUgJbfYXtzi9rHvAMKI29dH8aU+GUTuiVA5IPn1vOcEs/zowNTispgQTdpgnJP+ifI/MBU9jSlDEnbBLpmohz/MJaOPJKKSlu5ZgIInj7IBDK2eCmR6zUmdQItNWbtNwvwjMMJQ3EVs1CT7uR1dBBFbo4vIfMidp/j2IaMcLlRrj+laPQ7yV0kzl6n/Pp2Qbr7MUmka61r39hScZYtO51Glna7FyfhjoZ9DyhqlUG7yG6R8zWf2/FBEob2+ORiNequaGR+v865GCIg+5GbLb20ElVXrahciJw1GGUfcHGIDXzU/3OnliuPN1TFSAS16POg939xnUokRtHmfa3wI5RUIxsQXXtPTQq7tu1FLxi2IwIe4XjFvFRSzjVA7SF8noFEqw0C+i1fTA1SgxPaudtuh2uAc1dy5CSQFtNxcJi8TN2uXRMS8xwZOZ2PYd/BWOXKlOIGw==
-slipnet-enc://ASCGuCkdv2c5QKAzE8A0v60mG3ULe5AehIlZQVw0lYks8YTXOL3676EIjjtQYto/VymfIbYtejYKzaYKNU/9tTHEf7B5WX2hQ71CQm8OAbxQKn/4bd/8NdoHpW0KtiumvdAwumX/1xwecdNSvpDRA0DpuTVQFtPi1KGpR7xoi5tifOLSyYw2ZQA+KUrL8c9JgUbkkgWLr3+kSFqeZ8b/9auBVlzLHyY+2q4IfJjKabeKJscDrjnHg6xix29M13uWI5rafYPy7Z9IX8PqtBGTYqzMXxS3l+wIoFqmNJIl5j6AseE5YQANbfVt0P2mKKfL7k1q47xWyhDGRUm1DaVMM9FsEx3qrC3U0JgS4GTUF4pgzI56Z1K8llJGo/FP7zjCboOIaDm9gZ3AHA+InKtCsq27pTYSJOtZVzRpCb9eiDSH6YDIjRORbBRwesQb8UebIaHorpaZ8byZAEthAui8kDRGFOlhi+6lAbu4ICKyoCxIB4t9HHUhgpjk9j9nioR8mBYakZMqcHcs/PnNoleK/aZqK6ajWcLS7hO8XNYLrX5AFljFJkYoUTsIpt9TNR0mkEGcwlxdNtZBVF/PFh4Pk8O4q7rx+SIO6FBTAPYLoOBV4T2ut603Uxk44kVVsanGR8mZge0sWY1iFYrJV9hmqKLcxIGj3M/zOeMalCIm7grOBcVgtCaNIOTYs2FG6rCapFkTyuCrQrvu1NU7S6dTsIU=
-slipnet-enc://AUkHLzWukWWsUy6uAjs6QMG+P28h1trQztcPZ4RMMbhOoHhDbiZ6K9yhE6fdYDCgmYza2Cgezhbw6JjFVVj/fISWPzq8i2xm45z4Pzixj8wYos3LLKG7SeLtw9q9UQrrbfweC7PuB4jF7qT7hbxbHJy11f5mcAsr7Yji4svRGh1Af0D9NzUTcLxEDzLxSpg0LsX5W5JiMgfUGmwxojQqyZR6u83GpEEWmxg2JWnlIYYjEuLSIJ7nTwf+R8tSbIJ3YKN0Es2LlQN8hvpfyTNzpA2xWrR4fXLzT3M1JQ4gL/HSToVVDEXhOFaDNgEmnVs1NBt02TMjbzso3qbrUpj+V7EnZV4REmUYtUZuKN3EvNC34mYYyEdzy8/nc7+YNOomuLxtSUEogcGlQrH5lDGa1uieAal0WPGjFNgd0g2iX9STmd4n4NFTbYemwQ6CoSG+tIlwwtd7aXOEJeglZ7pCmTc61UftZh3Y6KBqh2TWR+QnULfdzo4PFHr2P3Gol+H+0Dy9KkTj7siwfU4EG+6vTOZSxG3WderYkhEHdfdeIBRVZfUaPGreYossbbUqmj/OvSeK1va190S6R6e8dBIl8nFfge4ZQ4GqyRGfGnUmkZDsGr1iWJSnyhZNi/FfEXiKQGtkKcUE7PT/EuUu4saydn9uY6o0+KZrdl7JukexDxXlt9wxS5bUUnkWLBjCJSJoaUef2XiMTgX3Du1+RpoGHR0a4RjnPwXw6n9joE4IbUfe78M5FAKnTA==
-slipnet-enc://AWsBsNoQhwusvUfjfMezGd04BWLbBRFasn2kKWBZOZefJ3gUROMBLKFzYyQvlmc49sTEfg9/4KE7aW9H0AD3jG/BJPDIOE+0sJUTRGwFEEazzIMiD311rqbK4s4CSl8XDxhTbTvd8/EltfOiPFdQ3wlgLEVSfkvLFFCDMbkyLaT19iFUT9aO1jyTFNHs0iAbT8KEgRu/WU7lHQ3oWjoJvAN7RXuRKHW9fBdeE52lAK+MatRnCKr1yIyvGAcmDdP8DqIl4/1tcRmEYq41RLxhn0yHXPUsJNTyqL0nQvLoyHUnum3TA0P92TOvWgqajJmNyFVhePVnaUwEr6NwtumIbkhZhSnmIUsf25aHYZ1W/undVa/58NG83R0lJYybnYl3goD2cQkYO9a5W9H8KSoCWQc08MblsvLIJv3WFuhTFcEwH8XZAB7bLaLYb8UCmS0+YdST4VQmEO3/gNknUkZq1MVrKiPyn9t6EAXtzKq75OPjzBVJzGZiXb9Qk2u01S+lD830Pbht95XoHwl8YsOsUGcE2bAaRi0wqZASpErDueHaPZ65Q8RrXIs+BAF3wrz6upA1pHw9ynoCTfhZOd9iJHqwFKW1onPHrXR7dPNBN2ixGO0c8lTTKzQc8UGibwz6m/elNp7wu0hBqgl3CQ==
-slipnet-enc://AXH6n5nt+dv+xMHHvWeM4RAmntVql1gYgxyVgxMDcElLplemM02sw9GHWYwtHU6NHCKkie1MfgWtq6rKNJbwvDzkjZMMtF1s1Cgp29qEGECcN/TB8K55fpLVJI9nUBQLblxNFHUBT1JKr53m28ZbsYe6zw20AdmVkKCOWWBqQAr4vh5XjmJ8QSLI5NAyyT/UIv35Z54wS7WTeP77iDxaIS9DYvxUcMKbcM0ofkJsZBvFQeonPilqH0SQRQnp3vH+3LsPR67PXS0ZpnwEliGP/y5HflcXcR2ZYYKvwC1WRhEJdsCO08smxcWYxTVAwzunhZKKv0Am7CMHN8LQ0vcB2xSlESxSKvEpa7eoZYwacVSaNY4gjgiHop/7LRqmfms561NTz/KCX9nVbZlJ6pEl4Zr3lAk1pjKY+C7P1fcLJj+awrg5kgIYpFMAQZVU02NlBLYLYuBV07mVP+wjPjKP1dx8OFEGBURqhp892m3xFKGwIMFzEt7crCJuynVvggxpYVLgUuNitc18n9XSGjhNbOFfppYbLztLVM9R5DomMh+zXFTz89TdNpNcW/VQKlz9ZwDhQNbA5RI9rCj+4213h+l5pN04RvFdbqtOskmFkdfhg8TGRNjd/eV4sxMJImgasyvM2QUSINpcx3Ym73yUlA==
-تعدادی کانفیگ 
-[SlipNet](https://t.me/ShadowProxy66/14982?single)
-[آموزش اد کرد کانفیگ](https://t.me/ShadowProxy66/14883)
-[آموزش تغییر MTU](https://t.me/ShadowProxy66/14885)
-[آموزش اسکن dns](https://t.me/ShadowProxy66/14887?single)
-[تعدادی dns](https://t.me/ShadowProxy66/14996)
-***⚡️***
- 
-[@ShadowProxy66](https://t.me/ShadowProxy66)
 
 ---
 
