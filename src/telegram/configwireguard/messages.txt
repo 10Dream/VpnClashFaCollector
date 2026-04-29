@@ -1,5 +1,29 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-04-29 16:46:44 UTC
+بروزرسانی: 2026-04-29 18:17:26 UTC
+
+### 🕒 2026-04-29 17:10:38 UTC
+کانفیگ مستقیم (بدون نیاز به سرور و یا حتی ورکر)
+[https://github.com/patterniha/MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting)
+کانفیگ به ورژن ۴ آپدیت شد، تغییرات:
+اضافه شدن سایت netlify
+* تمام سرویسهای گوگل (به غیر از فیلمهای یوتویوب و سرویسهای تحریمی)
+* تمام قسمتهای سایت github (شامل release ها، image ها و ...)
+* سایت reddit
+* سایت vercel
+اکنون میتوانید بدون استفاده از vpn وارد سایت netlify شوید و مراحل مربوطه را طی کنید:
+[https://github.com/avacocloud/netlify-XHHTP](https://github.com/avacocloud/netlify-XHHTP)
+[https://github.com/amirshaker000/netlify-relay](https://github.com/amirshaker000/netlify-relay)
+sni, address: 
+[letsencrypt.org](http://letsencrypt.org/)
+, 
+[kubernetes.io](http://kubernetes.io/)
+, 
+[helm.sh](http://helm.sh/)
+, ...
+///
+همچنان از vercel نیز میتوانید با تغییر ظاهری کد استفاده کنید، متدهای گوگل نیز همانند قبل همچنان فعال هستند.
+
+---
 
 ### 🕒 2026-04-29 16:32:14 UTC
 Dns Resolver 
