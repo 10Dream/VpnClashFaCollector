@@ -2,8 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
-trojan://telegram-id-privatevpns@51.45.39.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@52.47.129.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=%2Fyourpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xxxxxxx.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#Netlify%E2%80%93xhttp%20%40TheVPNMethod
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%40filtershekan_channel
 vless://01b04de5-99ef-6b90-a943-8adbaaa815cd@snapp.ir:80?path=/&security=none&encryption=none&host=new-game-server.supgame.ir&type=ws#t.me%2FConfigFori%20%20-%20%20Config%2019916
 vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%40filtershekan_channel
@@ -16,10 +16,10 @@ vless://84070a82-ca88-446d-8207-1c0decaae7e5@snapp.ir:80?encryption=none&type=ws
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%20
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#%20
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#%20
+vless://9abd3240-0dd5-47de-a2be-7a8d4f22a283@snapp.ir:80?path=%2F&security=none&encryption=none&host=nig.vxhosting.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#%20
 vless://a4f963d4-a5c5-4189-8b4d-d7b8b8ab05f8@snapp.ir:8080?path=%2F&security=none&encryption=none&host=duster.star2feri.ir&type=ws#%40filtershekan_channel
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#%D8%AA%D8%B3%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%B1%D9%88%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%40NetZone_ir
 vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=&encryption=none&host=d.nsa03.com&type=ws#%40NetZone_ir
 vless://d4cd7932-aaa6-40d5-bbbe-b6bcd05921e7@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#@proxymelimon
