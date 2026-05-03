@@ -1,5 +1,44 @@
 # آرشیو کانال: @freedom_soldiers1
-بروزرسانی: 2026-05-03 13:22:28 UTC
+بروزرسانی: 2026-05-03 14:57:59 UTC
+
+### 🕒 2026-05-03 14:12:25 UTC
+**روش جدید ساخت کانفیگ برای دوستان اهل فن:**
+پیش نیازها: 
+وی پی اس ایران
+اکانت و کانفیگ Netlify
+اشتراک شکن
+اول dns شکن رو روی vps داخل اعمال کنید با کد زیر:
+`# 1. Create a drop-in directory for systemd-resolvedsudo mkdir -p /etc/systemd/resolved.conf.d/# 2. Write the Shecan DNS configuration into a new fileecho -e "[Resolve]\nDNS=178.22.122.100 185.51.200.2" | sudo tee /etc/systemd/resolved.conf.d/shecan.conf# 3. Restart the service to apply the changessudo systemctl restart systemd-resolved# 4. Verify that the Shecan IPs are now activeresolvectl status`
+بعد وارد سایت شکن بشید و لینک آپدیت آیپی رو بگیرید.
+بعد وارد vps بشید دستور زیر رو بزنین:
+curl -L "لینک آپدیت آیپی شکن"
+برای مثال:
+curl -L"
+[https://shecan.ir/auth/12345](https://shecan.ir/auth/12345)
+"
+بعدش تو پنل ثنایی کانفیگ Netlify رو با آی‌پی و sni تمیز اوتباند کنید .
+Address: 
+[kubernetes.io](http://kubernetes.io/)
+Port: 443
+SNI : 
+[kubernetes.io](http://kubernetes.io/)
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-05-03 13:48:17 UTC
+**پروکسی های HTTP برای سایفون**
+`81.12.107.242`
+`3030`
+`93.118.142.196`
+`8085`
+`37.32.20.64`
+`2080`
+`93.126.6.70`
+`3128`
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
 
 ### 🕒 2026-05-03 12:30:44 UTC
 **VayDNS + SSH**
@@ -174,48 +213,6 @@ vless://72911ae4-06c3-4807-9133-1e75127b64c9@2.144.22.132:12745?encryption=none&
 **اون انگشتم که ناخودآگاه میرفت سمت اینستا الان ناخودآگاه میره سمت بلهآدم کم کم به بی آبرویی عادت میکنه**
 ***✍***
 Shakiba
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-02 14:40:37 UTC
-`slipnet-enc://AWVbsUDwu5PBPqB5WEJROuPva+VC/ixmfVkU9XDjQNnBgEShxPB72bgAXO1Go+u9eKfo050WqGIkoLcyRQC07aBbCoMNgpWhWI8E9XMvX2Xml2/MCSWU9qIY4RaH5wJm/xvExXt8SLzeboiq31Bz7rsndh0rMdwZkq+TIOz8wKeZEMN03uxDhWcobgrauBLyYEhfYMQJpnNzfHpS/vz8Cwaj0GZE+TD1YufLOzu5S3NV4HCeeqQ/Qo0d+Dj31ZgkGAySMOcJlPY5K7dMwySacknG/Bz5t/JgQxg7YVKaXmpfI8NLB/cb5TpUw00FjiXnwNtZaSWzhTBxvZ03IuqoYquhIxnrZBMoeHQVXglq/Xhb4uHyy4OlA+AtpsoUK0asOOjRG3bAAxRDhVylPSYVsLT7AF8yL6DOEPOsEFj+QTcAINPaLQxPOysDqlvYIZ2jksQxlI/1q609iEGVhs0GcqpC1HyV9Rlwqvt3Y5q9rVNOO+8FrD8dyIacaZScKWXh9c5lRxLZBlf8/OETVCN9NiGBK8zIxMMKsbBc64t87O0n0ms5v3Tqx/ybHFTWGyPev5KZfpJRGlJyChDFSfs8jkopDyA7lty41C1v9TkKBQMiO/9kyaoWO4wEJNGx+eFfZrHS5fkBIsl1wWuNA2d0fUuqQDpmtjB7uepsja/0dUnSLoiTUWPa2xc/LCnOrhsIJly8cQrQEc9zCYCJ5BPxAIFovO1EteJG5tdWF1Y=`
-**Slipnetبا ایرانسل تست شده**
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-02 13:57:11 UTC
-**کارزار حل کردن ۵۰۰کیلو آسنترا تو تمام سدهای کشور.**
-***✍***
-Sajadi
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-02 13:52:08 UTC
-https://t.me/proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09  https://t.me/proxy?server=77.42.27.171&port=4455&secret=dd104462821249bd7ac519130220c25d09  https://t.me/proxy?server=65.21.58.190&port=443&secret=dd104462821249bd…
-
----
-
-### 🕒 2026-05-02 13:51:43 UTC
-[https://t.me/proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=77.42.27.171&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=77.42.27.171&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=95.217.31.48&port=8080&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=95.217.31.48&port=8080&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=65.109.30.208&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.109.30.208&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=94.237.47.158&port=443&secret=dd8dd8cc4e02625114d308dac05094c3c0](https://t.me/proxy?server=94.237.47.158&port=443&secret=dd8dd8cc4e02625114d308dac05094c3c0)
-[https://t.me/proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=157.90.124.2&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=157.90.124.2&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=77.42.79.76&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=77.42.79.76&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=94.130.190.170&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=94.130.190.170&port=443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=178.104.81.34&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=178.104.81.34&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=65.109.30.209&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.109.30.209&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-**لیست پروکسیایی که با کانفیگ وصلنجهت افزایش سرعت**
 [@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
 
 ---
