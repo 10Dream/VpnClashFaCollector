@@ -1,5 +1,43 @@
 # آرشیو کانال: @freedom_soldiers1
-بروزرسانی: 2026-05-04 11:57:35 UTC
+بروزرسانی: 2026-05-04 14:12:56 UTC
+
+### 🕒 2026-05-04 14:07:28 UTC
+**توییت جدید ترامپ توی تروث سوشال.**
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-05-04 13:59:14 UTC
+‏
+**دختر بودن اینطوریه که یکی میگه بیا این ۲۵گیگ واسه تو.**
+***✍***
+ida
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-05-04 13:29:30 UTC
+***🇰🇷***
+**خبرگزاری Yonhap کره جنوبی:حمله از سوی سپاه پاسداران ایران به یک کشتی مرتبط با کره جنوبی در تنگه هرمز اصابت کرده است.**
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-05-04 13:11:47 UTC
+به تلفن‌های همراه ساکنان امارات، پیام هشدار احتمال حملات موشکی و حضور در پناهگاه ارسال شد.
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
+
+### 🕒 2026-05-04 12:09:34 UTC
+**این ربات هم با دوتا رفرال ۵۰ مگ میده**
+ ، 
+**تستش کردم**
+ .
+[https://t.me/SuppereVpnBot](https://t.me/SuppereVpnBot?start=ref_1263383646)
+[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
+
+---
 
 ### 🕒 2026-05-04 11:50:32 UTC
 **یه مقام آمریکایی به اکسیوس:قوانین شلیک رو برای نیروهای مستقر در خلیج‌فارس عوض کردیم؛ حالا اجازه دارن هر چیزی که تهدید فوری حساب بشه رو مستقیم بزنن.به نیروهای آمریکایی برای کوبیدن تهدیدات ایران، اختیار تام داده شده.**
@@ -462,83 +500,6 @@ slipnet-enc://AXOTTY9u85lI+gOWaadR6orRNcHepae93xaATMmMLeo7OqsdKcFKWxuG9mdWwVTcaA
 [Wireguard](https://uploadb.com/ofnpwnodf3e3/17.zip.html)
 رمز فایل ها : 
 `iran`
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 14:12:25 UTC
-**روش جدید ساخت کانفیگ برای دوستان اهل فن:**
-پیش نیازها: 
-وی پی اس ایران
-اکانت و کانفیگ Netlify
-اشتراک شکن
-اول dns شکن رو روی vps داخل اعمال کنید با کد زیر:
-`# 1. Create a drop-in directory for systemd-resolvedsudo mkdir -p /etc/systemd/resolved.conf.d/# 2. Write the Shecan DNS configuration into a new fileecho -e "[Resolve]\nDNS=178.22.122.100 185.51.200.2" | sudo tee /etc/systemd/resolved.conf.d/shecan.conf# 3. Restart the service to apply the changessudo systemctl restart systemd-resolved# 4. Verify that the Shecan IPs are now activeresolvectl status`
-بعد وارد سایت شکن بشید و لینک آپدیت آیپی رو بگیرید.
-بعد وارد vps بشید دستور زیر رو بزنین:
-curl -L "لینک آپدیت آیپی شکن"
-برای مثال:
-curl -L"
-[https://shecan.ir/auth/12345](https://shecan.ir/auth/12345)
-"
-بعدش تو پنل ثنایی کانفیگ Netlify رو با آی‌پی و sni تمیز اوتباند کنید .
-Address: 
-[kubernetes.io](http://kubernetes.io/)
-Port: 443
-SNI : 
-[kubernetes.io](http://kubernetes.io/)
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 13:48:17 UTC
-**پروکسی های HTTP برای سایفون**
-`81.12.107.242`
-`3030`
-`93.118.142.196`
-`8085`
-`37.32.20.64`
-`2080`
-`93.126.6.70`
-`3128`
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 12:30:44 UTC
-**VayDNS + SSH**
-``
-slipnet-enc://AS9mJItg2yn8g1KspUI9GbkCUgD6lqtZue8/IcMNGabWU8F6Lzb//MGAt5oA4jiUu3UuCMppt+vFI7N+4bfuOUg8R+kBUhYH6n0ECankTm827VMaMqhakvla9Hse+YjZRyduk9b+qPfHfKKzmjP55ywhYwUXvwIxPfR/Ri3zhmCeiGnDO34sVQKj9fre5YBUoktr/d97BKOeQdoJh3xRh53uOJIQateo4k2CgLuLAZ8z52sOKewrM8XbwVMAcSndfnte0X5BLoW7OeisvrZG17+S6hhWhaS/dSRRGDyaV0SHkMI7brZDSFf2J8LJ6VPe+k6LaP3OZmqENb/5di5FVeqZj4MUYtcl+bZiqsmxaNqMdpEOMzUzbKriaDBH728aFs7zRcZWANKXTu9QhIe0dpDbACjrznvuyQj/YKLO1QV7Sr8Y9V44pDmSHxhFBpsilUak9mYfx3u5FYmpvgdwkjuBLS1qA1plTdawUA9A9yVmUFbCBpfIkNi7zlncnadEs7bDhuJTg9lcCes1fDmxbNesa0eR64CLEFiF7XFPuiZjYL5+C7d6yuMXbJm1XjVlr1+4PpXQ5hzlJuEue75Snzpn/2h4uVADtqTCa6e9vp3qacDmFKl2VT6J9acmORAD9Z0ZbmaT+vzEpf4uIiJAbBHK7DVvDhGStMPPUnEN2rRsTsc8qaDSwHSIV4c94fwOH5d1fkZWd6QK78O4iJCfxXXU8E/AIwgJ/DGZrXJKBvka+GaQZO2G3AKn6WuU0PoNlErHMk6I6o1PnjOS5h8=
-**VayDNS + SOCKS **
-``
-slipnet-enc://ARB0k3BrULpPGXh1tCFbbbCcuRAfmdEiFQxwm6cbeMVXC6zKbUGS+7w4ImjIy4CVUAYkmz40y2+7V3E6OymDFfQ+2KTMy6gGfE8NUJpBLzq17cAipBLF7SWwLxuKMQytJAxpKVxrlCFEIRufGAztiZIflX+a5AhAPLjkIcD7EB7SP3dA6e2vq078Uafs90OICGzTq8OCHpd6SvrIzjed1DkAPMVmg5GoSxpqm/7kXxg2SF5B6OMqUc3pbbTHRdChSZwa+561MHLP+3mhqr8+a2n6WeW/arjzxO5Kq5AL5dAhHk1IAyAjEXLJksHg0KcxGBXIFVriu75dMBZMwrOfNeYpk0dIjgyeROEGpYdPaSj0WMRx66JvmmfmI/9fQUW8NI2Vsu18dYaNw9IMVYKVfDS/UXIYd9jQpRH9wcU/uuh/jjek/nzADWnSsR/0G6arxl+xuHJdRyfzUwFhL18ccHuK99T94xcGGPE20dmLk6JbryOIiQafocsQ39uLBy39Y92lrPnEPp8sG7UfQm9U4eh4gStfDd1aoet5Qlj0ftQhxwkF5ZqSH8Zr1PkUh5G0Y9A7A34WVZB5n2ikgRGPSJQgw7vI94TIi9SzyL7Asobkb92fVjqHGiiBY3X9XvFBIlvRWH0JFQhgvy7GCt53+yjFWAnsk7+Szq/BxWMBxuMu7jtyHFdLi/HDENr+ZdHTUe1/MY4Ee/Uc+US31A==
-**Slipnet**
- 
-**اگه سبز میشه ولی چیزی نمیاره ، خودتون باید DNS جدید اسکن کنید و واردش کنید .**
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 12:29:30 UTC
-***💢***
-امام جمعه رشت: نیازی به زنان بی حجاب در تجمعات نداریم و به وقتش دمار از روزگارشون درمیاریم! این وضعیت کثیفه و مرگ بر بی حجاب‌ها
-***‼️***
-پدر و شوهر و برادر بی حجاب‌ها بی غیرت هستن 
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 12:11:51 UTC
-`slipnet-enc://AQXYznvcM+HxAZ7/a2Qw5rD5axlK/MBtGOMQ0i1KdQN8kQLUTOYy7E6l8STXKgPazfYMj9TuQljFeBZkaABzkUmGmLp95/MYX1Upq4GX7QzRv5/x8hoIKEvuqtwKlXfo9YCJRDy/70e2BoZX3Sv5Z5kled9ov6UAODJ+VRn3iE7jRljHnbCBYJv6vgvov9ddaZMPsY3lCrr9qOvxvfb3+ViUeJJpCtpLwNNYTWLkcHCBEdFh6mwj1i7Y/QAs5k2MsNmfCVgMkNpT2mGw0nqbbjFs+VMIlOYqvAJttvh6NtqcF+D1s199ZH2t1iJelew4BVClJpZ/8O/uI7lWI244FhbvWsjBr/qKBGJyYB3KLx0JT/oEF5K+7244qPft0g/bgEvHmhPCu7oQ/84wMPT3o8rRVCqPczNHU/SmQAkLSmEZ/POOFY1AHDjP4ytaFNK2lgQk2jAejXyGPO9JOy658hto6xwgHm3joPkWz0Tnc2bYrEnbENchVJ1K/mQNaH0VautCdP1y1hJ7qk5vMs7HDMaGkbgmBOp5AofLejO1WBZm1xp96KG7k3M1+ttTWyHj5IzrAOcsRT/nofuB7MNOzri11LjFenSrzCw6Tz6aRQIsBJgV5K5p54kCheV/vh65USlVId5sOZVRtvKXxGNMGrs4eO+z+UB9AfutN4Ip3Z2p`
-**SlipnetIrancell**
-[@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
-
----
-
-### 🕒 2026-05-03 12:11:07 UTC
-`slipnet-enc://AaMIaTfE7qpVAAJcnuAyPRvN2hV2HVx/OE9inHvDePURKOScSFLNPa5MR/cxA15cOFw2uCU5k6RyNuZHfeiCuMIDX3EJgo3eu1px/oV9uda5Onriv13n4yaRbl0oyAolY7E6gvrxcUOS13vOa5FSrlyEY4HmdxYHTWPk0kZEtwRoTZ/3hucLOeppYM9oCUTgPnGvMW5KxXTL2ykfYsy9ln5xthm+IjW947DwNwU/ojxaHoAh+Ec+DshI0BE9sCHSBeEWHBSfgMt79s6rZZiFSbJHuVH2Ira5qUqgFD3n9eQrPE0msqLK00fCO6d5ibd4wEW16PQQGzDFrVIycKSUez8nP9N1vwcPnP5rlaqBGXLtGC2ESrcuTiegHh+SegdztvVCNPmsFo88fhtHcK/K9G+61dMlCO6s6DsP3uxE824dn5JkRyK7p7OLBgGvl6wTALHCT0PRj4AXEp3UzcL/kJp1Wmc4yNjhYhxe6DPahQtDWLImKNqs2CvtuO2YZ17UP10QqHGYGQN+eLUdl0t23QbTA+X3yNAZUW05SdCZJd+Rsc21El0iQY0u5ypKEkuc5orzm1rsvohNfpYque/lIHffxUQX4XlcftkPjNs6gQlzazjJtZDF99t578OF8SAeqFJSKXPGvvoMV6IJrBKdM6f11G3th4LY6gbV8WkN0v7FKA==`
-﻿
-**SlipnetIrancell**
 [@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
 
 ---
