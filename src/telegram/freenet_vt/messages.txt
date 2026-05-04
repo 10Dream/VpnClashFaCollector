@@ -1,5 +1,5 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-05-04 16:55:06 UTC
+بروزرسانی: 2026-05-04 18:23:32 UTC
 
 ### 🕒 2026-05-04 13:29:27 UTC
 فقط باید نسخه گوگل پلی باسه وگرنه اندروید دسترسی بهش نمیده کامل
@@ -92,16 +92,6 @@ Import
 
 ### 🕒 2026-05-03 20:03:38 UTC
 بزنید توی ویتری پورت پروکسی ویتدی بزارید توی نکوباکس بعد نکوباکس وصل کنید به سایفون
-
----
-
-### 🕒 2026-05-03 18:06:36 UTC
-ترکیبی  ویتوری سایفون
-
----
-
-### 🕒 2026-05-03 18:06:03 UTC
-`{"remarks":"@freenet_vt وصلیم","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"socks","settings":{"servers":[{"address":"188.121.110.192","ota":false,"port":84,"level":8}]},"streamSettings":{"network":"tcp"},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
 
 ---
 
