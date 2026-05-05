@@ -1,5 +1,24 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-05-04 22:17:07 UTC
+بروزرسانی: 2026-05-05 00:09:10 UTC
+
+### 🕒 2026-05-04 22:26:22 UTC
+کسایی که رو ترموکس میخوان اضافه کنن برید مدیریت فایل این مسیر
+/download/01/StormDNS_Client_Termux_ARM64
+و فایل client resolver حذف کنید و فایل جدید جایگزین کنید
+
+---
+
+### 🕒 2026-05-04 22:24:17 UTC
+پوشرو باز کنید ریزالور هارو کپی کنید وارد این برنامه کنید
+
+---
+
+### 🕒 2026-05-04 22:23:47 UTC
+**ریزالورهای فعال - 5/5/2026**
+**تعداد: **
+3412
+
+---
 
 ### 🕒 2026-05-04 22:10:54 UTC
 توی بالا آوردن این متود به هر مشکل و موردی برخورد کردید هرجا گیر کردید دایرکت کانال سوالتون بپرسید راهنماییتون میکنم
@@ -202,96 +221,6 @@ StormDns جایگزین بهینه و سریعتر MasterDns نسخه ترموک
 آموزش تصویری نحوه وارد کردن دستورات در ترموکس برای Storm Dns و اضافه کردن کانفیگ در exclave
 لینک دانلود نت ملی :
 [https://kalbodteam.ir/free/file/FHaKjg](https://kalbodteam.ir/free/file/FHaKjg)
-
----
-
-### 🕒 2026-05-03 23:57:35 UTC
-sed -i -e 's/DOMAINS = \["[^"]*"\]/DOMAINS = ["f.zigol.site"]/g' -e 's/ENCRYPTION_KEY = "[^"]*"/ENCRYPTION_KEY = "7453f8409f6b09afdaf590c5a2832f3a"/g' client_config.toml
-کانفیگی که روشه خودش وصل اگه قطع بود یا کند بود این دستور وارد ترموکس کنید
-دستور سریع جایگزین کردن کانفیگ
-
----
-
-### 🕒 2026-05-03 23:54:49 UTC
-تست پینگ کانفیگ Storm کانال
-بزای اد کردن پراکسی استورم به exclave اول برید به تنظیمات برنامه exclave قسمت per app vpn و ترموکس رو bypass کنید
-بعد این پروکسی رو اد کنید و وصل بشید
-`socks5://127.0.0.1:18000#storm`
-
----
-
-### 🕒 2026-05-03 23:54:10 UTC
-Exclave
-برنامه پیشنهادی برای کانفیگ های trojan و vless کانال
-فرقش با ویتوری اینه که میزان مصرف رو هم نشون میده و سبکتره
-[https://github.com/dyhkwong/Exclave/releases/download/0.17.30/Exclave-0.17.30-arm64-v8a.apk](https://github.com/dyhkwong/Exclave/releases/download/0.17.30/Exclave-0.17.30-arm64-v8a.apk)
-لینک داخلی
-[https://my.files.ir/drive/s/bGGvXgPVq8oxva816WlepGQal6MQtj](https://my.files.ir/drive/s/bGGvXgPVq8oxva816WlepGQal6MQtj)
-
----
-
-### 🕒 2026-05-03 23:52:23 UTC
-StormDns
-جایگزین بهینه و سریعتر MasterDns
-نسخه ترموکس
-همون کانفیگ های masterdns روی این جواب میده و هیچ تغییری لازم نیست.
-فقط باید برنامه بهینه شده StormDns رو نصب کنید.
-1. ترموکس رو نصب کنید:
-[https://uplod.ir/ebhs63tr7jzs/Termux.zip.htm](https://uplod.ir/ebhs63tr7jzs/Termux.zip.htm)
-یا از مایکت یا فارسروید نصب کنید.
-2. برنامه استورم نسخه ترموکس رو دانلود کنید:
-[https://kalbodteam.ir/free/file/fN6tLa](https://kalbodteam.ir/free/file/fN6tLa)
-3. فایل زیپ رو اکسترکت کنید.(اسم پوشه ای که برای اکسترکت انتخاب می کنید حتما 01 باشد و بعد پوشه برنامه تا دستورات بعدی تغییر نکند)
-پوشه ها به این ترتیب باشه:
-`/download/01/StormDNS_Client_Termux_ARM64/`
-4. دستورات زیر رو داخل ترموکس بزنید:
-`termux-setup-storage`
-حرف y بزنید و اینتر کنید دسترسی بهش بدین
-`cp -r /sdcard/download/01/StormDNS_Client_Termux_ARM64 $HOME`
-`cd StormDNS_Client_Termux_ARM64/`
-`mv StormDNS_Client_Termux_ARM64_v2026.04.26.153956-15aedd9 storm`
-`chmod +x storm`
-`./storm`
-صبر کنید اسکن تمام شود و dns های سالم با تیک سبز نمایش داده شود.
-بعد تلگرام به این پروکسی وصل بشید:
-[https://t.me/socks?server=127.0.0.1&port=18000](https://t.me/socks?server=127.0.0.1&port=18000)
-برای توقف برنامه:
-ctrl + c
-((((((برای اجراهای بعدی اگه ترموکس کامل بستید فقط این 2 دستور)))))))
-`chmod +x storm`
-`./storm`
-اما اگه ترموکس نبستید و با دستور 
-Ctrl + C فقط خاموشش کردید
-این دستور دوباره رانش میکنه 
-`./storm`
-تمام.
-***©️***
-Appxa
-
----
-
-### 🕒 2026-05-03 23:39:18 UTC
-آموزش کامل و آسان اجرای متود MHR–CFW روی موبایل (با ترموکس، بدون روت) بصورت PDF
-— به همراه فایل‌های پروژه
-سرعت: مشابه MHRV
-حجم: روزانه ۲۰هزار + ۱۰۰هزار ریکوئست
-مزیت نسبت‌به MHR: تعداد ریکوئست بیشتر، تغییر آیپی و حل مشکل کپچا، دسترسی به یوتیوب، اینستاگرام، تلگرام و هوش‌مصنوعی‌ها: گراک، کلاد و جمنای(از طریق گوگل استودیو)
-پیش‌نیاز: اکانت کلادفلر، گوگل و برنامه ترموکس!
-(بدون نیاز به سرور)
-نکته نهایی و مهم!!!!
-تمام آموزش PDF رو که انجام دادین و متود اجرا شد،
-در آخر توی فایرفاکس باید برید Setting
-بعد برید آخر گزینه About firefox بزنید.
-روی لوگوی فایرفاکس پنج شش بار بزنید.
-برگردید توی منو یه گزینه اضافه شده به نام Secret Setting ، اونو بزنید و گزینه Use third party CA certificate روشن کنید و تمام.
-ZIP Password: 
-[@TheVPNMethod](https://t.me/TheVPNMethod)
-دانلود داخلی آموزش و فایل‌های لازم:
-[https://punkpaste.ir/f/MHR-CFW-Termux-rfowwi](https://punkpaste.ir/f/MHR-CFW-Termux-rfowwi)
-گیتهاب پروژه:
-[https://github.com/denuitt1/mhr-cfw](https://github.com/denuitt1/mhr-cfw)
-— More: 
-[@TheVPNMethod](https://t.me/TheVPNMethod)
 
 ---
 
