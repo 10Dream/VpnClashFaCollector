@@ -1,5 +1,241 @@
 # آرشیو کانال: @saministamm
-بروزرسانی: 2026-05-06 09:36:28 UTC
+بروزرسانی: 2026-05-06 12:00:56 UTC
+
+### 🕒 2026-05-06 11:50:39 UTC
+***🚀***
+کانفیگ اینجکتور
+ 
+Channel : 
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 11:38:28 UTC
+PROXY :
+[tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d](tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d)
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 11:30:14 UTC
+PROXY : 
+[https://t.me/proxy?server=135.181.31.175&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=135.181.31.175&port=443&secret=dd104462821249bd7ac519130220c25d09)
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 11:28:33 UTC
+V2 + Psiphon : 
+{"dns":{"hosts":{"
+[@saministamm](https://t.me/saministamm)
+":"
+[googleapis.com](http://googleapis.com/)
+","
+[dns.alidns.com](http://dns.alidns.com/)
+":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1"],"
+[one.one.one.one](http://one.one.one.one/)
+":["
+[1.1.1.1](http://1.1.1.1/)
+","
+[1.0.0.1](http://1.0.0.1/)
+","2606:4700:4700::1111","2606:4700:4700::1001"],"
+[dns.cloudflare.com](http://dns.cloudflare.com/)
+":["
+[104.16.132.229](http://104.16.132.229/)
+","
+[104.16.133.229](http://104.16.133.229/)
+","2606:4700::6810:84e5","2606:4700::6810:85e5"],"
+[cloudflare-dns.com](http://cloudflare-dns.com/)
+":["
+[104.16.248.249](http://104.16.248.249/)
+","
+[104.16.249.249](http://104.16.249.249/)
+","2606:4700::6810:f8f9","2606:4700::6810:f9f9"],"
+[dot.pub](http://dot.pub/)
+":["
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+"],"
+[dns.google](http://dns.google/)
+":["
+[8.8.8.8](http://8.8.8.8/)
+","
+[8.8.4.4](http://8.8.4.4/)
+","2001:4860:4860::8888","2001:4860:4860::8844"],"
+[dns.quad9.net](http://dns.quad9.net/)
+":["
+[9.9.9.9](http://9.9.9.9/)
+","
+[149.112.112.112](http://149.112.112.112/)
+","2620:fe::fe","2620:fe::9"],"
+[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
+":["
+[77.88.8.8](http://77.88.8.8/)
+","
+[77.88.8.1](http://77.88.8.1/)
+","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"],"
+[pg.nexorainnovationhub.ir](http://pg.nexorainnovationhub.ir/)
+":"
+[185.143.234.122](http://185.143.234.122/)
+"},"servers":["
+[1.1.1.1](http://1.1.1.1/)
+",{"address":"
+[1.1.1.1](http://1.1.1.1/)
+","domains":["geosite:google"]},{"address":"
+[223.5.5.5](http://223.5.5.5/)
+","domains":["domain:
+[alidns.com](http://alidns.com/)
+","domain:
+[doh.pub](http://doh.pub/)
+","domain:
+[dot.pub](http://dot.pub/)
+","domain:
+[360.cn](http://360.cn/)
+","domain:
+[onedns.net](http://onedns.net/)
+","geosite:cn"],"expectIPs":["geoip:cn"],"skipFallback":true,"tag":"domestic-dns"}],"tag":"dns-module"},"inbounds":[{"listen":"
+[127.0.0.1](http://127.0.0.1/)
+","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"socks"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":-1,"enabled":false},"protocol":"vless","settings":{"vnext":[{"address":"
+[pg.nexorainnovationhub.ir](http://pg.nexorainnovationhub.ir/)
+","port":80,"users":[{"encryption":"none","flow":"","id":"4ff3afe8-e868-49a9-b91a-8d4006f05aaa","level":8}]}]},"streamSettings":{"network":"ws","sockopt":{"domainStrategy":"UseIP","happyEyeballs":{"interleave":2,"maxConcurrentTry":4,"prioritizeIPv6":false,"tryDelayMs":250}},"wsSettings":{"headers":{"Host":"
+[germany.lezzaluxa.ir](http://germany.lezzaluxa.ir/)
+"},"path":"/"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"remarks":"
+[@Viturey](https://t.me/Viturey)
+","routing":{"domainStrategy":"AsIs","rules":[{"network":"udp","outboundTag":"block","port":"443","type":"field"},{"domain":["geosite:google"],"outboundTag":"proxy","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1","
+[119.29.29.29](http://119.29.29.29/)
+","
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+","2402:4e00::","2402:4e00:1::","
+[180.76.76.76](http://180.76.76.76/)
+","2400:da00::6666","
+[114.114.114.114](http://114.114.114.114/)
+","
+[114.114.115.115](http://114.114.115.115/)
+","
+[114.114.114.119](http://114.114.114.119/)
+","
+[114.114.115.119](http://114.114.115.119/)
+","
+[114.114.114.110](http://114.114.114.110/)
+","
+[114.114.115.110](http://114.114.115.110/)
+","
+[180.184.1.1](http://180.184.1.1/)
+","
+[180.184.2.2](http://180.184.2.2/)
+","
+[101.226.4.6](http://101.226.4.6/)
+","
+[218.30.118.6](http://218.30.118.6/)
+","
+[123.125.81.6](http://123.125.81.6/)
+","
+[140.207.198.6](http://140.207.198.6/)
+","
+[1.2.4.8](http://1.2.4.8/)
+","
+[210.2.4.8](http://210.2.4.8/)
+","
+[52.80.66.66](http://52.80.66.66/)
+","
+[117.50.22.22](http://117.50.22.22/)
+","2400:7fc0:849e:200::4","2404:c2c0:85d8:901::4","
+[117.50.10.10](http://117.50.10.10/)
+","
+[52.80.52.52](http://52.80.52.52/)
+","2400:7fc0:849e:200::8","2404:c2c0:85d8:901::8","
+[117.50.60.30](http://117.50.60.30/)
+","
+[52.80.60.30](http://52.80.60.30/)
+"],"outboundTag":"direct","type":"field"},{"domain":["domain:
+[alidns.com](http://alidns.com/)
+","domain:
+[doh.pub](http://doh.pub/)
+","domain:
+[dot.pub](http://dot.pub/)
+","domain:
+[360.cn](http://360.cn/)
+","domain:
+[onedns.net](http://onedns.net/)
+"],"outboundTag":"direct","type":"field"},{"ip":["geoip:cn"],"outboundTag":"direct","type":"field"},{"domain":["geosite:cn"],"outboundTag":"direct","type":"field"},{"inboundTag":["domestic-dns"],"outboundTag":"direct","type":"field"},{"inboundTag":["dns-module"],"outboundTag":"proxy","type":"field"}]}}
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 11:13:03 UTC
+**PROXY Psiphon :**
+**Host :**
+ 
+`185.79.157.46`
+ 
+**Port : **
+`10818`
+مخابرات تست شده 
+**Channel : **
+[**@saministamm**](https://t.me/saministamm)
+**.**
+
+---
+
+### 🕒 2026-05-06 11:06:50 UTC
+V2 + Psiphon :
+`vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#saministamm`
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 10:52:52 UTC
+PROXY :
+[https://t.me/socks?server=62.220.126.92&port=31548](https://t.me/socks?server=62.220.126.92&port=31548)
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 10:50:48 UTC
+PROXY :
+[tg://proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09)
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 10:34:33 UTC
+***🚨***
+**رویترز: ایران و آمریکا در آستانه توافق برای پایان جنگ هستند.**
+
+---
+
+### 🕒 2026-05-06 10:17:43 UTC
+PROXY :
+[https://t.me/socks?server=62.220.126.92&port=32092](https://t.me/socks?server=62.220.126.92&port=32092)
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-06 10:15:06 UTC
+V2 + Psiphon :
+`vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#https://t.me/saministamm`
+[@saministamm](https://t.me/saministamm)
+.
+
+---
+
+### 🕒 2026-05-06 09:54:30 UTC
+PROXY :
+[tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09)
+[@saministamm](https://t.me/saministamm)
+
+---
 
 ### 🕒 2026-05-06 09:02:06 UTC
 PROXY :
@@ -569,16 +805,6 @@ Slipnet :
 ### 🕒 2026-05-05 12:08:53 UTC
 پروکسی متصل : 
 [https://t.me/socks?server=62.220.126.56&port=28920&user=%40saministamm](https://t.me/socks?server=62.220.126.56&port=28920&user=%40saministamm)
-
----
-
-### 🕒 2026-05-05 11:25:35 UTC
-***🚀***
-کانفیگ اینجکتور 
-**Channel : **
-[**@saministamm**](https://t.me/saministamm)
-**.**
-***🚀***
 
 ---
 
