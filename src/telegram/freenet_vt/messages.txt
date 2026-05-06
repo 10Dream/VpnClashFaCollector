@@ -1,5 +1,34 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-05-06 18:25:04 UTC
+بروزرسانی: 2026-05-06 20:31:45 UTC
+
+### 🕒 2026-05-06 20:06:05 UTC
+***🚨***
+بالا آوردن تمام کانال های تلگرام روی نت ملی با روش کاملا اختصاصی و امن
+-آموزش نصب ezytel در گوشی با استفاده از اپ KSWEB:
+اول برنامه KSWEB رو از فارسروید دانلود و نصب کنید. بعد نصب اجرا کنید. بعد اجرا در حافظه اصلی گوشی یک پوشه به نام htdocs ایجاد میشود.
+[https://www.dl.farsroid.com/ap/KSWEB-Pro-4.05(www.Farsroid.com).apk](https://www.dl.farsroid.com/ap/KSWEB-Pro-4.05(www.Farsroid.com).apk)
+فایل ezytel رو هم دانلود و استخراج کنید
+[http://uploaded.ir/preview/iB5Ov6Ys](http://uploaded.ir/preview/iB5Ov6Ys)
+پوشه ezytel رو از Zip خارج کنید و انتقال بدید در پوشه htdocs
+تو مرورگرتون این آدرس رو بزنید تا فایل چنل ایجاد بشه :
+http://localhost:8080/ezytel
+حالا برگردید به پوشه ezytel
+و تو فایل channels.txt لینک کانال‌هایی که میخواید ببینید رو وارد کنید.هر کانال تو یه خط باشه
+فرمت لینک به صورت زیر:
+[https://t.me/xxxxxx](https://t.me/xxxxxx)
+[https://t.me/xxxxxx](https://t.me/xxxxxx)
+برید تو مرورگر حالا صفحه رو رفرش کنید تا لیست کانال ها نمایش داده بشه
+••••••••••••
+دسکتاپش اینه
+دانلود اسکریپت ezytel برای دسترسی به کانال های تلگرام در ویندوز
+ابتدا برنامه wampserver رو از لینک زیر دانلود کنید.
+دانلود wampserver
+[https://p30download.ir/fa/entry/37584/wampserver](https://p30download.ir/fa/entry/37584/wampserver)
+بعد از نصب برنامه wamp محتویات فایل 
+[ezytel.zip](http://ezytel.zip/)
+ رو در مسیر
+
+---
 
 ### 🕒 2026-05-06 14:42:55 UTC
 ریزالور مخصوص مستر دی ان اس و وایت دی ان اس پک هارو ترکیب نکنید جدا جدا استفاده کنید بهینه تره
