@@ -1,5 +1,95 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-05-11 15:08:55 UTC
+بروزرسانی: 2026-05-11 17:40:07 UTC
+
+### 🕒 2026-05-11 17:17:15 UTC
+لیست ریزالور مناسب WhiteDNS
+توی این چند روزه با سرورهای مختلف با نت خودم تست کردم همینارو بدست اوردم (همراه،ایرانسل،مخابرات)
+طبعا منطقه و نت و سرور توی نتیجه تاثیر داره
+اگه متصل نشدید سرور رو عوض کنید
+همین تمام
+***✨***
+[@ShadowProxy66](https://t.me/ShadowProxy66)
+
+---
+
+### 🕒 2026-05-11 16:22:09 UTC
+***📍***
+تنظیمات اتصال whiteDNS
+شماره 1
+Min up 100 Max 1000
+Min dl 200 Max 4000
+Resolver timeout 0.5
+DNS Feragment 256
+Network Tuning :
+Up dub 15
+Dl dup 30
+lz4 our zlip
+شماره 2
+Min up 100 Max 500
+Min 100 Max 1325
+Resolver timeout 0.5
+DNS Feragment 250
+Network Tuning :
+Up dub 5
+Dl dup 15
+lz4
+شماره 3
+Min up 50 Max 1500
+Min dl 50 Max 500
+Resolver timeout 0.2
+DNS Feragment 200
+Network Tuning :
+Up dub 1
+Dl dup 1
+Upload v Download compress OFF
+شماره 4
+Min up 20 Max 325
+Min dl 100 Max 1270
+Resolver timeout 0.5
+DNS Feragment 100
+Network Tuning :
+Up dub 1
+Dl dup 5
+lz4
+شماره 5
+Min up 50 Max 500
+Min dl 100 Max 9000
+Resolver timeout 0.3
+Dns Feragment 256
+Network Tuning :
+Up dub 1
+Dl dup 1
+Upload v download compress OFF
+شماره 6
+Min up 40 Max 200
+Min dl 100 Max 1500
+Resolver timeout 0.5
+Dns Feragment 256
+Network Tuning :
+Up dub 5
+Dl dup 5
+lz4
+شماره 7
+Min up 64 Max 64
+Min 756 Max 756
+Resolver timeout 0.7
+DNS Feragment 256
+Network Tuning :
+Up dub 15
+Dl dup 30
+lz4
+
+---
+
+### 🕒 2026-05-11 16:15:17 UTC
+دوتا مطلب
+برای استفاده از whiteDNS محدودیت استفاده از باطری رو بردارید نباید محدودیتی برای استفاده از باطری داشته باشه
+و اینکه ریزالورهای که با نت شما بهتر جواب میده جمع کنید
+[https://t.me/ShadowProxy66/15115](https://t.me/ShadowProxy66/15115)
+و Resolver Profiles اختصاصی متناسب نت خودتون بسازید
+[https://t.me/ShadowProxy66/15087?single](https://t.me/ShadowProxy66/15087?single)
+
+---
 
 ### 🕒 2026-05-11 10:12:12 UTC
 dmxlc3M6Ly8zODhhNmM1Ny04N2U3LTQyMGItYWZlMi1iM2ViNjcwZmQ3ZGFANTAuNy40LjI0Mzo4MD9wYXRoPSUyRiZzZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZob3N0PXZpcC55YW1sNy5nZ2ZmLm5ldCZ0eXBlPXdzI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlQzIlQjkKdmxlc3M6Ly8zODhhNmM1Ny04N2U3LTQyMGItYWZlMi1iM2ViNjcwZmQ3ZGFANTAuNy40LjI0NDo4MD9wYXRoPSUyRiZzZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZob3N0PXZpcC55YW1sNy5nZ2ZmLm5ldCZ0eXBlPXdzI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlQzIlQjIKdmxlc3M6Ly9kMzdhNzVkYi03NmI2LTRkYjgtYjIxMy0wZDViMDQ0ZDEzOGRANTAuNy40LjI0MzoyMDUzP3NlY3VyaXR5PXRscyZlbmNyeXB0aW9uPW5vbmUmaW5zZWN1cmU9MSZob3N0PWhpby1hd3gucGFnZXMuZGV2JnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1oaW8tYXd4LnBhZ2VzLmRldiNDaGFubmVsJTIwaWQlM0ElMjAlNDBTaGFkb3dQcm94eTY2JTIwJUMyJUIzCnZsZXNzOi8vZDM3YTc1ZGItNzZiNi00ZGI4LWIyMTMtMGQ1YjA0NGQxMzhkQDUwLjcuNC4yNDQ6MjA1Mz9zZWN1cml0eT10bHMmZW5jcnlwdGlvbj1ub25lJmluc2VjdXJlPTEmaG9zdD1oaW8tYXd4LnBhZ2VzLmRldiZ0eXBlPXdzJmFsbG93SW5zZWN1cmU9MSZzbmk9aGlvLWF3eC5wYWdlcy5kZXYjQ2hhbm5lbCUyMGlkJTNBJTIwJTQwU2hhZG93UHJveHk2NiUyMCVFMiU4MSVCNAp0cm9qYW46Ly9odW1hbml0eUA1MC43LjQuMjQzOjQ0Mz9wYXRoPSUyRmFzc2lnbm1lbnQmc2VjdXJpdHk9dGxzJmluc2VjdXJlPTAmaG9zdD13d3cuY2FsbWxvdWQuY29tJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0wJnNuaT13d3cuY2FsbWxvdWQuY29tI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlRTIlODElQjUKdHJvamFuOi8vaHVtYW5pdHlANTAuNy40LjI0NDo0NDM/cGF0aD0lMkZhc3NpZ25tZW50JnNlY3VyaXR5PXRscyZpbnNlY3VyZT0wJmhvc3Q9d3d3LmNhbG1sb3VkLmNvbSZ0eXBlPXdzJmFsbG93SW5zZWN1cmU9MCZzbmk9d3d3LmNhbG1sb3VkLmNvbSNDaGFubmVsJTIwaWQlM0ElMjAlNDBTaGFkb3dQcm94eTY2JTIwJUUyJTgxJUI2CnRyb2phbjovL2h1bWFuaXR5QDUwLjcuNC4yNDM6NDQzP3BhdGg9JTJGYXNzaWdubWVudCZzZWN1cml0eT10bHMmaW5zZWN1cmU9MCZob3N0PXd3dy5jYWxtbG91ZC5jb20mdHlwZT13cyZhbGxvd0luc2VjdXJlPTAmc25pPXd3dy5jYWxtbG91ZC5jb20jQ2hhbm5lbCUyMGlkJTNBJTIwJTQwU2hhZG93UHJveHk2NiUyMCVFMiU4MSVCNwp0cm9qYW46Ly9odW1hbml0eUA1MC43LjQuMjQzOjQ0Mz9wYXRoPSUyRmFzc2lnbm1lbnQmc2VjdXJpdHk9dGxzJmluc2VjdXJlPTAmaG9zdD13d3cuY2FsbWxvdWQuY29tJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0wJnNuaT13d3cuY2FsbWxvdWQuY29tI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlRTIlODElQjg=

@@ -1,13 +1,87 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-05-11 15:10:24 UTC
+بروزرسانی: 2026-05-11 17:41:40 UTC
 
-### 🕒 2026-05-11 06:52:28 UTC
-[https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
+### 🕒 2026-05-11 17:19:56 UTC
+اگه تنظیمات دیفالت برنامه براتون جوابه دست نزنید اگه نه یکی یکی تنظیمات تست کنید تا تنطیمات بهینه برای ننطقه و اپراتور خودتون به دست بیاد
 
 ---
 
-### 🕒 2026-05-10 19:42:48 UTC
-بعداً کسایی که این نزدن بزنن از اینم کانفیگ بگیریم
+### 🕒 2026-05-11 17:19:24 UTC
+***📍***
+تنظیمات اتصال whiteDNS
+شماره 1
+Min up 100 Max 1000
+Min dl 200 Max 4000
+Resolver timeout 0.5
+DNS Feragment 256
+Network Tuning :
+Up dub 15
+Dl dup 30
+lz4 our zlip
+شماره 2
+Min up 100 Max 500
+Min 100 Max 1325
+Resolver timeout 0.5
+DNS Feragment 250
+Network Tuning :
+Up dub 5
+Dl dup 15
+lz4
+شماره 3
+Min up 50 Max 1500
+Min dl 50 Max 500
+Resolver timeout 0.2
+DNS Feragment 200
+Network Tuning :
+Up dub 1
+Dl dup 1
+Upload v Download compress OFF
+شماره 4
+Min up 20 Max 325
+Min dl 100 Max 1270
+Resolver timeout 0.5
+DNS Feragment 100
+Network Tuning :
+Up dub 1
+Dl dup 5
+lz4
+شماره 5
+Min up 50 Max 500
+Min dl 100 Max 9000
+Resolver timeout 0.3
+Dns Feragment 256
+Network Tuning :
+Up dub 1
+Dl dup 1
+Upload v download compress OFF
+شماره 6
+Min up 40 Max 200
+Min dl 100 Max 1500
+Resolver timeout 0.5
+Dns Feragment 256
+Network Tuning :
+Up dub 5
+Dl dup 5
+lz4
+شماره 7
+Min up 64 Max 64
+Min 756 Max 756
+Resolver timeout 0.7
+DNS Feragment 256
+Network Tuning :
+Up dub 15
+Dl dup 30
+lz4
+
+---
+
+### 🕒 2026-05-11 17:18:08 UTC
+ریزالور برنامه White Dns
+
+---
+
+### 🕒 2026-05-11 06:52:28 UTC
+[https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
 
 ---
 
@@ -22,11 +96,6 @@
 
 ### 🕒 2026-05-10 19:35:15 UTC
 vless://f4888190-4075-4a4a-89c4-4cf8b6c787dd@nobitex.ir:80?path=%2F&security=&encryption=none&host=support.mindigosupport.ir&type=ws#
-
----
-
-### 🕒 2026-05-10 19:31:04 UTC
-تنظیمات دیفالتش جوابه اگه جواب نگرفتید تنظیمات کانال قرار بدید
 
 ---
 
