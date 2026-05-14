@@ -1,33 +1,117 @@
 # آرشیو کانال: @letiranbreath
-بروزرسانی: 2026-04-26 20:51:41 UTC
+بروزرسانی: 2026-05-14 18:00:58 UTC
 
-### 🕒 2026-04-25 21:31:05 UTC
-***🎉***
- کانفیگت آمادست! ━━━━━━━━━━━━━━━  
-***⚡***
- فرگمنت {"remarks":"@Letiranbreath 
-***⚡***
- Fragment","log":{"loglevel":"none"},"dns":{"hosts":{"adblock.dns.mullvad.net":["194.242.2.3"]},"queryStrategy":"UseIP","servers":[{"address":"fakedns","domains":["full:jquery.com"],"…
+### 🕒 2026-05-14 17:20:30 UTC
+use in shir o khorshid, Enjoy connection
 
 ---
 
-### 🕒 2026-04-25 21:30:49 UTC
-> ↪️ **Forwarded**
+### 🕒 2026-05-14 17:20:19 UTC
+2.16.1.225 104.126.37.129 2.17.100.170 184.24.77.35 23.32.238.96 23.11.206.17 96.16.122.65 173.222.108.35 23.32.238.120 2.19.183.49 23.50.131.96 23.210.253.96 23.206.69.113 104.122.212.92 23.215.21.188 104.77.37.58 23.3.89.107 2.23.245.35 23.14.113.83 23.48.23.183…
 
-***🎉***
- 
-**کانفیگت آمادست!**
-━━━━━━━━━━━━━━━
-***⚡***
- 
-**فرگمنت**
-`{"remarks":"@Letiranbreath ***⚡*** Fragment","log":{"loglevel":"none"},"dns":{"hosts":{"adblock.dns.mullvad.net":["194.242.2.3"]},"queryStrategy":"UseIP","servers":[{"address":"fakedns","domains":["full:jquery.com"],"skipFallback":false},{"address":"https://adblock.dns.mullvad.net","tag":"remote-dns"},{"address":"8.8.8.8","domains":["full:jquery.com"],"skipFallback":true}],"tag":"dns"},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"mixed-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"trojan","settings":{"servers":[{"address":"jquery.com","password":"Kdfn$Ya!82X7Z$L&GD$Q4V4O","port":443}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["http/1.1"],"fingerprint":"chrome","serverName":"letirANbREaTh-ZtmER4oiS02Nh4ptwp0Ync2BmFEdlxCJ4nk08T8EtR8F.V8mQewfL6T3FNWDmuL10.wOrkers.deV"},"wsSettings":{"host":"letiranbreath-ztmer4ois02nh4ptwp0ync2bmfedlxcj4nk08t8etr8f.v8mqewfl6t3fnwdmul10.workers.dev","path":"/eyJqdW5rIjoiVnFpVEdnVmdXdCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560"}},"tag":"proxy"},{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"3-8","interval":"4-8"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","tcpFastOpen":true,"happyEyeballs":{"tryDelayMs":250,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"fragment"},{"protocol":"dns","settings":{"nonIPQuery":"reject"},"tag":"dns-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["mixed-in"],"port":53,"outboundTag":"dns-out","type":"field"},{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["remote-dns"],"outboundTag":"proxy","type":"field"},{"inboundTag":["dns"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"network":"udp","outboundTag":"block","type":"field"},{"network":"tcp","outboundTag":"proxy","type":"field"}]},"policy":{"levels":{"0":{"connIdle":300,"handshake":4,"uplinkOnly":1,"downlinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"stats":{}}`
-***🔷***
- 
-**ساده**
-`trojan://Kdfn%24Ya!82X7Z%24L%26GD%24Q4V4O@jquery.com:443?security=tls&type=ws&host=letiranbreath-ztmer4ois02nh4ptwp0ync2bmfedlxcj4nk08t8etr8f.v8mqewfl6t3fnwdmul10.workers.dev&path=%2FeyJqdW5rIjoiVnFpVEdnVmdXdCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=LetIRAnBREath-ztmEr4Ois02nh4pTWp0yNc2bMfEDlXCJ4nK08T8EtR8f.v8MqEwFl6t3FnwDMuL10.WorkerS.Dev&fp=chrome&alpn=http%2F1.1#%40Letiranbreath%20%F0%9F%94%B7%20Clean`
-***💡***
- اگه یکی وصل نشد، اون یکی رو امتحان کن.
+---
+
+### 🕒 2026-05-14 17:19:50 UTC
+2.16.1.225
+104.126.37.129
+2.17.100.170
+184.24.77.35
+23.32.238.96
+23.11.206.17
+96.16.122.65
+173.222.108.35
+23.32.238.120
+2.19.183.49
+23.50.131.96
+23.210.253.96
+23.206.69.113
+104.122.212.92
+23.215.21.188
+104.77.37.58
+23.3.89.107
+2.23.245.35
+23.14.113.83
+23.48.23.183
+23.58.222.96
+23.11.206.51
+23.46.188.232
+96.16.248.133
+23.52.76.33
+23.209.20.39
+95.100.158.104
+2.23.7.43
+104.116.97.72
+23.59.33.108
+23.45.97.28
+2.20.45.34
+2.16.54.135
+72.247.199.196
+23.11.206.89
+23.216.77.156
+184.24.24.198
+2.21.79.35
+23.55.110.57
+184.24.25.84
+184.51.252.63
+2.21.243.217
+184.86.251.29
+2.22.151.146
+2.22.120.141
+2.16.16.181
+2.22.112.7
+23.219.138.209
+23.202.156.14
+23.12.158.99
+2.16.238.11
+23.205.183.178
+2.19.198.74
+95.101.171.28
+23.50.156.136
+104.103.64.7
+23.67.129.53
+23.211.44.36
+2.17.152.213
+2.20.33.186
+2.23.8.59
+184.51.252.150
+23.50.131.142
+23.216.77.31
+104.117.76.179
+184.86.251.4
+2.19.196.224
+104.117.76.27
+95.100.133.103
+2.17.100.186
+23.219.138.200
+95.100.133.90
+184.86.251.23
+23.3.89.88
+95.101.234.89
+104.66.91.41
+2.23.7.34
+2.21.240.26
+96.17.207.134
+23.53.43.51
+2.18.64.25
+104.117.76.57
+2.23.245.85
+23.36.162.202
+23.58.84.72
+2.19.252.84
+2.21.245.53
+23.207.210.84
+23.48.214.85
+2.16.202.114
+23.48.23.176
+104.117.76.19
+2.22.31.152
+2.22.84.175
+184.86.103.207
+2.21.239.21
+23.49.175.73
+23.211.42.21
+95.100.153.144
+2.19.120.95
 
 ---
 
