@@ -1,5 +1,13 @@
 # آرشیو کانال: @digihubai
-بروزرسانی: 2026-05-15 00:09:02 UTC
+بروزرسانی: 2026-05-15 04:56:47 UTC
+
+### 🕒 2026-05-15 04:53:49 UTC
+***📌***
+نحوه اسکن آیپی‌‌های Akamai در ترموکس :  
+***1⃣***
+به یک فیلترشکن متصل بشید و ​ترموکس را باز کنید و این ۳ خط را کپی کنید و اینتر بزنید تا ابزارهای لازم نصب بشن : pkg update && pkg upgrade -y pkg install nmap -y termux-setup-storage اگر پیغامی برای دسترسی به فایل‌ها…
+
+---
 
 ### 🕒 2026-05-14 19:37:03 UTC
 > ↪️ **Forwarded**
@@ -89,7 +97,13 @@
 من در دستور از رنج آیپی 
 [2.16.0.0/18](http://2.16.0.0/18)
   استفاده کردم و 4 آیپی وایتی که اسکن کرد رو براتون گذاشتم، شما میتونید اون رنج‌ رو پاک کنید و از این مخزن گیت‌هاب، سایر رنج‌ها رو در دستور جایگذاری کنید :
+***🔹***
+**آکامای :**
+[https://github.com/123jjck/cdn-ip-ranges/blob/main/akamai/akamai_plain_ipv4.txt](https://github.com/123jjck/cdn-ip-ranges/blob/main/akamai/akamai_plain_ipv4.txt)
 [https://github.com/platformbuilds/Akamai-ASN-and-IPs-List](https://github.com/platformbuilds/Akamai-ASN-and-IPs-List)
+***🔸***
+ فستلی :
+[https://github.com/123jjck/cdn-ip-ranges/blob/main/fastly/fastly_plain_ipv4.txt](https://github.com/123jjck/cdn-ip-ranges/blob/main/fastly/fastly_plain_ipv4.txt)
 بعد از پایان اسکن، ​هر جا نوشته بود Nmap scan report for و زیرش نوشته بود 443/tcp open یعنی اون آیپی‌ وایته و باید کپیش کنید.
 بهتره رنج‌های کوچک رو اسکن کنید، اسکن رنج‌آیپی‌های بزرگ، ساعت‌ها زمان میبره.
 [@DigiHubAI](https://t.me/DigiHubAI)
@@ -99,7 +113,6 @@
 ### 🕒 2026-05-14 18:37:29 UTC
 ***🟡***
 **این‌ها رو با ایرانسل اسکن زدم :**
-[2.16.53.50](http://2.16.53.50/)
 [2.16.53.11](http://2.16.53.11/)
 [2.16.19.136](http://2.16.19.136/)
 [2.16.20.51](http://2.16.20.51/)
@@ -210,28 +223,6 @@ Setting -> Security and privacy -> More security settings -> View security certi
 
 ### 🕒 2026-05-14 05:06:21 UTC
 psiphon-helper@patterniha.json
-
----
-
-### 🕒 2026-05-14 04:45:57 UTC
-***⭕️***
-**آموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است) **
-اول اینکه واقعا نیازی به MitM نبود اگه خود سایفون یسری امکاناتو داشت ولی به هر حال نداره و نیاز به MitM هست.
-در کانفیگ psiphon-helper@patterniha_v1
-به جای ایپی ...92 میتوانید از هر ایپی دیگری که متعلق به akamai باشد استفاده کنید.
-۱۰. حمایت لطفا فراموش نشه همچنان پروژه های زیادی در راستای دسترسی آزاد مردم به اینترنت در نظر دارم، آدرس های ولت بنده در کانال شخصی بنده موجود هست.
-[@patterniha](https://t.me/patterniha)
-**‼️محتویات داخل این فایل که یک کانفیگ هست رو کامل کپی کنید و در کلاینت‌v2rayNG وارد کنید.**
-
----
-
-### 🕒 2026-05-14 04:45:43 UTC
-***📌***
-**آخرین نسخه رسمی کلاینت V2rayNG **
-***🔹***
-**لینک دانلود با نت حکومتی :**
-[https://punkpaste.ir/f/v2rayNG-2-1-7-arm64--kqm1ph](https://punkpaste.ir/f/v2rayNG-2-1-7-arm64--kqm1ph)
-[@DigiHubAI](https://t.me/DigiHubAI)
 
 ---
 
