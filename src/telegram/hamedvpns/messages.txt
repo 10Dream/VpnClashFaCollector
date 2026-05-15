@@ -1,5 +1,63 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-05-15 15:23:19 UTC
+بروزرسانی: 2026-05-15 17:48:35 UTC
+
+### 🕒 2026-05-15 17:47:06 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**lilendian0x00/xray-knife**
+:
+***✅***
+ 
+**Xray-knife v10.0.0**
+ (v10.0.0)
+## What's New
+**In short:** Added TUN feature and also made proxy command cleaner and improved UX  
+### 
+***🌐***
+ Host-Wide TUN Capture (new mode)
+- New `proxy tun` subcommand (Linux only, root). Creates a TUN interface, replaces the host's default route, and forwards every outbound packet through the rotating proxy.
+- Captures *everything* leaving the host — not just apps wired through SOCKS or namespaced via `proxy app`.
+- Safe defaults: TUN CIDR is `
+[198.18.0.0/15`](http://198.18.0.0/15%60)
+ (RFC 2544, won't collide wi...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/lilendian0x00/xray-knife/releases/tag/v10.0.0)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-05-15 17:46:55 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**Happ-proxy/happ-android**
+:
+***✅***
+ 
+**3.21.0**
+ (3.21.0)
+* App widget redesign
+* Optimizations of subscriptions' statuses evaluation performance and stability
+* Added option to customize subscriptions' request timeout
+* Improved ping for hysteria configs
+* Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens
+* Set fixed duration for TV's snackbars
+* Fixed logs block during xray config building
+* Fixed hysteria sni and udpHop params
+* Fixed servers list spring animation during servers' updates
+* ...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-android/releases/tag/3.21.0)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
 
 ### 🕒 2026-05-15 12:22:18 UTC
 به خاطر روش جدید اتصال ، تقریبا تمام سایت‌هایی که وایت‌لیست شده بود ، به خصوص گیت‌هاب ، بسته شدن .
@@ -303,14 +361,6 @@ cdn Fronting
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐️***
-
----
-
-### 🕒 2026-05-14 17:03:42 UTC
-> ↪️ **Forwarded**
-
-**یه عده از علی‌سنتوری میرسن به رئیس جمهور فرانسه!بنابراین هیچ وقت ناامید نشید!😄**
-[**@PiknikAnalyst**](https://t.me/PiknikAnalyst)
 
 ---
 
