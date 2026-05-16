@@ -1,5 +1,42 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-05-16 16:10:04 UTC
+بروزرسانی: 2026-05-16 18:03:09 UTC
+
+### 🕒 2026-05-16 17:05:05 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**MetaCubeX/ClashMetaForAndroid**
+:
+***✅***
+ 
+**v2.11.28**
+ (v2.11.28)
+## What's Changed
+* Defer shortcut setup to MainActivity by 
+[@Goooler](https://t.me/Goooler)
+ in 
+[https://github.com/MetaCubeX/ClashMetaForAndroid/pull/728](https://github.com/MetaCubeX/ClashMetaForAndroid/pull/728)
+* Replace shortcut icons by 
+[@Goooler](https://t.me/Goooler)
+ in 
+[https://github.com/MetaCubeX/ClashMetaForAndroid/pull/729](https://github.com/MetaCubeX/ClashMetaForAndroid/pull/729)
+* Fix parse profile-update-interval http header by 
+[@AlexFozor](https://t.me/AlexFozor)
+ in 
+[https://github.com/MetaCubeX/ClashMetaForAndroid/pull/732](https://github.com/MetaCubeX/ClashMetaForAndroid/pull/732)
+* Add supported languages to system settings by 
+[@Goooler](https://t.me/Goooler)
+ in 
+[https://github.com/MetaCubeX/ClashMetaForAndroid/pull/733](https://github.com/MetaCubeX/ClashMetaForAndroid/pull/733)
+* Fix clash:// deep link not op...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.28)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
 
 ### 🕒 2026-05-16 14:37:06 UTC
 آموزش اسکن DNS برای اتصال در WhiteDNS 
@@ -50,89 +87,6 @@
 ***😎***
 آموزش اسکن کردن و استفاده در وایتDNS توسط ادمین عزیزمون am در حال تکمیل شدن هست .
 ..
-
----
-
-### 🕒 2026-05-15 17:54:34 UTC
-خب عزیزان بریم سمت بحث شیرین 
-WhiteDNS 
-***🔥***
- 
-تو نسخه جدیدش چند تا امکانات عالی اضافه شده که خیلی کاربردی هستن و باعث بهبود اتصال و عملکرد میشن .
-حتماً نسخه ۱.۴.۰ رو نصب داشته باشید .
-چون میخوام به این موضوعات جدید بپردازم تا همه بتونید راحت متصل بشید باهاش .
-[**لینک دانلود نسخه جدید 👉**](https://t.me/hamedvpns/18870?single)
-***❤️***
- اشتراک گذاری یادتون نره 
-***🌈***
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-05-15 17:47:06 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**lilendian0x00/xray-knife**
-:
-***✅***
- 
-**Xray-knife v10.0.0**
- (v10.0.0)
-## What's New
-**In short:** Added TUN feature and also made proxy command cleaner and improved UX  
-### 
-***🌐***
- Host-Wide TUN Capture (new mode)
-- New `proxy tun` subcommand (Linux only, root). Creates a TUN interface, replaces the host's default route, and forwards every outbound packet through the rotating proxy.
-- Captures *everything* leaving the host — not just apps wired through SOCKS or namespaced via `proxy app`.
-- Safe defaults: TUN CIDR is `
-[198.18.0.0/15`](http://198.18.0.0/15%60)
- (RFC 2544, won't collide wi...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/lilendian0x00/xray-knife/releases/tag/v10.0.0)
-[𓄂𓆃](https://t.me/update_releases)
-
----
-
-### 🕒 2026-05-15 17:46:55 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**Happ-proxy/happ-android**
-:
-***✅***
- 
-**3.21.0**
- (3.21.0)
-* App widget redesign
-* Optimizations of subscriptions' statuses evaluation performance and stability
-* Added option to customize subscriptions' request timeout
-* Improved ping for hysteria configs
-* Improved support for Android TV' navigation for 'excluded routes', 'vpn settings' and 'logs' screens
-* Set fixed duration for TV's snackbars
-* Fixed logs block during xray config building
-* Fixed hysteria sni and udpHop params
-* Fixed servers list spring animation during servers' updates
-* ...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-android/releases/tag/3.21.0)
-[𓄂𓆃](https://t.me/update_releases)
 
 ---
 
