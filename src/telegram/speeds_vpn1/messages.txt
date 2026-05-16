@@ -1,9 +1,200 @@
 # آرشیو کانال: @speeds_vpn1
-بروزرسانی: 2026-05-16 21:02:20 UTC
+بروزرسانی: 2026-05-16 22:03:33 UTC
 
-### 🕒 2026-05-16 21:01:41 UTC
-TEST
-{"remarks":"@speeds_vpn1 1","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"81.12.54.187","port":443,"users":[{"id":"1eb3790b-2a16-4ef8-ba12-b1a3b2e5c463","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["aparat.com"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}},"realitySettings":{"allowInsecure":true,"serverName":"www.aparat.com","fingerprint":"chrome","show":false,"publicKey":"OK7gyYeXBEiP6UB45awx2YNAd5nSW3eczhALDElCUTA","shortId":"2a8b6d5dc615e22c"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+### 🕒 2026-05-16 21:44:56 UTC
+***👑***
+ آیپی شیروخورشید (تست نشده)
+***👑***
+[184.24.77.42](http://184.24.77.42/)
+[184.24.77.32](http://184.24.77.32/)
+[184.24.77.5](http://184.24.77.5/)
+[184.24.77.7](http://184.24.77.7/)
+[184.24.77.16](http://184.24.77.16/)
+[184.24.77.36](http://184.24.77.36/)
+[184.24.77.21](http://184.24.77.21/)
+[184.24.77.11](http://184.24.77.11/)
+[185.200.232.49](http://185.200.232.49/)
+[185.200.232.50](http://185.200.232.50/)
+[185.200.232.42](http://185.200.232.42/)
+[185.200.232.41](http://185.200.232.41/)
+[23.48.23.186](http://23.48.23.186/)
+[23.48.23.133](http://23.48.23.133/)
+[23.48.23.195](http://23.48.23.195/)
+[23.48.23.178](http://23.48.23.178/)
+[184.24.77.29](http://184.24.77.29/)
+[104.78.170.186](http://104.78.170.186/)
+[96.17.222.31](http://96.17.222.31/)
+[23.41.37.129](http://23.41.37.129/)
+[23.2.13.227](http://23.2.13.227/)
+[23.222.126.108](http://23.222.126.108/)
+[2.20.255.113](http://2.20.255.113/)
+[2.17.251.98](http://2.17.251.98/)
+[23.2.13.152](http://23.2.13.152/)
+[95.101.23.27](http://95.101.23.27/)
+[2.21.239.21](http://2.21.239.21/)
+[23.211.49.252](http://23.211.49.252/)
+[88.221.168.5](http://88.221.168.5/)
+[104.103.90.156](http://104.103.90.156/)
+[23.79.20.249](http://23.79.20.249/)
+[88.221.132.162](http://88.221.132.162/)
+[23.59.235.208](http://23.59.235.208/)
+[23.60.69.118](http://23.60.69.118/)
+[23.46.188.71](http://23.46.188.71/)
+[104.122.212.92](http://104.122.212.92/)
+[23.219.1.4](http://23.219.1.4/)
+[23.57.43.195](http://23.57.43.195/)
+[184.51.252.135](http://184.51.252.135/)
+[2.22.6.68](http://2.22.6.68/)
+[23.217.11.56](http://23.217.11.56/)
+[95.100.69.108](http://95.100.69.108/)
+[23.40.63.69](http://23.40.63.69/)
+[185.200.232.49](http://185.200.232.49/)
+[185.200.232.50](http://185.200.232.50/)
+[185.200.232.42](http://185.200.232.42/)
+[185.200.232.41](http://185.200.232.41/)
+[184.24.77.42](http://184.24.77.42/)
+[184.24.77.32](http://184.24.77.32/)
+[184.24.77.5](http://184.24.77.5/)
+[184.24.77.7](http://184.24.77.7/)
+[184.24.77.16](http://184.24.77.16/)
+[184.24.77.36](http://184.24.77.36/)
+[184.24.77.21](http://184.24.77.21/)
+[184.24.77.11](http://184.24.77.11/)
+[23.48.23.186](http://23.48.23.186/)
+[23.48.23.133](http://23.48.23.133/)
+[23.48.23.195](http://23.48.23.195/)
+[23.48.23.178](http://23.48.23.178/)
+[184.24.77.29](http://184.24.77.29/)
+[96.16.122.74](http://96.16.122.74/)
+[104.109.250.232](http://104.109.250.232/)
+[92.123.104.7](http://92.123.104.7/)
+[104.110.191.57](http://104.110.191.57/)
+[104.83.5.82](http://104.83.5.82/)
+[92.122.166.168](http://92.122.166.168/)
+[104.83.5.65](http://104.83.5.65/)
+[104.121.0.17](http://104.121.0.17/)
+[104.66.70.133](http://104.66.70.133/)
+[92.122.166.146](http://92.122.166.146/)
+[23.73.2.161](http://23.73.2.161/)
+[92.122.73.138](http://92.122.73.138/)
+[92.122.166.141](http://92.122.166.141/)
+[96.16.122.55](http://96.16.122.55/)
+[104.81.108.51](http://104.81.108.51/)
+[23.72.248.214](http://23.72.248.214/)
+[104.126.37.185](http://104.126.37.185/)
+[104.83.5.201](http://104.83.5.201/)
+[104.83.5.216](http://104.83.5.216/)
+[92.123.104.67](http://92.123.104.67/)
+[104.83.5.203](http://104.83.5.203/)
+[96.17.207.151](http://96.17.207.151/)
+[88.221.168.138](http://88.221.168.138/)
+[96.17.207.149](http://96.17.207.149/)
+[104.81.108.10](http://104.81.108.10/)
+[23.73.2.148](http://23.73.2.148/)
+[92.122.166.175](http://92.122.166.175/)
+[172.237.127.6](http://172.237.127.6/)
+[104.81.104.13](http://104.81.104.13/)
+[96.17.207.137](http://96.17.207.137/)
+[92.123.112.7](http://92.123.112.7/)
+[96.16.122.75](http://96.16.122.75/)
+[96.16.122.70](http://96.16.122.70/)
+[92.122.166.182](http://92.122.166.182/)
+[104.109.128.153](http://104.109.128.153/)
+[104.96.143.134](http://104.96.143.134/)
+[23.73.2.141](http://23.73.2.141/)
+[104.83.5.202](http://104.83.5.202/)
+[23.67.136.200](http://23.67.136.200/)
+[23.67.136.202](http://23.67.136.202/)
+[23.65.119.52](http://23.65.119.52/)
+[92.122.166.236](http://92.122.166.236/)
+[92.122.166.234](http://92.122.166.234/)
+[92.122.166.237](http://92.122.166.237/)
+[104.110.138.190](http://104.110.138.190/)
+[173.222.200.5](http://173.222.200.5/)
+[184.51.252.36](http://184.51.252.36/)
+[184.51.252.38](http://184.51.252.38/)
+[104.83.5.208](http://104.83.5.208/)
+[96.16.122.146](http://96.16.122.146/)
+[96.17.206.214](http://96.17.206.214/)
+[92.122.166.197](http://92.122.166.197/)
+[104.94.100.73](http://104.94.100.73/)
+[104.83.15.66](http://104.83.15.66/)
+[88.221.213.81](http://88.221.213.81/)
+[172.239.57.117](http://172.239.57.117/)
+[104.117.76.40](http://104.117.76.40/)
+[184.51.252.4](http://184.51.252.4/)
+[96.17.207.30](http://96.17.207.30/)
+[96.16.122.83](http://96.16.122.83/)
+[96.16.122.150](http://96.16.122.150/)
+[23.73.207.11](http://23.73.207.11/)
+[96.16.122.77](http://96.16.122.77/)
+[96.17.207.155](http://96.17.207.155/)
+[92.123.189.82](http://92.123.189.82/)
+[96.16.122.82](http://96.16.122.82/)
+[96.16.122.66](http://96.16.122.66/)
+[96.7.218.219](http://96.7.218.219/)
+[96.16.122.137](http://96.16.122.137/)
+[184.51.252.157](http://184.51.252.157/)
+[92.123.189.41](http://92.123.189.41/)
+[184.86.251.12](http://184.86.251.12/)
+[96.16.122.154](http://96.16.122.154/)
+[184.51.252.152](http://184.51.252.152/)
+[96.17.207.12](http://96.17.207.12/)
+[23.79.48.162](http://23.79.48.162/)
+[151.101.0.223](http://151.101.0.223/)
+[151.101.128.223](http://151.101.128.223/)
+[151.101.192.223](http://151.101.192.223/)
+[65.109.34.234](http://65.109.34.234/)
+[151.101.64.223](http://151.101.64.223/)
+[142.54.178.211](http://142.54.178.211/)
+[104.103.90.156](http://104.103.90.156/)
+[23.79.20.249](http://23.79.20.249/)
+[88.221.132.162](http://88.221.132.162/)
+[23.59.235.208](http://23.59.235.208/)
+[23.60.69.118](http://23.60.69.118/)
+[23.46.188.71](http://23.46.188.71/)
+[104.122.212.92](http://104.122.212.92/)
+[23.219.1.4](http://23.219.1.4/)
+[23.57.43.195](http://23.57.43.195/)
+[184.51.252.135](http://184.51.252.135/)
+[2.22.6.68](http://2.22.6.68/)
+[23.217.11.56](http://23.217.11.56/)
+[95.100.69.108](http://95.100.69.108/)
+[23.40.63.69](http://23.40.63.69/)
+[2.23.168.47](http://2.23.168.47/)
+[2.23.170.80](http://2.23.170.80/)
+[2.23.168.144](http://2.23.168.144/)
+[2.23.168.213](http://2.23.168.213/)
+[2.23.168.174](http://2.23.168.174/)
+[2.23.169.111](http://2.23.169.111/)
+[2.23.168.96](http://2.23.168.96/)
+[185.200.232.49](http://185.200.232.49/)
+[185.200.232.41](http://185.200.232.41/)
+[2.23.169.105](http://2.23.169.105/)
+[2.23.168.7](http://2.23.168.7/)
+[2.23.169.207](http://2.23.169.207/)
+[185.200.232.50](http://185.200.232.50/)
+[185.200.232.42](http://185.200.232.42/)
+﻿
+[@speeds_vpn1](https://t.me/speeds_vpn1)
+ 
+***❤️***
+
+---
+
+### 🕒 2026-05-16 21:29:51 UTC
+***🔵***
+**TEST**
+***🔵***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+{"remarks":"Speeds_vpn1 
+***🐈‍⬛***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"81.12.54.187","port":443,"users":[{"id":"1eb3790b-2a16-4ef8-ba12-b1a3b2e5c463","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["aparat.com"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}},"realitySettings":{"allowInsecure":true,"serverName":"www.aparat.com","fingerprint":"chrome","show":false,"publicKey":"OK7gyYeXBEiP6UB45awx2YNAd5nSW3eczhALDElCUTA","shortId":"2a8b6d5dc615e22c"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
 ***➿***
 ***➿***
 ***➿***
@@ -22,17 +213,87 @@ TEST
 
 ---
 
-### 🕒 2026-05-16 21:01:29 UTC
-TEST
-{"remarks":"Speeds_vpn1 
-***🦦***
-2","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"81.12.54.187","port":443,"users":[{"id":"1eb3790b-2a16-4ef8-ba12-b1a3b2e5c463","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["aparat.com"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}},"realitySettings":{"allowInsecure":true,"serverName":"www.aparat.com","fingerprint":"chrome","show":false,"publicKey":"OK7gyYeXBEiP6UB45awx2YNAd5nSW3eczhALDElCUTA","shortId":"2a8b6d5dc615e22c"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+### 🕒 2026-05-16 21:20:21 UTC
+***🔵***
+**TEST**
+***🔵***
 ***➿***
 ***➿***
 ***➿***
 ***➿***
 ***➿***
 ***➿***
+`vless://81afcf8f-b7dd-43b2-b734-c983bf3cb930@snapp.ir:2082?path=%2F&security=none&encryption=none&host=vip.singbox2.ir&type=ws#@SPEEDS_VPN-کانال-پشتیبان-حتما-جوین-بشید`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-05-16 21:19:26 UTC
+***🔵***
+**TEST**
+***🔵***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=0&sni=trex.docos.tech#@SPEEDS_VPN-کانال-پشتیبان-حتما-جوین-بشیدvless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#@SPEEDS_VPN-کانال-پشتیبان-حتما-جوین-بشیدvless://0dbe1ae8-e9a6-4f48-aa52-4dd2c7dd949e@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#@SPEEDS_VPN-کانال-پشتیبان-حتما-جوین-بشید`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-05-16 21:08:23 UTC
+> ↪️ **Forwarded**
+
+**تمام مشکلات احتمالی در مورد اپلیکیشن شیر و خورشید:**
+1- چرا روز اول وصل میشدم الان وصل نمیشم؟
+جواب: برای وارد کردن ip های جدید یکبار باید برنامه رو کلیردیتا بزنید تا کش برنامه کامل پاک بشه
+2- برای متصل شدن باید چند دقیقه صبر کنم؟
+جواب: بین سی ثانیه الی 2 دقیقه صبر کنید اگه متصل نشد قطع کنید و مجددا  اتصال رو بزنید ( هربار که ip جدید وارد میکنید این عمل رو پنج شیش بار تکرار کنید، حتما گوشیتون رو حالت هواپیما هم بزنید)
+3- لیست ip که میزارید رو باید یکجا کپی کنیم یا تک تک؟
+جواب: باید کل ip هارو یکجا کپی کنید و پیست کنید
+4- تموم اینکار هارو کردم چرا بازم وصل نمیشم؟
+در اینصورت توصیه میشه حتما حالت اینترنت خودتون رو روی 3g قرار بدید که احتمال 99 درصد وصل میشین اگه وصل نشدید یکبار تنظیمات apn خود را کامل ریست کنید
+5- اون لیست ip هایی که به صورت فایل میزارید رو با چه اپلیکیشنی باید باز کنیم؟
+جواب: با هر اپلیکیشن متن خوان میتونید باز کنید ولی بهترین کار اینه با همون گوگل کروم بازش کنید به سادگی
+6- بخدا همه اینکارهارو کردم ولی بازم وصل نمیشم مشکل چیه ؟
+جواب: مشکل اینه شما باید لیست ip جدید وارد کنید و تمام مراحل بالا رو مو به مو انجام بدید(تک تک موارد)
+7- آیا اپلیکیشن شیروخورشید امن هست
+ش؟
+جواب: اپلیکیشن شیروخورشید همون سایفون هستش که فقط کمی کدهاش دستکاری شده و هیچ مشکل امنیتی برای این نرم افزار وجود نداره
+8- آیا وقتی میخوایم ip لیست جدید وارد کنیم باید قبلی هارو پاک کنیم؟
+جواب: بله باید کامل همه چیز پاک بشه
+**در نهایت یادتون نره کل خلاصه این متن اینه:چند بار خاموش روشن کنید اینترنت رو 3g هم کنید و تست کنید چند بار هواپیما بزنید و برنامه رو کلیردیتا کنید قبل از زدن آی پی های جدید**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ***🔤***
  
 [@speeds_vpn](https://t.me/speeds_vpn)
