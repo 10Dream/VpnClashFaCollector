@@ -1,5 +1,65 @@
 # آرشیو کانال: @maznet
-بروزرسانی: 2026-05-17 11:17:18 UTC
+بروزرسانی: 2026-05-17 13:32:42 UTC
+
+### 🕒 2026-05-17 12:36:14 UTC
+***📱***
+آموزش گام به گام و متنی برای اتصال به کانفیگ های مبتنی بر dns در ios 
+***⛓***
+لینک دانلود برنامه‌ی CoreForge(اپ در مرحله تست و توسعه هست)
+[https://testflight.apple.com/join/GfUqXrFz](https://testflight.apple.com/join/GfUqXrFz)
+***📍***
+خلاصه pdf و برخی نکات
+بالای برنامه دو تا گزینه می‌بینید:
+• DNS Forge
+• RelayForge
+بخش RelayForge برای کانفیگ‌های VMess و VLESS هست، ولی با وضعیت فعلی فیلترینگ فعلاً خیلی خوب جواب نمی‌ده. داخل PDF هم توضیح داده شده.
+فعلاً بهتره برید روی DNS Forge.
+پایین برنامه هم سه تا بخش هست:
+• Diagnostics
+• Connect
+• Profile
+فعلاً با Diagnostics کاری نداریم.
+اول برید داخل Profile.
+اینجا دو بخش دارید:
+***🔹***
+ Connection
+اینجا می‌تونید سرور انتخاب کنید یا سرورهای StormLink که کانال‌ها میذارن رو اضافه کنید.
+***⚠️***
+ چون برنامه هنوز آزمایشیه، بهتره بیشتر از یه سرور اضافه نکنید؛ چندتا سرور بعضی وقتا باعث میشه برنامه قاطی کنه.
+***🔹***
+ Resolver
+خود برنامه ۴۰۰۰ DNS آماده داره، ولی خودتون هم می‌تونید DNS دلخواه اضافه کنید.
+بعد برید بخش Connect.
+داخل Tune Preset یکی از گزینه‌ها رو انتخاب کنید.
+***⚠️***
+ یه باگ هم داره؛ اگه از بخش Profile سرور رو عوض کنید، بعضی وقتا این قسمت خالی میشه.
+پایین‌تر دو حالت اتصال دارید:
+• SOCKS
+• Full VPN
+خیلی ساده بخوام بگم:
+SOCKS فقط روی بعضی برنامه‌ها مثل تلگرام که پراکسی ساپورت می‌کنن کار می‌کنه و وقتی وصله علامت VPN بالای گوشی نمیاد.
+ولی پیشنهاد می‌کنم روی Full VPN بذارید تا کل اینترنت گوشی از فیلتر رد بشه. تفاوت کاملشون هم داخل PDF توضیح داده شده.
+***🔹***
+ Parallel Test
+این قسمت برای تست هم‌زمان چند سروره.
+مثلاً می‌تونید ۲ یا ۳ تا سرور انتخاب کنید تا برنامه خودش تست بگیره.
+بعد از انتخاب سرورها، بالا روی Run بزنید.
+***⚠️***
+ بیشتر از ۵ تا سرور انتخاب نکنید چون ممکنه برنامه باگ بخوره.
+بعد از تست هم خودش بهترین سرور رو از نظر پینگ و سرعت پیشنهاد میده.
+***❗***
+ اگر ارور Packet Tunnel Provider گرفتید معمولاً با این کارا درست میشه:
+• سرور رو عوض کنید
+• یک بار قطع و وصل کنید
+• برنامه رو ببندید و دوباره باز کنید
+بعضی وقتا هم ممکنه خود سرور خاموش باشه یا برنامه قاطی کرده باشه.
+***📌***
+ یه نکته مهم: DNSهای پیش‌فرض خود برنامه ممکنه کند باشن و در حد پیام تلگرام جواب بدن.
+اگه DNS خوب پیدا کنید، سرعت و پایداری 
+ بهتر میشه.
+[@Maznet](https://t.me/Maznet)
+
+---
 
 ### 🕒 2026-05-16 23:20:31 UTC
 ***📍***
@@ -103,45 +163,6 @@
 ***⚙***
  More Options > CDN Fronting > CDN edge IPs
 `185.200.232.43   2.17.100.2002.19.205.422.19.205.502.19.252.1342.20.169.702.20.170.9195.101.111.1442.16.245.1882.18.69.1502.16.106.423.58.222.107184.25.28.3123.47.124.13423.50.131.14723.46.190.1823.58.222.14723.56.162.18623.44.203.6823.12.156.11523.216.77.1623.62.61.5323.39.148.24523.210.73.13323.44.201.13623.205.46.167184.30.150.14223.220.161.217184.28.165.423.46.230.13388.221.168.204104.96.158.174184.51.252.4172.234.199.15104.85.26.14172.237.145.2792.123.103.24172.234.159.58184.86.103.21096.16.248.18392.122.16.596.16.249.6096.16.249.9`
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-16 13:27:13 UTC
-**📍لیست کامل رنج آیپی‌ آکامای برای اسکن **
-[روش اسکن اول](https://t.me/Maznet/9176)
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-16 13:21:12 UTC
-**📍اسکنر سبک آیپی برای **
-[شیر و خورشید](https://t.me/Maznet/9159)
--فایل بالا رو با مرورگر باز کنین
--رنج آماده آیپی رو انتخاب کنین(یا میتونین دستی 
-[رنج‌](https://t.me/Maznet/9178)
-های آیپی مد نظرتونو وارد کنین در بخش لیست بازه /ip)
--حداکثر ip برای تست رو از ۲۵۶ تا عدد بیشتر (معادل تعداد آیپی بیشتر و زمان اسکن بیشتر) انتخاب کنین
--بدون وی پی ان شروع اسکن رو بزنین.
--لیست آیپی‌های سازگار با نتتون در انتهای صفحه در دسترستون قرار میگیره و میتونین وارد شیرو خورشید کنین.
-***⚙️***
- More Options > CDN Fronting > CDN edge IPs
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-16 11:39:56 UTC
-`slipnet-enc://ASOU2sDuK6jj2O4KjJwtAFKFkFzqM6kpDae62JWQpdqv2Dn3odzgDfGgzVes2MbuuSdQbad6AwoWq0cK25/URd0jIsIIjbYmLCH5UsXkKL3pk1MrZhOeJwap7Kc92o8rL2t1cc/JeCoOGJ4qYMweDsY7FN2MGtSrAFJuUdWToY/UUXBl3VqlZB9VyQq7uYRl5Vls5Yg1iInwupW6vhgunKC+9ZOqsNLGyLtvbV9IGSfvyHFzXSaV999rZtNSxIvsFhZRyKrWfwJ1Juo73L14OZZLkNV1iQsyIcQByJD7pgK3mNToPabWiz0B+FwWCpq0g0wS0m+DsSigNmwnHaYq29GmbyWz/Z9LKNx/Fdzi3f0YwrSOKP6aXXLSUwmQfXuPTZ26MjZHRTEe2VEw1MXjesQHvwhgBpHybj7zGzqqoRC3SaCLm1Pl8I2S2zVKCrw+nLuixdhgleX3kjxJbbaCKcAvfRZlhpElbUCGuurrFOs0EvbOs522D4tX/7Gq9bOCfPb0yKNG8oVsdtrX2QWW1tuvzsVgzeB61yg4fgmgcQlkX7JYUDU/GwkorLHjf2bb/6sUc9WQ2I4TotofMtO6Zw1ItIp5K4fWV8OZpJgpAZ/Kv+lF+jMrbmPPzYp34+o+tHVzfH8FvNSTZfaXlwBioonG6EAjVD48MRolyu5G0rqYslgLOWrBMvouslipnet-enc://AQ0PfC8OudMRs9PJNjaPWPdwqdMMEn3Ibk9gZzfJ9Jaue+uHxgcD1iwcWXmlrvRMwF4ipCcXkRbaTXHvjlPKCd8N+5+g9HxIR1fn+DeofEhsDQdFRxkros5+TYXteJQ/BBq0ZnzshtqjNElXmp9ekl8+IBxaIF72hgnAwHTOFRWtuSuCBlK9icIpnKTofohVw006qV1cyndJIAQvINCIFw9FRRTaWizZqjOUeE+bLTUvIUchA8pJU5H+/xD7XCMgAnkg85yu7WfJ9lpr2KKC3Fh9cosMPGRxwbGheA30E5lD1dLNZomTtfMSQtzptrGn6aJsHl4JVApa5G2sx/OKD8bl+Dg6GH23ImaWDOKqLc1qvAWbVuJhKoub+RIEbjqP2KyL1D/BnyJTPUJHRq/Aa4+zb6BKXu2/ItC5kFF9fpuiXsc+jbhp25FBFqc1jzgGaUmP68l5BknKC1vURpIi5DOnoQ7TayEHjIXhudXtcOL0XN+aFhyJ2Br/zVq05xwZyGFvGYVKHSsCRp/g7qAS0ZZJF/S39wywAUWIjzKWcaNOxP2mzX5LffdImBBpiNLg7Lf240Z0CXcf+t6QqnJOxSw9uVyZ1W29wvC9h9g3pA9taPw4SRJGkCQxCQW9Z4odmiUEo/01h9ZUDBZdrHdGgVj4QKhNymA08yiKT8ReZK58s7D1OkgKzeRB`
-کانفیگ مناسب قطعی کامل- 
-[آپدیت آخر اپ رو باید بگیرید](https://t.me/Maznet/9156?single)
-اپ اندروید : 
-[Slip Net](https://t.me/Maznet/9156?single)
-***🥢***
-[نکات اتصال ](https://t.me/Maznet/9039)
-***📍***
-کپی کن. داخل اپ سه نقطه بالا رو بزن. ایمپورت(Import Profiles) رو بزن. اضافه انتخاب و اجرا کن
-***📃***
-[خرید VPN از مزنت](https://t.me/VPNMaznet/327)
 [@Maznet](https://t.me/Maznet)
 
 ---
