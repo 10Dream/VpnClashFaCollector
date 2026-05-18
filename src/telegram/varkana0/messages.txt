@@ -1,5 +1,281 @@
 # آرشیو کانال: @varkana0
-بروزرسانی: 2026-05-18 10:19:51 UTC
+بروزرسانی: 2026-05-18 14:43:02 UTC
+
+### 🕒 2026-05-18 13:05:26 UTC
+{"remarks":"Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"
+[95.38.189.223](http://95.38.189.223/)
+","port":38055,"users":[{"id":"3ceaf7ed-92dd-43ae-908c-c0e56d2f5109","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"httpupgrade","httpupgradeSettings":{"path":"/","host":""}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["
+[1.1.1.1](http://1.1.1.1/)
+"],"hosts":{"domain:
+[googleapis.cn](http://googleapis.cn/)
+":"
+[googleapis.com](http://googleapis.com/)
+","
+[dns.alidns.com](http://dns.alidns.com/)
+":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1"],"
+[one.one.one.one](http://one.one.one.one/)
+":["
+[1.1.1.1](http://1.1.1.1/)
+","
+[1.0.0.1](http://1.0.0.1/)
+","2606:4700:4700::1111","2606:4700:4700::1001"],"
+[dot.pub](http://dot.pub/)
+":["
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+"],"
+[dns.google](http://dns.google/)
+":["
+[8.8.8.8](http://8.8.8.8/)
+","
+[8.8.4.4](http://8.8.4.4/)
+","2001:4860:4860::8888","2001:4860:4860::8844"],"
+[dns.quad9.net](http://dns.quad9.net/)
+":["
+[9.9.9.9](http://9.9.9.9/)
+","
+[149.112.112.112](http://149.112.112.112/)
+","2620:fe::fe","2620:fe::9"],"
+[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
+":["
+[77.88.8.8](http://77.88.8.8/)
+","
+[77.88.8.1](http://77.88.8.1/)
+","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["
+[1.1.1.1](http://1.1.1.1/)
+"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
+[223.5.5.5](http://223.5.5.5/)
+"],"outboundTag":"direct","port":"53"}]}}
+***🟢***
+Irancell
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 12:24:37 UTC
+vless://c54eb318-b531-4226-975f-7e910b107ea6@varzesh3.com:8080?encryption=none&security=none&type=ws&host=Za.movizdl.ir&path=%2Fcdn#Vasl%20sho%F0%9F%8C%B6%20%3A%20%40varkana0
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 12:20:58 UTC
+Proxy Vasl 
+[https://t.me/socks?server=185.165.119.193&port=1080&user=saministamm](https://t.me/socks?server=185.165.119.193&port=1080&user=saministamm)
+[https://t.me/socks?server=37.32.7.64&port=47763&user=%40saministamm&pass=%40saministamm](https://t.me/socks?server=37.32.7.64&port=47763&user=%40saministamm&pass=%40saministamm)
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 11:58:05 UTC
+{"remarks":"Vasl sho
+***🌶***
+ 
+[@varkana0](https://t.me/varkana0)
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"
+[127.0.0.1](http://127.0.0.1/)
+","settings":{"address":"
+[1.1.1.1](http://1.1.1.1/)
+","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"socks","settings":{"servers":[{"address":"
+[62.220.126.92](http://62.220.126.92/)
+","ota":false,"port":30871,"level":8}]},"streamSettings":{"network":"tcp"},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns","mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"
+[1.1.1.1](http://1.1.1.1/)
+"],"hosts":{"domain:
+[googleapis.cn](http://googleapis.cn/)
+":"
+[googleapis.com](http://googleapis.com/)
+","
+[dns.alidns.com](http://dns.alidns.com/)
+":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1"],"
+[one.one.one.one](http://one.one.one.one/)
+":["
+[1.1.1.1](http://1.1.1.1/)
+","
+[1.0.0.1](http://1.0.0.1/)
+","2606:4700:4700::1111","2606:4700:4700::1001"],"
+[dot.pub](http://dot.pub/)
+":["
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+"],"
+[dns.google](http://dns.google/)
+":["
+[8.8.8.8](http://8.8.8.8/)
+","
+[8.8.4.4](http://8.8.4.4/)
+","2001:4860:4860::8888","2001:4860:4860::8844"],"
+[dns.quad9.net](http://dns.quad9.net/)
+":["
+[9.9.9.9](http://9.9.9.9/)
+","
+[149.112.112.112](http://149.112.112.112/)
+","2620:fe::fe","2620:fe::9"],"
+[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
+":["
+[77.88.8.8](http://77.88.8.8/)
+","
+[77.88.8.1](http://77.88.8.1/)
+","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["
+[1.1.1.1](http://1.1.1.1/)
+"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
+[223.5.5.5](http://223.5.5.5/)
+"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["
+[1.1.1.1](http://1.1.1.1/)
+"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
+[223.5.5.5](http://223.5.5.5/)
+"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"
+[198.18.0.0/15](http://198.18.0.0/15)
+","poolSize":10000}]}
+ترکیبی و عادی
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 10:44:36 UTC
+{"remarks":"Vasl sho
+***🌶***
+ 
+[@varkana6](https://t.me/varkana6)
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"
+[snapp.ir](http://snapp.ir/)
+","port":8880,"users":[{"id":"815b0415-706f-4546-b2c2-fabe1a888718","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","wsSettings":{"path":"/","headers":{"Host":"
+[pdme2.zone-onehao.com](http://pdme2.zone-onehao.com/)
+"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["
+[1.1.1.1](http://1.1.1.1/)
+"],"hosts":{"domain:
+[googleapis.cn](http://googleapis.cn/)
+":"
+[googleapis.com](http://googleapis.com/)
+","
+[dns.alidns.com](http://dns.alidns.com/)
+":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1"],"
+[one.one.one.one](http://one.one.one.one/)
+":["
+[1.1.1.1](http://1.1.1.1/)
+","
+[1.0.0.1](http://1.0.0.1/)
+","2606:4700:4700::1111","2606:4700:4700::1001"],"
+[dot.pub](http://dot.pub/)
+":["
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+"],"
+[dns.google](http://dns.google/)
+":["
+[8.8.8.8](http://8.8.8.8/)
+","
+[8.8.4.4](http://8.8.4.4/)
+","2001:4860:4860::8888","2001:4860:4860::8844"],"
+[dns.quad9.net](http://dns.quad9.net/)
+":["
+[9.9.9.9](http://9.9.9.9/)
+","
+[149.112.112.112](http://149.112.112.112/)
+","2620:fe::fe","2620:fe::9"],"
+[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
+":["
+[77.88.8.8](http://77.88.8.8/)
+","
+[77.88.8.1](http://77.88.8.1/)
+","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["
+[1.1.1.1](http://1.1.1.1/)
+"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
+[223.5.5.5](http://223.5.5.5/)
+"],"outboundTag":"direct","port":"53"}]}}
+ترکیبی و عادی
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 10:39:23 UTC
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZhc2wgc2hvXHVEODNDXHVERjM2IDogQHZhcmthbmEwIiwNCiAgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwNCiAgInBvcnQiOiAiMjIxMDUiLA0KICAiaWQiOiAiMDYzMTFjYzgtZWE3NC00YzlhLWFjYWQtZDJkNmI3YjBjMzBkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-18 10:35:32 UTC
+IP Vase Shir o Khorshid 
+***👑***
+***👑***
+[185.208.174.167](http://185.208.174.167/)
+[31.214.169.244](http://31.214.169.244/)
+[185.109.61.27](http://185.109.61.27/)
+[185.137.25.214](http://185.137.25.214/)
+[5.144.129.174](http://5.144.129.174/)
+[138.201.54.122](http://138.201.54.122/)
+[109.72.197.1](http://109.72.197.1/)
+[65.109.34.234](http://65.109.34.234/)
+[37.255.133.30](http://37.255.133.30/)
+[81.91.145.2](http://81.91.145.2/)
+[185.53.142.174](http://185.53.142.174/)
+[5.160.128.142](http://5.160.128.142/)
+[5.160.13.85](http://5.160.13.85/)
+[2.23.168.250](http://2.23.168.250/)
+[185.142.158.162](http://185.142.158.162/)
+[80.191.243.226](http://80.191.243.226/)
+[2.23.168.144](http://2.23.168.144/)
+[50.7.5.83](http://50.7.5.83/)
+[185.88.178.196](http://185.88.178.196/)
+[2.23.168.254](http://2.23.168.254/)
+[94.130.33.41](http://94.130.33.41/)
+[2.23.168.47](http://2.23.168.47/)
+[2.23.170.80](http://2.23.170.80/)
+[63.141.252.203](http://63.141.252.203/)
+[142.54.178.211](http://142.54.178.211/)
+[2.23.168.96](http://2.23.168.96/)
+[95.216.69.37](http://95.216.69.37/)
+[2.23.168.213](http://2.23.168.213/)
+[2.23.168.174](http://2.23.168.174/)
+[81.12.72.218](http://81.12.72.218/)
+[144.76.1.88](http://144.76.1.88/)
+[94.130.50.12](http://94.130.50.12/)
+[94.130.13.19](http://94.130.13.19/)
+[37.191.76.110](http://37.191.76.110/)
+[185.143.232.122](http://185.143.232.122/)
+[85.133.167.108](http://85.133.167.108/)
+[94.130.70.160](http://94.130.70.160/)
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
 
 ### 🕒 2026-05-18 09:29:54 UTC
 {"remarks":"
@@ -423,188 +699,6 @@ Vasl sho
 
 ### 🕒 2026-05-18 06:29:11 UTC
 vless://431af33e-98b0-49e6-b71c-d1316a674473@185.143.233.5:2096?encryption=none&security=tls&sni=sub.sesrsa.com&fp=firefox&allowInsecure=1&type=ws&host=p1.sesrsa.com&path=%2F#%40varkana0
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 13:44:34 UTC
-vless://d5bc5baa-5015-48bc-b12c-3ec1070630a0@snapp.ir:80?encryption=none&security=none&type=ws&host=ss15.limitless-cloud.ir&path=%2Fgraphql%3Fed%3D2560#%40NETMELI_NPV%F0%9F%99%83
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 13:18:23 UTC
-**همراه اول بعضی دوستان با این لیست وصلن**
-[23.48.23.133](http://23.48.23.133/)
-[23.48.23.195](http://23.48.23.195/)
-[185.200.232.43](http://185.200.232.43/)
-   
-[185.200.232.40](http://185.200.232.40/)
-[167.82.48.223](http://167.82.48.223/)
-[151.101.128.223](http://151.101.128.223/)
-[185.200.232.49](http://185.200.232.49/)
-[185.200.232.50](http://185.200.232.50/)
-[185.200.232.42](http://185.200.232.42/)
-[185.200.232.41](http://185.200.232.41/)
-[184.24.77.42](http://184.24.77.42/)
-[184.24.77.32](http://184.24.77.32/)
-[184.24.77.5](http://184.24.77.5/)
-[184.24.77.7](http://184.24.77.7/)
-[184.24.77.16](http://184.24.77.16/)
-[23.48.23.178](http://23.48.23.178/)
-[184.24.77.29](http://184.24.77.29/)
-[184.24.77.36](http://184.24.77.36/)
-[184.24.77.21](http://184.24.77.21/)
-[184.24.77.11](http://184.24.77.11/)
-[23.48.23.186](http://23.48.23.186/)
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 13:01:13 UTC
-vless://45aac20b-21be-4491-bf5c-8e8b4fc28173@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss9.limitless-cloud.ir#
-[@varkana0](https://t.me/varkana0)
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 12:50:17 UTC
-vless://150a480b-d62a-44e4-8772-1619f078be36@snapp.ir:80?encryption=none&security=none&type=ws&host=ss5.limitless-cloud.ir&path=%2Fgraphql%3Fed%3D2560#%40varkana0
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 12:33:39 UTC
-[https://t.me/socks?server=193.242.125.88&port=8052](https://t.me/socks?server=193.242.125.88&port=8052)
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 12:28:58 UTC
-[https://t.me/socks?server=api.azirlink.net&port=443&user=Azir_0876487579f4a58d85&pass=Azir_0876487579f4a58d85](https://t.me/socks?server=api.azirlink.net&port=443&user=Azir_0876487579f4a58d85&pass=Azir_0876487579f4a58d85)
-[https://t.me/socks?server=api.azirlink.net&port=443&user=Azir_a8a6e65a262f1fef21&pass=Azir_a8a6e65a262f1fef21](https://t.me/socks?server=api.azirlink.net&port=443&user=Azir_a8a6e65a262f1fef21&pass=Azir_a8a6e65a262f1fef21)
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 11:20:32 UTC
-vless://963738f1-69c7-4179-a6b8-863e6cec25c7@twt.ghapol.ir:80?encryption=none&security=none&type=ws&host=arb.shalkhi.ir&path=%2F#%40varkana0
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 10:43:05 UTC
-{"remarks":"
-[@varkana0](https://t.me/varkana0)
-","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"
-[wp14.virgool.best](http://wp14.virgool.best/)
-","port":55014,"users":[{"id":"b01631fa-502b-497f-b8ed-2fda669667ad","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"
-[www.digikala.com](http://www.digikala.com/)
-","fingerprint":"chrome","show":false,"publicKey":"vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ","shortId":"c385"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["
-[1.1.1.1](http://1.1.1.1/)
-"],"hosts":{"domain:
-[googleapis.cn](http://googleapis.cn/)
-":"
-[googleapis.com](http://googleapis.com/)
-","
-[dns.alidns.com](http://dns.alidns.com/)
-":["
-[223.5.5.5](http://223.5.5.5/)
-","
-[223.6.6.6](http://223.6.6.6/)
-","2400:3200::1","2400:3200:baba::1"],"
-[one.one.one.one](http://one.one.one.one/)
-":["
-[1.1.1.1](http://1.1.1.1/)
-","
-[1.0.0.1](http://1.0.0.1/)
-","2606:4700:4700::1111","2606:4700:4700::1001"],"
-[dot.pub](http://dot.pub/)
-":["
-[1.12.12.12](http://1.12.12.12/)
-","
-[120.53.53.53](http://120.53.53.53/)
-"],"
-[dns.google](http://dns.google/)
-":["
-[8.8.8.8](http://8.8.8.8/)
-","
-[8.8.4.4](http://8.8.4.4/)
-","2001:4860:4860::8888","2001:4860:4860::8844"],"
-[dns.quad9.net](http://dns.quad9.net/)
-":["
-[9.9.9.9](http://9.9.9.9/)
-","
-[149.112.112.112](http://149.112.112.112/)
-","2620:fe::fe","2620:fe::9"],"
-[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
-":["
-[77.88.8.8](http://77.88.8.8/)
-","
-[77.88.8.1](http://77.88.8.1/)
-","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["
-[1.1.1.1](http://1.1.1.1/)
-"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
-[223.5.5.5](http://223.5.5.5/)
-"],"outboundTag":"direct","port":"53"}]}}
-Irancell Vasle
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 10:35:46 UTC
-IP Vase Shir o Khorshid 
-***👑***
-***👑***
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 10:22:10 UTC
-پروکسی پینگ پایین
-***❤️‍🔥***
-[https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-Vasl sho
-***🌶***
- : 
-[@varkana0](https://t.me/varkana0)
-
----
-
-### 🕒 2026-05-17 10:20:27 UTC
-IP Vase Shir o Khorshid 
-***👑***
-***👑***
 Vasl sho
 ***🌶***
  : 
