@@ -1,5 +1,176 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-05-19 15:33:06 UTC
+بروزرسانی: 2026-05-19 18:12:02 UTC
+
+### 🕒 2026-05-19 16:56:57 UTC
+White Dns 1.5.1
+***📥***
+ 
+**لینک دانلود داخلی**
+[• ***📱*** WhiteDNS-1.5.1-arm64-v8a.apk 5.7 MB• ***📱*** WhiteDNS-1.5.1-armeabi-v7a.apk 5.5 MB• ***📱*** WhiteDNS-1.5.1-universal.apk 16.9 MB• ***🎥*** amozesh whitedns.mp4 7.7 MB](https://sendi.ir/r8vq5)
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+
+---
+
+### 🕒 2026-05-19 16:51:12 UTC
+نسخه جدید White Dns 1.5.1
+[@whitedns](https://t.me/whitedns)
+
+---
+
+### 🕒 2026-05-19 16:50:39 UTC
+WhiteDns-Windows-Setup.exe
+
+---
+
+### 🕒 2026-05-19 16:47:51 UTC
+WhiteDns Windows 1.0.6 
+***🖥***
+***🔌***
+**راهنمای اتصال هوشمند (Smart Connect) 🤖**
+قابلیت اتصال هوشمند به برنامه WhiteDns کمک می‌کند تا بهترین تنظیمات اتصال را به‌طور خودکار انتخاب کند. کاربران عادی نیازی به تغییر دستی تنظیماتی مانند MTU، Workers (تعداد پردازش‌گرها)، Packet Duplication (تکثیر بسته‌ها)، فشرده‌سازی (Compression) یا سایر تنظیمات در بخش پیشرفته (Advanced) ندارند. 
+***✅***
+**نحوه استفاده 📝**
+۱. برنامه 
+**WhiteDns Windows**
+ را باز کنید. 
+***🪟***
+۲. به تب 
+**Connect**
+ (اتصال) بروید. 
+***🔗***
+۳. مطمئن شوید که گزینه 
+**Smart Connect**
+ روی حالت روشن (
+**On**
+) قرار دارد. 
+***🟢***
+۴. هدف اتصال خود را انتخاب کنید:
+ 
+**Stable (پایدار) 🛡**
+   بهترین گزینه برای شبکه‌های ضعیف یا فیلترشده. این امن‌ترین و مطمئن‌ترین گزینه است.
+ 
+**Balanced (متعادل) ⚖️**
+   برای اکثر کاربران توصیه می‌شود. این حالت تلاش می‌کند ضمن حفظ پایداری اتصال، سرعت خوبی نیز ارائه دهد.
+ 
+**Fast (سریع) 🚀**
+   بهترین حالت برای زمانی که شبکه شما از قبل قوی است. ممکن است در این حالت از تنظیمات تهاجمی‌تری استفاده شود.
+۵. موتور (Engine) را انتخاب کنید: 
+***⚙️***
+ 
+**MasterDNS**
+   برای اکثر کاربران و اتصالات پایدار توصیه می‌شود.
+ 
+**StormDNS**
+   در صورتی از این گزینه استفاده کنید که پروفایل/سرور شما برای StormDNS ساخته شده است یا می‌خواهید موتور سریع‌تر را آزمایش کنید. 
+***⛈***
+۶. حالت پروکسی را انتخاب کنید: 
+***🌐***
+ 
+**System proxy (پروکسی سیستم)**
+   برای وب‌گردی معمولی توصیه می‌شود. مرورگرها و بسیاری از برنامه‌های ویندوز به‌طور خودکار از WhiteDns استفاده خواهند کرد. 
+***🖥***
+ 
+**SOCKS5 only (فقط SOCKS5)**
+   اگر می‌خواهید پروکسی را به‌صورت دستی در برنامه‌هایی مانند تلگرام تنظیم کنید، از این گزینه استفاده کنید. 
+***📱***
+۷. روی 
+**Connect**
+ کلیک کنید. 
+***👆***
+**چه اتفاقاتی به‌طور خودکار رخ می‌دهد؟ 🔄**
+وقتی اتصال هوشمند (Smart Connect) روشن است، WhiteDns کارهای زیر را انجام می‌دهد:
+- استفاده از موتور انتخاب‌شده (MasterDNS یا StormDNS). 
+***🛠***
+- بررسی تنظیمات موفق که در دفعات قبل جواب داده‌اند. 
+***✔️***
+- انتخاب یک پیش‌تنظیم (Preset) مناسب بر اساس هدف شما. 
+***🎯***
+- استفاده از بهترین تنظیمات شناخته‌شده برای تحلیلگر (Resolver). 
+***📊***
+- امتحان کردن تنظیمات جایگزین امن‌تر (Fallback) در صورتی که تلاش اول ضعیف باشد. 
+***🛡***
+- به خاطر سپردن تنظیمات موفق برای استفاده در دفعات بعدی. 
+***💾***
+**کدام هدف (Goal) را باید انتخاب کنم؟ 🤔**
+ابتدا از 
+**Balanced**
+ استفاده کنید. این بهترین حالت پیش‌فرض برای اکثر کاربران است. 
+***✅***
+در شرایط زیر از 
+**Stable**
+ استفاده کنید:
+- اتصال مرتباً با شکست مواجه می‌شود. 
+***❌***
+- اینترنت شما به شدت فیلتر است. 
+***🚫***
+- تونل وصل می‌شود اما اتصال به سرعت قطع می‌گردد.
+- سرعت برایتان نسبت به پایداری و اطمینان در درجه دوم اهمیت قرار دارد.
+در شرایط زیر از 
+**Fast**
+ استفاده کنید:
+- حالت Balanced در حال حاضر به خوبی کار می‌کند.
+- سرعت بیشتری می‌خواهید. 
+***⚡️***
+- شبکه یا سرور شما قوی است. 
+***💪***
+**تنظیمات پیشنهادی برای کاربران عادی 👥**
+اتصال هوشمند (Smart Connect): 
+**On (روشن) 🟢**
+هدف (Goal): 
+**Balanced ⚖️**
+موتور (Engine): 
+**MasterDNS 🛠**
+پروکسی: 
+**System proxy 🌐**
+سپس روی 
+**Connect**
+ کلیک کنید. 
+***👆***
+**اگر متصل نشد چه کار کنیم؟ 🛠**
+این مراحل را به ترتیب امتحان کنید:
+۱. هدف را به 
+**Stable**
+ تغییر دهید. 
+***🛡***
+۲. گزینه Smart Connect را همچنان 
+**On (روشن) 🟢**
+ نگه دارید.
+۳. دوباره روی 
+**Connect**
+ کلیک کنید.
+۴. اگر باز هم متصل نشد، به بخش 
+**Resolvers**
+ بروید و یک اسکن اجرا کنید. 
+***🔍***
+۵. بهترین نتایج Resolver را اعمال (Apply) کنید و سپس دوباره سعی کنید متصل شوید. 
+***✅***
+**برای کاربران تلگرام 💬**
+اگر از گزینه 
+**SOCKS5 only**
+ استفاده می‌کنید، پروکسی تلگرام دسکتاپ را به این شکل تنظیم کنید:
+نوع (Type): SOCKS5
+هاست (Host): 
+[127.0.0.1](http://127.0.0.1/)
+پورت (Port): 18000
+نام کاربری/رمز عبور (Username/Password): خالی بگذارید 
+***🔓***
+اگر از 
+**System proxy**
+ استفاده می‌کنید، مرورگرها معمولاً به‌طور خودکار متصل می‌شوند، اما تلگرام ممکن است همچنان به وارد کردن تنظیمات دستی SOCKS5 نیاز داشته باشد.
+**برای کاربران حرفه‌ای 🎓**
+اگر گزینه اتصال هوشمند را خاموش (
+**Off**
+) کنید، WhiteDns از پروفایل فعلی و تنظیمات پیشرفته‌ی (Advanced) شما دقیقاً همان‌طور که هستند استفاده خواهد کرد. این ویژگی برای زمانی که می‌خواهید کنترل کامل و دستی روی تنظیمات داشته باشید بسیار مفید است. 
+***🔧***
+***🚫***
+خیلی مهم : 
+به هیچ عنوان هیچ نرم افزار vpn دیگری مثل v2ray و یا ..... نباید روی سیستم شما باز باشد . مطمن شوید که حتی در پس زمینه هم بسته شوند 
+***🚫***
+برای تست روی مرورگر ها حتما از گزینه New Private window یا New incognito window استفاده کنید 
+***👍***
+[@whitedns](https://t.me/whitedns)
+
+---
 
 ### 🕒 2026-05-19 14:24:26 UTC
 CDN IPs 
@@ -195,18 +366,6 @@ uto install Certificate: روی ویندوز، مک، لینوکس و فایرف
 **📥 لینک داخلی**
 [• ***🎥*** لینک دانلود آموزش ویدیویی • ***📁*** لینک دانلود رپوزیتوری• ***💻*** لینک دانلود برنامه](https://sendi.ir/x26n7)
 [@ConfigWireguard](https://t.me/ConfigWireguard)
-
----
-
-### 🕒 2026-05-18 15:35:17 UTC
-**کانفیگ برای کلاینتهای وایت دی ان اس  بر روی اندروید، آی او اس، مک اوس، ویندوز و لینوکس**
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDIiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5iYW1hay54eXoiLCJlbmNyeXB0aW9uX2tleSI6ImFhZjRiNi1ASmF2aWRuYW1hbklyYW4tYWFmNGI2ZmZmIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDMiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5pcmRtYy5jb20iLCJlbmNyeXB0aW9uX2tleSI6ImFhZjRiNi1ASmF2aWRuYW1hbklyYW4tYWFmNGI2ZmZmIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDQiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5qbmlyLm15IiwiZW5jcnlwdGlvbl9rZXkiOiJhYWY0YjYtQEphdmlkbmFtYW5JcmFuLWFhZjRiNmZmZiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5pZ29paS5vcmciLCJlbmNyeXB0aW9uX2tleSI6ImFhZjRiNi1ASmF2aWRuYW1hbklyYW4tYWFmNGI2ZmZmIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDYiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5qYXZpZG5hbWFuLmNvbSIsImVuY3J5cHRpb25fa2V5IjoiYWFmNGI2LUBKYXZpZG5hbWFuSXJhbi1hYWY0YjZmZmYiLCJlbmNyeXB0aW9uX21ldGhvZCI6MX19fQ
-stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQEphdmlkbmFtYW5JcmFuIFphbDEiLCJzZXJ2ZXIiOnsiZG9tYWluIjoieC5uYW1hZC54eXoiLCJlbmNyeXB0aW9uX2tleSI6ImFhZjRiNi1ASmF2aWRuYW1hbklyYW4tYWFmNGI2ZmZmIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
-[@JavidnamanIran](https://t.me/JavidnamanIran)
 
 ---
 
