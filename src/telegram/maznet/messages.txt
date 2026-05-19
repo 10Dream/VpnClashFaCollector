@@ -1,5 +1,32 @@
 # آرشیو کانال: @maznet
-بروزرسانی: 2026-05-19 11:29:05 UTC
+بروزرسانی: 2026-05-19 15:37:05 UTC
+
+### 🕒 2026-05-19 14:08:41 UTC
+***📍***
+**معرفی اسکنر آیپی Network Checker برای شیر و خورشید(و مهسا ان‌جی)**
+***🤖***
+***👩‍💻***
+***💻***
+قابلیت اسکن در ویندوز، اندروید و لینوکس 
+لینک گیت هاب پروژه:
+ 
+[https://github.com/mirarr-app/network-checker](https://github.com/mirarr-app/network-checker)
+***🔗***
+[نسخه اندروید](https://github.com/mirarr-app/network-checker/releases/download/0.6.0/app-release.apk)
+ 
+***🔗***
+[نسخه ویندوز](https://github.com/mirarr-app/network-checker/releases/download/0.6.0/rdnbenet-windows.zip)
+***📍***
+ راهنما:
+- ابتدا برید به بخش Akamai، سپس تنظیمات رو به این شکل تغییر بدید:
+برای Port همون 443 باشه
+برای Timeout هم 5 مناسبه
+برای Cocurrent workers هم بستگی به قدرت سخت افزارتون انتخاب کنین.  عدد 250 انتخاب خوبیه.
+-اسکن کنید
+آیپی‌ های اسکن شده در این اپ، با احتمال خیلی بالا کار میکنه روی شیر و خورشید و MahsaNG
+[@Maznet](https://t.me/Maznet)
+
+---
 
 ### 🕒 2026-05-18 23:15:02 UTC
 ***📍***
@@ -41,22 +68,6 @@ Who has access: Anyone
 همه رو یک‌جا کپی و در شیروخورشید پیست کنید.
 ***⚙️***
  More Options > CDN Fronting > CDN edge IPs
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-18 11:42:31 UTC
-`slipnet-enc://AQqsQIKxbXRdPlqyPfp+td+Aq5x929uoQLUiXmsjIyvyRbkfCNIIP+3JsvurMDALsVowjIHQLdhsBYN/kZoOFc/gTJg2G1BTOHorOKAd8s4f2mrfb8eJ3oxjz8YkXzrXujO586WaWV+62WDDZuN6lDOrdmQ1hwTCLA75U2nfv+K5gWD/1s5UDm4MoJczHZrOWQS+LHZcimzqidVQbJAQ1EltwnOFqqeM/EK/7WaCcb64xObrGwbRPnRCmLhn4BN4Yd9K5uhTr1qse9A5+P6UwxHDjdhIrbKdJOk47vc0vE1Icxs1E34kg/uD8KNL38igGe6ayXjlsM901GWA5hzP7uGAf6HIA/3riJSsBjlYeC5xQlZ+BxDvcSLMYwQldDEC46S6Ozb0dD6X2pRPokKXt0lt92eODZXvhPMgCwBwDk72jiWeoW3O2BNh2R9l5wUSD1EiQ/4sPNqCmTA08JLC+BWrORIHgwl1vdDouoVLKvo6j2CdcS72N2/5/eEtC83s6AV8hwL/aBRDox3Ds2NjgdnCCIIFIO3oXqgRRZNvRu3V4KByWik6CYUYqRTcINPvsTPk3X17DwUbfu3Ij3VieFH2F+NZUGZ5D6jqCgAyRWN7rHOQFphV8fC6Gc5xaQC1l2vksXs4EeeTfliwNGC7UXx7TYQfQGWz7dWYRDq5yz4E9i6aMebGTjOqslipnet-enc://ARQ21pJ9sEg6kZoSRHyo0IIE6KRQ9oeSsCArxdV7RKIRyxZIYWM5lT1b4y8wkiCs7QZB6igj5uHANO1hM5g96roFsRr9lf2B7kJdu0uyMLQvuzsn4LGklkXszVZnTH7zhXnw8spzroWP6fxhrJboTL7Hd8gV0QXkAGcfabE9O00EcCGhJqUbi8gRwLSo+h4zOrwDD4NTfq7o2rI2rkLLIzilNJp8v153TBj6DcLJg8I51Z1A5djghPocY85ei1+/ojH0bpsMrl03naky+Ug0R5a9IegOSI2uBxHpyVVyjyXOvpUYh9UUOSyeEK48KN7pgma+AFR02PJta8mvrB+9u8ofyhTq9hp6bUqQaKZLeiOSRG3rivhnOOq7iq3+Rh/JnpvY0IvTmVMFRjfCiJKj0031TjI6Tjbye7IzTO6vYpNG5m2E27ABtMSEp9313Xq2DR1+nGEZdGtS1sEAxoGxPsxonXZuLZhuy9VeunncCiEmo28HwIEXWRhsV5OXtTN6G538nmG75YCePzOMAcvUepvulCH3jG2qOaMUYd9Ix7deFGajWZMhRmrB2HCIe8juzfzgeL7tdOf3vydEE3I4BSJiaVULPtGPDBQr0OHzCtzBsjZMn9h+jKl9ljWsVdKvAgTg2WOlEx4wW2ZiNJbziwDwqB0J6b7WzjvygNUWh2IjV7CF6t2yeNRr`
-کانفیگ مناسب قطعی کامل- 
-[آپدیت آخر اپ رو باید بگیرید](https://t.me/Maznet/9156?single)
-اپ اندروید : 
-[Slip Net](https://t.me/Maznet/9156?single)
-***🥢***
-[نکات اتصال ](https://t.me/Maznet/9039)
-***📍***
-کپی کن. داخل اپ سه نقطه بالا رو بزن. ایمپورت(Import Profiles) رو بزن. اضافه انتخاب و اجرا کن
-***📃***
-[خرید VPN از مزنت](https://t.me/VPNMaznet/327)
 [@Maznet](https://t.me/Maznet)
 
 ---
