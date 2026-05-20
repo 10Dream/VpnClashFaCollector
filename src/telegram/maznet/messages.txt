@@ -1,5 +1,5 @@
 # آرشیو کانال: @maznet
-بروزرسانی: 2026-05-20 16:39:31 UTC
+بروزرسانی: 2026-05-20 19:35:14 UTC
 
 ### 🕒 2026-05-20 12:50:48 UTC
 **کانفیگ مناسب همه نت ها**
@@ -39,53 +39,6 @@ SNI-Spoofing_by_patterniha_v1.rar
 :  Npv tunnel
 ***📍***
 رو فایل بزن وارد اپ میشه ، انتخاب کن از بخش Configs و در Home استارتو بزن و تمام
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-19 18:29:58 UTC
-**📍آموزش اتصال با SNI Spoofing  در ویندوز**
-اول 
-[فایل زیپ](https://github.com/patterniha/SNI-Spoofing/releases/download/v1.0/SNI-Spoofing_by_patterniha_v1.rar)
- رو داخل ویندوز توی یه پوشه Extract کنید 
-***📂***
-بعدش فایل 
-`config.json`
- رو با نوت پد باز کنید و فقط این دو مقدار رو تغییر بدید و ذخیره کنید:
-قسمت 
-`sni`
- :
-hcaptcha.com
-قسمت 
-`ip`
- :
-104.19.229.21
-در نهایت فایل باید چیزی شبیه این باشه:
-{
-  "LISTEN_HOST": "0.0.0.0",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "104.19.229.21",
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "hcaptcha.com"
-}
-بعد از ذخیره کردن فایل، فایل exe داخل زیپ رو با گزینه 
-`Run as administrator`
- اجرا کنید 
-***⚙️***
-برنامه باید باز بمونه، پس نبندیدش.
-حالا داخل برنامه v2rayN این کانفیگ رو Import کنید:
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#Maznet-Spoof
-وصل بشید و استفاده کنید 
-[@Maznet](https://t.me/Maznet)
-
----
-
-### 🕒 2026-05-19 16:46:37 UTC
-***📍***
-**لیست آیپی تست شده شیر و خورشید**
-همه رو یک‌جا کپی و در شیروخورشید پیست کنید.
-***⚙️***
- More Options > CDN Fronting > CDN edge IPs
 [@Maznet](https://t.me/Maznet)
 
 ---
