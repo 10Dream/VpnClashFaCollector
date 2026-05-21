@@ -1,5 +1,26 @@
 # آرشیو کانال: @asrnovin_ir
-بروزرسانی: 2026-05-21 20:55:55 UTC
+بروزرسانی: 2026-05-21 22:24:30 UTC
+
+### 🕒 2026-05-21 20:57:52 UTC
+**حل مشکل اتصال vpn روی همراه اول با ست کردن APN جدید ...مسیر در اکثر گوشی ها :تنظیمات - اتصالات - شبکه های تلفن همراه - نام نقاط دستیابی - ساخت نام نقطه دستیابی جدید**
+**در منوی انگلیسی :**
+**settings - connections - mobile networks - access point names - ADD or +**
+Name : 
+**mcinet**
+APN : 
+`mcinet`
+Authentication type : PAP or CHAP
+APN type : 
+`default`
+APN protocol : 
+`IPv4/IPv6`
+APN roaming protocol : 
+`IPv4/IPv6`
+MMS/Proxy 
+از APN حذف کنید
+**فقط این گزینه هارو اینجوری ست کنید بعد ذخیره کنید و بعد اون پروفایل APN رو انتخاب کنید .مشکل حل میشه**
+
+---
 
 ### 🕒 2026-05-21 17:41:22 UTC
 > ↪️ **Forwarded**
