@@ -1,5 +1,14 @@
 # آرشیو کانال: @proxy_kafee
-بروزرسانی: 2026-05-24 14:34:36 UTC
+بروزرسانی: 2026-05-24 16:12:37 UTC
+
+### 🕒 2026-05-24 16:03:22 UTC
+`{"_comment": {"remark": "***🇨🇦***  | proxy_kafee"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.20.42.250","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+**ترکیبی با سایفون وصله **
+**✅**
+[آموزش ترکیبی سایفون](https://t.me/proxy_kafee/42420)
+ری اکشن فراموش نکنید
+
+---
 
 ### 🕒 2026-05-24 13:45:09 UTC
 `{"remarks":"@proxy_kafee ***🛵***","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns","fakedns","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"socks","settings":{"servers":[{"address":"mseu8.fastspeed.cfd","ota":false,"port":7854,"level":8,"users":[{"user":"user14","pass":"eE1tTbB3qQ","level":8}]}]},"streamSettings":{"network":"tcp"},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns","mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
@@ -295,47 +304,6 @@ Operator:
 چنل رونالدو 
 ***🚫***
 [@ronaldo1370000](https://t.me/ronaldo1370000)
-
----
-
-### 🕒 2026-05-23 15:32:59 UTC
-**🚨**
-** وال استریت ژورنال:"ترامپ در جلسه تیم امنیت ملی به مشاوران خود گفت که می‌خواهد زمان بیشتری برای دیپلماسی با ایران در نظر بگیرد."یعنی ترامپ جان با اعصاب و روان مردم داری بازی میکنیا دهنتو**
-
----
-
-### 🕒 2026-05-23 15:21:46 UTC
-مثل اینک‌ ترامپ عروسی پسرش نرفت والان داره درمورد جنگ باایران جلسه گذاشته احتمال میره امشب جنگ بشه
-
----
-
-### 🕒 2026-05-23 14:46:10 UTC
-`2.16.19.1362.23.168.792.123.106.4292.123.106.112.23.168.2542.23.168.174185.200.232.422.23.168.7185.200.232.5092.123.106.3392.123.106.902.16.53.57`
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-**آیپی های تست شده برای متود جدید سایفون**
-**❤️**
-** همشو باهم وارد کنید داخل برنامه **
-**🔥**
-****
-[آموزش سایفون](https://t.me/proxy_kafee/42714)
-***😟***
-[دانلود سایفون](https://t.me/proxy_kafee/42711)
-***🦸‍♀️***
-[دانلود با نت داخلی](https://dardi.ir/download.php?code=dRSEpBGZ)
-***😬***
-[برطرف کردن مشکل اتصال](https://t.me/proxy_kafee/42805)
-***😒***
-****
-[@proxy_kafee](https://t.me/proxy_kafee)
 
 ---
 
