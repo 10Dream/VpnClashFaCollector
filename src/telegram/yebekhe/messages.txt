@@ -1,5 +1,152 @@
 # آرشیو کانال: @yebekhe
-بروزرسانی: 2026-05-24 18:12:01 UTC
+بروزرسانی: 2026-05-24 19:48:42 UTC
+
+### 🕒 2026-05-24 19:48:37 UTC
+> ↪️ **Forwarded**
+
+کانفیگ ترکیبی متصل با تمامی نت‌ها 
+***😎***
+بزنید بترکونید 
+***❤️***
+[آموزش اتصال ترکیبی***👉***](https://t.me/hamedvpns/18237)
+ ویتورای+سایفون
+{
+"_comment": {
+"remark": "hamedvpns-XSfilternet"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "104.20.42.250",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+[@xsfilterrnet](https://t.me/xsfilterrnet)
+ 
+***👑***
+***❤️***
+ اشتراک گذاری یادتون نره 
+***🌈***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
 
 ### 🕒 2026-05-24 16:02:10 UTC
 ***👤***
