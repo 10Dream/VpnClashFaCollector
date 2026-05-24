@@ -1,9 +1,9 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-05-24 19:46:41 UTC
+بروزرسانی: 2026-05-24 21:09:15 UTC
 
 ### 🕒 2026-05-24 19:39:00 UTC
 `{"_comment": {"remark": "paperboy"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.20.42.250","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
-شیروخورشید وصل نمیشه
+***📍***
 [ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
 
 ---
@@ -46,19 +46,6 @@ ShirOKhorshid-2026.05.24.apk
 [لینک دانلود داخلی](https://guardts.ir/f/1b87bb39259f)
 2■ 
 [لینک دانلود داخلی](https://guardts.ir/f/ProxyArc)
-
----
-
-### 🕒 2026-05-23 20:49:58 UTC
-تعداد ۲۱ ایپی شیروخورشید متصل با همه اپراتورها  2.16.27.76 2.16.154.195 2.16.164.113 2.16.168.213 2.17.100.130 2.18.190.85 2.19.126.94 2.20.12.81 2.21.173.83 2.22.144.27 23.2.13.227 23.55.110.83 23.200.147.185 23.210.73.143 23.215.23.212 23.218.225.105 95.101.137.18…
-
----
-
-### 🕒 2026-05-23 20:47:37 UTC
-تعداد ۲۱ ایپی شیروخورشید متصل با همه اپراتورها
-`2.16.27.762.16.154.1952.16.164.1132.16.168.2132.17.100.1302.18.190.852.19.126.942.20.12.812.21.173.832.22.144.2723.2.13.22723.55.110.8323.200.147.18523.210.73.14323.215.23.21223.218.225.10595.101.137.1896.17.5.157104.90.205.96185.50.37.52185.208.174.167`
-***✨***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
 
 ---
 

@@ -1,10 +1,28 @@
 # آرشیو کانال: @maznet
-بروزرسانی: 2026-05-24 19:44:44 UTC
+بروزرسانی: 2026-05-24 21:07:13 UTC
+
+### 🕒 2026-05-24 21:02:28 UTC
+SNI-Spoofing_by_patterniha_v1.rar
+
+---
+
+### 🕒 2026-05-24 20:36:21 UTC
+`{"remarks": "@Maznet-Psiphon11","log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.20.42.250","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+***📍***
+***📍***
+کانفیگ برای ترکیب با سایفون
+[راهنما](https://t.me/Maznet/9075)
+[@Maznet](https://t.me/Maznet)
+
+---
 
 ### 🕒 2026-05-24 19:43:52 UTC
 ***📍***
 نسخه جدید 2026.05.24 کلاینت ShiroKhorshid Android منتشر شد.
 [لینک دانلود از GitHub پروژه](https://github.com/shirokhorshid/shirokhorshid-android/releases/download/v2026.05.24-a3b91cf/ShirOKhorshid-2026.05.24.apk)
+در آپدیت جدید اپ شیروخورشید، دیگه نیازی به انجام تنظیمات خاص نیست.
+فقط حالت اتصال را روی «CDN FRONTING» قرار بدید. اگر قبلاً IP یا SNI وارد کرده بودید، پاکشون کنید.
+بعد از اون روی «اتصال» بزنید و کمی صبر کنید تا برنامه به‌صورت خودکار یک IP مناسب و تمیز پیدا کنه و اتصال برقرار بشه.
  
 [@Maznet](https://t.me/Maznet)
 
