@@ -1,5 +1,165 @@
 # آرشیو کانال: @varkana0
-بروزرسانی: 2026-05-25 05:33:27 UTC
+بروزرسانی: 2026-05-25 10:22:15 UTC
+
+### 🕒 2026-05-25 09:37:12 UTC
+ترکیبی وصل
+{
+  "remark": "Vasl sho
+***🌶***
+[@varkana0](https://t.me/varkana0)
+",
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "info",
+    "dnsLog": false
+  },
+  "inbounds": [
+    {
+      "tag": "in_proxy",
+      "port": 10808,
+      "protocol": "socks",
+      "listen": "
+[127.0.0.1](http://127.0.0.1/)
+",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "enabled": false
+      }
+    },
+    {
+      "tag": "http-in",
+      "port": 10808,
+      "listen": "::",
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "
+[104.20.42.250](http://104.20.42.250/)
+",
+            "method": "chacha20-poly1305",
+            "ota": false,
+            "password": "humanity",
+            "port": 443,
+            "level": 8,
+            "flow": ""
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/assignment",
+          "headers": {
+            "Host": "
+[www.calmloud.com](http://www.calmloud.com/)
+"
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "
+[www.calmloud.com](http://www.calmloud.com/)
+",
+          "alpn": [
+              "http/1.1"
+          ],
+          "fingerprint": "ios",
+          "show": false
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "tcpNoDelay": true
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": 8
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "tlshello",
+          "length": "100-200",
+          "interval": "10-20"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpNoDelay": true
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIp"
+      }
+    },
+    {
+      "tag": "blackhole",
+      "protocol": "blackhole",
+      "settings": {}
+    }
+  ],
+  "dns": {
+    "servers": [
+      "
+[8.8.8.8](http://8.8.8.8/)
+"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "UseIp",
+    "rules": [],
+    "balancers": []
+  }
+}
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-25 09:23:16 UTC
+***⭕️***
+ سیتنا و تسنیم: مصوبه رفع انسداد اینترنت بین‌المللی تأیید شد و به دست پزشکیان رسید؛ اگر پزشکیان هم تأییدش کنه، این مصوبه برای اجرا به وزارت ارتباطات صادر می‌شه و تا هفته آینده نت بین‌المللی وصل می‌شه.
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
+
+### 🕒 2026-05-25 09:07:21 UTC
+[https://t.me/socks?server=94.182.134.187&port=7073&user=paradox5s](https://t.me/socks?server=94.182.134.187&port=7073&user=paradox5s)
+[https://t.me/socks?server=81.12.24.160&port=28364](https://t.me/socks?server=81.12.24.160&port=28364)
+Vasl sho
+***🌶***
+ : 
+[@varkana0](https://t.me/varkana0)
+
+---
 
 ### 🕒 2026-05-24 21:16:01 UTC
 [https://t.me/socks?server=proxyanonymous-null2.pahlavi.dpdns.org&port=1080&user=%40ProxyAnonymous&pass=%40ProxyAnonymous](https://t.me/socks?server=proxyanonymous-null2.pahlavi.dpdns.org&port=1080&user=%40ProxyAnonymous&pass=%40ProxyAnonymous)
