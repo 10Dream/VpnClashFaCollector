@@ -1,5 +1,15 @@
 # آرشیو کانال: @capoit
-بروزرسانی: 2026-05-25 19:47:45 UTC
+بروزرسانی: 2026-05-25 21:14:53 UTC
+
+### 🕒 2026-05-25 19:48:47 UTC
+`{  "_comment": {    "remark": "AmyraxVPN"  },  "log": {    "access": "",    "error": "",    "loglevel": "warning",    "dnsLog": false  },  "inbounds": [    {      "tag": "in_proxy",      "port": 1080,      "protocol": "socks",      "listen": "0.0.0.0",      "settings": {        "auth": "noauth",        "udp": true,        "userLevel": 8      },      "sniffing": {        "enabled": true,        "destOverride": [          "http",          "tls"        ]      }    },    {      "tag": "http-in",      "port": 10808,      "listen": "::",      "protocol": "http"    }  ],  "outbounds": [    {      "tag": "proxy",      "protocol": "trojan",      "settings": {        "servers": [          {            "address": "104.17.72.206",            "password": "humanity",            "port": 443,            "level": 8          }        ]      },      "streamSettings": {        "network": "ws",        "security": "tls",        "wsSettings": {          "path": "/assignment",          "headers": {            "Host": "www.calmloud.com"          }        },        "tlsSettings": {          "allowInsecure": true,          "serverName": "www.calmloud.com",          "alpn": [            "h2",            "http/1.1"          ],          "fingerprint": "chrome",          "show": false        },        "sockopt": {          "tcpKeepAliveIdle": 100,          "tcpNoDelay": true        }      },      "mux": {        "enabled": false,        "concurrency": 8      }    },    {      "tag": "direct",      "protocol": "freedom",      "settings": {        "domainStrategy": "UseIp"      }    },    {      "tag": "blackhole",      "protocol": "blackhole",      "settings": {}    }  ],  "dns": {    "servers": [      "8.8.8.8",      "1.1.1.1"    ]  },  "routing": {    "domainStrategy": "UseIp",    "rules": []  }}`
+یه ضربه بزنید رو کانفیگ کپی میشه
+توی v2rayng اد کنید
+با سایفون ترکیب کنید
+صبر کنید زیر 30 ثانیه کانکت میشه!
+[@Capoit](https://t.me/Capoit)
+
+---
 
 ### 🕒 2026-05-25 19:34:22 UTC
 New Ip
@@ -35,22 +45,9 @@ New Ip
 
 ---
 
-### 🕒 2026-05-25 11:36:22 UTC
-آیپی جدید شیرو خورشید
-[@ShiroKhorshiid](https://t.me/+vnY1dvpZP3llMDFk)
-
----
-
 ### 🕒 2026-05-25 08:41:03 UTC
 New Ip
 `2.21.134.892.19.204.21796.16.122.149172.237.127.696.16.53.15823.55.163.1352.19.205.6423.73.2.1482.17.147.112.19.204.240184.51.252.36`
-[@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-05-24 20:47:33 UTC
-New Ip
-`94.130.33.4165.109.34.23495.216.69.3794.130.50.12142.54.178.21163.141.252.20395.100.69.10823.55.161.1712.22.89.4523.58.193.140104.78.170.18623.55.110.7423.207.210.8023.55.110.46184.24.77.1523.216.77.46184.51.252.17196.16.122.1582.21.69.82.22.255.16723.219.36.6823.44.201.14023.44.201.2162.19.204.21723.202.138.1252.18.64.102.22.151.18123.55.155.169`
 [@Capoit](https://t.me/Capoit)
 
 ---
