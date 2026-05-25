@@ -1,5 +1,15 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-05-25 14:12:29 UTC
+بروزرسانی: 2026-05-25 17:11:00 UTC
+
+### 🕒 2026-05-25 15:48:22 UTC
+`{"_comment": {"remark": "@vpnbaz"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "188.114.96.4","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+***🔴***
+ 
+[این سرور رو ترکیبی با سایفون بزنید](https://t.me/anty_filter/22742)
+      روش کلیک کنید تا کپی بشه.
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-05-25 14:12:12 UTC
 **🔵 40 آیپی جدید شیر و خورشید**
@@ -194,43 +204,6 @@ trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=1&h
 [آموزش ترکیب ویتوری و سایفون ](https://t.me/anty_filter/22742)
 ←
 [ ترکیب ویتوری و سایفون در MahsaNG ](https://t.me/anty_filter/22860)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-05-24 16:06:52 UTC
-**🔵 30 آیپی جدید شیر و خورشید**
- 
-`185.208.174.167185.141.106.23880.191.243.226164.138.17.12278.39.234.140109.72.197.15.160.128.14294.232.173.285.160.13.85185.208.175.2282.23.168.7185.137.25.146158.58.184.14778.157.41.6092.123.106.422.23.169.42185.255.91.6092.123.106.1185.133.167.1082.23.168.254185.200.232.4292.123.106.90185.200.232.502.23.168.1742.16.19.136185.53.142.174`
-***📥***
-[فایل و آموزش برنامه شیر و خورشید](https://t.me/anty_filter/23174)
-***📥***
-[اسکنر آیپی شیر و خورشید](https://t.me/anty_filter/23123)
- 
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-05-24 15:54:37 UTC
-ظاهراً نسخه جدید شیروخورشید برای بعضی دوستان مشکل اتصال داره و نسخه قبلی بهتر جواب میداد.
-پیشنهاد می‌کنیم هر دو نسخه رو تست کنید و ببینید کدوم روی اینترنت شما پایدارتره. اگر نسخه قبلی براتون بهتر بود، نسخه جدید رو حذف و دوباره نسخه قبلی رو نصب کنید.
-← 
-[دانلود نسخه جدید ](https://t.me/anty_filter/23173)
-← 
-[دانلود نسخه قبلی](https://t.me/anty_filter/23083)
- 
-***🔹***
-آموزش وارد کردن IP به صورت دستی:
-***1️⃣***
- وارد برنامه شیروخورشید بشید
-***2️⃣***
- از نوار بالا وارد Options بعد More Options بشید
-***3️⃣***
- در بخش Connection Protocol گزینه CDN Fronting رو انتخاب کنید
-***4️⃣***
- در بخش CDN Edge IPs آیپی‌ها رو کپی و وارد کنید
-***5️⃣***
- برگردید به صفحه اصلی و روی اتصال بزنید و کمی صبر کنید تا وصل بشه.
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---
