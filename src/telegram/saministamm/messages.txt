@@ -1,5 +1,176 @@
 # آرشیو کانال: @saministamm
-بروزرسانی: 2026-05-25 10:20:59 UTC
+بروزرسانی: 2026-05-25 14:19:45 UTC
+
+### 🕒 2026-05-25 13:35:54 UTC
+وصله پخشش کنید :
+vless://f9089bd9-610f-4e02-bb2b-346bd3d3b21a@Worker.play97.ir:80?path=%2F&security=none&encryption=none&type=ws#saministamm
+
+---
+
+### 🕒 2026-05-25 12:56:09 UTC
+`185.137.25.146185.141.106.238109.72.197.12.23.168.75.160.13.8581.12.72.2182.23.168.9692.123.106.962.23.168.1442.23.168.2132.23.168.2542.23.170.8037.255.133.30185.109.61.2731.214.169.2442.21.2.582.21.2.89104.103.65.5063.141.252.203142.54.178.211185.137.25.214185.200.232.40185.200.232.41185.200.232.49185.208.174.167178.252.128.66185.88.178.196185.142.158.162185.53.142.174164.138.17.12237.191.95.70185.208.175.22885.133.167.108185.50.37.52109.230.206.1755.160.128.14278.39.234.140185.141.105.139185.37.55.3094.232.173.2878.157.41.602.186.121.65158.58.184.14793.115.127.9185.255.91.6078.38.174.22.188.21.58217.219.162.20046.32.31.302.188.21.13889.32.197.226`
+
+---
+
+### 🕒 2026-05-25 12:55:07 UTC
+[@saministamm](https://t.me/saministamm)
+
+---
+
+### 🕒 2026-05-25 11:59:22 UTC
+Proxy :
+[tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=77.42.123.21&port=443&secret=dd104462821249bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-05-25 11:54:12 UTC
+پروکسی متصل :
+[tg://proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-05-25 11:05:33 UTC
+ترکیب کنید وصله :
+{
+"_comment": {
+"remark": "
+[@saministamm](https://t.me/saministamm)
+"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "
+[0.0.0.0](http://0.0.0.0/)
+",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "
+[104.20.42.250](http://104.20.42.250/)
+",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "
+[www.calmloud.com](http://www.calmloud.com/)
+"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "
+[www.calmloud.com](http://www.calmloud.com/)
+",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"
+[8.8.8.8](http://8.8.8.8/)
+"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+
+---
+
+### 🕒 2026-05-25 10:40:47 UTC
+پروکسی متصل
+[tg://proxy?server=178.105.34.79&port=443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=178.105.34.79&port=443&secret=dd104462821249bd7ac519130220c25d09)
+
+---
 
 ### 🕒 2026-05-25 10:14:09 UTC
 ***🔴***
@@ -132,60 +303,6 @@ New IP :
 ### 🕒 2026-05-24 14:32:32 UTC
 ترکیبی :
 `vless://ba5b5ba4-d951-4d73-91be-2775a7e3705a@panel.shahriareiran.com:80?path=%2F&security=none&encryption=none&host=down.speedtell.ir&type=ws#@saministamm`
-
----
-
-### 🕒 2026-05-24 13:48:00 UTC
-پروکسی متصل :
-[https://t.me/socks?server=188.121.104.170&port=4444](https://t.me/socks?server=188.121.104.170&port=4444)
-
----
-
-### 🕒 2026-05-24 12:57:55 UTC
-ترکیبی:
-``
-`socks://Og@81.12.80.194:3030#@saministammvless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#@saministammvless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#@saministamm`
-
----
-
-### 🕒 2026-05-24 12:32:40 UTC
-جدید :
-`80.210.40.37,178.252.128.66,2.188.21.240,46.32.31.30,31.214.169.244,185.208.174.167,50.7.4.107,50.7.5.85,50.7.4.243,50.7.4.244,185.50.37.52,185.88.178.196,164.138.17.122,80.191.243.226,5.160.13.85,185.255.91.60,78.157.41.60,5.160.128.142,78.39.234.140,185.208.175.228,81.12.72.218,109.72.197.1,185.109.61.27,23.73.2.75,2.17.251.181,92.123.102.160,95.100.146.90,23.35.208.5,2.21.2.58,23.11.40.157,95.101.22.225,23.44.201.149,88.221.169.205,2.23.168.254,94.130.13.19,104.103.72.80,2.16.220.191`
-Sni:
-`varzesh3.com`
-
----
-
-### 🕒 2026-05-24 11:45:53 UTC
-Fake sni 
-Sni spoofing 
-مجدد وصل شدن 
-من با این آیپی تست کردم اوکی بود
-`104.19.229.21`
-
----
-
-### 🕒 2026-05-24 11:35:19 UTC
-ترکیبی متصل :
-`vless://5ce600a8-9be9-4d10-9a6b-09c4569ebb2c@62.220.120.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=o21.netsecureteam10.ir#t.me%2Fsaministamm%E2%9D%84%F0%9F%92%8E`
-
----
-
-### 🕒 2026-05-24 11:28:14 UTC
-پروکسی متصل مخابرات :
-[https://t.me/proxy?server=37.32.23.115&port=443&secret=be7785da827f4354004d6bed9babc233](https://t.me/proxy?server=37.32.23.115&port=443&secret=be7785da827f4354004d6bed9babc233)
-
----
-
-### 🕒 2026-05-24 11:24:41 UTC
-آیپی همراه اول تست کنید وصله :
-`80.191.243.226185.137.25.146185.50.37.52185.141.106.2385.160.13.85185.208.175.2285.144.129.17478.157.41.60158.58.184.147185.255.91.60185.208.174.167164.138.17.122185.88.178.19694.232.173.2837.191.95.70185.89.22.7163.141.252.203142.54.178.21178.39.234.140109.72.197.12.16.53.65`
-
----
-
-### 🕒 2026-05-24 11:09:52 UTC
-***🔴***
-**محمد سرافراز: تجهیزات قطع دائمی اینترنت از چین خریداری و وارد شده است اپراتورهای عضو شورای عالی فضای مجازی، پشت پرده تصویب اینترنت پرو هستند**
 
 ---
 

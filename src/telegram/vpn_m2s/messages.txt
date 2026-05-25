@@ -1,5 +1,27 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-05-25 10:22:36 UTC
+بروزرسانی: 2026-05-25 14:21:28 UTC
+
+### 🕒 2026-05-25 13:06:16 UTC
+`{"remarks":"***⚡️***Telegram:@Vpn_m2s","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"128.65.176.35","ota":false,"password":"humanity","port":40443,"level":8}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/assignment","headers":{"Host":"www.multiplydose.com"}},"tlsSettings":{"allowInsecure":true,"serverName":"www.multiplydose.com","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+
+---
+
+### 🕒 2026-05-25 13:05:37 UTC
+`{"remarks":"***⚡️***Telegram:@Vpn_m2s","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"2.185.76.213","ota":false,"password":"humanity","port":40443,"level":8}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/assignment","headers":{"Host":"www.multiplydose.com"}},"tlsSettings":{"allowInsecure":true,"serverName":"www.multiplydose.com","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+
+---
+
+### 🕒 2026-05-25 13:04:19 UTC
+`{"remarks":"***⚡️***Telegram:@Vpn_m2s","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"171.22.27.159","ota":false,"password":"humanity","port":40443,"level":8}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/assignment","headers":{"Host":"www.multiplydose.com"}},"tlsSettings":{"allowInsecure":true,"serverName":"www.multiplydose.com","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+وارد v2rayng یا نپسترنت کنید
+
+---
+
+### 🕒 2026-05-25 12:51:01 UTC
+trojan://humanity@95.38.189.135:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#
+ارسالی کاربرا وصل میشه ولی کند
+
+---
 
 ### 🕒 2026-05-25 09:45:46 UTC
 vless://a1b06be9-2ee0-430e-84ca-91a4a5bd9c19@185.143.233.122:8080?path=%2F&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#
@@ -97,50 +119,6 @@ vless://fbb4cf5a-8c70-44ce-8785-a5df1e7d4c35@185.143.233.122:8080?path=%2F&secur
 ### 🕒 2026-05-24 16:10:43 UTC
 شیر و خورشید
 `2.23.168.254185.200.232.4292.123.106.90185.200.232.502.23.168.1742.16.19.136185.53.142.174185.208.174.167185.141.106.23880.191.243.226164.138.17.12278.39.234.140109.72.197.15.160.128.14294.232.173.285.160.13.85185.208.175.2282.23.168.7185.137.25.146158.58.184.14778.157.41.6092.123.106.422.23.169.42185.255.91.6092.123.106.1185.133.167.108`
-
----
-
-### 🕒 2026-05-24 12:36:59 UTC
-رو همراه اول وصلم اسپوف با این برنامش
-
----
-
-### 🕒 2026-05-24 12:11:34 UTC
-vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?mode=auto&path=%2FGoOgLe&security=tls&encryption=none&insecure=0&host=tom.dnstt.space&fp=chrome&type=xhttp&allowInsecure=0&sni=tom.dnstt.space#
-***⚡️***
-Telegram:@Vpn_m2s
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#
-***⚡️***
-Telegram:@Vpn_m2s
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-***⚡️***
-Telegram:@Vpn_m2s
-trojan://8r%3C%5B9%27l6hAO%238ZQi@127.0.0.1:40443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#
-***⚡️***
-Telegram:@Vpn_m2s
-مخصوص اسپوف
-
----
-
-### 🕒 2026-05-24 12:09:58 UTC
-نسخه گرافیکی فقط این آیپی جایگزین کنید
-`104.19.229.21`
-
----
-
-### 🕒 2026-05-24 12:09:36 UTC
-{
-  "LISTEN_HOST": "0.0.0.0",
-  "LISTEN_PORT": 40443,
-  "CONNECT_IP": "104.19.229.21", 
-  "CONNECT_PORT": 443,
-  "FAKE_SNI": "www.hcaptcha.com"
-}
-
----
-
-### 🕒 2026-05-24 12:09:19 UTC
-اسپوف دوباره برای بعضیا زنده شده که
 
 ---
 
