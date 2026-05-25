@@ -1,8 +1,65 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-05-25 17:18:08 UTC
+بروزرسانی: 2026-05-25 19:53:59 UTC
+
+### 🕒 2026-05-25 19:17:22 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.18.12.149","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+12■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 19:13:44 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.17.72.206","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+11■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 18:58:39 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "141.193.213.11","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+10■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 18:57:31 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "188.114.96.2","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+9■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 18:26:46 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "172.64.52.96","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+8■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 17:45:46 UTC
+`{"_comment": {"remark": "ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "188.114.98.0","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+7■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
+
+### 🕒 2026-05-25 17:42:23 UTC
+`{"_comment": {"remark": "@ShadowProxy66"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "188.114.96.4","method": "chacha20-poly1305","ota": false,"password": "wallweb","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/?ed=2048","headers": {"Host": "wallweb.wyxalao.workers.dev"}},"tlsSettings": {"allowInsecure": true,"serverName": "wallweb.wyxalao.workers.dev","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
+6■
+***📍***
+[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
+
+---
 
 ### 🕒 2026-05-25 12:21:51 UTC
 dHJvamFuOi8vaHVtYW5pdHlAMTg1LjIwOC43OS42Mjo0NDM/cGF0aD0lMkZhc3NpZ25tZW50JnNlY3VyaXR5PXRscyZpbnNlY3VyZT0xJmhvc3Q9d3d3LmNhbG1sdW5jaC5jb20mdHlwZT13cyZhbGxvd0luc2VjdXJlPTEmc25pPXd3dy5jYWxtbHVuY2guY29tI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlQzIlQjkKCnZsZXNzOi8vNjIwMmIyMzAtNDE3Yy00ZDhlLWI2MjQtMGY3MWFmYTljNzVkQDk1LjM4LjE2NC4yNDU6NDA0NDM/cGF0aD0lMkYlM0ZUZWxlZ3JhbSVEOSU4QiUyQiU0MFNoYWRvd1Byb3h5NjYmc2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZpbnNlY3VyZT0xJmhvc3Q9c25pLjExMTAwMC5pbmRldnMuaW4mdHlwZT13cyZhbGxvd0luc2VjdXJlPTEmc25pPXNuaS4xMTEwMDAuaW5kZXZzLmluI0NoYW5uZWwlMjBpZCUzQSUyMCU0MFNoYWRvd1Byb3h5NjYlMjAlQzIlQjIKCnZsZXNzOi8vYmU0Yzc5ZjctNjQyYS00ZTYyLTlkMGYtNzhkODA1ZGYxMzY2QHNhYno4LnNhYnp0YXJhc2guaXI6ODA4MD9zZWN1cml0eT1ub25lJmVuY3J5cHRpb249bm9uZSZoZWFkZXJUeXBlPW5vbmUmdHlwZT10Y3AjQ2hhbm5lbCUyMGlkJTNBJTIwJTQwU2hhZG93UHJveHk2NiUyMCVDMiVCMwoKdmxlc3M6Ly9kMzdhNzVkYi03NmI2LTRkYjgtYjIxMy0wZDViMDQ0ZDEzOGRANzkuMTI3LjUxLjI1MDo0MDQ0Mz9wYXRoPSUyRiZzZWN1cml0eT10bHMmZW5jcnlwdGlvbj1ub25lJmluc2VjdXJlPTEmaG9zdD1oaW8tYXd4LnBhZ2VzLmRldiZ0eXBlPXdzJmFsbG93SW5zZWN1cmU9MSZzbmk9aGlvLWF3eC5wYWdlcy5kZXYjQ2hhbm5lbCUyMGlkJTNBJTIwJTQwU2hhZG93UHJveHk2NiUyMCVFMiU4MSVCNA==
+■
 [چهار کانفیگ ترکیبی V2rayNg + Psiphon](https://t.me/ShadowProxy66/14976)
 ***⚡️***
  
@@ -18,28 +75,6 @@ dHJvamFuOi8vaHVtYW5pdHlAMTg1LjIwOC43OS42Mjo0NDM/cGF0aD0lMkZhc3NpZ25tZW50JnNlY3Vy
 ### 🕒 2026-05-24 21:55:35 UTC
 اگه حوصله خوندن دو خط پست بالا ندارید لطفا سوال هم نکنید بخدا فارسی نوشتم
 با تشکر
-
----
-
-### 🕒 2026-05-24 19:39:00 UTC
-`{"_comment": {"remark": "paperboy"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.20.42.250","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
-***📍***
-[ترکیبی با سایفون بزنید](https://t.me/ShadowProxy66/14976)
-
----
-
-### 🕒 2026-05-24 19:04:03 UTC
-ShirOKhorshid-2026.05.24.apk
-
----
-
-### 🕒 2026-05-24 18:48:32 UTC
-ShirOKhorshid-2026.05.24.apk
-
----
-
-### 🕒 2026-05-24 18:47:51 UTC
-ShirOKhorshid-2026.05.24.apk
 
 ---
 

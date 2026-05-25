@@ -1,5 +1,158 @@
 # آرشیو کانال: @yebekhe
-بروزرسانی: 2026-05-25 17:20:13 UTC
+بروزرسانی: 2026-05-25 19:56:11 UTC
+
+### 🕒 2026-05-25 19:28:29 UTC
+> ↪️ **Forwarded**
+
+***🍷***
+از این ۴ تا هم میتونید داخل کانفیگ استفاده کنید
+***❗️***
+[104.18.31.78](http://104.18.31.78/)
+[104.18.38.202](http://104.18.38.202/)
+[188.114.96.3](http://188.114.96.3/)
+[104.16.8.34](http://104.16.8.34/)
+{
+"_comment": {
+"remark": "hamedvpns-XSfilternet"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "104.16.8.34",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+[@xsfilterrnet](https://t.me/xsfilterrnet)
+ 
+***👑***
+
+---
+
+### 🕒 2026-05-25 17:46:30 UTC
+مردک همزمان رئیس‌ دولت، رئیس شورای عالی امنیت ملی، رئیس شورای عالی فضای مجازی و رئیس شورای عالی انقلاب فرهنگی هست، بعد ۸۷ روز مدام چرت و پرت تحویل میده که من مخالفم اما در اختیار من نیست!   اگه در اختیار توعه دوزاری نبود الان چطوری نامه زدی که فردا وصلش کنن؟…
+
+---
+
+### 🕒 2026-05-25 17:40:58 UTC
+مردک همزمان رئیس‌ دولت، رئیس شورای عالی امنیت ملی، رئیس شورای عالی فضای مجازی و رئیس شورای عالی انقلاب فرهنگی هست، بعد ۸۷ روز مدام چرت و پرت تحویل میده که من مخالفم اما در اختیار من نیست! 
+اگه در اختیار توعه دوزاری نبود الان چطوری نامه زدی که فردا وصلش کنن؟ 
+فردا وصل شه که 
+ریدم
+ سر قبر زنت که ۸۷ روز میتونستی و نکردی!
+وصل هم نشه 
+ریدم
+ تو روح رهبر تصعید شده ات که ۸۹ روز نت و قطع نگه داشتید!
+
+---
 
 ### 🕒 2026-05-25 14:38:39 UTC
 کانفیگ ترکیبی متصل با تمامی نت‌ها 
@@ -105,153 +258,6 @@ Pass :
 [@irFilmYarBot](https://t.me/irFilmYarBot)
  
 [@yebekhe](https://t.me/yebekhe)
-
----
-
-### 🕒 2026-05-24 19:48:37 UTC
-> ↪️ **Forwarded**
-
-کانفیگ ترکیبی متصل با تمامی نت‌ها 
-***😎***
-بزنید بترکونید 
-***❤️***
-[آموزش اتصال ترکیبی***👉***](https://t.me/hamedvpns/18237)
- ویتورای+سایفون
-{
-"_comment": {
-"remark": "hamedvpns-XSfilternet"
-},
-"log": {
-"access": "",
-"error": "",
-"loglevel": "info",
-"dnsLog": false
-},
-"inbounds": [
-{
-"tag": "in_proxy",
-"port": 1080,
-"protocol": "socks",
-"listen": "0.0.0.0",
-"settings": {
-"auth": "noauth",
-"udp": true,
-"userLevel": 8
-},
-"sniffing": {
-"enabled": false
-}
-},
-{
-"tag": "http-in",
-"port": 10808,
-"listen": "::",
-"protocol": "http"
-}
-],
-"outbounds": [
-{
-"tag": "proxy",
-"protocol": "trojan",
-"settings": {
-"servers": [
-{
-"address": "104.20.42.250",
-"method": "chacha20-poly1305",
-"ota": false,
-"password": "humanity",
-"port": 443,
-"level": 8,
-"flow": ""
-}
-]
-},
-"streamSettings": {
-"network": "ws",
-"security": "tls",
-"wsSettings": {
-"path": "/assignment",
-"headers": {
-"Host": "www.calmloud.com"
-}
-},
-"tlsSettings": {
-"allowInsecure": true,
-"serverName": "www.calmloud.com",
-"alpn": [
-"http/1.1"
-],
-"fingerprint": "ios",
-"show": false
-},
-"sockopt": {
-"dialerProxy": "fragment",
-"tcpKeepAliveIdle": 100,
-"tcpNoDelay": true
-}
-},
-"mux": {
-"enabled": false,
-"concurrency": 8
-}
-},
-{
-"tag": "fragment",
-"protocol": "freedom",
-"settings": {
-"domainStrategy": "AsIs",
-"fragment": {
-"packets": "tlshello",
-"length": "100-200",
-"interval": "10-20"
-}
-},
-"streamSettings": {
-"sockopt": {
-"tcpKeepAliveIdle": 100,
-"tcpNoDelay": true
-}
-}
-},
-{
-"tag": "direct",
-"protocol": "freedom",
-"settings": {
-"domainStrategy": "UseIp"
-}
-},
-{
-"tag": "blackhole",
-"protocol": "blackhole",
-"settings": {}
-}
-],
-"dns": {
-"servers": [
-"8.8.8.8"
-]
-},
-"routing": {
-"domainStrategy": "UseIp",
-"rules": [],
-"balancers": []
-}
-}
-[@xsfilterrnet](https://t.me/xsfilterrnet)
- 
-***👑***
-***❤️***
- اشتراک گذاری یادتون نره 
-***🌈***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
 
 ---
 

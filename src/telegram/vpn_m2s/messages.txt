@@ -1,5 +1,592 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-05-25 17:19:41 UTC
+بروزرسانی: 2026-05-25 19:55:38 UTC
+
+### 🕒 2026-05-25 19:42:13 UTC
+5 رفرال 500 مگابایت میده
+***✅***
+[لینک ورود به ربات](https://t.me/TheMonjiBot?start=EDp3wM4x)
+
+---
+
+### 🕒 2026-05-25 19:41:41 UTC
+این ربات منجی میگه رفرالارو ریست کرده هرکس قبلاً عضو شده دوباره عضو بشه رفرال حساب میشه لینکش میزارم چند تا استارت بزنید ببینم اگه کانفیگ داد بزارم استفاده کنید(3 تا کانال میگه عضو بشید تأیید عضویت کنید بعد لفت بدید)
+
+---
+
+### 🕒 2026-05-25 19:34:08 UTC
+خاصیت کاندوم از پزشکیان بیشتره
+
+---
+
+### 🕒 2026-05-25 19:31:12 UTC
+از سیرکم دیگه رد شده
+
+---
+
+### 🕒 2026-05-25 19:29:07 UTC
+سیتنا: پیگیری ها برای دسترسی به ابلاغ مصوبه ‎گشایش اینترنت به وزارت ارتباطات بی نتیجه ماند؛ هیچ مرجع رسمی حاضر به ارائه مستندات نشده است
+***🤣***
+***🤣***
+***🤣***
+***🤣***
+***🤣***
+***🤣***
+
+---
+
+### 🕒 2026-05-25 19:23:09 UTC
+{
+"_comment": {
+"remark": "
+***⚡️***
+Telegram:@Vpn_m2s"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "188.114.96.2",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+ترکیبی سایفون
+
+---
+
+### 🕒 2026-05-25 19:21:53 UTC
+{
+"_comment": {
+"remark": "
+***⚡️***
+Telegram:@Vpn_m2s"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "141.193.213.11",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+ترکیبی سایفون
+
+---
+
+### 🕒 2026-05-25 19:21:19 UTC
+{
+"_comment": {
+"remark": "
+***⚡️***
+Telegram:@Vpn_m2s"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "104.17.72.206",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+ترکیبی سایفون
+
+---
+
+### 🕒 2026-05-25 19:19:01 UTC
+{
+"_comment": {
+"remark": "
+***⚡️***
+Telegram:@Vpn_m2s"
+},
+"log": {
+"access": "",
+"error": "",
+"loglevel": "info",
+"dnsLog": false
+},
+"inbounds": [
+{
+"tag": "in_proxy",
+"port": 1080,
+"protocol": "socks",
+"listen": "0.0.0.0",
+"settings": {
+"auth": "noauth",
+"udp": true,
+"userLevel": 8
+},
+"sniffing": {
+"enabled": false
+}
+},
+{
+"tag": "http-in",
+"port": 10808,
+"listen": "::",
+"protocol": "http"
+}
+],
+"outbounds": [
+{
+"tag": "proxy",
+"protocol": "trojan",
+"settings": {
+"servers": [
+{
+"address": "104.18.12.149",
+"method": "chacha20-poly1305",
+"ota": false,
+"password": "humanity",
+"port": 443,
+"level": 8,
+"flow": ""
+}
+]
+},
+"streamSettings": {
+"network": "ws",
+"security": "tls",
+"wsSettings": {
+"path": "/assignment",
+"headers": {
+"Host": "www.calmloud.com"
+}
+},
+"tlsSettings": {
+"allowInsecure": true,
+"serverName": "www.calmloud.com",
+"alpn": [
+"http/1.1"
+],
+"fingerprint": "ios",
+"show": false
+},
+"sockopt": {
+"dialerProxy": "fragment",
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+},
+"mux": {
+"enabled": false,
+"concurrency": 8
+}
+},
+{
+"tag": "fragment",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "AsIs",
+"fragment": {
+"packets": "tlshello",
+"length": "100-200",
+"interval": "10-20"
+}
+},
+"streamSettings": {
+"sockopt": {
+"tcpKeepAliveIdle": 100,
+"tcpNoDelay": true
+}
+}
+},
+{
+"tag": "direct",
+"protocol": "freedom",
+"settings": {
+"domainStrategy": "UseIp"
+}
+},
+{
+"tag": "blackhole",
+"protocol": "blackhole",
+"settings": {}
+}
+],
+"dns": {
+"servers": [
+"8.8.8.8"
+]
+},
+"routing": {
+"domainStrategy": "UseIp",
+"rules": [],
+"balancers": []
+}
+}
+ترکیبی سایفون
+
+---
+
+### 🕒 2026-05-25 18:09:20 UTC
+vless://fe30d6d7-b399-49b2-98d5-c2abec5ea92e@ls2.irfallen.shop:8880?type=xhttp&path=/&mode=packet-up&encryption=none#
+
+---
+
+### 🕒 2026-05-25 18:02:10 UTC
+vless://fe30d6d7-b399-49b2-98d5-c2abec5ea92e@ls2.irfallen.shop:8880?type=xhttp&path=/&mode=packet-up&encryption=none#
+
+---
+
+### 🕒 2026-05-25 17:42:07 UTC
+یاد گرفتم تو این مملکت هیچی بعید نیست اگه دیدید نت وصل شد پورن هاب بدون فیلتر بالا اومد تعجب نکنید
+***🤣***
+***🤣***
+***🤣***
+***🤣***
+
+---
+
+### 🕒 2026-05-25 17:26:54 UTC
+بعید میدونم اینترنت مثل قبل بشه (همون فیلترنت) این همه هزینه کردن واسه فایروال و فلان و فلان
+
+---
+
+### 🕒 2026-05-25 17:25:01 UTC
+فعلاً پاسکاریشون شروع شده
+
+---
+
+### 🕒 2026-05-25 17:24:34 UTC
+اینترنت فعلاً سرش گرده
+***😂***
+***😂***
+***😂***
+یکی میگه دولت باید تأیید بده یکی میگه به دولت هیچ ربطی نداره شورای امنیت باید تأیید بده
+
+---
+
+### 🕒 2026-05-25 17:22:33 UTC
+سایت برای اسکن
+[https://t.me/Vpn_m2s/5493](https://t.me/Vpn_m2s/5493)
+آموزش اسکن
+[https://t.me/Vpn_m2s/5502](https://t.me/Vpn_m2s/5502)
+
+---
 
 ### 🕒 2026-05-25 17:16:41 UTC
 ی آیپی لیست سبک میزارم براتون رو نت خودتون اسکن کنید نتیجه بگیرید
@@ -92,40 +679,6 @@ vless://fbb4cf5a-8c70-44ce-8785-a5df1e7d4c35@185.143.233.122:8080?path=%2F&secur
 مخابرات
 ارسالی کاربرا
 `185.200.232.50`
-
----
-
-### 🕒 2026-05-24 19:07:05 UTC
-نسخه جدید 
-[RM SNI Spoofer](https://github.com/rm-rfd/sni-spoofing-gui)
-  منتشر شد.
-توی این نسخه رابط کاربری بهبود پیدا کرده
-**کاربردها (Use Cases)**
-**دور زدن محدودیت‌های مبتنی بر DPI**
-: اصلی‌ترین کاربرد، فریب سیستم‌های نظارتی است که صرفاً به SNI در握手 TLS نگاه می‌کنند.
-**استفاده با پروکسی‌های TLS (VLESS، Trojan)**
-:
-برای کار کردن با لینک‌های اشتراک vless:// یا trojan:// که روی 
-**پورت 443**
- هستند طراحی شده است.
-در حالت GUI، می‌توان این لینک‌ها را导入 کرد، یکی را فعال (Active) نمود و ترافیک پروکسی را از طریق رله هدایت کرد.
-**اجرای بدون GUI (Headless)**
-: برای استفاده در خط فرمان یا سیستم‌های بدون رابط کاربری با گزینه --headless.
-**تست اتصال**
-: با استفاده از دکمه Test Delay می‌توان تأخیر و وضعیت اتصال پروفایل‌های مختلف را بدون قطع کردن رله اصلی بررسی کرد.
-**ساخت فایل EXE قابل حمل**
-: اسکریپت 
-[build.py](http://build.py/)
- یک فایل اجرایی مستقل به همراه تنظیمات و xray.exe می‌سازد.
-[https://github.com/rm-rfd/sni-spoofing-gui/releases/download/v0.0.5/RM.SNI.Spoofer-v0.0.5.zip](https://github.com/rm-rfd/sni-spoofing-gui/releases/download/v0.0.5/RM.SNI.Spoofer-v0.0.5.zip)
-
----
-
-### 🕒 2026-05-24 17:29:08 UTC
-شیر و خورشید 
-ارسالی کاربرا
-همراه اول
-`92.123.106.11`
 
 ---
 
