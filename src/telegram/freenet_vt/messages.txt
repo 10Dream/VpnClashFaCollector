@@ -1,5 +1,32 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-05-26 07:58:00 UTC
+بروزرسانی: 2026-05-26 15:44:03 UTC
+
+### 🕒 2026-05-26 11:50:39 UTC
+هنوز خیلی ها  گیج میزمن کار پنج دقیقه هست
+
+---
+
+### 🕒 2026-05-26 11:50:31 UTC
+تنظیمات سایفون 
+برای ترکیب ویتوری و سلیفون
+
+---
+
+### 🕒 2026-05-26 10:10:47 UTC
+ترکیبی وصل که شدی بعد بزار روی این کانفیگ یه ۵ دقیقه صبر کن بعد بزا. اینستا رو قورت میده
+
+---
+
+### 🕒 2026-05-26 10:09:51 UTC
+`vless://aaf622b3-e5e6-4c7e-b6f7-52a3d55550c3@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#freenet-vt`
+
+---
+
+### 🕒 2026-05-26 09:59:03 UTC
+`{  "remarks": "FREENET_VT***⚡***",  "log": {    "access": "",    "error": "",    "loglevel": "info",    "dnsLog": false  },  "inbounds": [    {      "tag": "in_proxy",      "port": 10808,      "protocol": "socks",      "listen": "127.0.0.1",      "settings": {        "auth": "noauth",        "udp": true,        "userLevel": 8      },      "sniffing": {        "enabled": false      }    },    {      "tag": "http-in",      "port": 10808,      "listen": "::",      "protocol": "http"    }  ],  "outbounds": [    {      "tag": "proxy",      "protocol": "vless",      "settings": {        "vnext": [          {            "address": "172.64.152.23",            "port": 443,            "users": [              {                "id": "06ef598c-1555-4887-b3f9-08214a2f6792",                "level": 8,                "encryption": "none"              }            ]          }        ]      },      "streamSettings": {        "network": "ws",        "security": "tls",        "wsSettings": {          "path": "/222.167.202.31:7443",          "headers": {            "Host": "2026.hhhhh.eu.org"          }        },        "tlsSettings": {          "allowInsecure": true,          "serverName": "2026.hhhhh.eu.org",          "alpn": [            "http/1.1"          ],          "fingerprint": "ios",          "show": false        },        "sockopt": {          "dialerProxy": "fragment",          "tcpKeepAliveIdle": 100,          "tcpNoDelay": true        }      },      "mux": {        "enabled": false,        "concurrency": 8      }    },    {      "tag": "fragment",      "protocol": "freedom",      "settings": {        "domainStrategy": "AsIs",        "fragment": {          "packets": "tlshello",          "length": "100-200",          "interval": "10-20"        }      },      "streamSettings": {        "sockopt": {          "tcpKeepAliveIdle": 100,          "tcpNoDelay": true        }      }    },    {      "tag": "direct",      "protocol": "freedom",      "settings": {        "domainStrategy": "UseIp"      }    },    {      "tag": "blackhole",      "protocol": "blackhole",      "settings": {}    }  ],  "dns": {    "servers": [      "8.8.8.8"    ]  },  "routing": {    "domainStrategy": "UseIp",    "rules": [],    "balancers": []  }}`
+ترکیبیv2ray+siphon
+
+---
 
 ### 🕒 2026-05-25 23:51:22 UTC
 قطع نکنید یه وقت همینجور که وصله بزارید روی یه کاتعیگ دیگه فقط یه بار بزنید تکرار کنید قطع میشه
@@ -121,38 +148,6 @@ default,irancell,supl,
 
 ### 🕒 2026-05-25 16:21:16 UTC
 فقط توی تنظیمات سایفون بزنید پروکسی نشه  عیر اینصورت  وصل نمیشه
-
----
-
-### 🕒 2026-05-25 11:10:54 UTC
-سایفون نسخه جدید می تونید مستقیم  پورت ک پروکسی  slipnet  یل WhiteDNS وبقیه کلاینت ها وارد کنید فرقی نداره پورت ساکس بزاری یا http اگه ارور پروکسی داد ولش کنید وصل میشه
-
----
-
-### 🕒 2026-05-25 11:09:27 UTC
-حس میکنم توی هیدیفای بهتر جواب میده جابجا کردن سرور هم  راحت تره
-
----
-
-### 🕒 2026-05-25 10:55:57 UTC
-ابن و بزارید توی ویتوری بزارید ردی یوی از dns ها slip net یا dnst یا WhiteDNS  هرکدوم براتون بهتر وصل میشا سایفون که وصل شد تلگرام اومد بالا بزارید روی یوی از کان فیگ هایی که قاب گذاشتم خودم با dnst اومدم بالا وصل که شدی dnst رو خاموش کنید
-
----
-
-### 🕒 2026-05-25 10:52:44 UTC
-socks://Og@127.0.0.1:18000#master%20dns
-socks://Og@127.0.0.1:10886#WhiteDNS
-socks://Og@127.0.0.1:10880#slipnet
-socks://Og@127.0.0.1:1080#dnst
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSS1tSG1Zb2R6SDJhR1hvcnFwOHBB@185.226.119.96:8082#freenet-vt%20
-vless://be95dc05-f84a-4a4d-80ad-4b7a80177b7f@185.143.233.122:80?path=%2F&security=&encryption=none&host=line2.gymplusplus.com&type=ws#freenet-vt%20%E2%9D%843
-vless://63626365-3534-4138-b731-346165303366@185.143.232.32:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=&encryption=none&host=dl.tgmovie.bond&type=ws#freenet-vt%20
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IkBmcmVlbmV0LXZ0ICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://70a1790b-a635-46f1-b473-e2ed1b4b491f@185.143.233.5:8880?path=%2F&security=&encryption=none&host=p1.sesrsa.com&type=ws#freenet-vt%20
-vless://c508d0e6-6d8a-4b67-8379-f613c2a24bc4@188.121.109.125:52187?security=&encryption=none&headerType=&type=tcp#%40freenet-vt%20
-vless://411e540f-d455-4fb8-aef8-a3926c2fc49d@198.169.2.1:443?security=tls&alpn=h2&encryption=none&headerType=&fp=chrome&type=tcp&sni=amonext-pearl.vercel.app#%40freenet-vt%20%E2%9D%A4%EF%B8%8F
-vless://411e540f-d455-4fb8-aef8-a3926c2fc49d@198.169.2.1:443?security=tls&alpn=h2&encryption=none&headerType=&fp=chrome&type=tcp&sni=amonext-hffjededf-amonextt.vercel.app#%40freenet-vt%20%E2%9D%A4%EF%B8%8F
-vless://411e540f-d455-4fb8-aef8-a3926c2fc49d@198.169.2.1:443?security=tls&alpn=h2&encryption=none&headerType=&fp=chrome&type=tcp&sni=amonext-eta.vercel.app#%40freenet-vt%20%E2%9D%A4%EF%B8%8F
 
 ---
 
