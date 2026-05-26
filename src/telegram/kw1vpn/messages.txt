@@ -1,13 +1,37 @@
 # آرشیو کانال: @kw1vpn
-بروزرسانی: 2026-05-25 19:51:22 UTC
+بروزرسانی: 2026-05-26 03:51:56 UTC
 
-### 🕒 2026-05-24 21:07:10 UTC
-**- با روش ترکیبی به سایفون وصل بشید.**
-`{  "remark": "@KW1VPN",  "log": {    "access": "",    "error": "",    "loglevel": "info",    "dnsLog": false  },  "inbounds": [    {      "tag": "in_proxy",      "port": 10808,      "protocol": "socks",      "listen": "127.0.0.1",      "settings": {        "auth": "noauth",        "udp": true,        "userLevel": 8      },      "sniffing": {        "enabled": false      }    },    {      "tag": "http-in",      "port": 10808,      "listen": "::",      "protocol": "http"    }  ],  "outbounds": [    {      "tag": "proxy",      "protocol": "trojan",      "settings": {        "servers": [          {            "address": "104.20.42.250",            "method": "chacha20-poly1305",            "ota": false,            "password": "humanity",            "port": 443,            "level": 8,            "flow": ""          }        ]      },      "streamSettings": {        "network": "ws",        "security": "tls",        "wsSettings": {          "path": "/assignment",          "headers": {            "Host": "www.calmloud.com"          }        },        "tlsSettings": {          "allowInsecure": true,          "serverName": "www.calmloud.com",          "alpn": [              "http/1.1"          ],          "fingerprint": "ios",          "show": false        },        "sockopt": {          "dialerProxy": "fragment",          "tcpKeepAliveIdle": 100,          "tcpNoDelay": true        }      },      "mux": {        "enabled": false,        "concurrency": 8      }    },    {      "tag": "fragment",      "protocol": "freedom",      "settings": {        "domainStrategy": "AsIs",        "fragment": {          "packets": "tlshello",          "length": "100-200",          "interval": "10-20"        }      },      "streamSettings": {        "sockopt": {          "tcpKeepAliveIdle": 100,          "tcpNoDelay": true        }      }    },    {      "tag": "direct",      "protocol": "freedom",      "settings": {        "domainStrategy": "UseIp"      }    },    {      "tag": "blackhole",      "protocol": "blackhole",      "settings": {}    }  ],  "dns": {    "servers": [      "8.8.8.8"    ]  },  "routing": {    "domainStrategy": "UseIp",    "rules": [],    "balancers": []  }}`
-``
--
+### 🕒 2026-05-26 01:08:37 UTC
+خیلی ها به این روش وصل شدن 
+سرعتشم بالاست
+همه چیو میاره
+امیدوارم مشکلی پیدا نکنه
+
+---
+
+### 🕒 2026-05-26 00:40:02 UTC
+Apk MahsaNG
+- 
 [@KW1VPN](https://t.me/KW1VPN)
-|
+ |
+
+---
+
+### 🕒 2026-05-26 00:36:17 UTC
+این روش رو تست کردم فوق العاده است بذارید کانال
+اگر کلاینت MahsaNG رو دارید انجام بدید وصل میشه
+[لینک داخلی](https://uplod.ir/urlfu2uuf2sp/MahsaNG_v16.zip.htm)
+[لینک گیتهاب پروژه](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+اگر سایت گیتهاب براتون باز هست:
+از منوی برنامه مهسا ان جی، اورژانسی EMS، کانفیگ دریافت کنید
+دو عدد کانفیگ ترکیبی مشاهده میکنید یکی رو انتخاب کنید
+در تنظیمات سایفون Protocol رو روی Auto بذارید و Aggressive رو ON کنید و Save بزنید
+دکمه psiphon-after از منوی F رو روشن کنید و Save بزنید
+نیازی به روشن کردن فرگمنت از منوی F نیست
+دکمه M رو روشن کنید و 30 ثانیه صبر کنید تا سایفون متصل بشه. پینگ بگیرید و از کانفیگ رایگان لذت ببرید
+- 
+[@KW1VPN](https://t.me/KW1VPN)
+ |
 
 ---
 
