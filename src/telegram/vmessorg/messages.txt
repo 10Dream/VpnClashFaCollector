@@ -1,5 +1,132 @@
 # آرشیو کانال: @vmessorg
-بروزرسانی: 2026-05-26 18:44:28 UTC
+بروزرسانی: 2026-05-26 21:09:48 UTC
+
+### 🕒 2026-05-26 19:02:20 UTC
+متصل خوب :
+`vless://1745026c-94cb-419d-bd57-5dc7bca6de73@ux.onyxshoes.ir:8080?path=%2F&security=&encryption=none&type=ws#@vmessorg`
+
+---
+
+### 🕒 2026-05-26 19:00:03 UTC
+وصل برای همه اپراتورها
+"port": "443",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:category-ads-all"
+        ],
+        "outboundTag": "
+[@vmessorg](https://t.me/vmessorg)
+",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "
+[223.5.5.5/32](http://223.5.5.5/32)
+",
+          "
+[223.6.6.6/32](http://223.6.6.6/32)
+",
+          "2400:3200::1/128",
+          "2400:3200:baba::1/128",
+          "
+[119.29.29.29/32](http://119.29.29.29/32)
+",
+          "
+[1.12.12.12/32](http://1.12.12.12/32)
+",
+          "
+[120.53.53.53/32](http://120.53.53.53/32)
+",
+          "2402:4e00::/128",
+          "2402:4e00:1::/128",
+          "
+[180.76.76.76/32](http://180.76.76.76/32)
+",
+          "2400:da00::6666/128",
+          "
+[114.114.114.114/32](http://114.114.114.114/32)
+",
+          "
+[114.114.115.115/32](http://114.114.115.115/32)
+",
+          "
+[180.184.1.1/32](http://180.184.1.1/32)
+",
+          "
+[180.184.2.2/32](http://180.184.2.2/32)
+",
+          "
+[101.226.4.6/32](http://101.226.4.6/32)
+",
+          "
+[218.30.118.6/32](http://218.30.118.6/32)
+",
+          "
+[123.125.81.6/32](http://123.125.81.6/32)
+",
+          "
+[140.207.198.6/32](http://140.207.198.6/32)
+",
+          "geoip:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "domain:
+[dns.alidns.com](http://dns.alidns.com/)
+",
+          "domain:
+[doh.pub](http://doh.pub/)
+",
+          "domain:
+[dot.pub](http://dot.pub/)
+",
+          "domain:
+[doh.360.cn](http://doh.360.cn/)
+",
+          "domain:
+[dot.360.cn](http://dot.360.cn/)
+",
+          "geosite:cn",
+          "geosite:geolocation-cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "outboundTag": "proxy",
+        "port": "0-65535",
+        "type": "field"
+      }
+    ]
+  }
+}
+
+---
+
+### 🕒 2026-05-26 18:55:13 UTC
+[https://t.me/proxy?server=host.dnsrender.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4](https://t.me/proxy?server=host.dnsrender.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)
+
+---
 
 ### 🕒 2026-05-26 18:35:47 UTC
 [tg://proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09](tg://proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09)

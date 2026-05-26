@@ -1,5 +1,25 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-05-26 18:37:24 UTC
+بروزرسانی: 2026-05-26 21:03:05 UTC
+
+### 🕒 2026-05-26 20:31:00 UTC
+مستقیم وصله عشقتون کشید هن می تونید ترکیبی بزنید
+
+---
+
+### 🕒 2026-05-26 20:31:00 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:45389#freenet-vt%20vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImZyZWVuZXQtdnQgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#freenet-vt%20`
+
+---
+
+### 🕒 2026-05-26 19:59:48 UTC
+دوست داشتید ترکیبی بزنید مستقیم  هم وصله
+
+---
+
+### 🕒 2026-05-26 19:59:18 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#freenet-vt%20`
+
+---
 
 ### 🕒 2026-05-26 18:24:43 UTC
 Sing  box 
@@ -173,21 +193,6 @@ default,irancell,supl,
 
 ### 🕒 2026-05-25 21:21:35 UTC
 `{"_comment": {"remark": "freenet-vt"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.16.8.34","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
-
----
-
-### 🕒 2026-05-25 20:27:22 UTC
-غروب آماده گردم تا اومدم بزارم خاموش شد
-
----
-
-### 🕒 2026-05-25 20:26:48 UTC
-,,ترکیبی ویتوری+ سایفون
-
----
-
-### 🕒 2026-05-25 20:26:16 UTC
-`{"_comment": {"remark": "freenet-vt"},"log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "188.114.96.4","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
 
 ---
 
