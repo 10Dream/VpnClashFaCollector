@@ -1,5 +1,5 @@
 # آرشیو کانال: @letiranbreath
-بروزرسانی: 2026-05-27 13:04:39 UTC
+بروزرسانی: 2026-05-27 16:49:41 UTC
 
 ### 🕒 2026-05-27 02:07:33 UTC
 {"remarks":"
@@ -48,7 +48,7 @@ just paste it into your v2ray client
 ***💦***
  1 - Workerless 
 ***⭐️***
-","version":{"min":"25.10.15"},"log":{"loglevel":"none"},"dns":{"hosts":{"cloudflare-dns.com":["cloudflare.com"]},"servers":[{"address":"fakedns","domains":["full:cloudflare.com"],"skipFallback":false},{"address":"https://cloudflare-dns.com/dns-query","tag":"remote-dns"},{"address":"8.8.8.8","domains":["full:cloudflare.com"],"skipFallback":false}],"queryStrategy":"UseIP","tag":"dns"},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true},"sniffing":{"destOverride":["http","tls","quic","fakedns"],"enabled":true,"routeOnly":true},"tag":"mixed-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"6-7","interval":"1-1","maxSplit":"300-400"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","happyEyeballs":{"tryDelayMs":25,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"proxy"},{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"6-7","interval":"1-1","maxSplit":"300-400"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","happyEyeballs":{"tryDelayMs":20,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"http-fragment"},{"protocol":"freedom","settings":{"noises":[{"type":"rand","packet":"50-100","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"}],"domainStrategy":"UseIPv4"},"tag":"udp-noise"},{"protocol":"dns","settings":{"nonIPQuery":"reject"},"tag":"dns-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["mixed-in"],"port":53,"outboundTag":"dns-out","type":"field"},{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["remote-dns"],"outboundTag":"proxy","type":"field"},{"inboundTag":["dns"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"network":"tcp","protocol":["tls"],"outboundTag":"proxy","type":"field"},{"network":"tcp","protocol":["http"],"outboundTag":"http-fragment","type":"field"},{"network":"udp","protocol":["quic"],"outboundTag":"udp-noise","type":"field"},{"port":"443,2053,2083,2087,2096,8443","network":"udp","outboundTag":"udp-noise","type":"field"},{"network":"tcp,udp","outboundTag":"direct","type":"field"}]},"policy":{"levels":{"0":{"connIdle":300,"handshake":4,"uplinkOnly":1,"downlinkOnly":1}}}}
+","version":{"min":"25.10.15"},"log":{"loglevel":"none"},"dns":{"hosts":{"cloudflare-dns.com":["cloudflare.com"]},"servers":[{"address":"fakedns","domains":["full:cloudflare.com"],"skipFallback":false},{"address":"https://cloudflare-dns.com/dns-query","tag":"remote-dns"},{"address":"8.8.8.8","domains":["full:cloudflare.com"],"skipFallback":false}],"queryStrategy":"UseIP","tag":"dns"},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true},"sniffing":{"destOverride":["http","tls","quic","fakedns"],"enabled":true,"routeOnly":true},"tag":"mixed-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"4-6","interval":"1-3"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","happyEyeballs":{"tryDelayMs":25,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"proxy"},{"protocol":"freedom","settings":{"fragment":{"packets":"1-1","length":"4-6","interval":"1-3"}},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","happyEyeballs":{"tryDelayMs":20,"prioritizeIPv6":false,"interleave":2,"maxConcurrentTry":4}}},"tag":"http-fragment"},{"protocol":"freedom","settings":{"noises":[{"type":"rand","packet":"50-100","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"},{"type":"rand","packet":"10-50","delay":"1-5","applyTo":"ip"}],"domainStrategy":"UseIPv4"},"tag":"udp-noise"},{"protocol":"dns","settings":{"nonIPQuery":"reject"},"tag":"dns-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["mixed-in"],"port":53,"outboundTag":"dns-out","type":"field"},{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["remote-dns"],"outboundTag":"proxy","type":"field"},{"inboundTag":["dns"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"network":"tcp","protocol":["tls"],"outboundTag":"proxy","type":"field"},{"network":"tcp","protocol":["http"],"outboundTag":"http-fragment","type":"field"},{"network":"udp","protocol":["quic"],"outboundTag":"udp-noise","type":"field"},{"port":"443,2053,2083,2087,2096,8443","network":"udp","outboundTag":"udp-noise","type":"field"},{"network":"tcp,udp","outboundTag":"direct","type":"field"}]},"policy":{"levels":{"0":{"connIdle":300,"handshake":4,"uplinkOnly":1,"downlinkOnly":1}}}}
 serverless, opens Almost anything with you iran ip
 react with  thumbs to show if it did or did not work
 
@@ -97,21 +97,6 @@ guys, the bot is down for now
 
 ### 🕒 2026-05-26 19:41:50 UTC
 1/10 ?
-
----
-
-### 🕒 2026-05-26 15:02:57 UTC
-the ip scanner, will connect with mokhaberat in seconds with insane speed
-
----
-
-### 🕒 2026-05-26 15:02:43 UTC
-Download the newest shir o khorshid app
-
----
-
-### 🕒 2026-05-26 14:15:30 UTC
-Congrats
 
 ---
 
