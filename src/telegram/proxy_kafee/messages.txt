@@ -1,5 +1,80 @@
 # آرشیو کانال: @proxy_kafee
-بروزرسانی: 2026-05-27 16:51:53 UTC
+بروزرسانی: 2026-05-27 19:39:36 UTC
+
+### 🕒 2026-05-27 18:35:24 UTC
+***🛜***
+***🛜***
+ کانفیگ پرسرعت برای ایرانسل / رایتل
+***🚨***
+ اگه قطع شد یه بار خاموش روشن کن
+`{"remarks":"Telegram | @proxy_kafee","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"snapp.ir","port":2052,"users":[{"id":"babfefd4-42e9-437e-a03f-2358a967c3af","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","wsSettings":{"path":"/","headers":{"Host":"cfcpanel.namasha.top"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns","mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
+**ترکیبی با سایفون وصله **
+**✅**
+[آموزش ترکیبی سایفون](https://t.me/proxy_kafee/42420)
+ری اکشن فراموش نکنید
+
+---
+
+### 🕒 2026-05-27 18:22:43 UTC
+کانفیگ ویژه نپسترنت مخصوص اینترنت ملی همه اپراتورها 
+**رایگان**
+ پر سرعت عالی
+***🔥***
+***🚦***
+[دانلود از گوگل پلی استوری](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***📲***
+[دانلود برای آیفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+***🖥***
+[دانلود اپلیکیشن Npv](https://t.me/proxy_kafee/38731)
+***🎸***
+[@proxy_kafee](https://t.me/proxy_kafee)
+***🎸***
+
+---
+
+### 🕒 2026-05-27 18:09:27 UTC
+@proxy_kafee
+***🌞***
+***👑***
+.ovpn
+
+---
+
+### 🕒 2026-05-27 18:08:29 UTC
+کانفیگ open vpn 
+***😈***
+[دانلود فایل برنامه open vpn](https://t.me/proxy_kafee/40714)
+[حتما آپدیت کنید از گوگل پلی](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+ 
+***❤️‍🔥***
+
+---
+
+### 🕒 2026-05-27 18:06:51 UTC
+کانفیگ sing box جدید 
+***📱***
+[دانلود برنامه sing box](https://t.me/singbox1/2843)
+[لینک گیت هاب ](https://github.com/SagerNet/sing-box/releases/download/v1.11.4/SFA-1.11.4-universal.apk)
+[@singbox1](https://t.me/singbox1)
+
+---
+
+### 🕒 2026-05-27 17:13:39 UTC
+**🚨**
+** ترامپ:آنها شروع به دادن چیزهایی که باید به ما بدهند کرده‌اند. اگر این کار را بکنند، عالی است.اگر نکنند، هگستث آنها را تمام خواهد کرد.**
+
+---
+
+### 🕒 2026-05-27 17:06:41 UTC
+دلم نمیخواد باز آفلاین بشید کاش هیچوقت فیلتری وجود نداشت 
+***🚶***
+
+---
+
+### 🕒 2026-05-27 17:03:31 UTC
+اصلا وضعیت اینترنت خوب نیست
+
+---
 
 ### 🕒 2026-05-27 16:31:17 UTC
 [https://t.me/proxy?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D@proxy_kafee](https://t.me/proxy?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D@proxy_kafee)
@@ -761,144 +836,6 @@ All Country ( UDP Mode )
 ### 🕒 2026-05-26 19:43:15 UTC
 دوستان دیگه وقتشه منم کانفیگ بفروشم؟   کانفیگ بله روبیکا ایتا و بقیه برنامه های ایرانی موجود، به صورت ساعتی وصله. ساعتی یک دلار.
 ***😂***
-
----
-
-### 🕒 2026-05-26 19:37:24 UTC
-کانفیگ ویژه نپسترنت مخصوص اینترنت ملی همه اپراتورها 
-**رایگان**
- پر سرعت عالی
-***🔥***
-***🚦***
-[دانلود از گوگل پلی استوری](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***📲***
-[دانلود برای آیفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🖥***
-[دانلود اپلیکیشن Npv](https://t.me/proxy_kafee/38731)
-***🎸***
-[@proxy_kafee](https://t.me/proxy_kafee)
-***🎸***
-
----
-
-### 🕒 2026-05-26 19:31:31 UTC
-[https://t.me/proxy?server=87.248.129.200&port=25565&secret=79e344818749bd7ac519130220c25d09@proxy_kafee](https://t.me/proxy?server=87.248.129.200&amp;port=25565&amp;secret=79e344818749bd7ac519130220c25d09)
-تست کنید
-
----
-
-### 🕒 2026-05-26 19:20:33 UTC
-دوستان دیگه وقتشه منم کانفیگ بفروشم؟
-کانفیگ بله روبیکا ایتا و بقیه برنامه های ایرانی موجود، به صورت ساعتی وصله.
-ساعتی یک دلار.
-***😂***
-
----
-
-### 🕒 2026-05-26 19:16:03 UTC
-تست کنید
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 19:06:16 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#proxy_kafeess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VR@20.87.107.99:443#proxy_kafeevless://1745026c-94cb-419d-bd57-5dc7bca6de73@ux.onyxshoes.ir:8080?path=%2F&security=&encryption=none&type=ws#@proxy_kafeevless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2083?encryption=none&type=ws&security=tls&path=%2F%25252F&host=cIAllO-EGB.pAGES.dev&sni=cIAllO-EGB.pAGES.dev&fp=chrome&allowInsecure=0#@proxy_kafee`
-ویتوری
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 19:01:37 UTC
-***🟢***
-** فیلترشکن Argo VPN (اندروید)**
-• نسخه 3.0.18
-• متصل با اینترنت بین‌الملل 
-• با استفاده از سرور عمومی (Public Network) وصل بشید.
-***📥***
-[لینک دانلود داخلی](https://dl.toolschi.com/view.php?f=c982bc26f9aba74f.zip)
- 
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 18:55:40 UTC
-`-----BEGIN ARGO VPN BRIDGE BLOCK-----eNoNzEtygjAAANC7ZKuLNIptnGFRKNpECVCxTbML/2jlE0CEjnfX/Zv3D66pblVVgvXLHNRy/KtkAtYgHekQXzCMELtGNlmRs6P2Np0Ep0hwojxFC8ktGKO2/0W4I2pQ8RaPydOyj2DKAtMEc9CqvJRdr9Nn6TpHmwT2zG9fUe1Uh3wTnlZhx4xZXH8muimtYtdzDK2bv1hAt9ABybP3iFadmNR2w7STXbCAzXf6Jgu2bDwvPH9Bw78ZfBA/rgnuDyHHQ1I=-----END ARGO VPN BRIDGE BLOCK-----`
-***🥰***
-**پل آرگو وی پی ان‌متصل**
-[دانلود برنامه آرگو ](https://t.me/proxy_kafee/42996)
-***🥰***
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 18:00:01 UTC
-کانفیگ ویژه نپسترنت مخصوص اینترنت ملی همه اپراتورها 
-**رایگان**
- پر سرعت عالی
-***🔥***
-***🚦***
-[دانلود از گوگل پلی استوری](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***📲***
-[دانلود برای آیفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🖥***
-[دانلود اپلیکیشن Npv](https://t.me/proxy_kafee/38731)
-***🎸***
-[@proxy_kafee](https://t.me/proxy_kafee)
-***🎸***
-
----
-
-### 🕒 2026-05-26 17:47:04 UTC
-نت داره برمیگرده اما جاوید نام ها چی جوانیمون چی؟
-***🚶***
-فکر میکنید یادم میره
-
----
-
-### 🕒 2026-05-26 17:38:56 UTC
-***🟦***
-***🟥***
- 
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
- جدید / 
-***🛜***
-***🟣***
-[https://t.me/proxy?server=8.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==@proxy_kafee](https://t.me/proxy?server=8.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==@proxy_kafee)
-[https://t.me/proxy?server=171.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==@proxy_kafee](https://t.me/proxy?server=171.ir.fulle7.info&amp;port=8443&amp;secret=EERighJJvXrFGRMCIMJdCQ==)
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 17:31:18 UTC
-اونایی که اینترنت پرو خریدن:
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 17:04:44 UTC
-***🚨***
- 
-[#فوری](?q=%23%D9%81%D9%88%D8%B1%DB%8C)
- | رویت چند شئ ناشناس در جنوب کشور
-
----
-
-### 🕒 2026-05-26 16:59:41 UTC
-***🔥***
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
- جدید برای WiFi
-فقط اونایی که WiFi شون وصل شده بزنن
-[tg://proxy?server=3.218.208.101&port=80&secret=dd104462821249bd7ac519130220c25d09@proxy_kafee](tg://proxy?server=3.218.208.101&port=80&secret=dd104462821249bd7ac519130220c25d09@proxy_kafee)
-[https://t.me/proxy?server=91.107.169.174&port=8443&secret=dd104462821249bd7ac519130220c25d09@proxy_kafee](https://t.me/proxy?server=91.107.169.174&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-05-26 16:57:15 UTC
-دلم برای همتون تنگ شده بود خوب که دارین برمیگیردین 
-***😍***
- قلب های پروکسی کافه 
-***💋***
 
 ---
 
