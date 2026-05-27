@@ -1,5 +1,5 @@
 # آرشیو کانال: @vasl_bashim
-بروزرسانی: 2026-05-27 00:23:10 UTC
+بروزرسانی: 2026-05-27 05:34:24 UTC
 
 ### 🕒 2026-05-26 22:52:01 UTC
 **⭐️**
@@ -817,47 +817,6 @@ Proxy :
 ***🌞***
 [دانلود شیروخورشید](https://t.me/vasl_bashim/14542)
 [@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-05-26 05:24:36 UTC
-#ارسالی این روش رو تست کردم فوق العاده است بذارید کانال  اگر کلاینت MahsaNG رو دارید انجام بدید وصل میشه   از منوی برنامه مهسا ان جی، روی Get EMS Config بزنید، کانفیگ دریافت کنید  دو عدد کانفیگ ترکیبی مشاهده میکنید یکی رو انتخاب کنید. (بالای برنامه اضافه میشه…
-
----
-
-### 🕒 2026-05-26 05:23:09 UTC
-> ↪️ **Forwarded**
-
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- این روش رو تست کردم فوق العاده است بذارید کانال
-اگر کلاینت MahsaNG رو دارید انجام بدید وصل میشه
-از منوی برنامه مهسا ان جی، روی Get EMS Config بزنید، کانفیگ دریافت کنید
-دو عدد کانفیگ ترکیبی مشاهده میکنید یکی رو انتخاب کنید. (بالای برنامه اضافه میشه اون دوتا کانفیگ. باید حتما یکی از اون دوتارو انتخاب کنید)
-توی برنامه مهسا قسمت تنظیمات سایفون Protocol رو روی Auto بذارید و Aggressive رو ON کنید و Save بزنید
-دکمه psiphon-after از منوی F رو روشن کنید و Save بزنید
-نیازی به روشن کردن فرگمنت از منوی F نیست
-دکمه M پایین صفحه سمت راست رو روشن کنید و 30 ثانیه صبر کنید تا متصل بشه. پینگ بگیرید و از کانفیگ رایگان لذت ببرید
-خودم باهاش وصلم
-
----
-
-### 🕒 2026-05-26 04:49:21 UTC
-`{"remarks":"vasl_bashim","log": {"access": "","error": "","loglevel": "info","dnsLog": false},"inbounds": [{"tag": "in_proxy","port": 1080,"protocol": "socks","listen": "0.0.0.0","settings": {"auth": "noauth","udp": true,"userLevel": 8},"sniffing": {"enabled": false}},{"tag": "http-in","port": 10808,"listen": "::","protocol": "http"}],"outbounds": [{"tag": "proxy","protocol": "trojan","settings": {"servers": [{"address": "104.18.12.149","method": "chacha20-poly1305","ota": false,"password": "humanity","port": 443,"level": 8,"flow": ""}]},"streamSettings": {"network": "ws","security": "tls","wsSettings": {"path": "/assignment","headers": {"Host": "www.calmloud.com"}},"tlsSettings": {"allowInsecure": true,"serverName": "www.calmloud.com","alpn": ["http/1.1"],"fingerprint": "ios","show": false},"sockopt": {"dialerProxy": "fragment","tcpKeepAliveIdle": 100,"tcpNoDelay": true}},"mux": {"enabled": false,"concurrency": 8}},{"tag": "fragment","protocol": "freedom","settings": {"domainStrategy": "AsIs","fragment": {"packets": "tlshello","length": "100-200","interval": "10-20"}},"streamSettings": {"sockopt": {"tcpKeepAliveIdle": 100,"tcpNoDelay": true}}},{"tag": "direct","protocol": "freedom","settings": {"domainStrategy": "UseIp"}},{"tag": "blackhole","protocol": "blackhole","settings": {}}],"dns": {"servers": ["8.8.8.8"]},"routing": {"domainStrategy": "UseIp","rules": [],"balancers": []}}`
-``
-**ترکیبی با سایفون🎀**
-``
-***☑***
-[️آموزش این روش](https://t.me/vasl_bashim/11648)
-[***🪽***دانلود سایفون و سایفون پرو](https://t.me/vasl_bashim/14711)
-***🦁***
-***🌞***
-[دانلود شیروخورشید](https://t.me/vasl_bashim/14542)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-05-26 04:43:44 UTC
-**سلام صبحتوون بخیر🫂**
 
 ---
 

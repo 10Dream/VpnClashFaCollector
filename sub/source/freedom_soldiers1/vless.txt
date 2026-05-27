@@ -1,6 +1,8 @@
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#%40@Freedom_Soldiers1
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&sni=2026.hhhhh.eu.org&fp=chrome#
 vless://1884ccbd-588d-48da-97fa-5d6200a05ab3@95.179.140.241:13905?encryption=none&type=tcp&headerType=none#
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/kavir&sni=dey.lnmarketplace.net&fp=firefox&mode=stream-one&alpn=h2&extra=%7B%0A%20%20%22noGRPCHeader%22%20:%20true,%0A%20%20%22xmux%22%20:%20%7B%0A%20%20%20%20%22hKeepAlivePeriod%22%20:%2012,%0A%20%20%20%20%22maxConcurrency%22%20:%20%226%22%0A%20%20%7D,%0A%20%20%22headers%22%20:%20%7B%0A%20%20%20%20%22User-Agent%22%20:%20%22Mozilla%5C/5.0
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/kavir&sni=dey.lnmarketplace.net&fp=firefox&mode=stream-one&alpn=h2&extra=%7B%0A%20%20%22noGRPCHeader%22%20:%20true,%0A%20%…
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none&type=xhttp&security=tls&path=%2Fde&mode=stream-one&sni=de.xn--q9jyb4c.online&fp=chrome&allowInsecure=0#%40Freedom_Soldiers1
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none&type=xhttp&security=tls&path=%2Fde&mode=stream-one&sni=de.xn--q9jyb4c.online&fp=chrome&allowInsecure=0#Freedom_Soldiers1
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none&type=xhttp&security=tls&path=%2Fde&mode=stream-one&sni=de.xn--q9jyb4c.online&fp=chrome&allowInsecure=0#VPN%20@Freedom_Soldiers1%20`
@@ -42,6 +44,7 @@ vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?path=%2Fplay%2Fset
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?path=%2Falbum%2Fbt&security=tls&encryption=none&insecure=0&host=pagescm.freen15.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen15.cc.cd#@Freedom_Soldiers1`
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.56.154:443?path=%2Fresource%2Flinksfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen8.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen8.cc.cd#%40Freedom_Soldiers1
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?path=%2Fcomic&security=tls&encryption=none&insecure=1&host=pagescm.freen10.de5.net&type=ws&allowInsecure=1&sni=pagescm.freen10.de5.net#@Freedom_Soldiers1
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=pagescm.freen10.de5.net&path=/comic&sni=pagescm.freen10.de5.net&fp=chrome#
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@198.41.223.119:443?path=%2Fseason%2Fsort%2Fspecialfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen6.de5.net&type=ws&allowInsecure=0&sni=pagescm.freen6.de5.net#@Freedom_Soldiers1
 vless://c219cfd0-2884-4cda-bf08-0fec52dc9b99@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=kharej.iranianshoop.ir&path=/#
 vless://c219cfd0-2884-4cda-bf08-0fec52dc9b99@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=kharej.iranianshoop.ir&path=/#@Freedom_Soldiers1
@@ -52,4 +55,5 @@ vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.80.73:2053?encryption=none&t
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.80.73:2053?path=%2Ffast&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev#Freedom_Soldiers1
 vless://d6407d54-5043-4dfd-893a-fdfda97d969d@141.11.187.177:58692?security=none&encryption=none&headerType=none&type=tcp#@Freedom_Soldiers1`
 vless://da90b568-b204-47b9-934b-fb83f03d51d4@104.16.7.70:443?encryption=none&type=ws&security=tls&path=%2Ffjordway&host=de.fjordstream.dpdns.org&sni=de.fjordstream.dpdns.org&allowInsecure=0#Freedom_Soldiers1
+vless://e234245f-b66e-4eef-b8cb-6298500221ba@198.41.223.119:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=panel-free.emergency-service.org&fp=chrome&mode=auto&alpn=h2,http/1.1#
 vless://e6ab20d0-46f5-4919-8277-be508db0619d@104.16.7.70:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2048&host=myconfig.mitia.workers.dev&sni=myconfig.mitia.workers.dev&alpn=http%2F1.1&fp=chrome&allowInsecure=1#`
