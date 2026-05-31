@@ -2,9 +2,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8
 trojan://mitivpn@208.103.161.33:443?path=%2F&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#
 trojan://mitivpn@216.24.57.6:443?path=%2F&security=tls&insecure=1&host=www.ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.ir-sub.ir#
 trojan://ylRh2jfDft@45.130.125.76:443?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=da.aananas.ir&fp=chrome&allowInsecure=0#
-vless://07a7b6e8-35dd-411d-90e2-d328d9ed9dc9@island.cloudureld.com:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=island.cloudureld.com&fp=qq&allowInsecure=1&pbk=U-aI9goYn0iGJ31emKZ1ltON45Ry0LjCl15MnumMD2c&sid=7730551401296527#
+vless://0aec6598-7fb5-44e6-bff7-a4d550117830@104.234.135.88:443?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#
-vless://511156b4-6d50-438c-bb46-95c553635874@95.179.169.64:17006?encryption=none&type=tcp&security=none#
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#
 vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#
 vless://84760d4f-5bbe-4f12-8371-6b035761fb4e@snapp.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=0&host=s01.apanch.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s01.apanch.ir#
 vless://InternetAzad-PRO@151.101.3.19:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=service28342.global.ssl.fastly.net&type=xhttp#
@@ -16,4 +16,4 @@ vless://dfd2bd8a-aedb-47d1-b87c-c22f18495592@f101001010.imsoon.org:80?path=%2Fso
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://fvpnproxy@85.192.38.162:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=google.com&type=xhttp#
+vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@89.124.82.95:443?security=reality&encryption=none&pbk=n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4.panel11.ru&sid=0bd0285f0c4f8f05#
