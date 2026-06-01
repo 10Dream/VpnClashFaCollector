@@ -33,6 +33,7 @@ vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&fp
 vless://1f514e3e-54b3-4ec4-82bd-3f2137357604@178.236.240.183:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pfbJB3DRXflwP8WwE8PqTJCdwn7RcXTgYxwkMH_dA34&security=reality&sid=6f1573f9669b2e16&sni=www.microsoft.com&type=tcp#%F0%9F%94%8A89@oneclickvpnkeys
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.multiplydose.cc.cd&mode=stream-one&path=%2Fassignment&security=tls&sni=www.multiplydose.cc.cd&type=xhttp#3@oneclickvpnkeys
 vless://20df9a62-5948-11f1-bf0f-5254eff7fba9@154.205.145.79:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bQrdBuhZRuvqaYIKIT1mRcDipJmqLZPKTzE2HkLZ_j4&security=reality&sid=2046e176b80e8278&sni=cloudflare.com&type=tcp#%F0%9F%94%8A98@oneclickvpnkeys
+vless://25263c14-6cb5-499b-b462-dd498deecfe7@2.27.37.100:47518?encryption=none&security=none&type=tcp#%F0%9F%94%8A15@oneclickvpnkeys
 vless://25263c14-6cb5-499b-b462-dd498deecfe7@2.27.37.100:47518?encryption=none&security=none&type=tcp#%F0%9F%94%8A15@oneclickvpnkeys`
 vless://25263c14-6cb5-499b-b462-dd498deecfe7@de-on-demand.not-a-projects.xyz:47518?encryption=none&security=none&type=tcp#%F0%9F%94%8A34@oneclickvpnkeys
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F&security=none&type=ws#%F0%9F%94%8A7@oneclickvpnkeys
@@ -104,8 +105,6 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%94%8A25@oneclickvpnkeys
 vless://afce710f-2261-403e-ada6-459dbcb44b64@84.75.220.223:80?encryption=none&fp=&pbk=XnjRQWaZ2QGrIJBGPuYOePg2wLl_ZM_gkCyJ2aKxylQ&security=reality&sid=7797159c&sni=www.yahoo.com&type=tcp#10@oneclickvpnkeys
 vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&fp=&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&security=reality&sid=1fad87&sni=5post-gate.x5.ru&type=grpc#%F0%9F%94%8A66@oneclickvpnkeys
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@91.107.244.117:2052?encryption=none&security=none&type=tcp#%F0%9F%A6%846@oneclickvpnkeys
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?encryption=none&security=none&type=tcp#%F0%9F%A6%8450@oneclickvpnkeys
 vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&security=reality&sid=0675732ab101&sni=www.sony.com&type=tcp#%F0%9F%94%8A84@oneclickvpnkeys
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=%2Ftelegram-xv2ry2&security=none&type=ws#%F0%9F%A6%8421@oneclickvpnkeys
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=cyylr.eu.cc&path=%2Fsg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#%F0%9F%94%8A92@oneclickvpnkeys
@@ -113,7 +112,6 @@ vless://ce69190e-935a-4394-9e5e-2ab2872ba242@up2-df6.pages.dev:443?encryption=no
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#2%F0%9F%94%8A@oneclickvpnkeys
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo&security=reality&sid=8917bfb9900788d5&sni=nether1cxc.chickenkiller.com&type=tcp#%F0%9F%A6%8420@oneclickvpnkeys
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#%F0%9F%94%8A47@oneclickvpnkeys
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?encryption=none&fp=&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#%F0%9F%A6%8422@oneclickvpnkeys`
 vless://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&security=reality&sid=014c3d76dee82247&sni=www.yahoo.com&type=tcp#%F0%9F%94%8A95@oneclickvpnkeys
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&path=%2Fvless%2F&security=tls&type=ws#%F0%9F%94%8A54@oneclickvpnkeys
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%94%8A96@oneclickvpnkeys
