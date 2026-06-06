@@ -1,5 +1,64 @@
 # آرشیو کانال: @proxy_kafee
-بروزرسانی: 2026-06-06 12:17:06 UTC
+بروزرسانی: 2026-06-06 14:54:22 UTC
+
+### 🕒 2026-06-06 13:42:03 UTC
+`{"remarks":"@proxy_kafee","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"ca1.niekotin.de","port":80,"users":[{"id":"baacf4a4-46f5-416b-860b-d68b534b2af3","security":"auto","level":8}]}]},"streamSettings":{"network":"ws","security":"none","wsSettings":{"path":"/vmess","headers":{"Host":"ca1.niekotin.de"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+[#ویتوری](?q=%23%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C)
+ 
+[#v2box](?q=%23v2box)
+ 
+[@proxy_kafee](https://t.me/proxy_kafee)
+
+---
+
+### 🕒 2026-06-06 13:29:01 UTC
+`vless://8bcdc02a-6197-4e5b-bbbf-4e7790d2796a@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=nesfeshzksab.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%205vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%204vless://c838bbcc-db6b-4663-bc22-18db4dc62847@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=Fijji.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%203vless://fdab366a-367e-4996-ae05-aebd594f92dc@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%202vless://90cf25cc-4180-49bf-96f4-a423d6282b72@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%201`
+[#ویتوری](?q=%23%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C)
+ 
+[#v2box](?q=%23v2box)
+ 
+[@proxy_kafee](https://t.me/proxy_kafee)
+
+---
+
+### 🕒 2026-06-06 13:23:51 UTC
+***🩸***
+***🩸***
+***🩸***
+***🩸***
+***❓***
+***🤩***
+[tg://proxy?server=95.217.38.123&port=4455&secret=dd104462821249bd7ac519130220c25d09@proxy_kafee](https://t.me/proxy?server=87.248.129.243&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+[@proxy_kafee](https://t.me/proxy_kafee)
+
+---
+
+### 🕒 2026-06-06 13:07:05 UTC
+**🚨**
+**اسکات بسنت وزیر خزانه‌داری آمریکا:"در این مذاکرات تحریم‌های ایران لغو نخواهد شد و پول بلوکه شده ایران پس داده نخواهد شد، فقط محاصره دریایی ایران در مقابل بازگشایی تنگه هرمز  برداشته خواهد شد."**
+
+---
+
+### 🕒 2026-06-06 13:04:20 UTC
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzMuOgjAUANB/6VaTIkaCJrPQCsOtVK1ORmRXHoOtAhUcSDH+u+5PzhN1edPKukKLyRhpYW61yNAC5Yb2aTm3EnvbJQQcuHoyJHSII2rHEcidpErYh7uwMxOWH3OEFqpVl1Zc7hS32NT6QmPUyqISj/8m/5TMOxPghHJfrTHUhlGFRxGhWXJadlhfy8Z3se9FRM/SZPMdxxwuS9ZvyeUvc/p9qKBw3HmgsfZXacDqtjgdfybDemp+y1wOe/R6AzOaQ4Q=-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzDsOgjAAANC7dIWBj6I1YUAEbZWiUWNhawVNtXyCCBTj3XV/eR/Q5c1LVCVYmDqomZIVy8AC5Ar31wIa3CId95GDnoHY+XhMKbZSikQssGIFkQkNFbPRO7Fgi0Qvrmuosr8nq8N4O7gu0MFL3EvWvpv830bB2UfLoq5Dh8yZRLmxQbiVUz5K+ziEs0gbWTw1JhSvykd3ZJ4IvIHTzutvJMs001wmRbu9OCdjPonXtt1r0S7VHnsScmjCwAXfH1ZrQ3M=-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwVzcuOgjAYQOF36VaTwZbRYOICkCFFvKAJArtCufwKVKtUYeK7q/uT7/wjlcsbiBbNJ2N0YX0tGEdzlPfeI2sMLcUbldp0Ss8O+LY3JJGHk4jCFrwnJ9Zv0lSTzD13MTbuFB6QuUbPP/1mGQxFsFigMbpB2bJ7J/MPu3YCm1oH3WwLX2hLns1C67gqceDrVFmaLlUo6ahzh+ex4UrWJpgzCC8FoVUsyFWVPG73QFglnJ8dS6VfOydMXEGKv1X03b3eSMFE+w==-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwVzNsOgiAAANB/4dW2iC5Ltx5KrMAwZ2bUG6QztLS8ZNr69+r5bOcNnlFRqjwDxqAH7qK95iIEBoha2pxvOpTIeUqTTEhqqY1JuxOn6MSJ2iqKRBZMjgcPhmqcSAT/3sghhSTJoYMdHfRAqeJMVHUR/Upm7U2yOmreMuduKm3bXtZ95i82pNHiA44efJrwCg90cra7usVzZc0vi8p0r6JgNQuDlLzQrr8LpAiQOyyZk3qetvXpdI3xKJ6Bzxe1ZUHo-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzU1vgjAcgPHv0iseFBKXmnhAINIOi3VDGbfSdviP79iW1GXfXe5Pfs8fcrp/wu2KFrMJugt/vgmFFkh7OsgLnrYhc21C5uSUQZHQV1PTsKkJlEAvKqLQrJnVubQ/ITYEBpBr7NXYs5S/fvlyiSboCd1VGNvrkd1kPCHpJvOYb89b82VgVsRHXnz6VEQV81N7fOBODe2OVSI0VQzxQfi4KlmQS393QYkPex8p5YJHf3JlnmNN2o9a4u+V7cbd/xt/oUV4`
+`-----END ARGO VPN BRIDGE BLOCK-----`
+``
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eNoNzN1ugjAYgOF76akmVhgumHgwOphfgxIkQEc84W+1iMUAK6Dx3uX8fd4nUmXbiUai7XqJ7ulUN2mBtqic6JDfTJxpR5UR2MDVFi6hj4RRLWEgPEG1fB+pInYM9zY3AXQgLZVLX3iVjw863qEl6gSXaf/flvPyYIcEfOIazjiY8XmVLXgTXZil2uNohbyOJv2UA+U26XWjMO4SfwEPWf9DTG+TBM3w91gMsxvFd+zBB82q6vd0XuGArT+VndbOdYdeb/8uREA=-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAWGlj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kPa7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvPQzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu20jZScXUiQ0I99PcPV3lDdQ==-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eNoVzMFugjAAANB/6dmEwpwJ3qQia0UU5yIYLi0yWqjUUSiri/++7fyS9wNM1WuhOrB0Z+BOrVT0CpagsmQqbz5kXmIYwgvchiJG5HHJiHfJsNgLIvMscOl5WFD72jAP/vvEXgjEjYLJOvHBDGhRd3QY++qv3IU5wun6EX1zWX66E3xjvHCygyaxKpyVaeoxyIOj4GeUbvbQ+PU9xXx1GOcxJ6dtQ+xHqFsc4BYdbcQ9bZQunPI9Qd2VDVJ+RT14/gLt2kVt-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzMEOgiAAANB/4VoHoc2irUORFpQ2a030ZonKSqwUHLb+Pe9v7wuM+LSyUWAJp+CV2WeT5WAJhGX9vcbODYXmRqhLH548EjaknKGUU3mSzCYIvvPZVScId1T28r7DNh9tuI2GIlqtwBS0slRZpz9iLAMvITTa4rSKFZlfA+4wVyVNibh+vOLY0ai2Dhzc1PgVXlxw2dNqfQjVs3sLbuLZxXB5aguyj0S3oTAQfeWda+UqX2cTsYfg9wc2gUP2-----END ARGO VPN BRIDGE BLOCK-----`
+`-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzM0OwTAAAOB36ZWD1vxU4iDdQmsbzYjpbbOaohv7qxLvzv3L9wGdrGpVFmAG++CR2HuZZGAGpGXmpPEgRWGXEjqmN0/5hL1FzJCIqdoo5kj9grLg7RHhhiqjTktss78NXf4+8/kc9EGt8iJp2kr+y8A7EsqJKxzee4T0mi+G1otYbvWFMHy77p77KMP5xCkjfp+uBmdDL4utGYtQTHdRoGsTmEkLXQZrMfIhWml/fWAVok2ZDVGXgu8PNB5DIA==-----END ARGO VPN BRIDGE BLOCK-----`
+***🥰***
+**پل آرگو وی پی ان‌متصل**
+[دانلود برنامه آرگو ](https://t.me/proxy_kafee/42996)
+***🥰***
+[@proxy_kafee](https://t.me/proxy_kafee)
+
+---
 
 ### 🕒 2026-06-06 11:06:11 UTC
 `ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20proxy_kafee`
@@ -249,58 +308,6 @@
 ***❤️‍🔥***
 خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 
 ***🌹***
-
----
-
-### 🕒 2026-06-05 13:06:29 UTC
-***👑***
- 
-**اتصال با آپدیت جدید شیر**
- 
-**و خورشید**
-``
-`2.19.126.9450.7.5.8550.7.4.24450.7.4.24350.7.4.107142.54.178.2115.160.13.8523.58.223.19523.207.210.7996.16.122.13323.216.77.179184.24.77.4223.62.230.16623.219.36.105184.51.252.3623.196.3.20323.12.147.9323.196.3.18523.44.203.21196.17.96.31104.76.220.65173.222.148.49184.51.96.7104.76.220.42184.51.149.33104.108.238.182104.80.48.20392.122.17.992.123.8.93104.76.210.216104.76.220.11223.64.224.224173.222.168.212173.222.168.19192.123.8.8792.123.10.140184.51.102.58184.51.102.177104.76.220.170104.76.220.16892.122.6.109173.223.29.6792.123.8.10023.65.117.219173.222.148.4323.75.23.33184.86.103.223184.86.103.217184.86.103.19623.67.129.53184.86.103.139184.86.103.142104.108.237.97184.86.103.13104.112.135.9423.64.59.2692.122.9.160104.120.80.245173.223.239.5292.122.1.249173.222.116.8896.16.249.5096.16.249.3396.16.249.6096.16.248.15196.16.248.14596.16.248.14896.16.248.17696.16.248.13696.16.248.14392.123.8.77104.124.165.10496.16.249.1296.16.248.15596.16.248.17996.16.248.17196.16.248.14796.16.248.14423.65.124.8996.16.249.923.65.124.8896.16.249.1696.16.249.696.16.248.17496.16.248.16796.16.248.16492.123.8.9992.123.8.9423.65.124.10492.123.8.7423.65.124.9123.65.124.10623.65.124.105104.108.231.17023.66.101.79184.85.137.131104.120.82.77`
-***🛜***
- 
-**تازه از تنور دراومدند 😍**
-**♾ حجم نامحدود **
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-***🗄***
-**آیپی های تست شده برای متود جدید سایفون**
-**❤️**
-** شیر خورشید همشو باهم وارد کنید داخل برنامه **
-**🔥**
-****
-[آموزش سایفون](https://t.me/proxy_kafee/42714)
-***😟***
-[دانلود سایفون](https://t.me/proxy_kafee/42891)
-***🦸‍♀️***
-[دانلود با نت داخلی](https://punkpaste.ir/f/ShirOKhorshid-v2026--upw42a)
-***😬***
-[برطرف کردن مشکل اتصال](https://t.me/proxy_kafee/42805)
-***😒***
-****
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-06-05 12:28:41 UTC
-***🔴***
-حمله نیرودریایی ارتش جمهوری اسلامی به ناوشکن امریکا در خلیج فارس
-
----
-
-### 🕒 2026-06-05 12:22:11 UTC
-***🔴***
-حمله نیرودریایی ارتش جمهوری اسلامی به ناوشکن امریکا در خلیج فارس
 
 ---
 
