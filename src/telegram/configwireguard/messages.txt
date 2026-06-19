@@ -1,5 +1,36 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-06-19 07:13:28 UTC
+بروزرسانی: 2026-06-19 12:12:23 UTC
+
+### 🕒 2026-06-19 11:06:09 UTC
+> ↪️ **Forwarded**
+
+[پروژه](https://github.com/mehdi-hexing/CF-Workers-CheckProxyIP)
+ و کاربرد آن
+این یک پروژه متن‌باز برای بررسی و تست پراکسی آی‌پی‌های کلودفلر است. این ابزار به‌طور ویژه برای کاربرانی که از پنل‌هایی مثل 
+[BPB](https://github.com/bia-pain-bache/BPB-Worker-Panel)
+ و 
+[Cfnew](https://github.com/byJoey/cfnew)
+ و موارد مشابه استفاده می‌کنند، طراحی شده تا کیفیت اتصال خود را بهینه‌سازی کنند.
+نحوه عملکرد
+این پروژه از دو لایه API استفاده می‌کند:
+آدرس API های اختصاصی: استفاده از رابط‌هایی که از قبل در بستر کلودفلر برای این کار تعریف شده‌اند.
+منطق چک کردن مستقل: یک سیستم بررسی داخلی که فارغ از API ها، سلامت و کارایی آی‌پی‌ها را به صورت مجزا تست می‌کند.
+ویژگی‌های کاربردی:
+یافتن پراکسی آی‌پی‌های جدید :
+اگر یک پراکسی آی‌پی دارید که از کار افتاده  می‌توانید رنج آن را در باکس دوم سایت به این صورت وارد کنید :
+`1.2.3.0/24`
+با این کار، سیستم در آن محدوده جستجو کرده و آی‌پی‌های سالم و جایگزین را برای شما پیدا می‌کند.
+مدیریت آی‌پی‌های پشت دامنه:
+اگر دامنه‌ای دارید که چندین آی‌پی پشت آن قرار گرفته، می‌توانید دامنه را در باکس اول وارد کنید تا آی‌پی‌های از کار افتاده را شناسایی و حذف کنید.
+همچنین اگر دامنه‌ای پیدا کردید که پراکسی آی‌پی‌های باکیفیتی دارد، می‌توانید با وارد کردن آن در سایت، لیست تمامی آی‌پی‌های سالم آن را استخراج کنید.
+منبع رایگان و جهانی:
+این پروژه دارای یک دیتابیس داخلی و رایگان است که به کاربر اجازه می‌دهد به سادگی، پراکسی آی‌پی‌های مورد نیاز خود را از هر کشور دلخواهی انتخاب و دریافت کند.
+سنجش ریسک آی‌پی (IP Risk):
+این ابزار به سرویس Scamalytics مجهز شده است تا «سطح ریسک» یا سابقه آی‌پی را نمایش دهد.
+ریسک آی‌پی چیست؟
+در واقع نمره‌ای است که بر اساس سابقه فعالیت آن آی‌پی تعیین می‌شود. برای مثال، اگر از یک آی‌پی برای حملات سایبری یا فعالیت‌های مخرب استفاده شده باشد، نمره ریسک آن بالا می‌رود (مثلاً 80 از 100). کاربران می‌توانند با این ویژگی، آی‌پی‌هایی با کمترین ریسک و بالاترین کیفیت را انتخاب کنند.
+
+---
 
 ### 🕒 2026-06-19 06:16:04 UTC
 TeleRich python
@@ -18,8 +49,7 @@ $$\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$$
 [@mdrich_bot](https://t.me/mdrich_bot)
 [My GitHub](https://github.com/arshiacomplus/TeleRich/tree/main)
 [Darkness GitHub](https://github.com/DarknessShade/TeleRich)
-[Darkness channel](https://t.me/Paradise_Of_Freedom/326)
-[Acplus channel](https://t.me/Paradise_Of_Freedom)
+[Acplus channel](https://t.me/Acplus_channel)
 
 ---
 
@@ -85,23 +115,6 @@ Argo bridge پل آرگو
 `-----BEGIN ARGO VPN BRIDGE BLOCK-----eNoNzMFugjAYAOB36VUTtCQETDhILVI2IWxDhXAppeAfRJqCIi5793n/8v2ih9QD9De0WS+R4vO15xXaIDmHk+icVYmjR0mYxVoKnyR85ecQ52cGMYSQmV5X4f6eYWdkMIHYO3P1ttEuedWJ66IlGqC58fGu5bs80JQw3z91ayW0kh+77rv1rmY8wbMuVW190XEkptK0MNpFcOR4C3Rr24UxTA4OyOEpcq7iwvgpdZQ2QlqDUvkiPTbUsi8BTzzbRX//JR9Eiw==-----END ARGO VPN BRIDGE BLOCK-----`
 `-----BEGIN ARGO VPN BRIDGE BLOCK-----eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAWGlj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kPa7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvPQzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu20jZScXUiQ0I99PcPV3lDdQ==-----END ARGO VPN BRIDGE BLOCK-----`
 `-----BEGIN ARGO VPN BRIDGE BLOCK-----eNoNzM0KgjAAAOB32bWgVfRj0EHNaisNZ4mMLtOWrumU1IlG7173j+8DNH/XolRgMx2DivV5yR5gA3iPu6QwYDzzdGyjJZKOONt4oBGe0QiJi8DTZO5JfqTqXPxNgGqkLJ0oX1xePnTncAvGoBapYk375v/SdW42sgdrAb22F5bLboUa5QR2xmO951Xmr9ImVua1CUy2y1VgCsfswkqe1hnVwbDChC8i2R4PnD7JyQ/vE0LkgMJR1qWlNtAWfH+qfUTS-----END ARGO VPN BRIDGE BLOCK-----`
-
----
-
-### 🕒 2026-06-18 08:08:02 UTC
-Telegram Proxy
-[https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24](https://t.me/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24)
-[https://t.me/proxy?server=78.46.218.192&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=78.46.218.192&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D](https://t.me/proxy?server=wan.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D)
-[tg://proxy?server=love.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09](tg://proxy?server=love.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=pmcdin.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b](https://t.me/proxy?server=pmcdin.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b)
-[https://t.me/proxy?server=room.coworcker.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=room.coworcker.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=noron.jamejanhani1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=noron.jamejanhani1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=top.jamejanhani2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=top.jamejanhani2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[tg://proxy?server=bos.ir.meli-n13.info&port=8443&secret=104462821249bd7ac51913022c25d09](tg://proxy?server=bos.ir.meli-n13.info&port=8443&secret=104462821249bd7ac51913022c25d09)
 
 ---
 
