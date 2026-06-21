@@ -29,6 +29,8 @@ trojan://MiTiVPN@151.101.110.219:443?path=%2Fed&security=tls&alpn=http%2F1.1&ins
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40filembad`
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=default.ssl.fastly.net&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40filembad`
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40filembad`
+trojan://MiTiVPN@151.101.69.172:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40filembad`
+trojan://MiTiVPN@151.101.69.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#%40filembad`
 trojan://MiTiVPN@167.82.101.251:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40filembad`
 trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40filembad`
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%40filembad`
@@ -48,6 +50,7 @@ trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&ex
 trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%40filembad`
 trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%40filembad`
 trojan://SoftNetConnect@194.5.193.150:443?type=xhttp&security=reality&path=%2F&mode=auto&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#%40filembad`
+trojan://SoftNetConnect@194.5.193.150:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#%40filembad`
 trojan://SoftNetConnect@83.228.224.161:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%40filembad`
 trojan://SoftNetConnect@83.228.224.161:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%40filembad`
 trojan://SoftNetConnect@83.228.224.161:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%40filembad`
