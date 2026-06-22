@@ -1,209 +1,313 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-06-22 10:53:19 UTC
+بروزرسانی: 2026-06-22 16:07:14 UTC
+
+### 🕒 2026-06-22 15:48:53 UTC
+ایناییم که میزارم گل لقد (لگد)نکردم همشون باهم فرق میکنه دونه دونه تست کنید
+***😐***
+
+---
+
+### 🕒 2026-06-22 15:48:30 UTC
+این سری درخواستای امنژیا از اوپن بیشتر بود همه نتا هم بچها گفتن وصل شدن پلی باید دونه دونه لوکیشن تست کنید ببینید کدوم برای نت شما وصل
+
+---
+
+### 🕒 2026-06-22 15:47:19 UTC
+Amnezia vpn 
+***⚡️***
+  فقط کافیه کانفیگ های کانال کپی کنید  وارد برنامه کنید و تیک Enable WireGuard Obfuscation بزنید  ویدیو نحوه اضافه کردن کانفیگ به برنامه لینک دانلود برنامه اندروید لینک دانلود برنامه ویندوز لینک دانلود برنامه برای mac لینک دانلود برنامه آیفون
+
+---
+
+### 🕒 2026-06-22 15:47:06 UTC
+**Amnezia vpn **
+***⚡️***
+فقط کافیه کانفیگ های کانال کپی کنید 
+وارد برنامه کنید
+و تیک Enable WireGuard Obfuscation بزنید
+[ویدیو نحوه اضافه کردن کانفیگ به برنامه](https://t.me/Vpn_m2s_Gp/3976)
+[لینک دانلود برنامه اندروید](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+[لینک دانلود برنامه ویندوز](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe)
+[لینک دانلود برنامه برای mac](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_macos.pkg)
+[لینک دانلود برنامه آیفون](https://apps.apple.com/us/app/amneziavpn/id1600529900)
+
+---
+
+### 🕒 2026-06-22 15:46:42 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = kOk2q5K1ome+hiPxoEH3YVyUiHa8huWlT+fMGKVB91I=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+[Peer]
+# CA-Vip#26
+PublicKey = UxO6dfnNdsbxrLDCoAZJSFd/D9eJ9FKbfF0FTZjwYE0=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.82:51820
+# Uncomment the following line (delete the # symbol) to connect to Proton VPN using IPv6.
+# Endpoint = [2a0d:5600:19:32::10]:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:46:31 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = oGz6PPNr9rNFLtoUs9QfmEEqaiUQcqLBxA1LoZjW7UU=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+[Peer]
+# CA-Vip#29
+PublicKey = TEUAMY5iMm31LFvOgYjJKRsjZrF8ICRjSrqgwscrFx0=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.130:51820
+# Uncomment the following line (delete the # symbol) to connect to Proton VPN using IPv6.
+# Endpoint = [2a0d:5600:19:35::10]:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:46:20 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = cJEGvNMeCTH3/Ac1+EJC5/eq8ZhE2VMqYw2q4S7CpGA=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# MX-Vip#17
+PublicKey = URaamKea0+XnjnyKk/cqH0pV4gPQR0miGloUa6LXoHk=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 84.20.27.58:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:46:08 UTC
+[Interface]
+# Bouncing = 12
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = GBaJWXTXXcoA04nqYxYMCGjVMqcRBsK0jlXEYjd8gks=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# NL-Vip#225
+PublicKey = BsqBdtyn9af3zjX0ZrWFAcQHfFKC+60iLOsItjVa2Xo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 185.132.134.35:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:45:55 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = WMB//zbdxNvtJ1FFQnqcKNNuAhQcX+TYC0KjNR2mMFY=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+[Peer]
+# NO-Vip#5
+PublicKey = 2s+PN1/EcGL6LAK7YamHOYqL0waTlwc43+RR6+hxORQ=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 95.173.205.167:51820
+# Uncomment the following line (delete the # symbol) to connect to Proton VPN using IPv6.
+# Endpoint = [2a02:6ea0:5601:6471::10]:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:45:43 UTC
+[Interface]
+# Bouncing = 10
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = cP+nSmrr+CeXU91huCsw/v5ciAXbv2wC1rCba0zjk38=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# RO-Vip#26
+PublicKey = Io8cLLfUyY9INwZ26X+thOzpMGRim0ek1VzZ19RpM2o=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 185.252.220.146:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:45:31 UTC
+[Interface]
+# Bouncing = 0
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = mAsjgNIWqwTU3KRg8FKSdhgkHDvtYmFvWm6dOwm+6Wc=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# CH-Vip#10
+PublicKey = 1WO+SU1kJCYR5ZWBVK/M7bNsvz1HWIFlq/xafhDqHnk=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 135.136.39.2:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:45:21 UTC
+[Interface]
+# Bouncing = 3
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = OL+qN9RcSjzgVTIU+A/IoMnBNnHa19hXRgACqB9WDF4=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# NL-Vip#125
+PublicKey = miiJL4putHojjkN0tOnNHu1/ae8rxvrBPCF47mqWnko=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 185.107.56.49:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:45:09 UTC
+[Interface]
+# Bouncing = 1
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = kMtZX7BhKEPZYRrVLEZARstnhl7izmj2tm0lIB4lMlc=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# US-Vip#34
+PublicKey = zLHCHCqpUPL9mypYmlDoEpbkl9+60DCBs9Iu1suiJmI=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.102.254.89:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:44:51 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = qIJ4vzystdeb6pe/7vCoDDStb8stgWsdeEvshWz9Pkk=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# US-Vip#79
+PublicKey = igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.22.84.139:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:44:38 UTC
+[Interface]
+# Bouncing = 2
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = qIJ4vzystdeb6pe/7vCoDDStb8stgWsdeEvshWz9Pkk=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+[Peer]
+# US-Vip#79
+PublicKey = igHNlAQgaI70R0w0OdWC9XR11xagXRcib1V4tPuU4RQ=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.22.84.139:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:44:11 UTC
+[Interface]
+# Bouncing = 0
+# NAT-PMP (Port Forwarding) = off
+# VPN Accelerator = on
+PrivateKey = YEy+gsYgEPL3J0TjdOMCByGif61PbtUDiJ7ozVR8TUM=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+[Peer]
+# US-Vip#112
+PublicKey = 3XROzgS72QDRKE3Z2XcnppVNFPaLFCeSRDmsCe6EGws=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.34.251.138:51820
+# Uncomment the following line (delete the # symbol) to connect to Proton VPN using IPv6.
+# Endpoint = [2a02:6ea0:c803:6188::10]:51820
+PersistentKeepalive = 25
+
+---
+
+### 🕒 2026-06-22 15:33:14 UTC
+Amnezia Vpn 
+***⚡***
+
+---
+
+### 🕒 2026-06-22 15:21:13 UTC
+برم امنژیا هم بزنم بیام
+
+---
+
+### 🕒 2026-06-22 15:15:14 UTC
+***🏴‍☠️***
+ کانفیگ اختصاصی  Open Vpn 
+ردیابی آنلاین بلاک شد
+***🔥***
+تبلیغات بلاک شد
+***🔥***
+***🛒***
+ 
+[دانلود Open Vpn از Play Store](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+***🛒***
+ 
+[دانلود Open Vpn از App Store ](https://apps.apple.com/us/app/openvpn-connect/id590379981)
+***📁***
+ 
+[دانلود Open Vpn به صورت فایل ](https://t.me/Vpn_m2s_Gp/3406)
+***💻***
+[ دانلود Open Vpn برای ویندوز](https://t.me/Vpn_m2s_Gp/3409)
+ 
+توضیحات:
+دقیقا مثل Npv روی کانفیگ ضربه بزنید تا برنامه Open Vpn باز بشه و کانفیگ رو وارد کنید
+ 
+Location: 
+***🇵🇪***
+***🏴‍☠️***
+ چند نکته رو رعایت کنید
+نقطه دستیابی های متغییر رو تست کنید مثال
+[google.com](http://google.com/)
+[Yahoo.com](http://Yahoo.com/)
+Net
+اگر با ارور Certificate برخورد کردید بزنید رو گزینه Continue.
+***🏴‍☠️***
+یک الی ده بار اتصال مجدد بزنید بستگی به منطقه و نتتون داره که زود وصل بشه یا دیر.
+***🏴‍☠️***
+بعد از چند بار تلاش حتماً حالت هواپیما بزنید که لوکال آی‌پی تغییر کنه دوباره تلاش کنید.
+
+---
+
+### 🕒 2026-06-22 15:10:56 UTC
+Open Vpn
+
+---
+
+### 🕒 2026-06-22 15:08:22 UTC
+Open Vpn
+
+---
 
 ### 🕒 2026-06-21 20:04:50 UTC
 vless://fa957c2e-2eef-42e6-804b-a2a16fab0781@104.17.121.43:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=us.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=us.dns.xn--q9jyb4c#
 ***⚡️***
 Telegram:@Vpn_m2s
-
----
-
-### 🕒 2026-06-21 13:18:12 UTC
-Amnezia Vpn 
-***⚡***
- 
-Russia 
-***🍑***
-[Interface]
-PrivateKey = exUyBsq/0vYOGuA0NzhOQQmyPKMMxN9Jh7c6r/FOO2g=
-Address = 10.147.88.182/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = s4K84EjDzec845jORKYlfi4/2A00PyiDInayS0Mw2m8=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 66.90.95.34:21932
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:16:17 UTC
-Amnezia Vpn 
-***⚡***
- 
-Lithuania
-[Interface]
-PrivateKey = kAtdx7wkwBQxBVKaL3eylO35BF1JiWHK/b9a5iX19lU=
-Address = 10.135.119.50/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = T3UpyGRgtZ3VP6NugEjJhtqt3AY1YZUp9lQU75j/dQs=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 195.14.189.83:34760
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:13:11 UTC
-Amnezia Vpn 
-***⚡***
- 
-Australia 
-[Interface]
-PrivateKey = 5o9zsveBMRR2DBbp/Oy/rX7fcjIc2QNIIG22r7MvUZM=
-Address = 10.232.123.242/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = N4Y3BpvKcJ8hX6hqFrVxSoOoYtityoOUK79gCWN9rzU=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 139.99.155.246:35834
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:12:44 UTC
-Amnezia Vpn 
-***⚡***
- 
-Bulgaria 
-[Interface]
-PrivateKey = FXeUYZjZfP4zXhskCIfGpUD9nWsjc/uim3p8Hb8alPk=
-Address = 10.172.46.242/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = TNaem5zXOfCgN1h7V2Qk2EYgPyauuhBmxLuw58or5FI=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 185.148.147.126:45957
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:07:41 UTC
-Amnezia Vpn 
-***⚡***
- 
-India 
-[Interface]
-PrivateKey = zXA9EL/OMiYq1t/tVn2YEF2ToH3xLH+pEnzFRJRHuOQ=
-Address = 10.232.161.178/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = xnjDJeayrFf3Z7YTBr8b7JVy60MF5kjwngXHHrHf2iU=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 103.174.103.104:23999
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:06:45 UTC
-Amnezia Vpn 
-***⚡***
- 
-Netherland 
-[Interface]
-PrivateKey = kxowS8y+UC7sv+Ao0Em13R4eafjWnw8BJGWDMZcift4=
-Address = 10.227.134.230/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = 6+kSg8fA/yz++LToKKOnbJCKWP5CL1xRIGlkMcS2NAk=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 163.5.238.189:63536
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:05:56 UTC
-Amnezia Vpn 
-***⚡***
- 
-Georgia 
-[Interface]
-PrivateKey = 0u53zXf6X5DzpwFZJLkOrvQNrqFAMwWjL7ZeRI6smYQ=
-Address = 10.173.56.106/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = 8O1DELthizNyloGpucv8fGDgFwopJjodDDLvOlpthjE=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 194.135.119.108:21884
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:05:27 UTC
-Amnezia Vpn 
-***⚡***
- 
-Germany 
-[Interface]
-PrivateKey = SOv1Gf4ZaDAGuM64k/X7T2wQo23DDXPKknh0u5nF9wM=
-Address = 10.144.168.82/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = Nak07BgzMJYTypIPL7S1WXF+fjz7TOK9Wlyr/LqMRmw=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 51.77.89.52:12831
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:04:56 UTC
-Amnezia Vpn 
-***⚡***
- 
-United States 
-[Interface]
-PrivateKey = qaNeBi1L0mE6puB5cFUP9Abgt365uMmQbVHVxdH9neo=
-Address = 10.151.182.186/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = DfhORHCyw6hYbPW22HJ5KnsAd3XQD98C3uq8hP8fzhM=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 79.141.162.130:37466
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:04:02 UTC
-Amnezia Vpn 
-***⚡***
- 
-Finland 
-[Interface]
-PrivateKey = xz0gfEo0vZ8YmS8cco+vZDT7O0lrZbZCRqXngZWGoRc=
-Address = 10.254.186.126/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = qxjm2sR0VOS4kf/nQDicjZgMMPUSyRAhVInOR7GgAkw=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 65.109.215.60:21149
-PersistentKeepalive = 1500
-
----
-
-### 🕒 2026-06-21 13:03:26 UTC
-Amnezia Vpn 
-***⚡***
- 
-Colombia
-[Interface]
-PrivateKey = zXwFXIfuM0rGKL4gFXXQ5rqG5VI75lp4MiOFaDNCQ14=
-Address = 10.238.128.238/30
-DNS = 1.1.1.1
-MTU = 1280
-[Peer]
-PublicKey = 96yd+ibAG9026vMosA7nZ6EsRUJKIX42ULlFDN7u6zU=
-AllowedIPs = 0.0.0.0/0
-Endpoint = 38.180.182.111:17952
-PersistentKeepalive = 1500
 
 ---
 
