@@ -1,5 +1,37 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-06-26 08:04:27 UTC
+بروزرسانی: 2026-06-26 11:01:43 UTC
+
+### 🕒 2026-06-26 10:45:09 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+[**OnionHop**](https://github.com/center2055/OnionHop)
+:
+***✅***
+ 
+**OnionHop v3.4.3**
+ (v3.4.3)
+A patch release fixing Tor bridges on macOS and lowering the macOS version requirement.
+### Fixed
+- **Tor bridges work again on macOS.** On macOS the Tor data folder lives under "~/Library/Application Support/", and the space in that path could stop Tor from launching the bridge helper (the managed proxy died immediately, so obfs4/snowflake/webtunnel bridges never connected). OnionHop already tried to work around this with a space-free symlink, but that step could silently fail; it now falls b...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/center2055/OnionHop/releases/tag/v3.4.3)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-06-26 10:23:43 UTC
+این کانفیگ رو ایرانسلی ها  تست کنند 
+***😎***
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+.
+داخل نپسترنت یا ویتورای یا کارینگ
+ببینید اوکی هست !
+
+---
 
 ### 🕒 2026-06-26 07:50:02 UTC
 تنظیمات ویتوری شخصی علی(همه‌کاره) 
