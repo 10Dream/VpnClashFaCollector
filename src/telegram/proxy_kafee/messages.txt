@@ -1,5 +1,5 @@
 # آرشیو کانال: @proxy_kafee
-بروزرسانی: 2026-06-27 10:22:46 UTC
+بروزرسانی: 2026-06-27 12:21:41 UTC
 
 ### 🕒 2026-06-27 08:33:28 UTC
 `{"remarks":"@proxy_kafee > کانفیگ رایگا","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"shadowsocks","settings":{"servers":[{"address":"82.38.31.200","method":"chacha20-ietf-poly1305","ota":false,"password":"k1dBOmOB4oqi7Ump37a1bQ","port":8080,"level":8}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
@@ -177,34 +177,6 @@ Pass
 [آموزش اتصال به سرور ](https://t.me/proxy_kafee/44270?single)
 ***⏩***
 ***✔️***
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-06-26 11:54:06 UTC
-Proton VPN Premium MOD
-پروتون وی پی ان مود شده برای اندروید
-نیازی به ساخت نیست، بعد از نصب ورود به عنوان مهمان Guest رو بزنید و استفاده کنید
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-06-26 11:39:58 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%40proxy_kafee%20%E2%AD%90trojan://humanity@45.130.125.32:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%40proxy_kafee%20%E2%98%82%EF%B8%8Fvless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#%40proxy_kafee%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#%40proxy_kafee%20%F0%9F%9B%B8vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#%40proxy_kafee%20%F0%9F%8C%8Avless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%40proxy_kafee%20%F0%9F%8D%AD`
-[#ویتوری](?q=%23%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C)
- 
-[#v2box](?q=%23v2box)
- 
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-06-26 10:49:46 UTC
-`vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&type=ws&security=tls&path=%2F&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Join%20%E2%9E%A0%20%40proxy_kafee%201vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#Join%20%E2%9E%A0%20%40proxy_kafee%202vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6&flow=xtls-rprx-vision#Join%20%E2%9E%A0%20%40proxy_kafee%203vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?encryption=none&type=ws&path=%2F&host=ads.x5.ru#Join%20%E2%9E%A0%20%40proxy_kafee%204vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@194.107.126.57:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6&flow=xtls-rprx-vision#Join%20%E2%9E%A0%20%40proxy_kafee%206`
-[#ویتوری](?q=%23%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C)
- 
-[#v2box](?q=%23v2box)
- 
 [@proxy_kafee](https://t.me/proxy_kafee)
 
 ---
