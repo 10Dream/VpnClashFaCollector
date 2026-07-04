@@ -32,8 +32,10 @@ trojan://MiTiVPN@104.18.42.98:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=Nl.App-Cloud.ir&fp=firefox&type=ws&sni=Nl.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@104.19.230.21:443?security=tls&sni=Nl.App-Cloud.ir&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL#%40filembad`
+trojan://MiTiVPN@104.21.5.75:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&sni=sw-W.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@104.21.5.75:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@167.82.101.252:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40filembad`
+trojan://MiTiVPN@172.67.74.47:443?path=%2FMiTiVPN%3Dfll&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&sni=F-ll.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@172.67.74.47:443?path=%2FMiTiVPN%3Dfll&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@199.232.237.250:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40filembad`
 trojan://MiTiVPN@199.232.78.140:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40filembad`
@@ -49,11 +51,16 @@ trojan://MiTiVPN@assets.fiverr.com:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=ht
 trojan://MiTiVPN@assets.fiverr.com:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@celestara.biz:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sw.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@celestara.biz:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#%40filembad`
+trojan://MiTiVPN@openai.com:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#%40filembad`
 trojan://MiTiVPN@velocore.co:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#%40filembad`
 trojan://SoftNetConnect@147.45.70.129:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%40filembad
 trojan://SoftNetConnect@147.45.70.129:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%40filembad`
 trojan://SoftNetConnect@147.45.70.129:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%40filembad`
 trojan://SoftNetConnect@147.45.70.129:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=c7#%40filembad`
+trojan://SoftNetConnect@213.108.20.209:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%40filembad`
+trojan://SoftNetConnect@213.108.20.209:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%40filembad`
+trojan://SoftNetConnect@213.108.20.209:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#%40filembad`
+trojan://SoftNetConnect@213.108.20.209:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=c7#%40filembad`
 trojan://b5dufc2nupudbg5o@104.17.83.58:2087?mode=auto&path=%2Ftanha&security=tls&alpn=h2%2Chttp%2F1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#%40filembad`
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&headerType=none&type=tcp#%40filembad`
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%40filembad`
@@ -70,6 +77,7 @@ trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&t
 trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%40filembad`
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40filembad`
 trojan://humanity@208.103.161.170:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40filembad`
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40filembad`
 trojan://jZKsbuRpEB@45.130.125.2:443?path=%2Fdb&security=tls&alpn=-@SRCVPN&insecure=0&host=sl.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sl.farxmode.ir#%40filembad`
 trojan://k2zwjfz5pox0cwzc@104.17.83.58:2087?mode=auto&path=%2Ftanha&security=tls&alpn=h2%2Chttp%2F1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#%40filembad`
 trojan://kZSruDyvxP@45.130.125.2:443?path=%2Fda&security=tls&host=sk.farxmode.ir&fp=firefox&type=ws&sni=sk.farxmode.ir#%40filembad`
@@ -79,3 +87,6 @@ trojan://telegram-id-directvpn@35.181.74.249:22223?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@63.186.137.193:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
 trojan://telegram-id-privatevpns@35.181.74.249:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
 trojan://telegram-id-privatevpns@63.186.137.193:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad`
+trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#%40filembad`
+trojan://zBfIAxaXtz@45.130.125.2:443?path=%2Fdb&security=tls&insecure=0&host=sn.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sn.farxmode.ir#%40filembad`
+trojan://zBfIAxaXtz@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sn.farxmode.ir&sni=sn.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#%40filembad`
