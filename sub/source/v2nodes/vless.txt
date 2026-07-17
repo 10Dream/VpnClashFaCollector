@@ -2,6 +2,7 @@ vless://1008a30d-4e23-485a-8981-fd1f103b7d11@104.171.135.184:42672?security=none
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.23:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#
 vless://3067642d-02fa-47e9-a6a2-fb5dda565969@81.31.211.110:2085?type=grpc&serviceName=vless#
 vless://3067642d-02fa-47e9-a6a2-fb5dda565969@81.31.211.119:2085?type=grpc&serviceName=vless#
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@ru.bvps.cloud:443?type=tcp&security=reality&sni=ru.bvps.cloud&fp=firefox&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818&encryption=none&flow=xtls-rprx-vision#
 vless://59da5351-5151-417d-b2f7-6923848b717e@fr2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fr2.helper-internet.com&sid=ff776ff77be48b88#
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@51.195.94.187:8443?allowinsecure=0&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=XvqUR-fhL0E9z9b_8q_uEvyE-lpC-l1D4CivPKSthh4&security=reality&sid=cbb840f5&sni=addons.mozilla.org&type=tcp#
 vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@nl.hagrid-connected.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl.hagrid-connected.com&fp=edge&flow=xtls-rprx-vision&sid=305570274c0c72cc&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&encryption=none#
