@@ -1,5 +1,32 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-08-02 13:31:46 UTC
+بروزرسانی: 2026-08-02 15:08:25 UTC
+
+### 🕒 2026-08-02 14:01:32 UTC
+> ↪️ **Forwarded**
+
+{"remarks":"
+***🇳🇱***
+@FREE2CONFIG
+***🇳🇱***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":1080,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"static.lotussec.com","port":443,"users":[{"id":"14b48651-3738-4926-bc09-4c04e87ff80b","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"xhttp","security":"tls","xhttpSettings":{"path":"/Join-JavidnamanIran-on-Telegram","host":"static.lotussec.com","mode":"stream-one","extra":{"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}},"tlsSettings":{"allowInsecure":false,"serverName":"static.lotussec.com","alpn":["h2"],"fingerprint":"firefox","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+فرگمنت 
+***🇳🇱***
+ 
+[V2rayNG](https://github.com/2dust/v2rayNG/releases)
+[MansaNG](https://github.com/GFW-knocker/mahsang/releases)
+[Streisand](https://apps.apple.com/app/id6450534064)
+[NetMod](https://sourceforge.net/projects/netmodhttp/)
+***❇️***
+  آخرین نسخه را نصب یا ارتقا دهید
+***❇️***
+ تیک  fragment رو از قسمت setting فعال کنید
+***❇️***
+ به پینگ توجه نکنید
+***❇️***
+ 
+[آموزش اتصال](https://t.me/FREE2CONFIG/3332?single)
+
+---
 
 ### 🕒 2026-08-02 11:19:23 UTC
 ***🚨***
@@ -95,14 +122,6 @@ Xray-core >= 26.6.27
 ### 🕒 2026-08-01 15:53:01 UTC
 Hiddify V2rayNg Karing Exclave Streisand Incy
 `vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20directvless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%F0%9F%87%A9%F0%9F%87%AA%20directvless://6f436a44-f703-93da-7e45-615824a39d3b@sw1.levikogjgfdd.ir:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=Telegram-Leviko_v2ray&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20directtrojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%20CDNvmess://eyJhZGQiOiJibDEubGV2aWtvZ2pnZmRkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJpZCI6IjU3NmIxYmU2LWEzZTctNGM0MC04ZWM3LTBhNDA2ZDZlZWFkOCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvaW51c2UvZm9yaG9zdCIsInBvcnQiOiIxMDAxNCIsInBzIjoi8J+Hp/Cfh6ogZGlyZWN0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==vless://5e3f974b-06fc-4555-907a-6681391b7c17@us2.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#%F0%9F%87%BA%F0%9F%87%B2%20directvless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#%F0%9F%87%B3%F0%9F%87%B1%20directvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20directvless://17d29827-7cf1-4115-b40d-548e10ec355d@ua1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#%F0%9F%87%BA%F0%9F%87%A6%20directvless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20directss://YWVzLTI1Ni1nY206TGV2aWtvX3YycmF5@0.0.0.0:443#%E2%8F%B09%20days%20%F0%9F%93%8A%20%E2%88%9E%20GB`
-
----
-
-### 🕒 2026-08-01 14:01:01 UTC
-**📱 آموزش ساخت رایگان، شخصی سریع پروکسی تلگرام کاملا رایگان و بدون نیاز به سرور**
- 
-[https://youtu.be/epG70Xl1xGI](https://youtu.be/epG70Xl1xGI)
-[@WhiteDNS](https://t.me/WhiteDNS)
 
 ---
 
