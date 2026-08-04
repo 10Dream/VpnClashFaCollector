@@ -1,5 +1,73 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-08-04 18:33:07 UTC
+بروزرسانی: 2026-08-04 20:32:43 UTC
+
+### 🕒 2026-08-04 19:32:13 UTC
+> ↪️ **Forwarded**
+
+[https://t.me/xsfilternet](https://t.me/xsfilternet)
+***🍀***
+ 
+[#WireGuard](?q=%23WireGuard)
+ Warp 
+***🇩🇪***
+DE
+For 
+***👉***
+[mahsaNg](https://github.com/GFW-knocker/MahsaNG/releases)
+ -  
+[nikaNg](https://github.com/mahsanet/NikaNG/releases)
+ 
+***🕊️***
+{"remarks":"4
+***🍀***
+***🇩🇪***
+DE- WoW-v4-v6/dns4eu,1111","log":{"loglevel":"none"},"dns":{"hosts":{"protective.joindns4.eu":["86.54.11.1","86.54.11.201","2a13:1001::86:54:11:201","2a13:1001::86:54:11:1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},"servers":["https://protective.joindns4.eu/dns-query","https://1.1.1.1/dns-query",{"address":"https://protective.joindns4.eu/dns-query","address":"https://1.1.1.1/dns-query","domains":["geosite:category-ir","domain:.ir"],"expectIPs":["geoip:ir"],"port":53}],"tag":"dns"},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"socks-in"},{"port":10809,"protocol":"http","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":false},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"86.54.11.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"wireguard","settings":{"address":["172.16.0.2/32","2606:4700:110:81ec:2a68:559d:ab39:22b4/128"],"mtu":1390,"peers":[{"endpoint":"188.114.99.0:1701","publicKey":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}],"reserved":[114,123,123],"secretKey":"UG8l/RlQzwOcnfTVKtApKrGFUJDMz2lJ8Idv8/kVLEA=","keepAlive":30,"wnoise":"random","wnoisecount":"15","wpayloadsize":"1-5","wnoisedelay":"1-2"},"streamSettings":{"sockopt":{"dialerProxy":"proxy"}},"tag":"chain"},{"protocol":"wireguard","settings":{"address":["172.16.0.2/32","2606:4700:110:83f3:c3ee:ba1f:f929:d247/128"],"mtu":1280,"peers":[{"endpoint":"[2606:4700:d0::a29f:c013]:2408","publicKey":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}],"reserved":[0,0,0],"secretKey":"v6porkg7jGDLp7a0vaZJApDZ/jpq9uuBMZLzMzFo2KA=","keepAlive":30,"wnoise":"random","wnoisecount":"15","wpayloadsize":"1-5","wnoisedelay":"1-2"},"tag":"proxy"},{"protocol":"dns","tag":"dns-out"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"ip":["86.54.11.201"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:category-ir","domain:.ir"],"outboundTag":"direct","type":"field"},{"ip":["geoip:ir","geoip:private"],"outboundTag":"direct","type":"field"},{"domain":["geosite:category-ads-all","geosite:category-ads-ir"],"outboundTag":"block","type":"field"},{"outboundTag":"chain","type":"field","network":"tcp,udp"}]},"stats":{}}
+
+---
+
+### 🕒 2026-08-04 19:32:13 UTC
+> ↪️ **Forwarded**
+
+[https://t.me/xsfilterrnet](https://t.me/xsfilterrnet)
+[#WireGuard](?q=%23WireGuard)
+ Warp
+***🇩🇪***
+DE
+For 
+***👉***
+  
+[WG Tunnell](https://github.com/wgtunnel/wgtunnel)
+...
+# Name = dns4eu
+***🍀***
+_ 
+***🇩🇪***
+DE -188.114.99.0
+[Interface]
+PrivateKey = UG8l/RlQzwOcnfTVKtApKrGFUJDMz2lJ8Idv8/kVLEA=
+Address = 172.16.0.2/32, 2606:4700:110:81ec:2a68:559d:ab39:22b4/128
+DNS = 86.54.11.1,86.54.11.201,2a13:1001::86:54:11:1,2a13:1001::86:54:11:201
+MTU = 1390
+Jc = 4
+Jmin = 40
+Jmax = 70
+S1 = 0
+S2 = 0
+S3 = 0
+S4 = 0
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+I1 = <b 0x494e56495445207369703a626f624062696c6f78692e636f6d205349502f322e300d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a4d61782d466f7277617264733a2037300d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e746163743a203c7369703a616c69636540706333332e61746c616e74612e636f6d3e0d0a436f6e74656e742d547970653a206170706c69636174696f6e2f7364700d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
+I2 = <b 0x5349502f322e302031303020547279696e670d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+Endpoint = 188.114.99.0:1701
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 30
+
+---
 
 ### 🕒 2026-08-04 15:47:01 UTC
 ***🚨***
@@ -186,29 +254,6 @@ Telegram Proxy
 [https://t.me/proxy?server=www.ferivip.ir.&port=8443&secret=7mMhBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t](https://t.me/proxy?server=www.ferivip.ir.&port=8443&secret=7mMhBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t)
 [tg://proxy?port=8443&secret=eee697c500fbea60dfe409a889c175d3057777772e636c6f7564666c6172652e636f6d&server=jump.bestspeedfor.ir](tg://proxy?port=8443&secret=eee697c500fbea60dfe409a889c175d3057777772e636c6f7564666c6172652e636f6d&server=jump.bestspeedfor.ir)
 [https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-
----
-
-### 🕒 2026-08-03 19:31:54 UTC
-> ↪️ **Forwarded**
-
-بهترین سلف تلگرام Pahlavi 
-***🎀***
-***💠***
-امنیت مطلق و سرعت خیره‌کننده 
-***⚡***
-قدرت واقعی در کنترل و مدیریت 
-***🔐***
-سیستمی هوشمند، پایدار و بی‌رقیب 
-***🚀***
-مالک: 
-[@Pahlavi_Self](https://t.me/Pahlavi_Self)
-ربات اختصاصی: 
-[@Pahlavi_selfbot](https://t.me/Pahlavi_selfbot)
- 
-***🤖***
-***✨***
- جایی که اعتماد، قدرت و سرعت  یکی می‌شن
 
 ---
 
