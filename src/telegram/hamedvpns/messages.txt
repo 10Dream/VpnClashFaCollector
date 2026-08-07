@@ -1,5 +1,114 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-08-06 15:27:30 UTC
+بروزرسانی: 2026-08-07 00:09:33 UTC
+
+### 🕒 2026-08-06 23:00:31 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+[**LxBox**](https://github.com/Leadaxe/LxBox)
+:
+***✅***
+ 
+**LxBox v2.20.5**
+ (v2.20.5)
+# L×Box v2.20.5
+Two fixes for old Android, both from the same user's reports: importing a
+config from a file failed even with a file manager installed, and nodes with
+real TLS would not connect at all. Plus a core update that stops connections
+through a dead path from hanging for two minutes in silence.
+Два исправления для старых Android, оба по репортам одного пользователя: импорт
+конфига из файла не работал при установленном файловом менеджере, а узлы с
+настоящим TLS не подключались вовсе. П...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Leadaxe/LxBox/releases/tag/v2.20.5)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-08-06 22:45:22 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+[**OnionHop**](https://github.com/center2055/OnionHop)
+:
+***✅***
+ 
+**OnionHop 3.7.9**
+ (v3.7.9)
+Fixes TUN/VPN mode failing to start when IPv6 is turned off.
+### Fixed
+- **TUN/VPN mode now works on systems with IPv6 disabled (#81).** The tunnel adapter was always given an IPv6 address alongside its IPv4 one. With the IPv6 stack switched off, Windows rejects that ("set ipv6 address: Element not found") and sing-box aborts the whole tunnel, so the connection dropped a couple of seconds after Tor had already connected. Proxy Mode was unaffected, which is why it looked like the only working m...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/center2055/OnionHop/releases/tag/v3.7.9)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-08-06 15:39:51 UTC
+***📌***
+ 
+**ساب لینک کلش‌متا (همیشگی)**
+ 
+***✨***
+***✅***
+ 
+**بروزرسانی شد**
+ 
+***❤️***
+***🔗***
+ 
+**لینک دائمی ساب:**
+`https://raw.githubusercontent.com/hamedp-71/Vless-Trojan_clash/refs/heads/main/hp.yaml`
+***⛓️***
+ 
+**عمو زنجیرباف**
+ (همراه با کانفیگ‌های جدید)
+---
+***📚***
+ 
+**راهنما و نرم‌افزارهای مورد نیاز:**
+***▪️***
+ 
+[آموزش استفاده](https://t.me/hamedvpns/16709?single)
+ 
+***👉🏻***
+***▪️***
+ دانلود 
+[کلش‌متا](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+ و 
+[FLClash](https://github.com/chen08209/FlClash/releases)
+ 
+***👉🏻***
+***▪️***
+ برنامه‌ی 
+[Karing](https://apps.apple.com/us/app/karing/id6472431552)
+ (مخصوص کاربران آیفون) 
+***👉🏻***
+---
+***❤️***
+ 
+**ری‌اکشن و حمایت فراموش نشه**
+ 
+***🫶🏻***
+***💚***
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+***👍🏻***
+ 
+**لایک کنید**
+  |  
+***⭐️***
+ 
+**با دوستان‌تون به اشتراک بذارید**
+
+---
 
 ### 🕒 2026-08-06 14:39:31 UTC
 ***📢***
@@ -40,39 +149,6 @@
 کد ملی با رقم پایانی: ۳ - ۴ - ۵ - ۶ از ۲۵ مرداد
 ***🔹***
 کد ملی با رقم پایانی: ۷ - ۸ - ۹ از ۵ شهریور
-
----
-
-### 🕒 2026-08-05 19:19:34 UTC
-پروکسی متصل 
-***✅***
- پخش کنید بره 
-***🫠***
-اسپانسری برای کانال خودمون 
-***😎***
-دست پخت ادمین خودمون am
-[tg://proxy?server=kodama.proxy.rlwy.net&port=51148&secret=b3c8eff8b22ba42a906ec6778f851c0d](tg://proxy?server=kodama.proxy.rlwy.net&port=51148&secret=b3c8eff8b22ba42a906ec6778f851c0d)
-..
-***❤️***
- اشتراک گذاری یادتون نره 
-***🌈***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-08-05 15:44:23 UTC
-دوستان آموزش رو یه لینک میزارم برین دانلود کنید انجامش بدین بهتر نیست ؟
-**این پست تا امشب در کانال باقی میماند 👉👉**
-[https://uplod.ir/reij31plm262/PASARGUARD.zip.htm](https://uplod.ir/reij31plm262/PASARGUARD.zip.htm)
-بردارید برید خودتون بخونید برای خودتون انجام بدین .
 
 ---
 
