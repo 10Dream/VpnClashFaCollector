@@ -1,5 +1,21 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-08-10 15:09:19 UTC
+بروزرسانی: 2026-08-10 16:15:19 UTC
+
+### 🕒 2026-08-10 16:04:06 UTC
+***🛜***
+***📶***
+ تمامی نت‌ها
+***📲***
+ اندروید و ios
+***❗️***
+اگه وصل نشد چندبار retry بزنید حل میشه
+
+---
+
+### 🕒 2026-08-10 16:01:15 UTC
+کانفیگ openvpn
+
+---
 
 ### 🕒 2026-08-10 09:42:24 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNTBHMENxbWZobjlTaHJCOTZ3MmgyWlBjXzdZTUNxaQ%3D%3D@sub.almavpn.shop:1080#%E2%9A%AA%20%40IraneAzad_News%2090
@@ -62,35 +78,6 @@ Pattng
 ### 🕒 2026-08-09 19:29:41 UTC
 Cdn 
 شیر و خورشید  azadi tunnel
-
----
-
-### 🕒 2026-08-09 15:25:15 UTC
-`{"remarks":"تلگرام***👈***freenet_vt***🙋‍♀️***","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"45.196.201.67","port":443,"users":[{"id":"f75814f6-8f81-4847-b792-168c41f2dc85","level":8,"encryption":"none","flow":"xtls-rprx-vision"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"storage.yandex.net","fingerprint":"firefox","show":false,"publicKey":"zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04","shortId":"c6ef72e4635d15a5"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns"}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
-V2ray
-
----
-
-### 🕒 2026-08-09 15:24:23 UTC
-`{"remarks":"تلگرام***👈***freenet_vt***🤩***","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"130.78.216.194","port":443,"users":[{"id":"2a12bb81-f3a3-0065-99ab-36febf676b4a","level":8,"encryption":"none","flow":"xtls-rprx-vision"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"quiet-bear.cdn.cachefleet.com","fingerprint":"random","show":false,"publicKey":"X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns"}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
-V2ray
-
----
-
-### 🕒 2026-08-09 15:23:53 UTC
-`{"remarks":"تلگرام***👈***freenet_vt***❤️***","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"130.78.216.194","port":443,"users":[{"id":"2a12bb81-f3a3-0064-99ab-36febf676b4a","level":8,"encryption":"none","flow":"xtls-rprx-vision"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"calm-panther.cdn.cachefleet.com","fingerprint":"random","show":false,"publicKey":"X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns"}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
-V2ray
-
----
-
-### 🕒 2026-08-09 15:22:53 UTC
-`{"remarks":"تلگرام***👈***freenet_vt***👨‍🌾***","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"193.233.255.18","port":443,"users":[{"id":"8fdf6dde-a1ca-456d-9b18-86b74d5768e6","level":8,"encryption":"none","flow":"xtls-rprx-vision"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"sellflow.org","show":false,"publicKey":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns"}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}`
-V2ray
-
----
-
-### 🕒 2026-08-09 15:21:04 UTC
-نپستر
 
 ---
 
