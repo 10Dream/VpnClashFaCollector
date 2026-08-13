@@ -1,5 +1,30 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-08-13 11:57:13 UTC
+بروزرسانی: 2026-08-13 13:22:09 UTC
+
+### 🕒 2026-08-13 12:53:39 UTC
+`{"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com"},"servers":["8.8.8.8"]},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":false},"tag":"socks"},{"port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":8,"enabled":true,"xudpConcurrency":8,"xudpProxyUDP443":"reject"},"protocol":"vless","settings":{"vnext":[{"address":"meshbuzz.bond","port":443,"users":[{"encryption":"none","id":"8a6729c4-81d4-4b05-8747-3fffc17b6a64","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["h2"],"fingerprint":"firefox","serverName":"KsJdXnCa13.hAsAnGoT.CoM","show":false},"wsSettings":{"headers":{"Host":"KsJdXnCa13.hAsAnGoT.CoM"},"path":"/mashdi"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"},{"protocol":"freedom","settings":{"fragment":{"interval":"0","length":"5","packets":"tlshello"},"noises":[{"delay":"10-16","packet":"10-20","type":"rand"}]},"streamSettings":{"network":"tcp","sockopt":{"TcpNoDelay":true,"mark":255}},"tag":"fragment"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"remarks":"***🛗***@oneclickvpnkeys","routing":{"domainStrategy":"AsIs","rules":[{"ip":["8.8.8.8"],"outboundTag":"proxy","port":"53","type":"field"},{"ip":["223.5.5.5"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"}]}}`
+
+---
+
+### 🕒 2026-08-13 12:53:29 UTC
+Next post is for apps:  
+***📶***
+ 
+[v2rayng](https://t.me/oneclickvpnkeys/24966)
+, 
+[Streisand](https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone)
+ or 
+[Happ](https://play.google.com/store/apps/details?id=com.happproxy)
+more configs here:
+***➡️***
+ 
+[SUB ***🇷🇺******🇮🇷******🇹🇲******🇨🇳***](https://t.me/oneclickvpnkeys/25822)
+fragment
+***👇***
+fragment 
+***👇***
+
+---
 
 ### 🕒 2026-08-13 11:09:25 UTC
 ***😀***
@@ -21,11 +46,6 @@
 ***🐴***
 ***💎***
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-**🎉 Join in quickly:**
- 
-[Did you know one missed level can flip your trade? I track key zones in real time ***🔍******📊******🎯***](https://insidead.ru/+edMh0G)
- | 
-[InsideAds](https://t.me/InsideAds_bot/open?startapp=m_-1001276198651_utm_source-insideadsInternal-utm_medium-signTeaser-utm_campaign-default)
 
 ---
 
