@@ -1,5 +1,27 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-08-14 08:22:14 UTC
+بروزرسانی: 2026-08-14 10:09:06 UTC
+
+### 🕒 2026-08-14 08:23:01 UTC
+Argo vpn
+پل ارگو
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMuOgjAUANB/6VYTgUSlJi5IRbjM2AkzPoAdhQK1gA5W
+sBj/Xfcn54l63t3EpUUrc4quqa4vaY5WiOtgyBpsMIv2jMAC
+pCu+STAmUWAlEYgfETxYu1Ws2d1jCysQg8g8rPOPpZtwLML1
+Gk3RTZRtqu4d/5Q7NyYQEihnUo6/ZoUxx1nkN/Y10sr2DXU6
+Wq656Ty8X8iYl44DlUNLk+BD6NlLerRTCUo19Vknnvbr4ms+
+HiYVFP2D/g3/DL3eU3xEEA==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwVzEuOgjAAANC7dKuJtTgoJi6aitqGjwEZsLsWiGlRUECq
+Try7zvol7w8MZduppgbL6RhcxfPciAIsQflkJr84UKJgkITa
+tHKVR9iLZwzxjKpQMS22kS7Qw5Lxj5YI/ruRFoNUNzBYBw4Y
+g06datHf2/Jb+m5CKJnv+SI+GHyKcGxmSe73x24mePq7Gzmd
+NarUYIdkm143BisXW23lhYO8tGntaz8yN9sT+7yECT7GbLMo
+5rxH4eTuOhFegfcH1cRCRA==
+-----END ARGO VPN BRIDGE BLOCK-----
+
+---
 
 ### 🕒 2026-08-14 07:14:01 UTC
 OpenVPN.ovpn
@@ -76,70 +98,6 @@ Telegram Proxy
 [https://t.me/proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d](https://t.me/proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 [https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t](https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t)
 [https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d](https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
-
----
-
-### 🕒 2026-08-13 09:35:57 UTC
-WhiteAesther V1.0.2
-دوستان سلام : 
-ما روی هسته Aether که حاصل زحمت دوست عزیزمون  
-[CluvexStudio](https://github.com/CluvexStudio/Aether)
- هست یک کلاینت** 
-**آزمایشی ورژن بتا**
-** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید. 
-پیشاپیش ممنونیم 
-***❤️***
-***❤️***
-***❤️***
-اموزش : 
-***📖***
- **راهنمای WhiteAesther**
-**۱ — نصب**
-فایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).
-مطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.
-**۲ — سه تا نکته اول**
-***▪️***
- **Traffic** → گزینه Coverage روی **Whole device** باشه
-***⚠️***
- حالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.
-***▪️***
- **Routes** → پروفایل روی **Adaptive**
-***▪️***
- **Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه
-**۳ — اگه وصل نشد، به این ترتیب امتحان کن**
-**قدم ۱ — پروتکل**
-Routes → Advanced → Preferred transport → **MASQUE over HTTP/2**
-***📌***
- روی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.
-از نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.
-**قدم ۲ — تیکه‌تیکه کردن TLS** 
-***⭐️***
-Traffic → Advanced → **Split the TLS handshake** → روشن
-فیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.
-اگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.
-**قدم ۳ — پروفایل**
-Routes → Profile → **Strict network**
-(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)
-**قدم ۴ — خاموش کردن IPv6**
-Traffic → Addresses → **IPv4 only**
-روی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.
-**قدم ۵ — مبهم‌سازی**
-Traffic → Advanced → Obfuscation → **Aggressive**
-***💡***
- اگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.
-**قدم ۶ — اند‌پوینت دستی**
-Routes → Endpoint → Specific address → دکمه **Find endpoints**
-***⚠️***
- گزینه Fall back automatically رو روشن نگه دار.
-**۴ — گزارش مشکل**
-Settings → Diagnostics & logs
-۱. Detail level روی **Verbose**
-۲. دوباره سعی کن وصل بشی
-۳. برگرد و **Send** رو بزن
-قبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.
-**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.
-[https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3](https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3)
-[@whitedns](https://t.me/whitedns)
 
 ---
 
