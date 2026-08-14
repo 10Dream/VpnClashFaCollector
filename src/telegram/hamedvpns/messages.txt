@@ -1,5 +1,77 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-08-14 13:14:23 UTC
+بروزرسانی: 2026-08-14 14:59:49 UTC
+
+### 🕒 2026-08-14 14:45:43 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+[**LxBox**](https://github.com/Leadaxe/LxBox)
+:
+***✅***
+ 
+**LxBox v2.20.9**
+ (v2.20.9)
+# L×Box v2.20.9
+A maintenance release. The app no longer checks GitHub for new versions on its
+own when it was installed from F-Droid or Google Play — the store's own client
+already does that, and F-Droid's reviewer counts an unprompted call home as an
+anti-feature. The "Check now" button stays everywhere. The core was also
+re-pinned; that part is Windows-only and changes nothing on Android.
+Технический релиз. Приложение больше не ходит на GitHub за новыми версиями
+само, если установлено из F-...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Leadaxe/LxBox/releases/tag/v2.20.9)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-08-14 13:15:44 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+[**v2rayNG**](https://github.com/2dust/v2rayNG)
+:
+***🧪***
+ 
+**2.3.4**
+ (2.3.4) [Pre-release]
+### 本次更新
+- 迁移到 Jetpack Compose UI , 感谢 
+[@fuilloi](https://t.me/fuilloi)
+ 
+[https://github.com/2dust/v2rayNG/pull/5866](https://github.com/2dust/v2rayNG/pull/5866)
+- 订阅分组设置中，更新订阅时可以组合多个选项进行后台任务，如果只更新订阅，则会在当前页面进行 。
+    1. 更新订阅
+    2. 更新订阅后自动测试
+    3. 测试后自动删除无效
+    4. 测试后自动排序
+- 添加 TCP ping 测试，有最大并发控制
+- 支持导入v2rayN 内部分享 `v2rayn://`
+- 为订阅更新添加自定义 HTTP headers ， JSON 格式内容随意，例子如下 
+```
+{
+  "X-hwid": "my_test_device",
+  "Authorization": "Bearer test"
+}
+```
+- 修复了一些迁移 UI 导致的问题
+- 一些界面和功能的优化和修复，感谢 
+[@eliotcougar](https://t.me/eliotcougar)
+ 
+- 支持莫奈动态色彩 
+[https://github.com/2dust/v2rayNG/p](https://github.com/2dust/v2rayNG/p)
+...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/2dust/v2rayNG/releases/tag/2.3.4)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
 
 ### 🕒 2026-08-14 09:15:42 UTC
 بیلد ۱۵ — «شیشه مایع» 
