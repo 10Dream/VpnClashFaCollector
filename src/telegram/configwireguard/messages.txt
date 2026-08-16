@@ -1,5 +1,16 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-08-16 07:37:11 UTC
+بروزرسانی: 2026-08-16 08:36:02 UTC
+
+### 🕒 2026-08-16 07:45:27 UTC
+اگر ساب Raw و کانفیگ TLS استفاده میکنید از این روش در v2rayNG استفاده کنید، معلوم نیست تا کی کار کنه، اگر پایدار بود پنلو تغییر میدم.
+این رو دو جا وارد کنید:
+`https://8.8.8.8/dns-query`
+۱. قسمت Remote DNS تنظیمات برنامه. 
+۲. ویرایش کانفیگ قسمت echConfigList.
+با Mux خاموش
+[𝕏 BPB](https://x.com/bia_pain_bache/status/2088681998579626250?s=20)
+
+---
 
 ### 🕒 2026-08-15 20:14:50 UTC
 > ↪️ **Forwarded**
@@ -150,27 +161,6 @@ obfs4 37.187.123.11:14824 3438035A58F0A0ADD25992AF8D6DE40B77CE8299 cert=o+RGrKUe
  کانفیگ اینجکتور
 [اندروید](https://play.google.com/store/apps/details?id=com.evozi.injector)
 [ایفون](https://apps.apple.com/us/app/http-injector/id1659992827)
-
----
-
-### 🕒 2026-08-15 07:48:01 UTC
-Argo bridge
-پل آرگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzMuOgjAUANB/6VYXtQYymrgQ6Di3Cj7QCemuxaZWlCoI
-Uo3/rq5Pcp6oVVVtbInGgz66CHeyYo/GSDl2z88jLEnSyhB8
-KKhZhOzBM0Z4BmZpmMfJ71WSrpWpd5QEf/0uhwzD0eIkSkao
-j2qjS3FrKvUpY7oOgQJzXO83+k89toTD6hBUs8bXanGJA7Vm
-P7euyT3VgzyemmknXJgFpKgd2caAE0orXw/S8v+gqbW7IhV4
-Nndu6Ud6MkGvN/y7Qyc=
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eNoNzckOgjAUQNF/6VYT8cUJExe1omkjCEaFEDdlqDaIrSij8d9lf3PuF1Vp8Zbq
-iZbjIdK8fSieoCVKW1bHuWlE4FQRoTOaWXJPWBcGDMKAyoNkOoG7Dv1JGeUXg8pa
-xjuzTfrW2Xid8FYrNERveXvyT1mkPWlbHqFYgFuTAeBjXJ5EZ/GsIRrrhXMdXUdh
-4edpc39QG/zqpF5Y4gLc8txMObtMGzCY/XHWNxO4q+bzmLZEZINZoATfRrjuh78/
-5tZEVg==
------END ARGO VPN BRIDGE BLOCK-----
 
 ---
 
