@@ -6,7 +6,6 @@ hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OFVRV0pWZXREcjdFVGlPWEYrYUVRPT0@217.70.14.216:8443#%40filembad`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40filembad`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%40filembad`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40filembad`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%40filembad`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443#%40filembad`
 ss://YWVzLTI1Ni1nY206TXpReVpEUmxNRGhqWWpnek5EYzVPREF6TW1SaVpHVTNaVEV3WkRndw@172.104.40.98:443#%40filembad`
@@ -14,8 +13,11 @@ ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%40filembad`
 ss://chacha20-ietf-poly1305:3jh4AaJTlphrzU7THNjvY05I5dyO8rw6@93.119.195.172:13#%40filembad`
 ss://chacha20-ietf-poly1305:r0_pds2En38zW5zzVy1DZTdEfSmRNNdx@216.57.105.16:50#%40filembad`
 vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=firefox&spx=%2Fd1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#%40filembad`
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad`
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?path=%2Fv1&security=none&encryption=none&type=ws#%40filembad`
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=grpc-reality&mode=gun#%40filembad`
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#%40filembad`
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@132.243.223.144:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fin3.o4ka-internet.com&sid=5629431325884ff0#%40filembad`
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@179.255.185.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=sha6.o4ka-internet.com&type=tcp#%40filembad`
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@179.255.185.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sha6.o4ka-internet.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&flow=xtls-rprx-vision#%40filembad`
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@179.255.185.105:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sha6.o4ka-internet.com&sid=5629431325884ff0#%40filembad`
@@ -66,6 +68,7 @@ vless://a7b02d1e-9eb4-45ad-b6c6-fb47ab0cc7ba@178.105.21.207:443?encryption=none&
 vless://a7e533d4-c9b7-4575-a7e9-54a6e6e27db0@31.77.204.133:443?security=reality&encryption=none&pbk=HIXWZCh0Od9LZKyoTl2PK7uSKJ4lO_dXOuLTSMxxeS4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.botsol.ru&sid=a1e1b2c3#%40filembad`
 vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&security=none&type=ws&path=%2Fv1#%40filembad`
 vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%40filembad`
+vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad`
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%40filembad`
 vless://c0c56b74-d656-4479-a4cb-99a8dd84703b@65.109.186.63:80?path=%2F&security=none&encryption=none&host=amp-api-edge.apps.apple.com&type=ws#%40filembad`
 vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?sni=yahoo.com&fp=firefox&type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&encryption=none#%40filembad`
@@ -90,5 +93,6 @@ vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?security=reality
 vless://f0ddf1eb-832a-4eb1-80bf-994a6abc5577@5.75.205.74:7190?encryption=none&type=tcp&headerType=none&security=reality&fp=qq&sni=play.googleapis.com&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#%40filembad`
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@5.255.112.81:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%40filembad`
 vmess://eyJhZGQiOiIxOTMuMTExLjc4LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNmI2ZmQzMi0wNGU2LTQzZmYtYTA2NS1iZWEzNmY3NDg2NTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjU4MzA0IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=`
+vmess://eyJhZGQiOiIxOTMuMTExLjc4LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNmI2ZmQzMi0wNGU2LTQzZmYtYTA2NS1iZWEzNmY3NDg2NTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjU4MzA0IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
 vmess://eyJhZGQiOiIyMDIuNDcuODkuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNhMDM2MTNiLWJiYWMtNGEyMi1iZWU2LTJjOWE3NTFhMjc2MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ka2ZqaDIyMiIsInBvcnQiOiI1MzU0OCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9`
 vmess://eyJhZGQiOiIyMTIuNDcuMjUwLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEzYWFiYmVkLTc2MzYtNDFhNi04MjYzLWM2YWFkZDcyM2QyOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiOTE5IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9`
