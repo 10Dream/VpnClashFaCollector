@@ -1,51 +1,9 @@
 # آرشیو کانال: @freedom_soldiers1
-بروزرسانی: 2026-08-17 08:52:31 UTC
+بروزرسانی: 2026-08-17 09:49:05 UTC
 
-### 🕒 2026-08-17 06:36:59 UTC
-**آموزش گام‌به‌گام راه‌اندازی پنل 3X-UI ثنایی، روی پلتفرم ابری Railway**
-(کانفیگ شخصی رایگان)
-گام ۱: ساخت ایمیل فیک و ثبت‌نام در Railway
-١. وارد وب‌سایت 
-[Atomicmail.io](http://Atomicmail.io/)
- شوید و یک ایمیل فیک بسازید.
-٢. وارد وب‌سایت 
-[Railway.app](http://Railway.app/)
- شوید.
-٣. بر روی Sign in کلیک کنید.
-۴. با ایمیل فیک که از طریق سایت Atomicmail ساخته‌اید وارد شوید و کد تأیید را وارد کنید.
-گام ۲: ساخت پروژه Docker
-١. پس از ورود، از قسمت Project داشبورد، بر روی New بزنید. 
-٢. گزینه Deploy from Docker Image را انتخاب کنید.
-٣. لینک ایمیج زیر را وارد کنید:
-ghcr.io/mhsanaei/3x-ui:latest
-۴. سرویس را Deploy کنید و صبر کنید تا پیغام Deployment Successful نمایش داده شود.
-گام ٣: تنظیم دامنه ورود به پنل و TCP Proxy جهت اتصال به کانفیگ
-از بخش Settings > Networking:
-١. برای ساخت دامنه پنل، در قسمت Public Networking روی Generate Domain بزنید.
-از لینک داده شده، می‌توانید جهت ورود به پنل استفاده کنید.
-٢. برای تنظیم پورت کانفیگ، بر روی + TCP Proxy بزنید.
-یک پورت اختصاصی به‌عنوان مثال 443 را وارد کنید.
-یک آدرس و پورت اختصاصی به شما می‌دهد، مانند:
-[monorail.proxy.rlwy.net:34567](http://monorail.proxy.rlwy.net:34567/)
-این لینک و پورت را جهت اتصال به کانفیگ نیاز خواهید داشت.
-گام ۴: ورود به پنل 3X-UI و ساخت کانفیگ
-لینک دامنه‌ای که در مرحله Generate Domain، برای ورود به پنل دریافت کرده‌اید را در مرورگر باز کنید.
-اطلاعات ورود پیش‌فرض:
-Username:
-admin
-Password:
-admin
-١. وارد بخش Inbounds شوید و با انتخاب علامت +، یک Inbound ایجاد کنید:
-Remark: نام دل‌خواه
-Protocol: VLESS
-Port: 443
-Network: RAW
-Sniffing: Enable
-٢. وارد بخش Hosts شوید و روی علامت + بزنید.
-در قسمت Remark یک نام دل‌خواه و در قسمت Inbounds، اینباندی که با پورت 443 ساخته‌اید را انتخاب کنید.
-در قسمت Address نام دامنه و در بخش Port، پورتی که در قسمت TCP Proxy دریافت کرده‌اید را وارد کنید.
-گام ۵: وارد کردن کانفیگ در کلاینت و شروع اتصال
-کانفیگ ساخته‌شده را در کلاینت مثل v2rayNG یا V2rayN وارد کنید.
+### 🕒 2026-08-17 09:14:42 UTC
+`vless://62a08ea5-0564-47b4-a92c-25be07ad6358@138.124.33.169:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#%40Freedom_Soldiers1vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:80?path=%2F&security=none&encryption=none&type=ws#%40Freedom_Soldiers1vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#%40Freedom_Soldiers1vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%40Freedom_Soldiers1vless://62a08ea5-0564-47b4-a92c-25be07ad6358@138.124.37.164:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#%40Freedom_Soldiers1vless://62a08ea5-0564-47b4-a92c-25be07ad6358@87.58.206.59:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#%40Freedom_Soldiers1vless://4984930f-4a7a-4dfa-8edc-5d21bbf5ca13@185.113.11.136:1443?mode=gun&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=firefox&type=grpc&serviceName=grpc&sni=sw.pubconverter.com&sid=361c68748712c743#%40Freedom_Soldiers1`
+لیست کانفیگ تست شده روی همراه اول
 [@Freedom_Soldiers1](https://t.me/Freedom_Soldiers1)
 
 ---
