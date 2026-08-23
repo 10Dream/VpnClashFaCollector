@@ -1,5 +1,5 @@
 # آرشیو کانال: @digihubai
-بروزرسانی: 2026-08-23 09:34:29 UTC
+بروزرسانی: 2026-08-23 10:30:23 UTC
 
 ### 🕒 2026-08-23 09:17:38 UTC
 ***🔹***
@@ -75,84 +75,6 @@
 در این روش، تلگرام دسکتاپ ترافیک MTProxy را از طریق HTTPS/WebSocket و به‌صورت یک جریان چندگانه (Multiplexed) منتقل می‌کند. یک لایه انتقال اختصاصی با فریم‌های OPEN، DATA، WINDOW و CLOSE هم امکان انتقال چند اتصال تلگرام را روی یک اتصال WebView فراهم می‌کند.
 در سمت سرور، یک Relay اختصاصی این جریان را دریافت کرده، اتصال‌ها را جدا می‌کند و آن‌ها را به یک MTProxy معمولی می‌فرستد. Relay ترافیک MTProxy را رمزگشایی نمی‌کند و آدرس مقصد دلخواه را هم از کلاینت دریافت نمی‌کند.
 به زبان ساده: تلگرام در حال آماده‌سازی یک روش جدید برای اتصال به تلگرام است؛ انتقال ترافیک MTProxy از طریق WebView و HTTPS/WebSocket، بدون تغییر در خود ترافیک MTProxy.
-[@DigiHubAI](https://t.me/DigiHubAI)
-
----
-
-### 🕒 2026-08-22 10:12:30 UTC
-***📌***
-معرفی Aether : یک هسته‌ی قدرتمند برای دور زدن محدودیت‌های اینترنت تو شبکه‌هایی با فیلترینگ سنگینه. خودش می‌گرده بهترین مسیر باز رو پیدا می‌کنه، یه تونل امن می‌سازه و ترافیکت رو از اون رد میکنه.  ●از سه پروتکل اصلی استفاده میکنه : -MASQUE -WireGuard - gool…
-
----
-
-### 🕒 2026-08-22 10:10:41 UTC
-***📌***
-**معرفی Aether :**
-یک هسته‌ی قدرتمند برای دور زدن محدودیت‌های اینترنت تو شبکه‌هایی با فیلترینگ سنگینه. خودش می‌گرده بهترین مسیر باز رو پیدا می‌کنه، یه تونل امن می‌سازه و ترافیکت رو از اون رد میکنه.
-●
-**از سه پروتکل اصلی استفاده میکنه :**
--MASQUE
--WireGuard
-- gool
-***➕***
-تو نسخه‌های جدید حالت اسکن قوی به اسم Ironclad هم اضافه شده که قبل از وصل شدن، تست میکنه مسیر کار می‌کنه یا نه.
-***⬇️***
-هسته‌ی اصلی توسط CluvexStudio ساخته شده و روش کلاینت‌های مختلفی برای سیستم‌عامل‌های مختلف توسعه داده شدن.
-***🔹***
-**ابزار توسعه‌داده شده برای**
- 
-**ویندوز / مک / لینوکس :**
-***🔗***
-[https://github.com/MatinSenPai/Aether-GUI/releases](https://github.com/MatinSenPai/Aether-GUI/releases)
-***🔗***
-[https://github.com/WhiteDNS/WhiteAesther/releases](https://github.com/WhiteDNS/WhiteAesther/releases)
-***🔗***
-[https://github.com/hamvex/AetherGUI/releases](https://github.com/hamvex/AetherGUI/releases)
-***🔸***
-**برنامه‌های توسعه داده شده برای اندروید:**
-**1⃣Aether :**
-***🔗***
- 
-[https://github.com/QW-AI-Code/Aether/releases](https://github.com/QW-AI-Code/Aether/releases)
- 
-**2⃣Aethery :**
-***🔗***
- 
-[https://github.com/ZethRise/Aethery/releases](https://github.com/ZethRise/Aethery/releases)
- 
-**3⃣WhiteAestherMobile**
- :
-***🔗***
- 
-[https://github.com/WhiteDNS/WhiteAestherMobile/releases](https://github.com/WhiteDNS/WhiteAestherMobile/releases)
-**4⃣Aethon VPN :**
-***🔗***
-[https://github.com/hamvex/AetherGUI/releases](https://github.com/hamvex/AetherGUI/releases)
-**5⃣MSN-GUARD**
-:
-***🔗***
-[https://github.com/mbm110/MSN-GUARD/releases](https://github.com/mbm110/MSN-GUARD/releases)
-5برنامه برای اندروید معرفی شده، خودم از اولی و پنجمی استفاده میکنم.
-***❗️***
-**هر 5 برنامه، در تنظیمات یا صفحه اصلیشون چند پروتکل دارن :**
-***1⃣***
-MASQUE (آیپی ایران میده)
-***2⃣***
-WireGuard (آیپی ایران میده)
-***3⃣***
-Warp in Warp (آیپی خارجی میده)
-***4⃣***
-Psiphon On Warp (آیپی خارجی میده)
-﻿
-***🟡***
-**پروتکل Warp in Warp مناسب اتصال با ایرانسل، رایتل، مخابرات و... هست.**
-***🔵***
-**پروتکل‌های WireGuard و Psiphon On Warp مناسب اتصال با همراه اول، شاتل و... هست.**
-**✅در تنظیمات برنامه‌ها میتونید، پروتکل مورد‌نظرتون رو انتخاب کنید و سپس متصل بشید.**
-***❌***
-**اگر کلاینت شماره 5 یعنی MSN-GUARD رو نصب کنید، میتونید با پروتکل Psiphon over Warp متصل بشید و لوکیشن دلخواه خودتون رو انتخاب کنید. حدود 20 لوکیشن داره که از تنظیمات برنامه‌ میتونید انتخابش کنید.**
-پروتکل Warp in Warp چند اسم دیگه داره، اگر دیدید گیج نشید :
-GOOL= Wow=Warp×2
 [@DigiHubAI](https://t.me/DigiHubAI)
 
 ---
