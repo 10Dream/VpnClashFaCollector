@@ -1,5 +1,101 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-08-23 04:42:25 UTC
+بروزرسانی: 2026-08-23 05:35:44 UTC
+
+### 🕒 2026-08-23 05:14:09 UTC
+> ↪️ **Forwarded**
+
+***📢***
+ راهنمای کامل استفاده از ربات WhiteDnsChain
+(کانفیگ هسته x-ray )
+نکته : این ربات یک کانفیگ اضطراری برای شما ایجاد میکند تا در موارد خیلی خاص از ان استفاده کنید . کانفیگ های این ربات برای امکان exit chain در اپ های white ایجاد شده و هر گونه سواستفاده از آن مجاز نیست 
+ 
+***🤖***
+ آدرس ربات: 
+[@WhiteDnsChainbot](https://t.me/WhiteDnsChainbot)
+  برای دریافت و مدیریت اتصال اختصاصی خود مراحل زیر را انجام دهید:
+ 
+***1️⃣***
+ شروع و انتخاب زبان
+  - وارد ربات شوید.
+  - دستور /start را ارسال کنید.
+  - گزینه «
+***🇮🇷***
+ فارسی» را انتخاب کنید.
+  - برای تغییر زبان در آینده از گزینه «
+***🌐***
+ تغییر زبان» استفاده کنید.
+ 
+***2️⃣***
+ درخواست کانفیگ
+  - روی «
+***🔐***
+ دریافت کانفیگ» بزنید یا دستور /config را ارسال کنید.
+  - درخواست شما برای مدیر فرستاده می‌شود.
+  - پس از تأیید، یک پیام اطلاع‌رسانی دریافت می‌کنید.
+  - دوباره /config را بزنید تا لینک اشتراک و QR اختصاصی شما نمایش داده شود.
+ 
+***3️⃣***
+ اضافه‌کردن کانفیگ به برنامه
+  - یک برنامه سازگار با V2Ray/Xray روی دستگاه خود نصب کنید.
+  - لینک اشتراک را کپی کنید.
+  - در برنامه گزینه افزودن Subscription یا «افزودن اشتراک» را انتخاب کنید.
+  - لینک را وارد کرده و اشتراک را به‌روزرسانی کنید.
+  - یکی از سرورها را انتخاب کرده و اتصال را فعال کنید.
+ 
+***4️⃣***
+ مشاهده وضعیت حساب
+  از گزینه «
+***👤***
+ حساب من» یا دستور /account استفاده کنید تا موارد زیر را ببینید:
+  - وضعیت فعال یا غیرفعال
+  - تاریخ انقضا
+  - حجم مصرف‌شده
+  - حجم کل
+  - محدودیت تعداد دستگاه یا IP
+ 
+***5️⃣***
+ دریافت دوباره کانفیگ
+  اگر پیام کانفیگ را پاک کردید، نگران نباشید. با /config همان کانفیگ اختصاصی دوباره نمایش داده می‌شود و کانفیگ جدیدی ساخته نخواهد شد.
+ 
+***6️⃣***
+ پشتیبانی
+  - روی «
+***💬***
+ پشتیبانی» بزنید یا /support را ارسال کنید.
+  - مشکل خود را در یک پیام کامل توضیح دهید.
+  - پیام مستقیماً برای مدیر ارسال می‌شود.
+  - پاسخ مدیر را داخل همین ربات دریافت خواهید کرد.
+ 
+***7️⃣***
+ دستورات کاربردی
+  - /start — شروع و انتخاب زبان
+  - /config — دریافت کانفیگ
+  - /account — مشاهده وضعیت حساب
+  - /menu — نمایش منوی اصلی
+  - /support — ارتباط با پشتیبانی
+  - /help — نمایش راهنما
+ 
+***⚠️***
+ نکات مهم
+** **
+**⚠️**
+**-درخواست ها توسط ادمین دونه دونه بررسی و تایید میشود پس لطفا صبور باشید**
+- ادمین کاملا مختار است که به هر دلیل ممکن از ارایه کانفیگ به شما خودداری کند پس لطفا اعتراض نکنید  
+***⚠️***
+ 
+**-در حال حاظر کانفیگ ها با محدودیت 1 روزه و یک گیگ هست **
+ 
+ 
+  - لینک و QR کاملاً اختصاصی است؛ آن را برای دیگران ارسال نکنید.
+  - هر حساب تلگرام فقط یک کانفیگ فعال دریافت می‌کند.
+  - ارسال چندباره /config کانفیگ تکراری ایجاد نمی‌کند.
+  - برای امنیت بیشتر، پس از دریافت کانفیگ می‌توانید پیام آن را با گزینه «
+***🗑***
+ مخفی کردن» حذف کنید.
+  - در صورت پایان حجم یا اعتبار، از طریق پشتیبانی با مدیر ارتباط بگیرید.
+[@whitedns](https://t.me/whitedns)
+
+---
 
 ### 🕒 2026-08-22 21:37:00 UTC
 > ↪️ **Forwarded**
@@ -68,35 +164,6 @@ Telegram Proxy
 [https://t.me/proxy?server=molavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=molavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
 [https://t.me/proxy?server=sal.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d](https://t.me/proxy?server=sal.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 [https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-
----
-
-### 🕒 2026-08-22 05:19:58 UTC
-> ↪️ **Forwarded**
-
-obfs4 146.196.65.18:443 642201EDF4BF5E3898E4F34B930032B00E3BA27C cert=PtYZx6OelcxSNF0KuIJX3ytZu4qd4dPbIQckCzfQ3WP91oeh9HGEzRPmjec+AzTP5gyQGg iat-mode=0
-obfs4 104.223.120.171:18986 E0E97805415D1FE8E7DB45C5BC23A5BB53DB12AA cert=poX7u73s36Y1ioKOM3f6tui3S6m+WpIPp95LKEsLodDrMsod9TnKwMFm5MUJUd3jIXReBw iat-mode=0
-obfs4 5.161.56.97:443 7F9B007A3CA50F36310600C5D38D683CFA914A2B cert=yhPy7KOYT5lBpMt5W4p+AvuDLUgXsazFeERV+FgW+uUIGQKbVbJVlZ+3XVQYf7PVnP0xRw iat-mode=0
-obfs4 130.255.77.28:443 C9322034CACA7210FECDB638A23A347495CE1752 cert=JdbVofIUnJYJ8h+yXjlP3v/kU0o5+JwYyTHXr79HolOd3tINFlV7CetsCseTsmaJoXVv/g iat-mode=0
-obfs4 5.181.80.135:8443 0794ECD3E6F76D2BA071372C5AF85BD7675E2F85 cert=DeNq0VEU4bHaC7VU4vWIGlK44rSSBR/9aZ3KQa0Jiy+wKxUk3dl1Pg0W1tkXaGeaa8mYMw iat-mode=0
-obfs4 89.116.48.131:57378 AA4EBDECDC2BCF580E9C11E6A085D001989573FB cert=CTAh0rCqfuheOKuCkqB3Vfg3bSJud/9jhCod7BE4RihUlowLMPFuf9Rc/M+ATKFoCKfdYQ iat-mode=0
-obfs4 176.123.1.224:8042 C7D35416B76CC9FF520841C1D302E49957619160 cert=Tqi/bsbEfRZXp0C1CbLKFtGbQS19EvQWXyrjxLkt/WI0KYLI+4QmMmeInaGu67FoXBtZZA iat-mode=0
-obfs4 89.147.108.95:443 4655C6A50194893F5CE83994D382E2B52AF6E1FD cert=PEq2efij43MWJf6BNmNEgPHGoVjoWCLSjMTT/K/QtIhd9Ju0u9jbpJGf9dD54KwNj+PQLA iat-mode=2
-سرور جدید:
-***🇩🇪***
-***🇺🇸***
-***🇲🇩***
-***🇧🇬***
-***🇮🇸***
-***🇻🇳***
-[لینک دانلود گوگل پلی](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
-[لینک دانلود گیتهاب](https://github.com/Gedsh/InviZible/releases)
-****
-نحوه اتصال 
-[1](https://t.me/FREE2CONFIG/1031?single)
- | 
-[2](https://t.me/FREE2CONFIG/5727)
-[تنظیمات اتصال](https://t.me/FREE2CONFIG/2321?single)
 
 ---
 
