@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger("Split_Converter")
 
 def get_repo_context():
-    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    repo = os.getenv("GITHUB_REPOSITORY", "10Dream/VpnClashFaCollector")
     branch = os.getenv("GITHUB_REF_NAME", "main")
     return repo, branch
 
@@ -20,16 +20,37 @@ def get_clash_rules_url():
 
 
 def run_subconverter():
-    if not os.path.exists("subconverter/subconverter"):
+    bin_path = "subconverter/subconverter.exe" if os.name == 'nt' else "subconverter/subconverter"
+    if not os.path.exists(bin_path) and not os.path.exists("subconverter/subconverter"):
         logger.info("Downloading Subconverter binary...")
         url = "https://github.com/MetaCubeX/subconverter/releases/latest/download/subconverter_linux64.tar.gz"
-        subprocess.run(["wget", url, "-O", "subconverter.tar.gz"], check=True)
-        subprocess.run(["tar", "-xvf", "subconverter.tar.gz"], check=True)
-        os.chmod("subconverter/subconverter", 0o755)
+        try:
+            r = requests.get(url, timeout=60)
+            with open("subconverter.tar.gz", "wb") as f:
+                f.write(r.content)
+            import tarfile
+            with tarfile.open("subconverter.tar.gz", "r:gz") as tar:
+                tar.extractall()
+            if os.name != 'nt' and os.path.exists("subconverter/subconverter"):
+                os.chmod("subconverter/subconverter", 0o755)
+        except Exception as e:
+            logger.error(f"Failed to download/extract subconverter: {e}")
     
-    proc = subprocess.Popen(["./subconverter/subconverter"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    time.sleep(5)
-    return proc
+    exec_cmd = ["./subconverter/subconverter"] if os.name != 'nt' else ["subconverter/subconverter.exe"]
+    try:
+        proc = subprocess.Popen(exec_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        time.sleep(5)
+        return proc
+    except Exception as e:
+        logger.error(f"Could not start subconverter process: {e}")
+        return None
+
+NON_CONVERTIBLE_PROTOCOLS = {
+    'tg', 'tg_windows', 'tg_android', 'dns', 'nm-dns', 'nm-vless', 'slipnet-enc',
+    'slipnet', 'slipstream', 'dnst', 'dnstt', 'vaydns', 'stormdns', 'cottendns',
+    'masterdns', 'masterdnsvpn', 'noizdns', 'slowdns', 'ssh-dns', 'dns-ssh',
+    'ssh-over-dns', 'whitedns', 'slipnet_mixed'
+}
 
 def generate_subs():
     base_sub_dir = "sub"
@@ -79,6 +100,9 @@ def generate_subs():
 
             for file in files:
                 if not file.endswith("base64.txt"):
+                    continue
+                file_clean_name = file.replace(".txt", "").replace("_base64", "")
+                if file_clean_name in NON_CONVERTIBLE_PROTOCOLS:
                     continue
                 if not is_special_folder and "mixed" not in file:
                     continue

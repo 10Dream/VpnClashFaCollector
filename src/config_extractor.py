@@ -42,7 +42,7 @@ ch.setFormatter(CustomFormatter())
 logger.addHandler(ch)
 
 def get_repo_context():
-    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    repo = os.getenv("GITHUB_REPOSITORY", "10Dream/VpnClashFaCollector")
     branch = os.getenv("GITHUB_REF_NAME", "main")
     return repo, branch
 
@@ -71,16 +71,24 @@ PROTOCOLS = [
     'vmess', 'vless', 'trojan', 'ss', 'ssr', 'tuic', 'hysteria', 'hysteria2',
     'hy2', 'juicity', 'snell', 'anytls', 'ssh', 'wireguard', 'wg',
     'warp', 'socks', 'socks4', 'socks5', 'tg',
-    'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt'
+    'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt',
+    'dnst', 'vaydns', 'stormdns', 'cottendns', 'masterdns', 'masterdnsvpn',
+    'noizdns', 'slowdns', 'ssh-dns', 'dns-ssh', 'ssh-over-dns', 'whitedns'
 ]
 
-NON_MIXED_PROTOCOLS = {'tg', 'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt'}
+NON_MIXED_PROTOCOLS = {
+    'tg', 'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt',
+    'dnst', 'vaydns', 'stormdns', 'cottendns', 'masterdns', 'masterdnsvpn',
+    'noizdns', 'slowdns', 'ssh-dns', 'dns-ssh', 'ssh-over-dns', 'whitedns'
+}
 # پروتکل‌هایی که نیازی به اعتبارسنجی ساختاری پیچیده ندارند و باید مستقیماً ذخیره شوند
 NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
 
-NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?|[()\[\]"\'\s])'
+_sorted_protos = sorted([p for p in PROTOCOLS if p != 'tg'], key=len, reverse=True)
+_proto_lookahead = '|'.join([rf'(?<![A-Za-z0-9\-_]){re.escape(p)}:(?:\/\/|\/)' for p in _sorted_protos])
+NEXT_CONFIG_LOOKAHEAD = rf'(?={_proto_lookahead}|https:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?|[()\[\]"\'<>`\s])'
 
 BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
 VALID_SS_CIPHERS = {
@@ -274,15 +282,12 @@ def filter_problematic_configs(data_map):
 def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
         prefix = rf'(?:tg:\/\/(?:proxy|socks)\?|https:\/\/t\.me\/(?:proxy|socks)\?)'
-    elif protocol_prefix == 'dns':
-        prefix = r'(?<![A-Za-z0-9-])dns:(?:\/\/|\/)'
     else:
         escaped = re.escape(protocol_prefix)
-        prefix = rf'{escaped}:(?:\/\/|\/)'
+        prefix = rf'(?<![A-Za-z0-9\-_]){escaped}:(?:\/\/|\/)'
     
-    # اطمینان از استخراج کامل تا رسیدن به فاصله، براکت‌ها یا انتهای خط
-    # این الگو برای رشته‌های بلند Base64 (مانند slipnet-enc) ایده‌آل است.
-    return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
+    # اطمینان از استخراج کامل تا رسیدن به کاراکترهای جداکننده، نقل‌قول، فاصله یا پروتکل بعدی
+    return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]"\'<>`]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
 
 
 def clean_telegram_link(link):
@@ -396,8 +401,8 @@ def extract_configs_from_text(text):
         matches = re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE)
         for match in matches:
             raw_link = match.group(0).strip()
-            # پاکسازی فقط برای تلگرام انجام می‌شود تا دیتای base64 سایر پروتکل‌ها آسیب نبیند
-            clean_link = clean_telegram_link(raw_link) if proto == 'tg' else raw_link
+            # پاکسازی برای تلگرام و حذف کاراکترهای جداکننده اضافی از انتهای لینک‌ها
+            clean_link = clean_telegram_link(raw_link) if proto == 'tg' else raw_link.rstrip('.,;()[]"\'<>`')
             if clean_link:
                 extracted_data[proto].add(clean_link)
                 count += 1

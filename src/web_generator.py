@@ -2,7 +2,7 @@ import os
 import datetime
 
 def get_repo_context():
-    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    repo = os.getenv("GITHUB_REPOSITORY", "10Dream/VpnClashFaCollector")
     branch = os.getenv("GITHUB_REF_NAME", "main")
     return repo, branch
 
@@ -51,6 +51,25 @@ def generate_web_page():
         "wireguard.txt", "wireguard_base64.txt",
         "warp.txt", "warp_base64.txt",
         "cloudflare.txt", "cloudflare_base64.txt",
+        "dnst.txt", "dnst_base64.txt",
+        "dnstt.txt", "dnstt_base64.txt",
+        "vaydns.txt", "vaydns_base64.txt",
+        "slipstream.txt", "slipstream_base64.txt",
+        "stormdns.txt", "stormdns_base64.txt",
+        "cottendns.txt", "cottendns_base64.txt",
+        "masterdns.txt", "masterdns_base64.txt",
+        "masterdnsvpn.txt", "masterdnsvpn_base64.txt",
+        "noizdns.txt", "noizdns_base64.txt",
+        "slowdns.txt", "slowdns_base64.txt",
+        "ssh-dns.txt", "ssh-dns_base64.txt",
+        "dns-ssh.txt", "dns-ssh_base64.txt",
+        "ssh-over-dns.txt", "ssh-over-dns_base64.txt",
+        "dns.txt", "dns_base64.txt",
+        "nm-dns.txt", "nm-dns_base64.txt",
+        "nm-vless.txt", "nm-vless_base64.txt",
+        "slipnet.txt", "slipnet_base64.txt",
+        "slipnet-enc.txt", "slipnet-enc_base64.txt",
+        "slipnet_mixed.txt", "slipnet_mixed_base64.txt",
         "clash.yaml", "clashr.yaml",
         "tg_android.txt", "tg_windows.txt",
         "v2ray.txt", "surfboard.conf",
@@ -61,7 +80,9 @@ def generate_web_page():
 
     client_icons = {
         "clash": "fa-circle-nodes", "v2ray": "fa-share-nodes", "ss": "fa-key",
-        "base64": "fa-code", "txt": "fa-file-lines", "yaml": "fa-file-code", "conf": "fa-gear"
+        "base64": "fa-code", "txt": "fa-file-lines", "yaml": "fa-file-code", "conf": "fa-gear",
+        "dns": "fa-globe", "storm": "fa-bolt", "cotten": "fa-shield-halved", "slip": "fa-wind",
+        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal"
     }
 
     # شروع HTML (استفاده از {{ و }} برای جلوگیری از تداخل با f-string)

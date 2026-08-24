@@ -26,8 +26,14 @@ def download_engine():
             for file in files:
                 if file == "xray-knife": os.rename(os.path.join(root, file), "xray-knife")
         os.chmod("xray-knife", 0o755)
-        if os.path.exists("engine.zip"): os.remove("engine.zip")
-        if os.path.exists("dir"): subprocess.run(["rm", "-rf", "dir"])
+        if os.path.exists("engine.zip"):
+            try:
+                os.remove("engine.zip")
+            except Exception:
+                pass
+        if os.path.exists("dir"):
+            import shutil
+            shutil.rmtree("dir", ignore_errors=True)
     except Exception as e:
         logger.error(f"Failed to download engine: {e}")
 
