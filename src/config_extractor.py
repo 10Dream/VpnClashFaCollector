@@ -723,6 +723,13 @@ def main():
     auto_base64_all(out_dir)
     cleanup_legacy_hy2(out_dir)
     
+    # --- بخش 5: پایش سلامت و بروزرسانی وضعیت فعالیت منابع تلگرام ---
+    try:
+        from telegram_scraper import analyze_and_reorder_channels
+        analyze_and_reorder_channels(base_path=src_dir, channels_file="config/channels.txt", inactive_days=7)
+    except Exception as e:
+        logger.warning(f"Could not update channel health: {e}")
+
     logger.info("Job Completed Successfully.")
 
 if __name__ == "__main__":

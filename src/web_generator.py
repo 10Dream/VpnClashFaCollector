@@ -72,6 +72,7 @@ def generate_web_page():
         "slipnet-enc.txt", "slipnet-enc_base64.txt",
         "slipnet_mixed.txt", "slipnet_mixed_base64.txt",
         "clash.yaml", "clashr.yaml",
+        "inactive_sources.txt",
         "tg_android.txt", "tg_windows.txt",
         "v2ray.txt", "surfboard.conf",
         "quantumult.conf", "surge4.conf",
@@ -83,7 +84,8 @@ def generate_web_page():
         "clash": "fa-circle-nodes", "v2ray": "fa-share-nodes", "ss": "fa-key",
         "base64": "fa-code", "txt": "fa-file-lines", "yaml": "fa-file-code", "conf": "fa-gear",
         "dns": "fa-globe", "storm": "fa-bolt", "cotten": "fa-shield-halved", "slip": "fa-wind",
-        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal", "gemini": "fa-wand-magic-sparkles"
+        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal", "gemini": "fa-wand-magic-sparkles",
+        "inactive": "fa-clock-rotate-left"
     }
 
     # شروع HTML (استفاده از {{ و }} برای جلوگیری از تداخل با f-string)
