@@ -392,19 +392,39 @@ def save_content(directory, filename, content_list):
 
 
 def extract_key_value_tg_proxies(text):
-    """استخراج پروکسی‌های تلگرام که به صورت متن Server / Port / Secret نوشته شده‌اند"""
+    """استخراج پروکسی‌های تلگرام و ساکس که به صورت متن Server / Port / Secret / User / Pass نوشته شده‌اند"""
     results = set()
-    pattern = re.compile(
+    
+    # 1. الگوی MTProto: Server / Port / Secret
+    pattern_mtp = re.compile(
         r'(?:Server|Host|سرور)\s*:\s*([^\s\n\r]+)[\r\n\s]+(?:Port|پورت)\s*:\s*(\d+)[\r\n\s]+(?:Secret|سکرت|رمز)\s*:\s*([^\s\n\r]+)',
         re.IGNORECASE
     )
-    for m in pattern.finditer(text):
+    for m in pattern_mtp.finditer(text):
         server = m.group(1).strip().rstrip('.')
         port = m.group(2).strip()
         secret = m.group(3).strip().rstrip('.,;')
         if server.lower() != "unknown" and len(server) > 3 and len(secret) > 8:
             link = f"https://t.me/proxy?server={server}&port={port}&secret={secret}"
             results.add(link)
+
+    # 2. الگوی SOCKS: Server / Port / (User) / (Pass)
+    pattern_socks = re.compile(
+        r'(?:Server|Host|سرور)\s*:\s*([^\s\n\r]+)[\r\n\s]+(?:Port|پورت)\s*:\s*(\d+)(?:[\r\n\s]+(?:User|Username|کاربر)\s*:\s*([^\s\n\r]+))?(?:[\r\n\s]+(?:Pass|Password|رمز)\s*:\s*([^\s\n\r]+))?',
+        re.IGNORECASE
+    )
+    for m in pattern_socks.finditer(text):
+        server = m.group(1).strip().rstrip('.')
+        port = m.group(2).strip()
+        user = m.group(3).strip() if m.group(3) else None
+        passwd = m.group(4).strip() if m.group(4) else None
+        if server.lower() != "unknown" and len(server) > 3 and port.isdigit():
+            if user and passwd:
+                link = f"https://t.me/socks?server={server}&port={port}&user={user}&pass={passwd}"
+            else:
+                link = f"https://t.me/socks?server={server}&port={port}"
+            results.add(link)
+
     return results
 
 
