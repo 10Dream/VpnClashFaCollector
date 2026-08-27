@@ -32,6 +32,7 @@ def generate_web_page():
     tested_file_order = [
         "speed_passed.txt", "speed_passed_base64.txt",
         "ping_passed.txt", "ping_passed_base64.txt",
+        "gemini_passed.txt", "gemini_passed_base64.txt",
         "clash.yaml", "clashr.yaml",
         "surfboard.conf", "v2ray.txt",
         "quantumult.conf", "surge4.conf",
@@ -82,7 +83,7 @@ def generate_web_page():
         "clash": "fa-circle-nodes", "v2ray": "fa-share-nodes", "ss": "fa-key",
         "base64": "fa-code", "txt": "fa-file-lines", "yaml": "fa-file-code", "conf": "fa-gear",
         "dns": "fa-globe", "storm": "fa-bolt", "cotten": "fa-shield-halved", "slip": "fa-wind",
-        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal"
+        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal", "gemini": "fa-wand-magic-sparkles"
     }
 
     # شروع HTML (استفاده از {{ و }} برای جلوگیری از تداخل با f-string)
