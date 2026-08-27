@@ -171,6 +171,23 @@ def scrape_channel(username, lookback_days, max_pages, base_path, current_idx, t
                 text_area = msg.find('div', class_='tgme_widget_message_text')
                 content = html_to_md(text_area) if text_area else ""
                 
+                # استخراج دکمه‌های شیشه‌ای (Inline Keyboard Buttons)
+                inline_buttons = msg.find_all('a', class_='tgme_widget_message_inline_button')
+                btn_links = []
+                for btn in inline_buttons:
+                    btn_text = btn.get_text().strip()
+                    btn_href = btn.get('href', '').strip()
+                    if btn_href:
+                        btn_links.append(f"[{btn_text}]({btn_href})")
+                        
+                if btn_links:
+                    content = (content + "\n\n" + " | ".join(btn_links)).strip()
+                    
+                # استخراج لینک‌های پیش‌نمایش (Link Previews)
+                preview_link = msg.find('a', class_='tgme_widget_message_link_preview')
+                if preview_link and preview_link.get('href'):
+                    content = (content + f"\n\n[Link Preview]({preview_link.get('href')})").strip()
+                
                 if content:
                     is_forwarded = msg.find('div', class_='tgme_widget_message_forwarded_from')
                     all_messages.append({

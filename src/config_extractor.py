@@ -391,8 +391,25 @@ def save_content(directory, filename, content_list):
         logger.error(f"Failed to save {filename} in {directory}: {e}")
 
 
+def extract_key_value_tg_proxies(text):
+    """استخراج پروکسی‌های تلگرام که به صورت متن Server / Port / Secret نوشته شده‌اند"""
+    results = set()
+    pattern = re.compile(
+        r'(?:Server|Host|سرور)\s*:\s*([^\s\n\r]+)[\r\n\s]+(?:Port|پورت)\s*:\s*(\d+)[\r\n\s]+(?:Secret|سکرت|رمز)\s*:\s*([^\s\n\r]+)',
+        re.IGNORECASE
+    )
+    for m in pattern.finditer(text):
+        server = m.group(1).strip().rstrip('.')
+        port = m.group(2).strip()
+        secret = m.group(3).strip().rstrip('.,;')
+        if server.lower() != "unknown" and len(server) > 3 and len(secret) > 8:
+            link = f"https://t.me/proxy?server={server}&port={port}&secret={secret}"
+            results.add(link)
+    return results
+
+
 def extract_configs_from_text(text):
-    """استخراج تمام کانفیگ‌ها از متن"""
+    """استخراج تمام کانفیگ‌ها از متن (شامل لینک‌های مستقیم، هایپرلینک‌ها و فرمت‌های کلید-مقدار)"""
     patterns = {p: get_flexible_pattern(p) for p in PROTOCOLS}
     extracted_data = {k: set() for k in PROTOCOLS}
     
@@ -406,6 +423,14 @@ def extract_configs_from_text(text):
             if clean_link:
                 extracted_data[proto].add(clean_link)
                 count += 1
+                
+    # استخراج پروکسی‌های با فرمت کلید-مقدار (Server/Port/Secret)
+    kv_proxies = extract_key_value_tg_proxies(text)
+    for link in kv_proxies:
+        clean_link = clean_telegram_link(link)
+        if clean_link and clean_link not in extracted_data['tg']:
+            extracted_data['tg'].add(clean_link)
+            count += 1
     
     return extracted_data, count
 
