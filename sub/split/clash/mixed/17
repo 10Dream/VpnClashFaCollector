@@ -465,72 +465,243 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@filembad", server: 44.251.110.165, port: 8686, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}, udp: true, tfo: false}
-  - {name: "@filembad 2", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 4", server: 8.210.141.149, port: 443, type: vmess, uuid: 5ecc3086-93cf-42e3-956b-f2180e042537, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 8.210.141.149, network: ws, ws-opts: {path: /, headers: {Host: n1761296897.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: eddebc92-b9f7-4019-8a11-0d733bfe665d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 5280", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9687", server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AL", server: cn02.365cloud5878.com, port: 6009, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AM", server: cn02.365cloud5878.com, port: 6039, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BE", server: cn02.365cloud5878.com, port: 6027, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BG", server: cn02.365cloud5878.com, port: 6050, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-BR", server: cn02.365cloud5878.com, port: 6022, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 [openproxylist.com] vmess-CA", server: cn02.365cloud5878.com, port: 6016, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-CH", server: cn02.365cloud5878.com, port: 6041, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-CL", server: cn02.365cloud5878.com, port: 6037, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇪🇸 [openproxylist.com] vmess-ES", server: cn02.365cloud5878.com, port: 6031, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: cn02.365cloud5878.com, port: 6018, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇬🇧 [openproxylist.com] vmess-GB", server: 82.25.181.162, port: 31992, type: vmess, uuid: d4dac19d-bf0e-4760-ebb3-f150a48dc92b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /f150a48dc92b}, udp: true, tfo: false}
-  - {name: "🇬🇧 [openproxylist.com] vmess-GB 2", server: cn02.365cloud5878.com, port: 6014, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-GR", server: cn02.365cloud5878.com, port: 6021, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-HR", server: cn02.365cloud5878.com, port: 6046, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IE", server: cn02.365cloud5878.com, port: 6026, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇸 [openproxylist.com] vmess-IS", server: cn02.365cloud5878.com, port: 6042, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IT", server: cn02.365cloud5878.com, port: 6024, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IL", server: cn02.365cloud5878.com, port: 6028, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: cn02.365cloud5878.com, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-PT", server: cn02.365cloud5878.com, port: 6030, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 [openproxylist.com] vmess-PL", server: cn02.365cloud5878.com, port: 6036, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-RO", server: cn02.365cloud5878.com, port: 6044, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [openproxylist.com] vmess-RU", server: cn02.365cloud5878.com, port: 6017, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-SK", server: cn02.365cloud5878.com, port: 6045, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR", server: cn02.365cloud5878.com, port: 6032, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇳 [openproxylist.com] vmess-TW", server: cn02.365cloud5878.com, port: 6002, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇰🇷 [openproxylist.com] vmess-KR", server: cn02.365cloud5878.com, port: 6007, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-LI", server: cn02.365cloud5878.com, port: 6040, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-LV", server: cn02.365cloud5878.com, port: 6047, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-MK", server: cn02.365cloud5878.com, port: 6049, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇲🇾 [openproxylist.com] vmess-MY", server: cn02.365cloud5878.com, port: 6010, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: cn02.365cloud5878.com, port: 6035, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-NZ", server: cn02.365cloud5878.com, port: 6034, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 6", server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 15.235.41.200}}, udp: true, tfo: false}
-  - {name: "@tel_melli", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@icv2ray", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 7", server: 68.64.179.210, port: 443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
-  - {name: "[21986] - Telegram : @configraygan", server: 94.183.149.127, port: 3911, type: vmess, uuid: 4d48dc13-7c9d-45b4-b9ed-7ecbf15066c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-LU", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 8562", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR 2", server: 212.87.198.101, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR 3", server: 212.87.198.102, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 8", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR 4", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-TR 5", server: 212.87.198.113, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4Nika-13520, server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 9", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 10", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-IR", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4Nika-13634, server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 11", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@configraygan 1", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A9", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A2", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 〘 🇺🇸 | 🦾 @configraygan 」, server: tun.p2p1.sbs, port: 2015, type: vmess, uuid: 580bf938-8cae-431d-b2a4-87ec95d156d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57404 | ⚡️Telegram - t.me/SOSkeyNET, server: 99.83.138.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fbe02c0b-775f-4431-8615-a9497255c876, servername: none.felinetest.site, host: none.felinetest.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs, short-id: 6f9deca7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram, server: 99.83.138.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fbe02c0b-775f-4431-8615-a9497255c876, servername: none.felinetest.site, host: none.felinetest.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs, short-id: 6f9deca7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59204 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.2.108, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: /, headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59202 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.2.26, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: /, headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59192 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.3.108, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: /, headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59209 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.3.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: /, headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59212 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.3.26, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: /, headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59244 | ⚡️Telegram - t.me/SOSkeyNET, server: www.visaeurope.ch, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59235 | ⚡️Telegram - t.me/SOSkeyNET, server: www.visasoutheasteurope.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: fc625795-792d-4d9d-9d38-bffe59467d2d, servername: daluan.eu.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: daluan.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.193.213.10:443, server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.193.213.10:443 2, server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57495 | ⚡️Telegram - t.me/SOSkeyNET, server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus`, server: 141.193.213.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "CH: @antimeli", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🩵", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: "/tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: "/tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.193.213.11:443, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.193.213.11:443 2, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 2, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: "tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 3, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 4, server: 141.193.213.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Ettehadvpn | 20, server: 141.193.213.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.193.213.21:443, server: 141.193.213.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 141.193.213.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58188 | ⚡️Telegram - t.me/SOSkeyNET, server: 141.193.213.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 5, server: 141.193.213.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58595 | ⚡️Telegram - t.me/SOSkeyNET, server: 141.193.213.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 141.193.213.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@amir_webstudio🌀", server: 141.193.213.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "`", server: 141.193.213.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "`³", server: 141.193.213.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: 162.159.193.138, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 66@oneclickvpnkeys, server: 162.159.193.138, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 68@oneclickvpnkeys, server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.36.5:443, server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.147.137:443, server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.147.137:443 2, server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.147.137:443 3, server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 6, server: 172.64.147.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.70.149:443, server: 172.67.70.149, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: 172.67.70.149, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89@oneclickvpnkeys, server: 172.67.70.149, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 7, server: 172.67.70.149, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 15", server: 185.18.250.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 185.18.250.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58142 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.18.250.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "☑➜چنلمون: Express_freevpn@", server: 185.18.250.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 8, server: 185.18.250.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.3:443, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 93@oneclickvpnkeys, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 16", server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, alpn: ["h3,h2,http%2F1.1"], network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@VpnTimezz", server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Ettehadvpn | 6, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل", server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل 2", server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 9, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل 3", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 208.103.161.170:443, server: 208.103.161.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 17", server: 208.103.161.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 76@oneclickvpnkeys, server: 208.103.161.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 10, server: 208.103.161.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 65@oneclickvpnkeys, server: 216.24.57.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57741 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.130.125.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64@oneclickvpnkeys, server: 45.130.125.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.130.125.96:443, server: 45.130.125.96, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 18", server: 45.130.125.96, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58018 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.130.125.96, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57439 | ⚡️Telegram - t.me/SOSkeyNET, server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل 4", server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 19", server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 66.81.247.155:443, server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 20", server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 11, server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: "tsghdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 12, server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 13, server: 66.81.247.155, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 74@oneclickvpnkeys, server: 89.116.46.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63@oneclickvpnkeys, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Ettehadvpn | 29, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.116.46.68:443, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 21", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل 5", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.116.46.68:443 2, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 22", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 23", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57423 | ⚡️Telegram - t.me/SOSkeyNET, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.116.46.68:443 3, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 24", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: /tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 14, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 15, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, servername: octopusss4.com, network: ws, ws-opts: {path: tsghdws, headers: {Host: octopusss4.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.116.46.68:443 4, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🇫🇷`", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 25", server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 16, server: 89.116.46.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc965ad9-bdd7-4815-ad71-b39ec5972dc1, host: "%3FBIA_TELEGRAM", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58034 | ⚡️Telegram - t.me/SOSkeyNET, server: 151.101.130.219, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fcced667-7c2e-4ac2-a6b1-fb087be03ff4, servername: speedtest.net, network: ws, ws-opts: {path: "/telegram-Proxy_MTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM?ed=2048", headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58950 | ⚡️Telegram - t.me/SOSkeyNET, server: tr-1.illusion-vpn.ru, port: 52000, type: vless, tls: true, packet-encoding: xudp, uuid: fd2bfdd2-68eb-49b0-98ad-ed82f901edde, servername: ozon.ru, host: ozon.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA, short-id: 3d67b0666a5e09a0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58951 | ⚡️Telegram - t.me/SOSkeyNET, server: tr-1.illusion-vpn.ru, port: 52000, type: vless, tls: true, packet-encoding: xudp, uuid: fd2bfdd2-68eb-49b0-98ad-ed82f901edde, servername: ozon.ru, host: ozon.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA, short-id: 3d67b0666a5e09a0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58158 | ⚡️Telegram - t.me/SOSkeyNET, server: arvancloud.ir, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: fd61f293-e351-45a4-9215-165fe71bed6e, network: ws, ws-opts: {path: /, headers: {Host: z5.asamping.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57174 | ⚡️Telegram - t.me/SOSkeyNET, server: 151.101.108.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fdab366a-367e-4996-ae05-aebd594f92dc, servername: default.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57595 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.16.72.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fdcdbbac-926f-4d8e-88fa-cb950b7fbe8e, servername: jointelegram.kakoolnews12.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: jointelegram.kakoolnews12.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57592 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.16.72.251, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fdcdbbac-926f-4d8e-88fa-cb950b7fbe8e, servername: jointelegram.kakoolnews12.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: jointelegram.kakoolnews12.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57594 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fdcdbbac-926f-4d8e-88fa-cb950b7fbe8e, servername: jointelegram.kakoolnews12.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: jointelegram.kakoolnews12.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57593 | ⚡️Telegram - t.me/SOSkeyNET, server: 216.24.57.6, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fdcdbbac-926f-4d8e-88fa-cb950b7fbe8e, servername: jointelegram.kakoolnews12.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: jointelegram.kakoolnews12.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.27.41.179:443, server: 2.27.41.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe3fc5ba-9a87-4ea7-bc77-7866a0d7d775, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: E4fcHEEJeDE6HJ9DvP1WekRcYodDEGEUfEKxfS_N4z0, short-id: 1a2b0d1e889e10}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 2.27.41.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe3fc5ba-9a87-4ea7-bc77-7866a0d7d775, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: E4fcHEEJeDE6HJ9DvP1WekRcYodDEGEUfEKxfS_N4z0, short-id: 1a2b0d1e889e10}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 2.27.41.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe3fc5ba-9a87-4ea7-bc77-7866a0d7d775, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: E4fcHEEJeDE6HJ9DvP1WekRcYodDEGEUfEKxfS_N4z0, short-id: 1a2b0d1e889e10}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58572 | ⚡️Telegram - t.me/SOSkeyNET, server: dl.wolfpro.ir, port: 2343, type: vless, tls: true, packet-encoding: xudp, uuid: fef7e514-6e41-4ffb-a7f7-4a5d107f105a, servername: dash.wolfpro.ir, alpn: [h2%2Chttp%2F1.1], host: dash.wolfpro.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59388 | ⚡️Telegram - t.me/SOSkeyNET, server: arvancloud.ir, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: ff6d729e-757b-486a-86ad-59512d92d7c3, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: vipx4.paradoxone.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57497 | ⚡️Telegram - t.me/SOSkeyNET, server: 2.26.116.183, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57493 | ⚡️Telegram - t.me/SOSkeyNET, server: 78.17.134.254, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 26", server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.125.19.237:47200, server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 17, server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 27", server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59431 | ⚡️Telegram - t.me/SOSkeyNET, server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy`", server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.125.19.237:47200 2, server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 28", server: 89.125.19.237, port: 47200, type: vless, tls: true, packet-encoding: xudp, uuid: ffaa8e95-74e2-4ef4-8974-69dd3651b6f9, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE, short-id: b2a9bd658fc81dc6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffc1bcfa-4846-4bee-be26-5d7464f91e3d, servername: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffc1bcfa-4846-4bee-be26-5d7464f91e3d, servername: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: star.jeyranim.ir:2053, server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Masir_Sefid", server: 83.228.228.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: masir_sefid, servername: ksharelink.com, host: ksharelink.com, path: /, reality-opts: {public-key: QEI_buTEB0N04ppKk3Zi_6-Nyya65guhAU0qN7fziWI, short-id: 09fa9c02c9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 194.61.120.154:443, server: 194.61.120.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: slaBIilo5hnqhDDqEJLNxq, host: googletagmanager.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Filtershekan_channel |11", server: tbxjthftff-1952313922-direct.irgame.co, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: tbxjthftff, servername: tbxjthftff-1952313922-direct.irgame.co, alpn: [h2%2Chttp%2F1.1], host: tbxjthftff-1952313922-direct.irgame.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Filtershekan_channel |29", server: tbxjthftff-1952313922-direct.irgame.co, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: tbxjthftff, servername: tbxjthftff-1952313922-direct.irgame.co, alpn: [h2%2Chttp%2F1.1], host: tbxjthftff-1952313922-direct.irgame.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "", server: 38.91.107.49, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 2, server: 158.51.121.36, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws, headers: {Host: 158.51.121.36}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 3, server: 104.19.46.36, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 4, server: 104.19.57.4, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 5, server: 104.21.24.170, port: 443, type: vmess, uuid: b321fd5d-e6ec-4293-a644-164e3885f52e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: adenc36v.xtooltech.cfd}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 6, server: 104.21.28.62, port: 443, type: vmess, uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: glweidf.cfd}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 7, server: 104.26.9.156, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 8, server: fbi.gov, port: 8080, type: vmess, uuid: ef8c954e-014f-4b36-8273-9b5086afab34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: ef8c954e-014f-4b36-8273-9b5086afab34-vm, headers: {Host: bibliographic-sword-sequence-advertisers.trycloudflare.com}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 9, server: 104.16.61.8, port: 2095, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ivideos.sbs/linkws, headers: {Host: ep-sunset-9b11.kekic13319.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 10, server: singapore.com, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip1.1789034.xyz}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI  🇨🇦", server: 141.101.114.111, port: 443, type: vmess, uuid: f33957e8-372e-4fba-99ed-f4db32cce9e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: fr2.cfcdn4.xyz}}, udp: true, tfo: false}
+  - {name: "@filembad", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@hi_proxy_iran :👈کانال تل 6", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Ettehadvpn | 29 2, server: 31.56.178.83, port: 59808, type: vmess, uuid: 1961697d-3b0b-41c7-b2ed-8cff1eeca55c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 31.56.178.83}}, udp: true, tfo: false}
+  - {name: Ettehadvpn | 35, server: de5.niekotin.de, port: 80, type: vmess, uuid: 85bf5801-4658-441c-a2e5-842c6c71a521, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: de5.niekotin.de}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 11, server: 104.17.137.141, port: 443, type: vmess, uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 12, server: 104.18.141.98, port: 443, type: vmess, uuid: F3E36B53-E75E-48C0-B9F1-F918F397E996, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 13, server: 104.18.222.139, port: 443, type: vmess, uuid: 62aa5f80-0328-4004-a375-7f5a59df4022, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hms19.best-tizi.top, network: ws, ws-opts: {path: /, headers: {Host: hms19.best-tizi.top}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 14, server: 104.19.223.127, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 15, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 104.19.45.117}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 16, server: 104.24.255.191, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 17, server: 104.25.227.40, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 18, server: 104.27.38.85, port: 443, type: vmess, uuid: e357cd63-f1a5-4c8e-c42e-26da11207fee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 19, server: 104.27.69.12, port: 2082, type: vmess, uuid: 0afb8b2c-149a-49a8-e90f-d77884ac922f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 20, server: 104.21.39.36, port: 443, type: vmess, uuid: e357cd63-f1a5-4c8e-c42e-26da11207fee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 21, server: 104.31.16.38, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 22, server: 104.31.16.65, port: 80, type: vmess, uuid: 8d7a2160-2efa-11ee-b035-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 2", server: 109.61.109.204, port: 59023, type: vmess, uuid: 9631096d-3032-4942-9446-bdf12665682b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: imafake.locker, network: ws, ws-opts: {path: /speedtest, headers: {Host: imafake.locker}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 23, server: 147.135.112.248, port: 80, type: vmess, uuid: 973c2639-c9c2-484d-ae9b-3d68b2f30d9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 3", server: 140.238.2.250, port: 443, type: vmess, uuid: 41a7089a-040b-4538-8b8d-010902405bde, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 24, server: 141.101.115.133, port: 443, type: vmess, uuid: fcfaec91-6096-44d8-956c-7868d9e874b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lg1.cfcdn1.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 25, server: 141.101.115.2, port: 443, type: vmess, uuid: a5ba8b2b-8fc5-4521-a35e-9281be61c1c3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lg1.zhujicn2.com}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 26, server: 141.101.115.89, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 27, server: 141.101.115.99, port: 80, type: vmess, uuid: 19428c44-85b3-4a7c-8bc4-b58396138322, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 28, server: 154.92.9.58, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 29, server: 157.90.20.18, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/]}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 4", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 30, server: 162.159.153.13, port: 443, type: vmess, uuid: d2727ecc-87bd-4bd0-b321-eb037b5d4cca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 5", server: 172.104.80.66, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 6", server: 172.111.146.64, port: 80, type: vmess, uuid: 05b8c783-7f59-47f9-9923-06a465679f6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 31, server: 172.64.96.134, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 32, server: 172.67.160.99, port: 443, type: vmess, uuid: a869c557-5c7d-426f-9039-0279c16352bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 33, server: 172.67.178.55, port: 443, type: vmess, uuid: 0145bfef-aa53-416f-90d4-8634295dab57, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.aoopmiss.cf, network: ws, ws-opts: {path: /, headers: {Host: www.aoopmiss.cf}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 34, server: 172.67.183.220, port: 443, type: vmess, uuid: 950db6aa-4926-4616-816e-ec0312dcb87b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jahfkjha.cfd, network: ws, ws-opts: {path: /, headers: {Host: jahfkjha.cfd}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 35, server: 172.67.131.17, port: 443, type: vmess, uuid: 62aa5f80-0328-4004-a375-7f5a59df4022, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hms19.best-tizi.top, network: ws, ws-opts: {path: /, headers: {Host: hms19.best-tizi.top}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 36, server: 172.67.132.15, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 37, server: 172.67.242.38, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 38, server: 172.67.210.98, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 39, server: 172.67.213.110, port: 443, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sgfqkqmltcy.site}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 40, server: 172.67.222.46, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us-lb.sshkit.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 41, server: 173.245.58.41, port: 80, type: vmess, uuid: a4af6fa2-264f-4ddd-8718-246dc999386b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS, headers: {Host: 39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 42, server: 185.148.104.118, port: 443, type: vmess, uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: ab-test-frosty-flower-e7fb.tariroc864.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: ab-test-frosty-flower-e7fb.tariroc864.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 43, server: 198.41.203.3, port: 443, type: vmess, uuid: 33aa57df-1c93-4318-9fce-e850437ee781, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 44, server: 203.30.189.190, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 45, server: 203.30.191.4, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oplg1.cfcdn2.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 46, server: 203.30.191.5, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oplg1.cfcdn2.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 47, server: 203.30.191.10, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 48, server: 203.30.191.18, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 7", server: 216.106.183.35, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 8", server: 213.156.141.52, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 49, server: 23.162.152.177, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: 23.162.152.177, network: ws, ws-opts: {path: /, headers: {Host: 23.162.152.177}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 50, server: 23.227.38.100, port: 443, type: vmess, uuid: 7b1b2fa3-e361-48cc-b73d-2c9636c76f4b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 51, server: 45.142.120.190, port: 2082, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yellow-paper-029c.yvonna.workers.dev}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 9", server: 47.244.120.197, port: 36703, type: vmess, uuid: 45b83519-9c4f-4052-a11b-02e017b636d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 10", server: 47.83.18.10, port: 36968, type: vmess, uuid: 176bf1dd-647f-4c09-892e-5f9223dc8617, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 52, server: 51.15.19.206, port: 8443, type: vmess, uuid: 3a3ac0c0-31f4-11ee-b337-205c6d5f5d78, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 11", server: 51.195.235.71, port: 2052, type: vmess, uuid: 59e28f78-c31b-4613-9d9f-1e6732a31f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 53, server: 51.81.220.195, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 12", server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 13", server: 8.210.140.23, port: 54809, type: vmess, uuid: fde73daf-cc67-42f3-9935-35b132b01abd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 54, server: bluehost.com, port: 443, type: vmess, uuid: be74ca03-6a7c-4c88-edc2-c6434ead0cfa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: bluehost.com}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 55, server: gtm1.ktmwan.net, port: 12883, type: vmess, uuid: 9207a3fc-18cc-4af7-ab1c-1c0000e57e37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gtm1.ktmwan.net}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 56, server: dbr3fqf4y53gd4uydq82nu4x.fq83h3g4g4221vh5dn9.workers.dev, port: 443, type: vmess, uuid: DDC2A29D-1A41-4CEB-B520-197356099B83, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dbr3fqf4y53gd4uydq82nu4x.fq83h3g4g4221vh5dn9.workers.dev}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 14", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 57, server: hohm.microsoft.com, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hohm.microsoft.com}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 15", server: it.connfull.org, port: 2053, type: vmess, uuid: f6e74ff5-3798-4ecb-9ee8-b0919501f91c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 58, server: oz.moonfree.top, port: 443, type: vmess, uuid: 9fbb6122-46e7-413b-b29d-749eef446c8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oz.moonfree.top}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 59, server: news.microsoft.com, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: news.microsoft.com}}, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 60, server: series-v1.samanehha.co, port: 80, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: series-v1.samanehha.co}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 16", server: uk5.taskflowhub.org, port: 2053, type: vmess, uuid: 89371dfc-2618-40d7-a558-693ff4f7f1eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: uk5.taskflowhub.org, udp: true, tfo: false}
+  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 61, server: v02.gutingting.com, port: 30041, type: vmess, uuid: d3d90998-7bfd-4fc6-930e-35bf96083d8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /, headers: {Host: v02.gutingting.com}}, udp: true, tfo: false}
+  - {name: "@filembad 2", server: 47.83.18.10, port: 36968, type: vmess, uuid: 176bf1dd-647f-4c09-892e-5f9223dc8617, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: "@filembad 3", server: 51.195.235.71, port: 2052, type: vmess, uuid: 59e28f78-c31b-4613-9d9f-1e6732a31f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 4", server: 109.61.109.204, port: 59023, type: vmess, uuid: 9631096d-3032-4942-9446-bdf12665682b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: imafake.locker, network: ws, ws-opts: {path: /speedtest, headers: {Host: imafake.locker}}, udp: true, tfo: false}
+  - {name: "@filembad 5", server: 172.104.80.66, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 6", server: 213.156.141.52, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 7", server: uk5.taskflowhub.org, port: 2053, type: vmess, uuid: 89371dfc-2618-40d7-a558-693ff4f7f1eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: uk5.taskflowhub.org, udp: true, tfo: false}
+  - {name: "@filembad 8", server: Godpm_shop, port: 53988, type: vmess, uuid: a52f7d96-eb2a-4d3b-8b1e-b9696b0865e0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 9", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 10", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ترکیب, server: mel.usdtbama.com, port: 8443, type: vmess, uuid: 8375c469-2ea4-4078-b030-cff074d54ae2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 17", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 11", server: de5.taskflowhub.org, port: 2053, type: vmess, uuid: ca58b165-0f7d-49aa-9fae-a017e8a0f884, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 18", server: de.connfull.org, port: 2053, type: vmess, uuid: d03a8df4-b57d-44ec-8544-372f6683e5a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -547,216 +718,729 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -772,216 +1456,729 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57404 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram
+      - 59204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59209 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59212 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59244 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59235 | ⚡️Telegram - t.me/SOSkeyNET
+      - 141.193.213.10:443
+      - "@filembad`"
+      - 141.193.213.10:443 2
+      - "@filembad` 2"
+      - 57495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus`
+      - "CH: @antimeli"
+      - "@meliproxyy"
+      - "@MARAMBASHI 🩵"
+      - "@filembad` 3"
+      - 141.193.213.11:443
+      - "@filembad` 4"
+      - 141.193.213.11:443 2
+      - "@filembad` 5"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+      - "@meliproxyy 2"
+      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus` 3
+      - 🇮🇷 @IranProxyPlus` 4
+      - Ettehadvpn | 20
+      - 141.193.213.21:443
+      - "@filembad` 6"
+      - 58188 | ⚡️Telegram - t.me/SOSkeyNET
+      - 🇮🇷 @IranProxyPlus` 5
+      - 58595 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 7"
+      - "@amir_webstudio🌀"
+      - "`"
+      - "`³"
+      - "@filembad` 8"
+      - 66@oneclickvpnkeys
+      - "@filembad` 9"
+      - 68@oneclickvpnkeys
+      - 162.159.36.5:443
+      - "@filembad` 10"
+      - 172.64.147.137:443
+      - "@filembad` 11"
+      - 172.64.147.137:443 2
+      - "@filembad` 12"
+      - 172.64.147.137:443 3
+      - "@filembad` 13"
+      - "@meliproxyy 3"
+      - 🇮🇷 @IranProxyPlus` 6
+      - 172.67.70.149:443
+      - "@filembad` 14"
+      - 89@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 15"
+      - "@meliproxyy 4"
+      - 58142 | ⚡️Telegram - t.me/SOSkeyNET
+      - "☑➜چنلمون: Express_freevpn@"
+      - 🇮🇷 @IranProxyPlus` 8
+      - 188.114.97.3:443
+      - 93@oneclickvpnkeys
+      - "@filembad` 16"
+      - "@VpnTimezz"
+      - Ettehadvpn | 6
+      - "@hi_proxy_iran :👈کانال تل"
+      - "@hi_proxy_iran :👈کانال تل 2"
+      - 🇮🇷 @IranProxyPlus` 9
+      - "@hi_proxy_iran :👈کانال تل 3"
+      - 208.103.161.170:443
+      - "@filembad` 17"
+      - 76@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 10
+      - 65@oneclickvpnkeys
+      - 57741 | ⚡️Telegram - t.me/SOSkeyNET
+      - 64@oneclickvpnkeys
+      - 45.130.125.96:443
+      - "@filembad` 18"
+      - 58018 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57439 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@hi_proxy_iran :👈کانال تل 4"
+      - "@filembad` 19"
+      - 66.81.247.155:443
+      - "@filembad` 20"
+      - 🇮🇷 @IranProxyPlus` 11
+      - 🇮🇷 @IranProxyPlus` 12
+      - 🇮🇷 @IranProxyPlus` 13
+      - 74@oneclickvpnkeys
+      - 63@oneclickvpnkeys
+      - "@meliproxyy 5"
+      - Ettehadvpn | 29
+      - 89.116.46.68:443
+      - "@filembad` 21"
+      - "@hi_proxy_iran :👈کانال تل 5"
+      - 89.116.46.68:443 2
+      - "@filembad` 22"
+      - "@filembad` 23"
+      - برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩 2
+      - 57423 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy 6"
+      - 89.116.46.68:443 3
+      - "@filembad` 24"
+      - "@meliproxyy 7"
+      - 🇮🇷 @IranProxyPlus` 14
+      - 🇮🇷 @IranProxyPlus` 15
+      - 89.116.46.68:443 4
+      - "@MARAMBASHI 🇫🇷`"
+      - "@filembad` 25"
+      - 🇮🇷 @IranProxyPlus` 16
+      - 58034 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58950 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58951 | ⚡️Telegram - t.me/SOSkeyNET
+      - 58158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57174 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57595 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57592 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57594 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57593 | ⚡️Telegram - t.me/SOSkeyNET
+      - 2.27.41.179:443
+      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b`"
+      - 58572 | ⚡️Telegram - t.me/SOSkeyNET
+      - 59388 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57497 | ⚡️Telegram - t.me/SOSkeyNET
+      - 57493 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@filembad` 26"
+      - 89.125.19.237:47200
+      - 🇮🇷 @IranProxyPlus` 17
+      - "@filembad` 27"
+      - 59431 | ⚡️Telegram - t.me/SOSkeyNET
+      - "@meliproxyy`"
+      - 89.125.19.237:47200 2
+      - "@filembad` 28"
+      - 104.18.32.47:443
+      - "***✅***@AR14N24b 2"
+      - star.jeyranim.ir:2053
+      - "@Masir_Sefid"
+      - 194.61.120.154:443
+      - "@Filtershekan_channel |11"
+      - "@Filtershekan_channel |29"
+      - ""
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
+      - "@chillguy_vpn"
+      - "@MARAMBASHI  🇨🇦"
       - "@filembad"
+      - "@hi_proxy_iran :👈کانال تل 6"
+      - Ettehadvpn | 29 2
+      - Ettehadvpn | 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
+      - "@chillguy_vpn 2"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
+      - "@chillguy_vpn 3"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
+      - "@chillguy_vpn 4"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
+      - "@chillguy_vpn 5"
+      - "@chillguy_vpn 6"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 32
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 33
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 34
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 35
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 36
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 37
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 38
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 39
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 40
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 41
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 42
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 43
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 44
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 45
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 46
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 47
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 48
+      - "@chillguy_vpn 7"
+      - "@chillguy_vpn 8"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 49
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 50
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 51
+      - "@chillguy_vpn 9"
+      - "@chillguy_vpn 10"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 52
+      - "@chillguy_vpn 11"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 53
+      - "@chillguy_vpn 12"
+      - "@chillguy_vpn 13"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 54
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 55
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 56
+      - "@chillguy_vpn 14"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 57
+      - "@chillguy_vpn 15"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 58
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 59
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 60
+      - "@chillguy_vpn 16"
+      - 🇺🇸 @Hope_Net-join-us-on-Telegram 61
       - "@filembad 2"
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@v2rayconfigamir 5280"
-      - "@v2rayconfigamir 9687"
-      - "[openproxylist.com] vmess-AL"
-      - "[openproxylist.com] vmess-AM"
-      - "[openproxylist.com] vmess-BE"
-      - "[openproxylist.com] vmess-BG"
-      - "[openproxylist.com] vmess-BR"
-      - 🇨🇦 [openproxylist.com] vmess-CA
-      - "[openproxylist.com] vmess-CH"
-      - "[openproxylist.com] vmess-CL"
-      - 🇪🇸 [openproxylist.com] vmess-ES
-      - 🇫🇷 [openproxylist.com] vmess-FR
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - 🇬🇧 [openproxylist.com] vmess-GB 2
-      - "[openproxylist.com] vmess-GR"
-      - "[openproxylist.com] vmess-HR"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
-      - "[openproxylist.com] vmess-IE"
-      - 🇮🇸 [openproxylist.com] vmess-IS
-      - "[openproxylist.com] vmess-IT"
-      - "[openproxylist.com] vmess-IL"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - "[openproxylist.com] vmess-PT"
-      - 🇵🇱 [openproxylist.com] vmess-PL
-      - "[openproxylist.com] vmess-RO"
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[openproxylist.com] vmess-SK"
-      - "[openproxylist.com] vmess-TR"
-      - 🇨🇳 [openproxylist.com] vmess-TW
-      - 🇰🇷 [openproxylist.com] vmess-KR
-      - "[openproxylist.com] vmess-LI"
-      - "[openproxylist.com] vmess-LV"
-      - "[openproxylist.com] vmess-MK"
-      - 🇲🇾 [openproxylist.com] vmess-MY
-      - 🇳🇱 [openproxylist.com] vmess-NL
-      - "[openproxylist.com] vmess-NZ"
       - "@filembad 6"
-      - "@tel_melli"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - 🇯🇵 [openproxylist.com] vmess-JP 3
       - "@filembad 7"
-      - "[21986] - Telegram : @configraygan"
-      - "[openproxylist.com] vmess-LU"
-      - "@v2rayconfigamir 8562"
-      - "[openproxylist.com] vmess-TR 2"
-      - "[openproxylist.com] vmess-TR 3"
       - "@filembad 8"
-      - "[openproxylist.com] vmess-TR 4"
-      - "[openproxylist.com] vmess-TR 5"
-      - 4Nika-13520
       - "@filembad 9"
+      - "@meliproxyy 8"
       - "@filembad 10"
-      - "[openproxylist.com] vmess-IR"
-      - 4Nika-13634
+      - ترکیب
+      - "@chillguy_vpn 17"
       - "@filembad 11"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
+      - "@chillguy_vpn 18"
   - name: دانلود منیجر 📥
     type: select
     proxies:

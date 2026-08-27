@@ -465,48 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@v2rayconfigamir 1537", server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048", headers: {Host: 47.244.120.197}}, udp: true, tfo: false}
-  - {name: "@icv2ray", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 [openproxylist.com] vmess-JP 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[21986] - Telegram : @configraygan", server: 94.183.149.127, port: 3911, type: vmess, uuid: 4d48dc13-7c9d-45b4-b9ed-7ecbf15066c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 103.143.238.196, port: 21879, type: vmess, uuid: 1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.cloudflare.com}}, udp: true, tfo: false}
-  - {name: "@filembad", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4Nika-13520, server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 2", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 3", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4Nika-13634, server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 4", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@configraygan 1", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A9", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A2", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 〘 🇺🇸 | 🦾 @configraygan 」, server: tun.p2p1.sbs, port: 2015, type: vmess, uuid: 580bf938-8cae-431d-b2a4-87ec95d156d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 2", server: uk1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 5", server: yyynm.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: yyynm.2nn.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@configraygan", server: DEU.IPSENTER.NET, port: 443, type: vmess, uuid: 3b38b729-981f-4f23-8746-7358c6282e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A11", server: Dc-2.CeNtRaLnEt.cV, port: 3003, type: vmess, uuid: fc65868c-97fd-4a8b-bf3c-b30fe06b38a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: cn02.365cloud5878.com, port: 6019, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AT 2", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A13", server: dC-1.cEnTrAlNeT.Cv, port: 3003, type: vmess, uuid: 05941c9a-8820-4181-bb28-8f535f56a381, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A12", server: dC-1.cEnTrAlNeT.Cv, port: 3003, type: vmess, uuid: 62d8245f-8bc6-42ee-8e56-c77cdfc2e1c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan A10", server: dC-2.cENtRaLnEt.ClIcK, port: 3003, type: vmess, uuid: 040bf359-f6ad-4553-9e69-05bb65288d0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇬🇧 [openproxylist.com] vmess-GB", server: fsdns1.ectunnelvpn.me, port: 80, type: vmess, uuid: 6b2d86e5-df05-4511-a79f-82d53ce99b36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fsdns1.ectunnelvpn.me}}, udp: true, tfo: false}
-  - {name: "@EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt + Psiphon", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 6", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@crayingroom تلگرام", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 7", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1 📱 @unvisible_drops, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "@filembad 8", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 9", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 10", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: CDN, server: cf.levikogjgfdd.ir, port: 443, type: vmess, uuid: 011fca93-33cd-4c3b-a584-7960621e0a3b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /wes, headers: {Host: JP032009.ssgreen.org}}, udp: true, tfo: false}
+  - {name: CDN 2, server: cf.levikogjgfdd.ir, port: 443, type: vmess, uuid: 238879d6-f2ea-4f0d-9fe9-0972a2995f78, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /wes, headers: {Host: US032010.westmgreen.com}}, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: cf.levikogjgfdd.ir, port: 2053, type: vmess, uuid: 9a1a05d9-69be-45d3-e326-c6621edf7b31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /devm, headers: {Host: deapp.jisuyun.top}}, udp: true, tfo: false}
+  - {name: CDN 3, server: cf.levikogjgfdd.ir, port: 2053, type: vmess, uuid: 9a1a05d9-69be-45d3-e326-c6621edf7b31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /devm, headers: {Host: deapp.jisuyun.top}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: fin1.levikogjgfdd.ir, port: 46962, type: vmess, uuid: c896406b-ccc4-4c37-8b8c-15964f32a9a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: fin1.levikogjgfdd.ir, port: 46962, type: vmess, uuid: c896406b-ccc4-4c37-8b8c-15964f32a9a2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@FarazV2ray", server: guanwang.awsno.com, port: 443, type: vmess, uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ترکیب, server: mel.usdtbama.com, port: 8443, type: vmess, uuid: 8375c469-2ea4-4078-b030-cff074d54ae2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -523,144 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -676,144 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 1537"
-      - "@icv2ray"
-      - 🇯🇵 [openproxylist.com] vmess-JP
-      - 🇯🇵 [openproxylist.com] vmess-JP 2
-      - "[21986] - Telegram : @configraygan"
-      - 🇭🇰 [openproxylist.com] vmess-HK
-      - "@filembad"
-      - 4Nika-13520
-      - "@filembad 2"
-      - "@filembad 3"
-      - 4Nika-13634
-      - "@filembad 4"
-      - "@configraygan 1"
-      - "@configraygan A9"
-      - "@configraygan A2"
-      - 〘 🇺🇸 | 🦾 @configraygan 」
-      - "@configraygan 2"
-      - "@filembad 5"
-      - "@configraygan"
-      - "@configraygan A11"
-      - "[openproxylist.com] vmess-AT"
-      - 🇭🇰 [openproxylist.com] vmess-HK 2
-      - "[openproxylist.com] vmess-HU"
-      - 🇸🇬 [openproxylist.com] vmess-SG
-      - 🇸🇬 [openproxylist.com] vmess-SG 2
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-AT 2"
-      - "@configraygan A13"
-      - "@configraygan A12"
-      - "@configraygan A10"
-      - 🇬🇧 [openproxylist.com] vmess-GB
-      - "@EsTunnel - Psiphon+V2rayNG"
-      - "@vasl_bashim - Psiphon+V2rayNG"
-      - "@Hiddify_Nexttt + Psiphon"
-      - "@saministamm"
-      - "@filembad 6"
-      - "@crayingroom تلگرام"
-      - "@filembad 7"
-      - 1 📱 @unvisible_drops
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
+      - CDN
+      - CDN 2
+      - "@meliproxyy"
+      - CDN 3
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@FarazV2ray"
+      - ترکیب
   - name: دانلود منیجر 📥
     type: select
     proxies:

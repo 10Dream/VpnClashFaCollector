@@ -465,8 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 🇮🇷", server: super.lightvpro.ir, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 0e30c333-caf6-4c5d-b398-206b4ef9c97f, host: super.lightvpro.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط �%9…", server: super.lightvpro.ir, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 0e30c333-caf6-4c5d-b398-206b4ef9c97f, host: super.lightvpro.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 🇮🇷", server: main.saforia.ru, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: b8c51058-4378-46d3-b2c9-50b43b5715a0, network: ws, ws-opts: {path: /, headers: {Host: main.saforia.ru}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select

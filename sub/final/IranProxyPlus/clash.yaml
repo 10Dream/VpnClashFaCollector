@@ -465,8 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇮🇷 @IranProxyPlus`, server: 109.122.201.62, port: 14500, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 2, server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus, server: 109.122.201.62, port: 14500, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus 2, server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 3104a981-857e-4e2d-8d58-86e06a33b7f5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇷 @IranProxyPlus`
-      - 🇮🇷 @IranProxyPlus` 2
+      - 🇮🇷 @IranProxyPlus
+      - 🇮🇷 @IranProxyPlus 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

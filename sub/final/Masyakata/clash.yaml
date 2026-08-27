@@ -465,17 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@v2rayconfigamir 6920`", server: outgoing-ladybird.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3320`", server: top-goshawk.rooster465.autos, port: 443, type: trojan, password: WF42809561, sni: top-goshawk.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🔴***V2ray_confiig`", server: 152.53.135.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f7f64bd-db72-43af-8be7-f3863de7f922, servername: us.reality.tv123.ru, host: us.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @Zero_Tunnel 🌸`", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19666df6-009d-4426-8f05-7e19b7dc9da9, servername: my.simin123.shop, network: ws, ws-opts: {path: /, headers: {Host: my.simin123.shop}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @Zero_Tunnel", server: snapp.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 26a8a48e-262c-4e9a-8717-f8976f7cfea2, network: ws, ws-opts: {path: "/DL?ed=2053", headers: {Host: m4.articler.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @Zero_Tunnel`", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d0e0ed6-188a-43cd-a1ee-57c987a02e4b, servername: kharidfollower.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kharidfollower.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@aloconfig_com`", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 2658", server: 82.26.91.244, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6f99ed2f-9879-40e3-b5b4-5590c60f8e4a, servername: vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU, short-id: b5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 4766", server: 45.144.49.116, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bf263367-bb63-4663-b4a1-34946107a72e, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I, short-id: b2a1c97a38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @Zero_Tunnel` 2", server: 185.143.234.122, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d29cf368-c2d3-4d72-bbc0-cb4588039226, network: ws, ws-opts: {path: /, headers: {Host: dl.koremusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3465", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6920", server: outgoing-ladybird.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 3320", server: top-goshawk.rooster465.autos, port: 443, type: trojan, password: WF42809561, sni: top-goshawk.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 🌸", server: "snapp.ir:80?path=%2FDL%3Fed%3D2053&security=none&encryption=none&host=m4.articler.ir&type=ws#Telegram%3A%20%20%40Zero_Tunnelvless://19666df6-009d-4426-8f05-7e19b7dc9da9@snapp.ir", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26a8a48e-262c-4e9a-8717-f8976f7cfea2, servername: my.simin123.shop, network: ws, ws-opts: {path: /, headers: {Host: my.simin123.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d0e0ed6-188a-43cd-a1ee-57c987a02e4b, servername: kharidfollower.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kharidfollower.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@aloconfig_com", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🔴***V2ray_confiig", server: "45.144.49.116:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com&spx=/#%40v2rayconfigamir%204766vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#%40v2rayconfigamir%202658vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#%40v2rayconfigamir%203465vless://0f7f64bd-db72-43af-8be7-f3863de7f922@152.53.135.159", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf263367-bb63-4663-b4a1-34946107a72e, servername: us.reality.tv123.ru, host: us.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @Zero_Tunnel 2", server: 185.143.234.122, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d29cf368-c2d3-4d72-bbc0-cb4588039226, network: ws, ws-opts: {path: /, headers: {Host: dl.koremusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -492,51 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -552,51 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@v2rayconfigamir 6920`"
-      - "@v2rayconfigamir 3320`"
-      - "***🔴***V2ray_confiig`"
-      - "Telegram:  @Zero_Tunnel 🌸`"
+      - "@v2rayconfigamir 6920"
+      - "@v2rayconfigamir 3320"
+      - "Telegram:  @Zero_Tunnel 🌸"
       - "Telegram:  @Zero_Tunnel"
-      - "Telegram:  @Zero_Tunnel`"
-      - "@aloconfig_com`"
-      - "@v2rayconfigamir 2658"
-      - "@v2rayconfigamir 4766"
-      - "Telegram:  @Zero_Tunnel` 2"
-      - "@v2rayconfigamir 3465"
+      - "@aloconfig_com"
+      - "***🔴***V2ray_confiig"
+      - "Telegram:  @Zero_Tunnel 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:
