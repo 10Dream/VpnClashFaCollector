@@ -1,5 +1,53 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-08-28 14:03:34 UTC
+بروزرسانی: 2026-08-28 23:36:40 UTC
+
+### 🕒 2026-08-28 18:12:23 UTC
+شرکت Tencent مدل Hy4-preview رو منتشر کرد 
+***🚀***
+  مدل: Hy4-preview — 770B پارامتر MoE با 49B فعال، کانتکست ۱ میلیون توکنی، لایسنس Apache 2.0  مشخصات کلیدی:  1-مقدار ۷۷۰B پارامتر کل ولی فقط ۴۹B برای هر توکن فعال میشه — یعنی قدرت مدل‌های فلگشیپ با هزینه‌ی خیلی کمتر…
+
+---
+
+### 🕒 2026-08-28 16:13:43 UTC
+> ↪️ **Forwarded**
+
+**راهنمای زنجیر کردن  Psiphon Desktop**
+ با 
+**whiteaesther**
+ Desktop 
+***🔥***
+***🔥***
+اول Psiphon را وصل کنید.
+در تنظیمات Psiphon proxy محلی را پیدا کنید. و یکی از پورت های زیر را وارد کنید . توصیه میشود از ساکس استفاده کنید 
+`SOCKS5:1080`
+ 
+`HTTP:8080`
+WhiteAesther را باز کنید.
+بروید به:
+`Advanced`
+ → 
+`Routes & transports`
+ → 
+`Anti-blocking`
+در فیلد 
+`Dial through a local proxy`
+ یکی از این‌ها را وارد کنید:
+socks5://127.0.0.1:1080
+یا:
+http://127.0.0.1:8080
+بعد 
+`Save profile`
+ را بزنید.
+حالا Connect کنید. مسیر  می‌شود:
+App traffic -> WhiteAesther local SOCKS -> Aether/WARP -> Psiphon local upstream -> Internet
+اگر میخواهید که whiteaesther سیستم شما را تانل کند روی Full tunnel و اگر نه از پراکسی whiteaesther برای نرم افزارهای خاص خودتون استفاده کنید 
+نکته : قابلیت exit chain را توی تنظیمات خاموش کنید 
+***⚠️***
+***⚠️***
+تیم وایت 
+[@whitedns](https://t.me/whitedns)
+
+---
 
 ### 🕒 2026-08-28 11:46:30 UTC
 مدل GLM 5.3 Flash یا همون Ox Alpha، به صورت رایگان روی Cline قرار داره. Cline هم اکستنشن Vs Code داره هم می‌تونید با npm i -g cline خودش رو نصب کنید  
@@ -101,15 +149,6 @@
 ***✍️***
  
 [callitVer1](https://x.com/callitVer1/status/2091833855254618344)
-
----
-
-### 🕒 2026-08-27 14:55:32 UTC
-> ↪️ **Forwarded**
-
-این لودینگ ها هم جدیدن و خلاقانه خوبیش اینه که SVG هستن و توی سایت و اپلیکیشن و هرجایی می‌تونید ازش استفاده کنید:
-[circleloaders.dominikakissi.com](http://circleloaders.dominikakissi.com/)
-[@Linuxor](https://t.me/Linuxor)
 
 ---
 
