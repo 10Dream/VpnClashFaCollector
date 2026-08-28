@@ -87,8 +87,13 @@ NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
 
 _sorted_protos = sorted([p for p in PROTOCOLS if p != 'tg'], key=len, reverse=True)
-_proto_lookahead = '|'.join([rf'(?<![A-Za-z0-9\-_]){re.escape(p)}:(?:\/\/|\/)' for p in _sorted_protos])
-NEXT_CONFIG_LOOKAHEAD = rf'(?={_proto_lookahead}|https:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?|[()\[\]"\'<>`\s])'
+_proto_pattern = '|'.join([re.escape(p) for p in _sorted_protos])
+
+# الگوی جامع شناسایی شروع هر پروتکل (شامل کاراکترهای خام و URL-encoded)
+HEADER_REGEX = re.compile(
+    rf'(?:(?P<proto>{_proto_pattern})(?::\/\/|%3[aA]\/\/|%3[aA]%2[fF]%2[fF])|(?P<tg>https?:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?))',
+    re.IGNORECASE
+)
 
 BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
 VALID_SS_CIPHERS = {
@@ -428,30 +433,80 @@ def extract_key_value_tg_proxies(text):
     return results
 
 
+def split_glued_configs(text):
+    """
+    تفکیک و استخراج قطعی کانفیگ‌ها:
+    شروع هر کانفیگ به عنوان پایان قطعی کانفیگ قبلی لحاظ می‌شود تا از چسبیدن کانفیگ‌ها جلوگیری شود.
+    """
+    matches = list(HEADER_REGEX.finditer(text))
+    if not matches:
+        return []
+
+    configs = []
+    for i in range(len(matches)):
+        start = matches[i].start()
+        end = matches[i+1].start() if i + 1 < len(matches) else len(text)
+
+        chunk = text[start:end].strip()
+        # در صورت وجود شکست خط، اولین خط معتبر کانفیگ جدا شود
+        chunk = chunk.split('\n')[0].strip()
+        chunk = chunk.rstrip('.,;()[]"\'<>`')
+
+        m_proto = matches[i].group('proto')
+        if m_proto:
+            p_lower = m_proto.lower()
+            # اصلاح پیشوند پروتکل در صورتی که url-encode شده باشد
+            chunk = re.sub(rf'^{re.escape(m_proto)}(?::\/\/|%3[aA]\/\/|%3[aA]%2[fF]%2[fF])', f'{p_lower}://', chunk, flags=re.IGNORECASE)
+            # دیکد کاراکترهای urlencode در صورت وجود
+            if '%3F' in chunk or '%3f' in chunk or '%23' in chunk:
+                try:
+                    chunk = urllib.parse.unquote(chunk)
+                except Exception:
+                    pass
+        elif matches[i].group('tg'):
+            chunk = clean_telegram_link(urllib.parse.unquote(chunk))
+
+        if chunk:
+            configs.append(chunk)
+
+    return configs
+
+
 def extract_configs_from_text(text):
-    """استخراج تمام کانفیگ‌ها از متن (شامل لینک‌های مستقیم، هایپرلینک‌ها و فرمت‌های کلید-مقدار)"""
-    patterns = {p: get_flexible_pattern(p) for p in PROTOCOLS}
+    """استخراج تمام کانفیگ‌ها از متن (شامل تفکیک کانفیگ‌های متوالی، هایپرلینک‌ها و فرمت‌های کلید-مقدار)"""
     extracted_data = {k: set() for k in PROTOCOLS}
-    
     count = 0
-    for proto, pattern in patterns.items():
-        matches = re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE)
-        for match in matches:
-            raw_link = match.group(0).strip()
-            # پاکسازی برای تلگرام و حذف کاراکترهای جداکننده اضافی از انتهای لینک‌ها
-            clean_link = clean_telegram_link(raw_link) if proto == 'tg' else raw_link.rstrip('.,;()[]"\'<>`')
-            if clean_link:
-                extracted_data[proto].add(clean_link)
+
+    # 1. تفکیک هوشمند تمام کانفیگ‌های استاندارد
+    raw_configs = split_glued_configs(text)
+    for cfg in raw_configs:
+        cfg = cfg.strip()
+        if not cfg:
+            continue
+
+        matched_proto = None
+        if cfg.startswith(('https://t.me/proxy?', 'https://t.me/socks?', 'tg://proxy?', 'tg://socks?')):
+            matched_proto = 'tg'
+        else:
+            for proto in _sorted_protos:
+                if cfg.lower().startswith(f"{proto}://"):
+                    matched_proto = proto
+                    break
+
+        if matched_proto and matched_proto in extracted_data:
+            clean_link = clean_telegram_link(cfg) if matched_proto == 'tg' else cfg.rstrip('.,;()[]"\'<>`')
+            if clean_link and clean_link not in extracted_data[matched_proto]:
+                extracted_data[matched_proto].add(clean_link)
                 count += 1
-                
-    # استخراج پروکسی‌های با فرمت کلید-مقدار (Server/Port/Secret)
+
+    # 2. استخراج پروکسی‌های با فرمت کلید-مقدار (Server/Port/Secret/User/Pass)
     kv_proxies = extract_key_value_tg_proxies(text)
     for link in kv_proxies:
         clean_link = clean_telegram_link(link)
         if clean_link and clean_link not in extracted_data['tg']:
             extracted_data['tg'].add(clean_link)
             count += 1
-    
+
     return extracted_data, count
 
 

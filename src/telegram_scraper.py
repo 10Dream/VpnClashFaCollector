@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # الگوی شناسایی کانفیگ‌های پروکسی در پیام‌ها
 PROXY_PATTERN = re.compile(
-    r'(?:vless|vmess|trojan|ss|ssr|hysteria2|hy2|tuic|wireguard|warp|dnst|dnstt|vaydns|slipstream|stormdns|cottendns|masterdns|masterdnsvpn|noizdns|slowdns|ssh-dns|dns-ssh|ssh-over-dns|whitedns|slipnet|slipnet-enc)://[^\s"\'<>`]+|tg://(?:proxy|socks)\?[^\s"\'<>`]+|https://t\.me/(?:proxy|socks)\?[^\s"\'<>`]+',
+    r'(?:vless|vmess|trojan|ss|ssr|hysteria2|hy2|tuic|wireguard|warp|socks|socks4|socks5|dnst|dnstt|vaydns|slipstream|stormdns|cottendns|masterdns|masterdnsvpn|noizdns|slowdns|ssh-dns|dns-ssh|ssh-over-dns|whitedns|slipnet|slipnet-enc)://[^\s"\'<>`]+|tg://(?:proxy|socks)\?[^\s"\'<>`]+|https://t\.me/(?:proxy|socks)\?[^\s"\'<>`]+',
     re.IGNORECASE
 )
 
@@ -356,6 +356,14 @@ def main():
     logger.info("🚀 شروع فرآیند اسکرپینگ و غربالگری کانال‌های تلگرام...")
     
     settings = load_settings()
+    
+    # واکشی و اعتبارسنجی خودکار کانال‌های جدید از اهداکنندگان مهسا سرور
+    try:
+        from donor_crawler import discover_and_update_donor_channels
+        discover_and_update_donor_channels(channels_file="config/channels.txt", lookback_days=7)
+    except Exception as e:
+        logger.warning(f"Could not discover MahsaServer donor channels: {e}")
+
     usernames = load_channels()
     
     if not usernames:
