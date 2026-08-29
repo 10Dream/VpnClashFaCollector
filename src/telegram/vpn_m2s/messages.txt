@@ -1,20 +1,251 @@
 # آرشیو کانال: @vpn_m2s
-بروزرسانی: 2026-08-28 23:37:53 UTC
+بروزرسانی: 2026-08-29 06:16:02 UTC
 
-### 🕒 2026-08-28 12:26:13 UTC
+### 🕒 2026-08-29 06:15:13 UTC
+اینا 7 روزست
+
+---
+
+### 🕒 2026-08-29 06:14:51 UTC
+Amnezia Vpn 
+***⚡️***
+
+---
+
+### 🕒 2026-08-29 06:07:32 UTC
+> ↪️ **Forwarded**
+
+**Amnezia vpn **
+***⚡️***
+فقط کافیه کانفیگ های کانال کپی کنید 
+وارد برنامه کنید
+و تیک Enable WireGuard Obfuscation بزنید
+[ویدیو نحوه اضافه کردن کانفیگ به برنامه](https://t.me/Vpn_m2s_Gp/3976)
+[لینک دانلود برنامه اندروید](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+[لینک دانلود برنامه ویندوز](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe)
+[لینک دانلود برنامه برای mac](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_macos.pkg)
+[لینک دانلود برنامه آیفون](https://apps.apple.com/us/app/amneziavpn/id1600529900)
+
+---
+
+### 🕒 2026-08-29 05:58:44 UTC
+این کانفیگا اگه تا یک ساعت آینده کسی بهشون وصل نشد به صورت خودکار قطع میشن
+اگه تا 4 روز ازشون استفاده نشه هم قطع میشن
+
+---
+
+### 🕒 2026-08-29 05:57:52 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = hAHyyYGXdCX0EskHoP04vOWy7Xf0DFSUYCr9r1sH470=
+Address = 10.156.98.178/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = csoF+ktlTkwEvZX4ru8/5Bo3zY1A1FqYbx+G8Dli9j8=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 67.159.46.158:46625
+PersistentKeepalive = 1500
+SP
+
+---
+
+### 🕒 2026-08-29 05:57:17 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = ZgS5cqee3GfZO7fGQBgTwrryEVCiZ6biyLoc6UFoh58=
+Address = 10.223.68.186/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = C+oxMuZfuk3gF+t1q9o0V+9vpYcQ0z6xoiYkh3Q9eiY=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 195.3.220.202:64694
+PersistentKeepalive = 1500
+PL
+
+---
+
+### 🕒 2026-08-29 05:56:42 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = ZWA2o4v3JC2Yawdg9wpqFNhif9ZGGMVQ8INAxL7wMYE=
+Address = 10.183.124.70/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = HMLUE74aPTCIVWBBGHKnwJe/ffjDmXgFUJM9ayamp2s=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 37.77.60.236:29632
+PersistentKeepalive = 1500
+HY
+
+---
+
+### 🕒 2026-08-29 05:56:11 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = N0pJyLj+QNIWflNQE5TnUj4GO6RgD/1QJRUTdcFWhbY=
+Address = 10.241.203.218/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = UDpyVDiMKLS1/L7COnskcB5cv24M7cDFNj5ga2tWYA4=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 185.125.171.89:31213
+PersistentKeepalive = 1500
+NOW
+
+---
+
+### 🕒 2026-08-29 05:55:31 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = /WoxSY/CuGd05ZafTjtTldAG5PPntXcLiU5ApjVfU4Y=
+Address = 10.208.38.10/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = 8L1YV3uL67sbXyCB47S4aWz5ux2lpTjvz1FSU964AEk=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 141.98.10.121:58503
+PersistentKeepalive = 1500
+LIT
+
+---
+
+### 🕒 2026-08-29 05:54:40 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = fcpHX5prmeNM3MlQjLJPp1kRFbLp14A/a1jItqdBGh4=
+Address = 10.207.202.142/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = xmGy0Hb+mVNPTAPHuIOISsBgnqwsLuAqVC1ml0nwFxQ=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 195.123.209.12:39193
+PersistentKeepalive = 1500
+LAT
+
+---
+
+### 🕒 2026-08-29 05:51:33 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = QUO+/BU5FhvgZR0kQd9EvCCtfaqULK3UGRtmyUxnF5Y=
+Address = 10.220.247.182/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = +YqnK3iKJwLbrcanakqUztzEx0aTgrjx3FR7N0XshFg=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 185.48.251.122:63164
+PersistentKeepalive = 1500
+SA
+
+---
+
+### 🕒 2026-08-29 05:50:48 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = cu6+mTEB6Wn80D+qZUMchvfivrL+2z46a2deXuQQA0g=
+Address = 10.151.117.102/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = CncHc7rjTm/BoYFHhIA96szXQMMNHfTLRzvIlVl7KFo=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 103.174.103.16:34028
+PersistentKeepalive = 1500
+IA
+
+---
+
+### 🕒 2026-08-29 05:49:56 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = I8YhAdKfcKTdngKSNEybPNozpqRvybAKPyAZVuEKZ5U=
+Address = 10.165.30.90/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = hpPUMay7US0sPgDCP2bS2wUk4oXN8vfT7A+JiMYSfSs=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 207.244.209.139:21874
+PersistentKeepalive = 1500
+GM
+
+---
+
+### 🕒 2026-08-29 05:49:03 UTC
+Amnezia Vpn 
+***⚡***
+ 
+[Interface]
+PrivateKey = GJ2Vqb81eYQA4Tj9/BAKa93ijG36D4vhsahs3IdnLQw=
+Address = 10.147.28.238/30
+DNS = 1.1.1.1
+MTU = 1280
+[Peer]
+PublicKey = 0pLvO7/aJjjunxgDSdxqLqp1qF2qVop7V2EdFHZitRo=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 91.132.197.29:39884
+PersistentKeepalive = 1500
+Fl
+
+---
+
+### 🕒 2026-08-29 05:47:28 UTC
 Avast Secure Line Vpn  Activation Key 
 ***🔐***
-   BKGXKH-Y7YG22-5F4JRW  M2SASC-3VZREJ-5F4JF6  AJHKNH-L4G4BJ-5F4JM2  ZSPYTD-QFRQUJ-5F4J7N  5A5CXE-T5ZUH2-5F4JW2  GTWEV9-DQC4QJ-5F4JR2  B39AGH-AZ28XJ-5F4JKS  8AZYZ8-J75C3J-5F4JS6  65LR53-H9PLF2-5F4JNE  K4NRVG-3MNH82-5F4JBA…
+   WZ4EJG-QKUUWJ-5PLJES  6AREFL-TMRV5J-5PLJ3J  X3GSEQ-MV54BJ-5PLJ4A  UWVNZZ-TFJ8E2-5PLJYJ  VVFWXY-6X4D22-5PLJKA  8EAA8R-R78592-5PLJBA  FEB53H-ZNA8UJ-5PLJCS  FDUS7X-UCUQ9J-5PLJDA  B22ANQ-EK3882-5PLJAE  7PWY63-AH4RD2-5PLJQE…
 
 ---
 
-### 🕒 2026-08-28 12:09:47 UTC
-انگار زنده شده
-
----
-
-### 🕒 2026-08-28 12:09:37 UTC
-فردا کلید Avast Vpn میزارم
+### 🕒 2026-08-29 05:46:02 UTC
+Avast Secure Line Vpn 
+Activation Key 
+***🔐***
+ 
+`WZ4EJG-QKUUWJ-5PLJES`
+`6AREFL-TMRV5J-5PLJ3J`
+`X3GSEQ-MV54BJ-5PLJ4A`
+`UWVNZZ-TFJ8E2-5PLJYJ`
+`VVFWXY-6X4D22-5PLJKA`
+`8EAA8R-R78592-5PLJBA`
+`FEB53H-ZNA8UJ-5PLJCS`
+`FDUS7X-UCUQ9J-5PLJDA`
+`B22ANQ-EK3882-5PLJAE`
+`7PWY63-AH4RD2-5PLJQE`
+**مهم⭐: برای اولین ورود به برنامه برای وارد کردن کد و کانکت شدن از ی vpn کمکی حتما استفاده کنید دفعات بعدی نیاز نیست.**
+از پروتکل mimic  استفاده کنید
+برای تغییر پروتکل به تنظیمات برید و گزینه vpn protocol سپس گزینه mimic رو انتخاب کنید
+اگه لوکیشن اتوماتیک وصل نشد لوکیشن‌های مختلف رو تست کنید 
+هر لایسنس رو 100 نفر میتونن استفاده کنن 
+در مجموع 1000 نفر مدت 1 ماه
+لینک دانلود
+[Android](https://play.google.com/store/apps/details?id=com.avast.android.vpn)
+[iOS](https://apps.apple.com/us/app/avast-secureline-vpn-proxy/id793096595)
+[windows](https://www.avast.com/c-vpn-for-pc)
 
 ---
 
