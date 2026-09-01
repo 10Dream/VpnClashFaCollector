@@ -295,11 +295,102 @@ def get_flexible_pattern(protocol_prefix):
     return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]"\'<>`]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
 
 
+SPAM_QUERY_PARAMS = {
+    'telegram', 'telegramid', 'channel', 'bia_telegram', 'bia_tel', 'join',
+    'sponsor', 'ad', 'ads', 'promo'
+}
+
+
+def clean_url_spam_params(url):
+    """حذف پارامترهای اسپم تبلیغاتی از کوئری کانفیگ"""
+    if '?' not in url:
+        return url
+    try:
+        base, query = url.split('?', 1)
+        hash_part = ""
+        if '#' in query:
+            query, hash_part = query.split('#', 1)
+            hash_part = '#' + hash_part
+
+        params = query.split('&')
+        clean_params = []
+        for p in params:
+            if not p:
+                continue
+            k = p.split('=', 1)[0].lower()
+            if k in SPAM_QUERY_PARAMS or 'telegram' in k or 'channel' in k:
+                continue
+            if '-----' in p or 'MARAMBASHI' in p or 'NUFiLTER' in p:
+                continue
+            clean_params.append(p)
+
+        new_query = '&'.join(clean_params)
+        return f"{base}?{new_query}{hash_part}" if new_query else f"{base}{hash_part}"
+    except Exception:
+        return url
+
+
+def clean_remark_text(remark):
+    """پاکسازی کامل نام و برچسب کانفیگ از پروتکل‌های چسبیده، تگ‌های قدیمی و متن‌های تبلیغاتی"""
+    if not remark:
+        return ""
+    try:
+        remark = urllib.parse.unquote(remark)
+    except Exception:
+        pass
+
+    # 1. حذف هرگونه پروتکل چسبیده درون رمارک
+    proto_pattern = r'(?:vless|vmess|trojan|ss|ssr|hysteria2|hy2|tuic|wireguard|wg|socks|socks4|socks5)://[^\s"\'<>`]+'
+    remark = re.sub(proto_pattern, '', remark, flags=re.IGNORECASE)
+    remark = re.sub(r'(?:vless|vmess|trojan|ss|ssr|hysteria2|hy2|tuic|wireguard|wg|socks)%3[aA]%2[fF]%2[fF][^\s"\'<>`]+', '', remark, flags=re.IGNORECASE)
+
+    # 2. حذف تگ‌های قدیمی تست رنک، پینگ، سرعت و مقادیر null/UN
+    remark = re.sub(r'\[\d+\]\s*', '', remark)
+    remark = re.sub(r'(?:✨\s*Gemini|\b\d+ms\b|\b\d+(?:\.\d+)?(?:KB|MB)\b|🌐|[🇦-🇿]{2})\s*\|?\s*', '', remark)
+    remark = re.sub(r'\b(NULL|null|UN|Global)\b\s*\|?\s*', '', remark)
+
+    # 3. استانداردسازی لینک‌های تلگرام درون رمارک
+    remark = re.sub(r'(?:⚡️\s*)?Telegram\s*=\s*(?:https?:\/\/)?t\.me\/([A-Za-z0-9_]+)', r'@\1', remark, flags=re.IGNORECASE)
+    remark = re.sub(r'https?:\/\/t\.me\/([A-Za-z0-9_]+)', r'@\1', remark, flags=re.IGNORECASE)
+
+    # 4. حذف متن‌های تبلیغاتی فارسی/انگلیسی مزاحم
+    spam_patterns = [
+        r'برای اتصال دائمی جوین شو[^\s]*',
+        r'اگه میخوای قطع نشی[^\s]*',
+        r'TelegramID[^\s]*',
+        r'⌲Express_freevpn[^\s]*',
+        r'Free x\d+\s*@\w+',
+        r'📍\d+@\w+',
+        r'🥈\d+@\w+',
+        r'\d+🥈@\w+',
+        r'\d+🥇@\w+',
+        r'\d+🥉@\w+',
+        r'\*+✅\*+',
+        r'Channel\s*:\s*',
+        r'-----+',
+    ]
+    for sp in spam_patterns:
+        remark = re.sub(sp, '', remark, flags=re.IGNORECASE)
+
+    # 5. پاکسازی کاراکترهای جداکننده اضافی
+    remark = re.sub(r'\s*\|\s*', ' | ', remark)
+    remark = re.sub(r'(?:\s*\|\s*){2,}', ' | ', remark)
+    remark = re.sub(r'^[\s|\-_:.,;#]+', '', remark)
+    remark = re.sub(r'[\s|\-_:.,;#]+$', '', remark)
+    remark = re.sub(r'\s+', ' ', remark).strip()
+
+    if remark.lower() in ('server', 'null', 'none', ''):
+        return ""
+
+    return remark
+
+
 def clean_telegram_link(link):
     """پاکسازی لینک تلگرام"""
     try:
         link = html.unescape(link)
         link = re.sub(r'[()\[\]\s!.,;\'"]+$', '', link)
+        link = clean_url_spam_params(link)
         return link
     except Exception as e:
         logger.error(f"Error cleaning link: {e}")
@@ -463,6 +554,23 @@ def split_glued_configs(text):
                     chunk = urllib.parse.unquote(chunk)
                 except Exception:
                     pass
+            # پاکسازی پارامترهای اسپم از کوئری کانفیگ
+            chunk = clean_url_spam_params(chunk)
+            # پاکسازی رمارک
+            if chunk.startswith('vmess://'):
+                try:
+                    b64_str = chunk[8:]
+                    missing_padding = len(b64_str) % 4
+                    if missing_padding: b64_str += '=' * (4 - missing_padding)
+                    data = json.loads(base64.b64decode(b64_str).decode('utf-8', errors='ignore'))
+                    data['ps'] = clean_remark_text(data.get('ps', ''))
+                    chunk = "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
+                except Exception:
+                    pass
+            elif '#' in chunk:
+                base_part, rem_part = chunk.split('#', 1)
+                clean_rem = clean_remark_text(rem_part)
+                chunk = f"{base_part}#{clean_rem}" if clean_rem else base_part
         elif matches[i].group('tg'):
             chunk = clean_telegram_link(urllib.parse.unquote(chunk))
 
