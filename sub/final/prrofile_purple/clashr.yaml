@@ -5,60 +5,95 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***", server: 31.76.80.69, port: 443, type: hysteria2, ports: 443, password: 6aab8efdf13945829ae3699c342be406, obfs: salamander, obfs-password: uw9b2qq5rx, sni: fiproxy1.lockdwn.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 67.159.43.203, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9d8a55de-70df-44a9-973e-4ffa02d05f32, servername: cli-q.bosx.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /api/connect, headers: {Host: cli-q.bosx.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***", server: 151.101.56.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: da6ece67-aff5-4f94-94f3-08e87ca8cd51, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***", server: 138.124.15.120, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ZWM1Y, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***", server: 69.46.46.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 15e9c884-4541-f430-cf55-66401979319d, servername: golden-grove-39ee-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/15e9c884-4541-f430-cf55-66401979319d, headers: {Host: golden-grove-39ee-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***", server: 46.28.64.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e560bb6-4d52-4625-a629-54b1282f1b93, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ, short-id: 64c147592a2f84d9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***", server: 69.46.46.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 39efeaa2-3713-a73c-f1f2-e92d221f581c, servername: golden-prairie-c331-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/39efeaa2-3713-a73c-f1f2-e92d221f581c, headers: {Host: golden-prairie-c331-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 185.194.177.120, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: conrad.de, host: conrad.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI, short-id: e3e76808b9fcd591}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***", server: 69.46.46.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e55c426-4c88-61ff-409c-c938db3d4cae, servername: maple-atlas-b6b2-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/6e55c426-4c88-61ff-409c-c938db3d4cae, headers: {Host: maple-atlas-b6b2-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***", server: 69.46.46.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a4c3b304-0fc0-350f-64b6-2a61e7376307, servername: hidden-canyon-caed-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/a4c3b304-0fc0-350f-64b6-2a61e7376307, headers: {Host: hidden-canyon-caed-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***", server: 69.46.46.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e3fcc645-cec2-9b16-3946-06174d59b7fa, servername: polar-falcon-aaa4-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/e3fcc645-cec2-9b16-3946-06174d59b7fa, headers: {Host: polar-falcon-aaa4-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -86,9 +121,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***⚽️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

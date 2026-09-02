@@ -5,46 +5,53 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "@Begoo_VPN ²⁸⁶", server: 31.128.37.67, port: 16560, type: vless, tls: true, packet-encoding: xudp, uuid: 6d60c73d-5915-4cf8-b155-e522dfd863bb, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ²⁹²", server: 89.127.204.17, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0cfc585b-26f2-4597-9b70-e1bb1095a2f2, servername: yandex.aero, host: yandex.aero, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o8nHj0HmBGPkdRVTSrWd1r2eXPH5YRKDNfKY1FKvRCY, short-id: dfc3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ²⁹¹", server: 153.76.208.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c87e551b-3999-4b76-b3bf-bdfd6ef176fd, servername: yandex.com.am, host: yandex.com.am, path: /, reality-opts: {public-key: kCKXYcvEQ2cz4d0jBmBjyzbesUZ3AHQBukhqXWPiRlA, short-id: f3deb2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +79,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@Begoo_VPN ²⁸⁶"
+      - "@Begoo_VPN ²⁹²"
+      - "@Begoo_VPN ²⁹¹"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

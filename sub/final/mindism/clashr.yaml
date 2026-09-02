@@ -5,67 +5,109 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: Бесплатный VPN Tg:VlessForU 🇸🇪, server: sw.crsmaps.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2f14c4d7-5d16-4914-918c-3a6a54576ccb, servername: sw.crsmaps.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: sw.crsmaps.com}, reality-opts: {public-key: -jcUzfOTPLc80yQX1ft1liPFOTsTYvzS6IG0QENc9yg, short-id: 22d4b2747bc9e1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇷🇸, server: 150.40.126.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: media.v1.StreamService}, reality-opts: {public-key: sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs, short-id: 861ac7d66953e55f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Бесплатный VPN Tg:VlessForU 🇧🇬, server: 45.9.156.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v2.RelayService}, reality-opts: {public-key: RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw, short-id: 1a3102bb8e51399e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN Tg:VlessForU 🇳🇴, server: 151.242.169.44, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3e5cc22b-a471-412d-bf84-6da9c929a0d9, servername: frantax.my3cx.de, host: frantax.my3cx.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4, short-id: f6b5862c1f73ab80}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: telegram mindism VPN Tg:VlessForU 🇷🇸, server: rs1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: node.v2.ObjectService}, reality-opts: {public-key: upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY, short-id: ed0cd5cc2e26e6e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: telegram mindismVPN Tg:VlessForU 🇷🇸, server: rs4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: media.v1.StreamService}, reality-opts: {public-key: sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs, short-id: 861ac7d66953e55f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: telegram mindismVPN Tg:VlessForU 🇳🇱, server: 72.56.115.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e25f371-acc5-4eb6-afb3-b763ee75537d, servername: rotterdam.korgivps.ru, alpn: [http%2F1.1], network: ws, ws-opts: {path: /api/user, headers: {Host: rotterdam.korgivps.ru}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: telegram mindismVPN Tg:VlessForU 🇵🇱, server: 151.244.237.100, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: atman.pl, host: atman.pl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AOThrTy8YvNzlha_TjCFrNyIA7Z57YThumIy3tfIuEk, short-id: dd1d50efb598160a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇺🇸, server: us1.cnyvpn.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: squareup.com, host: squareup.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AOThrTy8YvNzlha_TjCFrNyIA7Z57YThumIy3tfIuEk, short-id: dd1d50efb598160a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 SNi max.ru 🇺🇸, server: 31.77.220.163, port: 15443, type: vless, tls: true, packet-encoding: xudp, uuid: 6379673b-197f-4944-ba81-a45c66aefe9c, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cpoZcpYNYSvFXGGB21tByHUoNd7-FYrJ0UP7ZDfSFCs, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: telegram mindism ki VPN Tg:VlessForU 🇳🇱, server: 78.17.186.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8535e46f-4c0b-4b02-9369-d4d553c9a892, servername: www.nokia.com, host: www.nokia.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 vk.ru 🇫🇮telegram mindism, server: 72.35.246.39, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b6c29ae7-4748-4049-b642-b695c0d2c776, servername: vk.ru, host: vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg, short-id: 5e39e518bfac6392}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇭🇰, server: 189.24.83.112, port: 10022, type: vless, tls: true, packet-encoding: xudp, uuid: c2564a65-0821-3241-b090-45d49cef58fd, servername: www.hp.com, host: www.hp.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FmSty5DyZmIEu6Yg8KhYmE-JqqWxFaesDlrk9pJweS4, short-id: fbb093}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -93,10 +135,16 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Бесплатный VPN Tg:VlessForU 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇷🇸
       - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇳🇴
+      - telegram mindism VPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇷🇸
+      - telegram mindismVPN Tg:VlessForU 🇳🇱
+      - telegram mindismVPN Tg:VlessForU 🇵🇱
+      - Бесплатный VPN Tg:VlessForU 🇺🇸
+      - 🇷🇺 SNi max.ru 🇺🇸
+      - telegram mindism ki VPN Tg:VlessForU 🇳🇱
+      - 🇷🇺 vk.ru 🇫🇮telegram mindism
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

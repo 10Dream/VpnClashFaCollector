@@ -465,9 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: IT_604_@Surfboardv2ray, server: 57.131.32.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1e280316-0408-47c4-b058-05b8f1f17f02, network: ws, ws-opts: {path: /vless/, headers: {Host: OV-Italy1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FG_Link", server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 97532b08-357e-4140-a6f0-8e07f2ed3327, network: ws, ws-opts: {path: /proxyip=kr.william.us.ci, headers: {Host: yf2.yifangg.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: 62.210.127.120, port: 23388, type: vmess, uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999-newpac/fanqiang, headers: {Host: engage.cloudflareclient.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -484,27 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -520,27 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IT_604_@Surfboardv2ray
       - "@FG_Link"
-      - 🇫🇷 [openproxylist.com] vmess-FR
   - name: دانلود منیجر 📥
     type: select
     proxies:

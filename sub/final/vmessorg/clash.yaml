@@ -465,13 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires, server: giftcard.gateway-stream.com, port: 52001, type: hysteria2, ports: 52001, password: mdq80x0xv9wt7520, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo, server: giftcard.gateway-stream.com, port: 52046, type: hysteria2, ports: 52046, password: mdq80x0xv9wt7520, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam, server: giftcard.gateway-stream.com, port: 52050, type: hysteria2, ports: 52050, password: mdq80x0xv9wt7520, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇱 dc-udp-🇦🇱 Albania-Tirana, server: giftcard.gateway-stream.com, port: 52000, type: hysteria2, ports: 52000, password: zvxywxoorgqk3fzb, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2, server: giftcard.gateway-stream.com, port: 52001, type: hysteria2, ports: 52001, password: zvxywxoorgqk3fzb, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels, server: giftcard.gateway-stream.com, port: 52008, type: hysteria2, ports: 52008, password: zvxywxoorgqk3fzb, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia, server: giftcard.gateway-stream.com, port: 52019, type: hysteria2, ports: 52019, password: zvxywxoorgqk3fzb, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg, server: 82.40.62.178, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: Telegramjoin%3ATurboConfigs%20, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires
-      - 🇯🇵 dc-udp-🇯🇵 Japan-Tokyo
-      - 🇳🇱 dc-udp-🇳🇱 Netherlands-Amsterdam
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇷 dc-udp-🇦🇷 Argentina-Buenos Aires 2
-      - 🇧🇪 dc-udp-🇧🇪 Belgium-Brussels
-      - 🇨🇾 dc-udp-🇨🇾 Cyprus-Nicosia
+      - vmessorg
   - name: دانلود منیجر 📥
     type: select
     proxies:
