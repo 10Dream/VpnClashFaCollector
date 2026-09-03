@@ -465,14 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***", server: 138.124.15.120, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ZWM1Y, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***", server: 69.46.46.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 15e9c884-4541-f430-cf55-66401979319d, servername: golden-grove-39ee-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/15e9c884-4541-f430-cf55-66401979319d, headers: {Host: golden-grove-39ee-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***", server: 46.28.64.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e560bb6-4d52-4625-a629-54b1282f1b93, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2FrYX1NTCe-fnm0kvNLYMPAuOZ8jbsYOSCKu3lY3CBQ, short-id: 64c147592a2f84d9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***", server: 69.46.46.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 39efeaa2-3713-a73c-f1f2-e92d221f581c, servername: golden-prairie-c331-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/39efeaa2-3713-a73c-f1f2-e92d221f581c, headers: {Host: golden-prairie-c331-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 185.194.177.120, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: conrad.de, host: conrad.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI, short-id: e3e76808b9fcd591}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***", server: 69.46.46.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e55c426-4c88-61ff-409c-c938db3d4cae, servername: maple-atlas-b6b2-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/6e55c426-4c88-61ff-409c-c938db3d4cae, headers: {Host: maple-atlas-b6b2-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***", server: 69.46.46.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a4c3b304-0fc0-350f-64b6-2a61e7376307, servername: hidden-canyon-caed-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/a4c3b304-0fc0-350f-64b6-2a61e7376307, headers: {Host: hidden-canyon-caed-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***", server: 69.46.46.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e3fcc645-cec2-9b16-3946-06174d59b7fa, servername: polar-falcon-aaa4-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/e3fcc645-cec2-9b16-3946-06174d59b7fa, headers: {Host: polar-falcon-aaa4-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***", server: 31.77.100.49, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 235fab16-5bb4-4593-b125-09f2e7ba7aa3, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw, short-id: d3124debabf1456c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***", server: 185.189.47.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 252f7811-d86f-4dc2-97e0-83d3172ef4b8, servername: edge-se.mystatic-cdn.ru, host: edge-se.mystatic-cdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY, short-id: b21f41e79ecbac55}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***", server: 193.160.71.247, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 252f7811-d86f-4dc2-97e0-83d3172ef4b8, servername: edge-uk2.mystatic-cdn.ru, host: edge-uk2.mystatic-cdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI, short-id: ee169e93d3c277a1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***", server: 159.195.137.29, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1, servername: sellflow.org, host: sellflow.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***", server: xbm016bm.selqora.ir, port: 31663, type: vless, tls: true, packet-encoding: xudp, uuid: 33659f3a-e55c-4276-8900-f656e9c4075a, host: apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***", server: 78.159.250.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4054fdc2-ee80-4419-8a8e-d937df4719e2, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: djdjsj-production.up.railway.app, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e, servername: djdjsj-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/ws/vless/5ff8e256-cb7e-41fc-8ed2-14a46fd46e4e?ed", headers: {Host: djdjsj-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***", server: 172.67.217.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9b18ccef-b9e0-41d1-8990-9d970569e142, servername: web-socket.tgdaosheng.ggff.net, network: ws, ws-opts: {path: /proxyip=bpb.yousef.isegaro.com, headers: {Host: web-socket.tgdaosheng.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♎️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✝***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☪***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☯***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥳***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🤪***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😍***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***😘***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🆔***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***✡***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***♒️***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🥰***"
   - name: دانلود منیجر 📥
     type: select
     proxies:

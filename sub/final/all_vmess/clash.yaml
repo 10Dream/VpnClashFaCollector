@@ -465,47 +465,69 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 158325 | @SOSkeyNET, server: 103.240.197.112, port: 55314, type: vmess, uuid: bdb68629-1c6a-4eed-8083-7d4379a2dd52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158374 | @LonUp_M, server: 103.240.197.112, port: 55314, type: vmess, uuid: bdb68629-1c6a-4eed-8083-7d4379a2dd52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158424 | @SOSkeyNET, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158473 | @LonUp_M, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Daily_Configs", server: 23.236.69.39, port: 24187, type: vmess, uuid: 12a8ee36-5936-4449-90bd-b5eac6db4c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 158614 | @SOSkeyNET, server: 13.250.114.194, port: 8443, type: vmess, uuid: 9dcb8d73-cc0b-4fcc-a12d-d7affb56267c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158663 | @LonUp_M, server: 13.250.114.194, port: 8443, type: vmess, uuid: 9dcb8d73-cc0b-4fcc-a12d-d7affb56267c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159670 | @SOSkeyNET, server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-KZ", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
+  - {name: 159676 | @SOSkeyNET, server: 38.91.107.49, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 38.91.107.49, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159675 | @LonUp_M, server: 216.106.183.35, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159626 | @SOSkeyNET, server: 216.106.183.35, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: 216.106.183.35, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159410 | @SOSkeyNET, server: 118.193.57.167, port: 49667, type: vmess, uuid: d46bf492-45f4-4c33-82d1-ea2a1cb54eb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /d46bf492}, udp: true, tfo: false}
+  - {name: 159459 | @LonUp_M, server: 118.193.57.167, port: 49667, type: vmess, uuid: d46bf492-45f4-4c33-82d1-ea2a1cb54eb6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /d46bf492}, udp: true, tfo: false}
+  - {name: 159407 | @SOSkeyNET, server: 112.132.215.108, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159456 | @LonUp_M, server: 112.132.215.108, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159423 | @SOSkeyNET, server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159472 | @LonUp_M, server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158896 | @SOSkeyNET, server: 154.37.223.56, port: 52080, type: vmess, uuid: f1ac5c82-00a4-400b-bb20-530c91b7c5bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158945 | @LonUp_M, server: 154.37.223.56, port: 52080, type: vmess, uuid: f1ac5c82-00a4-400b-bb20-530c91b7c5bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159421 | @SOSkeyNET, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 159470 | @LonUp_M, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 کانال تلگرام", server: 165.140.216.142, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158875 | @LonUp_M, server: 165.140.216.142, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158826 | @SOSkeyNET, server: 165.140.216.142, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🩵 کانال تلگرام", server: 165.140.216.142, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158545 | @SOSkeyNET, server: 162.159.129.17, port: 80, type: vmess, uuid: 62aa5f80-0328-4004-a375-7f5a59df4022, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/T,E,L,E,G,R,A,M,X,V,2,R,A,Y", headers: {Host: rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw102.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.}}, udp: true, tfo: false}
-  - {name: 158594 | @LonUp_M, server: 162.159.129.17, port: 80, type: vmess, uuid: 62aa5f80-0328-4004-a375-7f5a59df4022, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/T,E,L,E,G,R,A,M,X,V,2,R,A,Y", headers: {Host: rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw102.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.}}, udp: true, tfo: false}
-  - {name: 158486 | @SOSkeyNET, server: 23.137.249.110, port: 30011, type: vmess, uuid: a7aee69e-6e02-47d1-8172-701866bbb28c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 23.137.249.110, udp: true, tfo: false}
-  - {name: 158535 | @LonUp_M, server: 23.137.249.110, port: 30011, type: vmess, uuid: a7aee69e-6e02-47d1-8172-701866bbb28c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 23.137.249.110, udp: true, tfo: false}
-  - {name: 157869 | @SOSkeyNET, server: 23.236.69.39, port: 24187, type: vmess, uuid: 12a8ee36-5936-4449-90bd-b5eac6db4c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 157918 | @LonUp_M, server: 23.236.69.39, port: 24187, type: vmess, uuid: 12a8ee36-5936-4449-90bd-b5eac6db4c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@chillguy_vpn", server: 23.236.69.39, port: 24187, type: vmess, uuid: 12a8ee36-5936-4449-90bd-b5eac6db4c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 158271 | @SOSkeyNET, server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158320 | @LonUp_M, server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159565 | @SOSkeyNET, server: 172.67.161.144, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: 159614 | @LonUp_M, server: 172.67.161.144, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 4", server: 172.67.161.144, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: 159566 | @SOSkeyNET, server: 172.67.167.78, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: 159615 | @LonUp_M, server: 172.67.167.78, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 5", server: 172.67.167.78, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: 159627 | @SOSkeyNET, server: 216.106.185.141, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159676 | @LonUp_M, server: 216.106.185.141, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 6", server: 216.106.185.141, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159670 | @LonUp_M, server: 210.138.37.53, port: 443, type: vmess, uuid: f23bb427c1f94373876c2f43e9f790f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: DrBKg16eGf3FZlM3.v.3dns.vip, network: ws, ws-opts: {path: /ws-vmess, headers: {Host: DrBKg16eGf3FZlM3.v.3dns.vip}}, udp: true, tfo: false}
+  - {name: 159621 | @SOSkeyNET, server: 210.138.37.53, port: 443, type: vmess, uuid: f23bb427c1f94373876c2f43e9f790f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: DrBKg16eGf3FZlM3.v.3dns.vip, network: ws, ws-opts: {path: /ws-vmess, headers: {Host: DrBKg16eGf3FZlM3.v.3dns.vip}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 210.138.37.53, port: 443, type: vmess, uuid: f23bb427c1f94373876c2f43e9f790f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: DrBKg16eGf3FZlM3.v.3dns.vip, network: ws, ws-opts: {path: /ws-vmess, headers: {Host: DrBKg16eGf3FZlM3.v.3dns.vip}}, udp: true, tfo: false}
+  - {name: 159637 | @SOSkeyNET, server: 23.162.200.198, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159686 | @LonUp_M, server: 23.162.200.198, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇨🇦 [openproxylist.com] vmess-CA", server: 23.162.200.198, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159236 | @SOSkeyNET, server: 31.15.17.68, port: 38036, type: vmess, uuid: 030bc293-1c0e-483c-a65f-0f73c0672bcd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159285 | @LonUp_M, server: 31.15.17.68, port: 38036, type: vmess, uuid: 030bc293-1c0e-483c-a65f-0f73c0672bcd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159671 | @SOSkeyNET, server: 38.110.1.246, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 7", server: 38.110.1.246, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 کانال تلگرام 2", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 کانال تلگرام 3", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158080 | @LonUp_M, server: 91.107.242.197, port: 31285, type: vmess, uuid: f7e8a87f-e472-4fca-a393-fb9cc5b5dfa9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158031 | @SOSkeyNET, server: 91.107.242.197, port: 31285, type: vmess, uuid: f7e8a87f-e472-4fca-a393-fb9cc5b5dfa9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158331 | @SOSkeyNET, server: ar1.gsmvptun.com, port: 2052, type: vmess, uuid: 880d4739-7fca-c3b1-b679-1a8ac4d1d127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mrzold1.dadehpardazeshiran.ir}}, udp: true, tfo: false}
-  - {name: 158380 | @LonUp_M, server: ar1.gsmvptun.com, port: 2052, type: vmess, uuid: 880d4739-7fca-c3b1-b679-1a8ac4d1d127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: mrzold1.dadehpardazeshiran.ir}}, udp: true, tfo: false}
+  - {name: 159349 | @SOSkeyNET, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159398 | @LonUp_M, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 94.156.170.102, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158978 | @SOSkeyNET, server: 94.156.170.102, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159027 | @LonUp_M, server: 94.156.170.102, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn", server: 94.156.179.138, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🩵 کانال تلگرام 2", server: awlix4.pcjxq.digital, port: 8443, type: vmess, uuid: 9dcb8d73-cc0b-4fcc-a12d-d7affb56267c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158215 | @SOSkeyNET, server: guanwang.awsno.com, port: 443, type: vmess, uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158264 | @LonUp_M, server: guanwang.awsno.com, port: 443, type: vmess, uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official", server: dashboard.lunaramarket.top, port: 41501, type: vmess, uuid: 471dfeba-07f0-4611-bd91-103dcc19c16a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158269 | @SOSkeyNET, server: node-uk.connectsuite.org, port: 2053, type: vmess, uuid: 72f2cbe4-2874-45b7-b6aa-b93077c10c72, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158318 | @LonUp_M, server: node-uk.connectsuite.org, port: 2053, type: vmess, uuid: 72f2cbe4-2874-45b7-b6aa-b93077c10c72, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158483 | @SOSkeyNET, server: planb.mojcn.com.linuxlh.xin, port: 16626, type: vmess, uuid: 62e0878c-ff8c-4a67-b18f-89886e24750c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 706a0a2fb2f7729acf9a103060a7abc3.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: 158532 | @LonUp_M, server: planb.mojcn.com.linuxlh.xin, port: 16626, type: vmess, uuid: 62e0878c-ff8c-4a67-b18f-89886e24750c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 706a0a2fb2f7729acf9a103060a7abc3.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: 158597 | @SOSkeyNET, server: www.speedtest.net, port: 80, type: vmess, uuid: ae6e1f89-eca9-43d2-91d3-dd2ed68859ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou.}}, udp: true, tfo: false}
-  - {name: 158646 | @LonUp_M, server: www.speedtest.net, port: 80, type: vmess, uuid: ae6e1f89-eca9-43d2-91d3-dd2ed68859ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou.}}, udp: true, tfo: false}
-  - {name: 158467 | @SOSkeyNET, server: tr4.asasin5.ir, port: 110, type: vmess, uuid: 40fe98aa-6402-4360-8536-2abff5dc2c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158516 | @LonUp_M, server: tr4.asasin5.ir, port: 110, type: vmess, uuid: 40fe98aa-6402-4360-8536-2abff5dc2c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158485 | @SOSkeyNET, server: za-a-zzy.glnyhlgc.com, port: 443, type: vmess, uuid: 5583af50-f464-4df6-e2ef-34592311e5c6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /about/7678, headers: {Host: za-a-zzy.glnyhlgc.com}}, udp: true, tfo: false}
-  - {name: 158534 | @LonUp_M, server: za-a-zzy.glnyhlgc.com, port: 443, type: vmess, uuid: 5583af50-f464-4df6-e2ef-34592311e5c6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /about/7678, headers: {Host: za-a-zzy.glnyhlgc.com}}, udp: true, tfo: false}
-  - {name: 158032 | @SOSkeyNET, server: s1.connect.bloroxy.net, port: 1091, type: vmess, uuid: f3d275b4-77a6-4b24-8251-9f49a32faddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158081 | @LonUp_M, server: s1.connect.bloroxy.net, port: 1091, type: vmess, uuid: f3d275b4-77a6-4b24-8251-9f49a32faddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: dashboard.lunaramarket.top, port: 41501, type: vmess, uuid: 1af1b7f5-eb1e-4176-ab60-c134fd283b6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158961 | @SOSkeyNET, server: dashboard.lunaramarket.top, port: 41501, type: vmess, uuid: 1af1b7f5-eb1e-4176-ab60-c134fd283b6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159010 | @LonUp_M, server: dashboard.lunaramarket.top, port: 41501, type: vmess, uuid: 1af1b7f5-eb1e-4176-ab60-c134fd283b6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159025 | @SOSkeyNET, server: dl8.bcompelex.ir, port: 26512, type: vmess, uuid: 56f6a59d-1d3e-4e00-ad09-d79f81acb351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159074 | @LonUp_M, server: dl8.bcompelex.ir, port: 26512, type: vmess, uuid: 56f6a59d-1d3e-4e00-ad09-d79f81acb351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159451 | @LonUp_M, server: fr3.niekotin.de, port: 80, type: vmess, uuid: 59e29918-53b3-4fa2-becf-56a601f33998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fr3.niekotin.de}}, udp: true, tfo: false}
+  - {name: 159402 | @SOSkeyNET, server: fr3.niekotin.de, port: 80, type: vmess, uuid: 59e29918-53b3-4fa2-becf-56a601f33998, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fr3.niekotin.de}}, udp: true, tfo: false}
+  - {name: 159059 | @SOSkeyNET, server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159108 | @LonUp_M, server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim", server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159297 | @SOSkeyNET, server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159346 | @LonUp_M, server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -522,141 +544,207 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -672,141 +760,207 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158325 | @SOSkeyNET
-      - 158374 | @LonUp_M
-      - 158424 | @SOSkeyNET
-      - 158473 | @LonUp_M
-      - "@Daily_Configs"
-      - 158614 | @SOSkeyNET
-      - 158663 | @LonUp_M
-      - "@meliproxyy"
+      - 159670 | @SOSkeyNET
+      - "[openproxylist.com] vmess-KZ"
+      - 159676 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 159675 | @LonUp_M
+      - 159626 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 3
+      - 159410 | @SOSkeyNET
+      - 159459 | @LonUp_M
+      - 159407 | @SOSkeyNET
+      - 159456 | @LonUp_M
+      - 159423 | @SOSkeyNET
+      - 159472 | @LonUp_M
+      - 158896 | @SOSkeyNET
+      - 158945 | @LonUp_M
+      - 159421 | @SOSkeyNET
+      - 159470 | @LonUp_M
       - "@Vpn_Tehran 💚 کانال تلگرام"
+      - 158875 | @LonUp_M
+      - 158826 | @SOSkeyNET
       - "@Vpn_Tehran 🩵 کانال تلگرام"
-      - 158545 | @SOSkeyNET
-      - 158594 | @LonUp_M
-      - 158486 | @SOSkeyNET
-      - 158535 | @LonUp_M
-      - 157869 | @SOSkeyNET
-      - 157918 | @LonUp_M
-      - "@chillguy_vpn"
-      - 158271 | @SOSkeyNET
-      - 158320 | @LonUp_M
+      - 159565 | @SOSkeyNET
+      - 159614 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 4
+      - 159566 | @SOSkeyNET
+      - 159615 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 5
+      - 159627 | @SOSkeyNET
+      - 159676 | @LonUp_M
+      - 🇺🇸 [openproxylist.com] vmess-US 6
+      - 159670 | @LonUp_M
+      - 159621 | @SOSkeyNET
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 159637 | @SOSkeyNET
+      - 159686 | @LonUp_M
+      - 🇨🇦 [openproxylist.com] vmess-CA
+      - 159236 | @SOSkeyNET
+      - 159285 | @LonUp_M
+      - 159671 | @SOSkeyNET
+      - 🇺🇸 [openproxylist.com] vmess-US 7
       - "@Vpn_Tehran 💚 کانال تلگرام 2"
       - "@Vpn_Tehran 💚 کانال تلگرام 3"
-      - 158080 | @LonUp_M
-      - 158031 | @SOSkeyNET
-      - 158331 | @SOSkeyNET
-      - 158380 | @LonUp_M
+      - 159349 | @SOSkeyNET
+      - 159398 | @LonUp_M
+      - "@meliproxyy"
+      - 158978 | @SOSkeyNET
+      - 159027 | @LonUp_M
+      - "@chillguy_vpn"
       - "@Vpn_Tehran 🩵 کانال تلگرام 2"
-      - 158215 | @SOSkeyNET
-      - 158264 | @LonUp_M
-      - "@V2ray_official"
-      - 158269 | @SOSkeyNET
-      - 158318 | @LonUp_M
-      - 158483 | @SOSkeyNET
-      - 158532 | @LonUp_M
-      - 158597 | @SOSkeyNET
-      - 158646 | @LonUp_M
-      - 158467 | @SOSkeyNET
-      - 158516 | @LonUp_M
-      - 158485 | @SOSkeyNET
-      - 158534 | @LonUp_M
-      - 158032 | @SOSkeyNET
-      - 158081 | @LonUp_M
+      - "@meliproxyy 2"
+      - 158961 | @SOSkeyNET
+      - 159010 | @LonUp_M
+      - 159025 | @SOSkeyNET
+      - 159074 | @LonUp_M
+      - 159451 | @LonUp_M
+      - 159402 | @SOSkeyNET
+      - 159059 | @SOSkeyNET
+      - 159108 | @LonUp_M
+      - "@vasl_bashim"
+      - 159297 | @SOSkeyNET
+      - 159346 | @LonUp_M
+      - "@meliproxyy 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:
