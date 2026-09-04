@@ -465,11 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Бесплатный VPN Tg:VlessForU 🇳🇱, server: 82.26.74.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4b905f8d-7a39-4e26-8e2a-88fc8ad87db0, servername: cdn.byteark.com, host: cdn.byteark.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M, short-id: 1ed136481e0ede74}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇳🇱 2, server: 72.56.115.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e25f371-acc5-4eb6-afb3-b763ee75537d, servername: rotterdam.korgivps.ru, alpn: [http%2F1.1], network: ws, ws-opts: {path: /api/user, headers: {Host: rotterdam.korgivps.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇭🇺, server: 2.26.139.64, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 739c1201-db54-47f5-aed7-29782a5bbe18, servername: kukuruza.mycdn-me.ru, host: kukuruza.mycdn-me.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM, short-id: e17b4d9a8c1f3526}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tg:VlessForU top speed 🇸🇪, server: 89.22.228.241, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: dd45cc4b-9c64-4cc0-b475-3f98c66052cf, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uXZLBd0Oo4whnPdrpByupJq_3hdTvly9kIaGtAWSKyE, short-id: d713844be494}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇩🇪, server: korgivps.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e8e502bd-8c9e-4261-a020-7f7d41cc3c05, servername: korgivps.ru, network: ws, ws-opts: {path: /api/user, headers: {Host: korgivps.ru}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇬🇧, server: 144.31.213.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c78b433-e644-4249-9e56-86ab4c5106e2, servername: vip.check-ghost.space, host: vip.check-ghost.space, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mindism mindism VPN Tg:VlessForU 🇬🇧, server: vip.check-ghost.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c78b433-e644-4249-9e56-86ab4c5106e2, servername: vip.check-ghost.space, host: vip.check-ghost.space, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇧🇬, server: bg1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.StreamService}, reality-opts: {public-key: vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY, short-id: 954891aec4fe0be9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mindism VPN Tg:VlessForU 🇲🇩, server: md4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ApiService}, reality-opts: {public-key: TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg, short-id: 8e07337954f9823f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇭🇰, server: 212.192.13.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 302cf77d-6fb7-4ac8-ae61-88e286340d59, servername: www.cathaypacific.com, host: www.cathaypacific.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s, short-id: 1bc2c1ef1c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Beta-тест 🇩🇪, server: gr2.slikmobile.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9aff0732-7ce4-4b34-ba20-e67c6df64fdd, servername: gr2.slikmobile.ru, host: gr2.slikmobile.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fZTX_b8h4Cdf2xJCID00BqFzsjtKAAws4Y-OZtNLnE, short-id: 56f57b965ff599bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mi dism VPN Tg:VlessForU 🇨🇭, server: metach.adsmoba.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36, servername: metach.adsmoba.com, host: metach.adsmoba.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XatId7M5qJTuy9WBKcT_Z33n_MgBm3-F8IymygnjQmE, short-id: f3c9d9b1e7d4f712}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,33 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,33 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇳🇱
-      - Бесплатный VPN Tg:VlessForU 🇳🇱 2
-      - Бесплатный VPN Tg:VlessForU 🇭🇺
-      - tg:VlessForU top speed 🇸🇪
-      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇬🇧
+      - mindism mindism VPN Tg:VlessForU 🇬🇧
+      - Бесплатный VPN Tg:VlessForU 🇧🇬
+      - mindism VPN Tg:VlessForU 🇲🇩
+      - Бесплатный VPN Tg:VlessForU 🇭🇰
+      - Beta-тест 🇩🇪
+      - mi dism VPN Tg:VlessForU 🇨🇭
   - name: دانلود منیجر 📥
     type: select
     proxies:
