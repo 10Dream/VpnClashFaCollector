@@ -465,13 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Бесплатный VPN Tg:VlessForU 🇬🇧, server: 144.31.213.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c78b433-e644-4249-9e56-86ab4c5106e2, servername: vip.check-ghost.space, host: vip.check-ghost.space, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism mindism VPN Tg:VlessForU 🇬🇧, server: vip.check-ghost.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c78b433-e644-4249-9e56-86ab4c5106e2, servername: vip.check-ghost.space, host: vip.check-ghost.space, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇧🇬, server: bg1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.StreamService}, reality-opts: {public-key: vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY, short-id: 954891aec4fe0be9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN Tg:VlessForU 🇲🇩, server: md4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ApiService}, reality-opts: {public-key: TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg, short-id: 8e07337954f9823f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN Tg:VlessForU 🇭🇰, server: 212.192.13.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 302cf77d-6fb7-4ac8-ae61-88e286340d59, servername: www.cathaypacific.com, host: www.cathaypacific.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: O8Av8GXWVqj7FOxUyStmrTLWv5EtvQ1ZnMOVVLb1V3s, short-id: 1bc2c1ef1c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Beta-тест 🇩🇪, server: gr2.slikmobile.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9aff0732-7ce4-4b34-ba20-e67c6df64fdd, servername: gr2.slikmobile.ru, host: gr2.slikmobile.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fZTX_b8h4Cdf2xJCID00BqFzsjtKAAws4Y-OZtNLnE, short-id: 56f57b965ff599bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mi dism VPN Tg:VlessForU 🇨🇭, server: metach.adsmoba.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36, servername: metach.adsmoba.com, host: metach.adsmoba.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XatId7M5qJTuy9WBKcT_Z33n_MgBm3-F8IymygnjQmE, short-id: f3c9d9b1e7d4f712}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇻🇮, server: vi.pbvnet.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1ca94809-81c7-472a-ae56-148eeafd0c8f, servername: vi.pbvnet.com, host: vi.pbvnet.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EoKRkmI00YOHYZHEppOs0Rxp1xZrLuOjoCpE4mD1r3c, short-id: 62375e90d4c36533}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪, server: 132.243.228.209, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 70d482eb-7584-4841-a02a-c668f1ee33e7, servername: de.routeliora.ru, host: de.routeliora.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: مایندیسم VPN Tg:VlessForU 🇩🇪, server: 89.125.112.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4854b1a-ec0f-4c5e-940b-f23c8fd39253, servername: quanta-research.org, host: quanta-research.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qXnWnR9qjFvfC1njTwBy166KMW4kvcNtngU9z6umuEY, short-id: b5683d2afdad15db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: مایندیسم المانVPN Tg:VlessForU 🇩🇪, server: 89.125.112.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4854b1a-ec0f-4c5e-940b-f23c8fd39253, servername: quanta-research.org, host: quanta-research.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qXnWnR9qjFvfC1njTwBy166KMW4kvcNtngU9z6umuEY, short-id: b5683d2afdad15db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇩🇪, server: 89.125.112.116, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4854b1a-ec0f-4c5e-940b-f23c8fd39253, servername: quanta-research.org, host: quanta-research.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qXnWnR9qjFvfC1njTwBy166KMW4kvcNtngU9z6umuEY, short-id: b5683d2afdad15db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: German mindism VPN Tg:VlessForU 🇩🇪, server: 89.125.112.118, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4854b1a-ec0f-4c5e-940b-f23c8fd39253, servername: quanta-research.org, host: quanta-research.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qXnWnR9qjFvfC1njTwBy166KMW4kvcNtngU9z6umuEY, short-id: b5683d2afdad15db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:VlessForU 🇳🇱ل, server: 45.131.111.61, port: 20081, type: vless, tls: true, packet-encoding: xudp, uuid: d9d0f208-d582-41d5-bb7b-742671402810, servername: pgpbktb5fo6.vpvr4ib84nuv6hdkt.ru, host: pgpbktb5fo6.vpvr4ib84nuv6hdkt.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AMhVgmy1cPrujcUoV2MeHlCCqgMlU-_6v4eC1cWiSgk, short-id: 6ee5b4ebf3ac7862}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN Tg:Vless@mindismForU 🇮🇹, server: 2.56.121.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eec2f6a7-c10f-43b0-b133-61f9bf9bbc27, servername: www.ikea.com, host: www.ikea.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vnUSQFujh6K08KR6FHYWoBkZCAEZNWSKji0PPw9eMWM, short-id: 86229a5e3b1e6ef4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN Tg:VlessForU 🇬🇧
-      - mindism mindism VPN Tg:VlessForU 🇬🇧
-      - Бесплатный VPN Tg:VlessForU 🇧🇬
-      - mindism VPN Tg:VlessForU 🇲🇩
-      - Бесплатный VPN Tg:VlessForU 🇭🇰
-      - Beta-тест 🇩🇪
-      - mi dism VPN Tg:VlessForU 🇨🇭
+      - Бесплатный VPN Tg:VlessForU 🇻🇮
+      - جهت دریافت کانفیگ های رایگان به کانال مایندیسم بپیوندید VPN Tg:VlessForU 🇩🇪
+      - مایندیسم VPN Tg:VlessForU 🇩🇪
+      - مایندیسم المانVPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇩🇪
+      - German mindism VPN Tg:VlessForU 🇩🇪
+      - Бесплатный VPN Tg:VlessForU 🇳🇱ل
+      - Бесплатный VPN Tg:Vless@mindismForU 🇮🇹
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,143 +465,161 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-56", servername: ssl.fastly.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.177.61.231:30203, server: 18.177.61.231, port: 30203, type: vless, tls: true, packet-encoding: xudp, uuid: 0346a35f-8e11-4b33-852d-00fa9c642878, servername: www.sony.com, host: www.sony.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dsJ2WwzENgTAgd8okJPXLpwzdsDjU67mBEnhUhgvvTk, short-id: 40150721499a92}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.156.232.254:443, server: 94.156.232.254, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03c48eca-e0aa-4e18-998c-1f53f1de293c, servername: cf6.rumedia-cdn.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /cdn/v3/live, headers: {Host: cf6.rumedia-cdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ov-italy1.09vpn.com:80, server: ov-italy1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 049e56d8-0ba0-49e3-b764-ee04122b9f00, servername: ov-italy1.09vpn.com, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-italy1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.19.69.201:443, server: 46.19.69.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 053440e6-fc8d-48d9-bb4f-2675e367f64f, servername: wsnl7.wba-pn.ru, network: ws, ws-opts: {path: "/?TELEGRAM--TOOTFFARANGI?ed=512", headers: {Host: wsnl7.wba-pn.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 wsnl7.wba-pn.ru:443, server: wsnl7.wba-pn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 053440e6-fc8d-48d9-bb4f-2675e367f64f, network: ws, ws-opts: {path: /, headers: {Host: wsnl7.wba-pn.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 47.253.226.114:443, server: 47.253.226.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-66", servername: ssl.fastly.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: k2.cloud--vpn.site:443, server: k2.cloud--vpn.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 08ffff12-93bb-42eb-8c83-6489644a1d04, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: k2.cloud--vpn.site:443 2, server: k2.cloud--vpn.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 08ffff12-93bb-42eb-8c83-6489644a1d04, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.136.126.70:8443, server: 45.136.126.70, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a2dde28-70da-4863-a06f-35d007d94d35, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M, short-id: 67933d8be5b42f78}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: free.filecloudos.space:443, server: free.filecloudos.space, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c78b433-e644-4249-9e56-86ab4c5106e2, servername: ads.x5.ru, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: grpc-tunnel}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.101.1.242:443, server: 151.101.1.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d03e44f-f60f-41b6-8ad7-13445af164fd, servername: minimize-evenness.cdn-content.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: minimize-evenness.cdn-content.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0b7f69-78e1-4e9e-8b35-0986444613e4, servername: xwrivr.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: xwrivr.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 2, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0b7f69-78e1-4e9e-8b35-0986444613e4, servername: xwrivr.pages.dev, network: ws, ws-opts: {path: "/?ed=2048-MTMVPN", headers: {Host: xwrivr.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: fsercicesl.iramssnew2.ir:443, server: fsercicesl.iramssnew2.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14e84681-eba8-4503-9bfd-c64e35ef4726, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: e5EEKLpt_oiRToXwe9yrM_frlLNmitHNIUeFEKmFJ2U, short-id: 72038a58da833322}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: okm.corerelay.ir:2096, server: okm.corerelay.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1a89d654-5a5b-476c-8157-6691a8f85687, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Yef9_YrfRICUYUYnwCwDy3w9vzs7ljBmlOsPU9OVa1k, short-id: 8ce5e1dbeceab54a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:110, server: 91.228.227.172, port: 110, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0a74e1-3c69-4386-ae77-9db408d0687f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:8080, server: 91.228.227.172, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0a74e1-3c69-4386-ae77-9db408d0687f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 151.101.65.242:443, server: 151.101.65.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d03e44f-f60f-41b6-8ad7-13445af164fd, servername: adheres-scruple.quick-cdn.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: adheres-scruple.quick-cdn.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.92.33.95:443, server: 91.92.33.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0dd9cfaa-cebd-4444-8778-70cb22737944, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI, short-id: 2a236a7fcbe0ce61}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de11.bexait.ir:2434, server: de11.bexait.ir, port: 2434, type: vless, tls: true, packet-encoding: xudp, uuid: 0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c, servername: icloud.com, host: icloud.com, path: /, reality-opts: {public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0, short-id: 9de041877612a718}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.6:443, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0b7f69-78e1-4e9e-8b35-0986444613e4, servername: xwrivr.pages.dev, network: ws, ws-opts: {path: "/?TELEGRAM-V2ray_confiig?ed=512", headers: {Host: xwrivr.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.6:8080, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 12cebf33-2f96-48a3-af37-c2231e5cef75, network: ws, ws-opts: {path: /pyip=proxyip.us.cmliussss.net, headers: {Host: throbbing-moon-a07c.90-ec4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sub3.ak24.site:20234, server: sub3.ak24.site, port: 20234, type: vless, tls: true, packet-encoding: xudp, uuid: 14f5a8b8-e969-4169-8481-a10ac2eb9113, host: sub3.ak24.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.207.198.186:2087, server: 185.207.198.186, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 174622e3-2d1d-47ab-bf74-aef54996ec46, servername: film.dearhossein-taktaz.ir, network: ws, ws-opts: {path: /, headers: {Host: film.dearhossein-taktaz.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gsv1.montago-shop.ir:443, server: gsv1.montago-shop.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18a46172-92db-42b2-959a-4f3af68597f7, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ, short-id: 070a23aed243}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 151.242.168.237:443, server: 151.242.168.237, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 19a368d5-41bf-4821-986c-ed84901f4f30, servername: frantax.my3cx.de, host: frantax.my3cx.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 207.241.172.254:4777, server: 207.241.172.254, port: 4777, type: vless, tls: true, packet-encoding: xudp, uuid: 1a083e25-c9e1-451a-8412-6358a09f803b, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo, short-id: 01115788253bc845}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.167.24.227:18443, server: 104.167.24.227, port: 18443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c20357e-be52-4e5e-8eb6-6434adcb4b71, servername: gp1.steptofsvo.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0, short-id: 5c766813929a1fdd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇹 OV-Italy1.09vpn.com:80, server: OV-Italy1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1e280316-0408-47c4-b058-05b8f1f17f02, network: ws, ws-opts: {path: /vless/, headers: {Host: OV-Italy1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ov-italy1.09vpn.com:80 2, server: ov-italy1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1e280316-0408-47c4-b058-05b8f1f17f02, servername: OV-Italy1.09vpn.com, network: ws, ws-opts: {path: /vless/, headers: {Host: OV-Italy1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 150.251.141.91:8443, server: 150.251.141.91, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 23578a2c-2493-41f0-89ef-d7d3a7b85252, servername: nl4.pad-service.com, network: ws, ws-opts: {path: /NL4W, headers: {Host: nl4.pad-service.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.189.47.107:443, server: 185.189.47.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 252f7811-d86f-4dc2-97e0-83d3172ef4b8, servername: edge-se.mystatic-cdn.ru, host: edge-se.mystatic-cdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY, short-id: b21f41e79ecbac55}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.167.24.227:18443 2, server: 104.167.24.227, port: 18443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c20357e-be52-4e5e-8eb6-6434adcb4b71, servername: gp1.steptofsvo.com, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0, short-id: 5c766813929a1fdd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.167.24.227:18443 3, server: 104.167.24.227, port: 18443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c20357e-be52-4e5e-8eb6-6434adcb4b71, servername: gp1.steptofsvo.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0, short-id: 5c766813929a1fdd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c8a341b-050d-4dff-9f5c-df367d606993, network: ws, ws-opts: {path: /, headers: {Host: 7wwwspeedtestnet.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.255.126.104:46142, server: 5.255.126.104, port: 46142, type: vless, tls: true, packet-encoding: xudp, uuid: 255386a8-aec5-4425-bfe7-ca49b7448deb, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk, short-id: 39feeba3085c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.255.126.104:46142 2, server: 5.255.126.104, port: 46142, type: vless, tls: true, packet-encoding: xudp, uuid: 255386a8-aec5-4425-bfe7-ca49b7448deb, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk, short-id: 39feeba3085c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.33.62.166:43595, server: 45.33.62.166, port: 43595, type: vless, tls: true, packet-encoding: xudp, uuid: 2642f590-2bce-4031-8f93-7eed983621f5, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: waNzNRIL_3TaF3UfgeAy1M5r8YVUeOA0nx3jPiXYZSE, short-id: e482c0320674c651}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 159.195.137.29:8443, server: 159.195.137.29, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1, servername: sellflow.org, host: sellflow.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.235.16.130:19825, server: 146.235.16.130, port: 19825, type: vless, tls: true, packet-encoding: xudp, uuid: 2d1ad594-80a4-4bfb-87a6-038e39701f51, servername: sg2-8sb.6121999.dpdns.org, host: sg2-8sb.6121999.dpdns.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 150.40.126.18:443, server: 150.40.126.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: node.v2.ObjectService}, reality-opts: {public-key: upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY, short-id: ed0cd5cc2e26e6e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 150.40.126.21:443, server: 150.40.126.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: edge.v2.FeedService}, reality-opts: {public-key: gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ, short-id: 35d05b666e2c6cdf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 150.40.126.24:443, server: 150.40.126.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.ObjectService}, reality-opts: {public-key: X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE, short-id: 4872856d5489c37d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 150.40.126.24:443 2, server: 150.40.126.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.ObjectService}, reality-opts: {public-key: X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE, short-id: 4872856d5489c37d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.9.156.27:443, server: 45.9.156.27, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: home.v1.ApiService}, reality-opts: {public-key: XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk, short-id: 1be1bd931c98c84a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 150.40.126.24:443 3, server: 150.40.126.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.ObjectService}, reality-opts: {public-key: X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE, short-id: 4872856d5489c37d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.9.156.24:443, server: 45.9.156.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v2.PushService}, reality-opts: {public-key: 0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4, short-id: 501ab3325b77e1ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.9.156.24:443 2, server: 45.9.156.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v2.PushService}, reality-opts: {public-key: 0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4, short-id: 501ab3325b77e1ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.9.156.24:443 3, server: 45.9.156.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v2.PushService}, reality-opts: {public-key: 0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4, short-id: 501ab3325b77e1ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.35.14.30:443, server: 89.35.14.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.RelayService}, reality-opts: {public-key: xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY, short-id: 221ba6174224ca5b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.35.14.32:443, server: 89.35.14.32, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.PushService}, reality-opts: {public-key: q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ, short-id: 9a72d40f1ff882b3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: bg3.univesalsrv.com:443, server: bg3.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: home.v1.ApiService}, reality-opts: {public-key: XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk, short-id: 1be1bd931c98c84a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.35.14.33:443, server: 89.35.14.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ApiService}, reality-opts: {public-key: TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg, short-id: 8e07337954f9823f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.35.14.33:443 2, server: 89.35.14.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ApiService}, reality-opts: {public-key: TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg, short-id: 8e07337954f9823f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.35.14.33:443 3, server: 89.35.14.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ApiService}, reality-opts: {public-key: TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg, short-id: 8e07337954f9823f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bg4.univesalsrv.com:443, server: bg4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cloud.v1.RelayService}, reality-opts: {public-key: k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc, short-id: 51f45d4fd58cc319}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: rs1.univesalsrv.com:443, server: rs1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: node.v2.ObjectService}, reality-opts: {public-key: upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY, short-id: ed0cd5cc2e26e6e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: rs1.univesalsrv.com:443 2, server: rs1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: node.v2.ObjectService}, reality-opts: {public-key: upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY, short-id: ed0cd5cc2e26e6e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 88.216.68.68:443, server: 88.216.68.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f600710-9f4e-4eab-8de1-89f60a878e55, servername: usa1che.jarvesitw.ru, host: usa1che.jarvesitw.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo, short-id: 6591f200}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: bg4.univesalsrv.com:443 2, server: bg4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cloud.v1.RelayService}, reality-opts: {public-key: k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc, short-id: 51f45d4fd58cc319}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: md3.univesalsrv.com:443, server: md3.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.PushService}, reality-opts: {public-key: q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ, short-id: 9a72d40f1ff882b3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: rs2.univesalsrv.com:443, server: rs2.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: media.v1.ObjectService}, reality-opts: {public-key: tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE, short-id: 1469af2040b7c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.65.90.52:8880, server: 172.65.90.52, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 30e4c878-15ca-4f53-ab32-04c60ecd3f31, network: ws, ws-opts: {path: /pyip, headers: {Host: blue-rice-7142.30-346.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443, server: e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 336501b6-51d2-11ee-a993-f23c9164ca5d, servername: updates.cdn-apple.com, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], host: updates.cdn-apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.75.206.185:56539, server: 5.75.206.185, port: 56539, type: vless, tls: true, packet-encoding: xudp, uuid: 38d3c1cb-f44e-45d5-b249-6341f1f10728, host: adg.sws.applespeed.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.143.233.5:80, server: 185.143.233.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 38dd06a1-e1cb-492b-bb87-218ce05d0d67, network: ws, ws-opts: {path: /, headers: {Host: fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.143.233.5:80 2, server: 185.143.233.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 38dd06a1-e1cb-492b-bb87-218ce05d0d67, network: ws, ws-opts: {path: /, headers: {Host: fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.17.26.45:8880, server: 104.17.26.45, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 3a38b35b-7b31-452c-954f-99c2f45dda19, network: ws, ws-opts: {path: /pyip=ProxyIP.JP.CMLiussss.net, headers: {Host: sweet-truth-0f0c.71-fca.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ww5.levikogjgfdd.ir:443, server: ww5.levikogjgfdd.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3bcb31ef-840e-415d-abb3-28628add98d0, servername: strapi.io, host: strapi.io, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ, short-id: ff6975658b6cefce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.178.233.232:16138, server: 18.178.233.232, port: 16138, type: vless, tls: true, packet-encoding: xudp, uuid: 3fd01721-c3e7-4205-9b2c-4eb1f8f8578d, servername: www.sony.com, host: www.sony.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WVECuhHY1uql8Rwwmo10t72L1s_l-03b23w0gY2PDkI, short-id: 6305d3c1a69dc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.131.208.4:80, server: 45.131.208.4, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 424fa201-3f94-479e-b533-d5257cf9a207, network: ws, ws-opts: {path: /pyip=Telegram🇨🇳 @WangCai2, headers: {Host: floral-thunder-10d3.82-67d.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.105.137:80, server: 104.17.105.137, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.169.0.193:443, server: 89.169.0.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4018191a-0d77-4455-922b-dd198ce6a095, servername: api-as.data-media-social.org, host: api-as.data-media-social.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc, short-id: f3a9d2b1c7d4f608}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sub3.ak24.site:20234 2, server: sub3.ak24.site, port: 20234, type: vless, tls: true, packet-encoding: xudp, uuid: 4375c768-b5da-4e62-9800-db15ee4d7c4a, host: sub3.ak24.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.92.177:40443, server: 72.56.92.177, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: 4480161e-2c59-4d37-8736-675c9af32bf1, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y, short-id: 01d1bf2d4755d40c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: shop.jarorobo.ir:443, server: shop.jarorobo.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 44973e51-dab2-4df6-bc35-fb4849746114, servername: images.samsung.com, host: images.samsung.com, path: /, reality-opts: {public-key: uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw, short-id: e075c3934f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.74.214:8443, server: 104.21.74.214, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 469bc714-57c1-4091-8913-ff804b38bd3a, servername: maike-tison.briqivo.ir, network: ws, ws-opts: {path: /, headers: {Host: maike-tison.briqivo.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: p1real1.greewebservices.ir:1230, server: p1real1.greewebservices.ir, port: 1230, type: vless, tls: true, packet-encoding: xudp, uuid: 4e6b905e-2fe3-40d0-967e-fd4b11c2817f, servername: play.googleapis.com, host: play.googleapis.com, path: /, reality-opts: {public-key: xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8, short-id: 9b60d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.27.122.18:443, server: 104.27.122.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-90a51d022c96, servername: ez-6dbaee.zeus-qihhyk.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/90a51d022c96, headers: {Host: ez-6dbaee.zeus-qihhyk.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mn10.levikogjgfdd.ir:23776, server: mn10.levikogjgfdd.ir, port: 23776, type: vless, tls: true, packet-encoding: xudp, uuid: 5086262e-8381-483d-bc2e-d6867439928e, servername: www.intel.com, host: www.intel.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: rDDl9UktPqt5eBQtF_0npmVNjatgwmUc5QLcaI9LVjE, short-id: 5fa3f40a7cf1b9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: meli-netbot-join.team-pluss.com:8080, server: meli-netbot-join.team-pluss.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 52b7a871-1455-4a6e-9e9c-78a0a1e43f86, servername: the.world.of.the.champions.retrovip.net, host: the.world.of.the.champions.retrovip.net, path: /, reality-opts: {public-key: a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4, short-id: f40ef36067}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:110 2, server: 91.228.227.172, port: 110, type: vless, tls: true, packet-encoding: xudp, uuid: 535ce13c-134b-4cfd-8c77-0d006b67d318, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:443, server: 91.228.227.172, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 535ce13c-134b-4cfd-8c77-0d006b67d318, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:8080 2, server: 91.228.227.172, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 535ce13c-134b-4cfd-8c77-0d006b67d318, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 163.8.195.241:2087, server: 163.8.195.241, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, network: ws, ws-opts: {path: /29c8fed7ca22, headers: {Host: "%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 163.8.195.241:2087 2, server: 163.8.195.241, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, network: ws, ws-opts: {path: /29c8fed7ca22}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 163.8.195.241:2087 3, server: 163.8.195.241, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, network: ws, ws-opts: {path: /29c8fed7ca22, headers: {Host: "%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.75.194.217:56539, server: 5.75.194.217, port: 56539, type: vless, tls: true, packet-encoding: xudp, uuid: 5ca098ea-8220-42bb-b6b6-e155a6a62094, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.18.48.97:2053, server: 81.18.48.97, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: finanzfluss.de, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: remnagrpc}, reality-opts: {public-key: 5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0, short-id: 8b71da690c3d5d03}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 de1.cnyvpn.com:2053, server: de1.cnyvpn.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 60e2a548-96aa-4850-a279-1edab743c39b, servername: finanzfluss.de, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: remnagrpc}, reality-opts: {public-key: 5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0, short-id: 8b71da690c3d5d03}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 31.77.220.183:1443, server: 31.77.220.183, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 6379673b-197f-4944-ba81-a45c66aefe9c, servername: fi.aeternavpn.space, host: fi.aeternavpn.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.204.45.220:47991, server: 192.204.45.220, port: 47991, type: vless, tls: true, packet-encoding: xudp, uuid: 68b369cb-ee77-41e4-b514-cbaa6bbe7c19, servername: www.tesla.com, host: www.tesla.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RqYNfh-KZgzEYEeNE-Qpu4dscJMGfanILFdQomJu8DY, short-id: 76b663f249db51ac}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 57.131.21.102:8443, server: 57.131.21.102, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 69ac162b-1643-4acb-9f49-09d8b0fad609, servername: milan.adaspoloandco.com, network: ws, ws-opts: {path: /RoBeRt, headers: {Host: milan.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: milan.adaspoloandco.com:8443, server: milan.adaspoloandco.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 69ac162b-1643-4acb-9f49-09d8b0fad609, network: ws, ws-opts: {path: /RoBeRt, headers: {Host: milan.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: milan.adaspoloandco.com:8443 2, server: milan.adaspoloandco.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 69ac162b-1643-4acb-9f49-09d8b0fad609, servername: milan.adaspoloandco.com, network: ws, ws-opts: {path: /RoBeRt, headers: {Host: milan.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.195.209.55:39512, server: 52.195.209.55, port: 39512, type: vless, tls: true, packet-encoding: xudp, uuid: 70baf116-c56f-4bb8-bf48-d1f835814a89, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JuWGiLt32IXY1GWi0BvhbPC4y2_aId6agnJLVzHVx30, short-id: 549d3e0c2539d5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.140.12.160:2083, server: 185.140.12.160, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 70e20b2e-3b1f-4c25-9a3d-9240570391bb, servername: derman.neobo-tooth.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 140.248.186.45:80, server: 140.248.186.45, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7293c95d-fd27-4f57-a360-a55d909f4bcc, network: ws, ws-opts: {path: /, headers: {Host: echopress-bot-1444-ad1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.101.128.223:80, server: 151.101.128.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7293c95d-fd27-4f57-a360-a55d909f4bcc, network: ws, ws-opts: {path: /, headers: {Host: echopress-bot-1444-ad1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.101.192.223:80, server: 151.101.192.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7293c95d-fd27-4f57-a360-a55d909f4bcc, network: ws, ws-opts: {path: /, headers: {Host: echopress-bot-1444-ad1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.82.95.202:80, server: 167.82.95.202, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 7293c95d-fd27-4f57-a360-a55d909f4bcc, network: ws, ws-opts: {path: /, headers: {Host: echopress-bot-1444-ad1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.224.87.22:9882, server: 91.224.87.22, port: 9882, type: vless, tls: true, packet-encoding: xudp, uuid: 76186f1e-3062-4a2b-98c2-fab3c61a9511, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU, short-id: aabb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.17.116.201:443, server: 78.17.116.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8535e46f-4c0b-4b02-9369-d4d553c9a892, servername: www.nokia.com, host: www.nokia.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ww7.levikogjgfdd.ir:443, server: ww7.levikogjgfdd.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 85cc845e-644c-4148-8288-f0c03c83c1ec, servername: fi.quattro-tech.ru, host: fi.quattro-tech.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc, short-id: 43dcff53849b81e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 31.76.80.69:443, server: 31.76.80.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8975546a-375c-4966-8064-19fc0f66f30a, servername: www.amd.com, host: www.amd.com, path: /, reality-opts: {public-key: zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk, short-id: 5caa2ef81132c306}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 31.58.144.31:18149, server: 31.58.144.31, port: 18149, type: vless, tls: true, packet-encoding: xudp, uuid: 8997dde9-498b-48f2-ae64-89cdad2cfcdf, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LBlScaTInFivNfOiYzDW8ExpwR2O3p4j-vJ8f-4JGWw, short-id: a4f78af8c177c10a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 150.241.72.43:443, server: 150.241.72.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c64cae9-a513-4e37-a68c-980bcaf2c591, servername: at1.hat.onl, host: at1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc, short-id: 76132b3b39704c44}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62.133.63.253:443, server: 62.133.63.253, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c64cae9-a513-4e37-a68c-980bcaf2c591, servername: tr1.hat.onl, host: tr1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc, short-id: 76132b3b39704c44}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 64.188.80.82:443, server: 64.188.80.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c64cae9-a513-4e37-a68c-980bcaf2c591, servername: fi1.hat.onl, host: fi1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc, short-id: 76132b3b39704c44}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.92.43.177:443, server: 91.92.43.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fe8c95f-1840-42b8-bdf2-35c858eca4e9, servername: expire.selfsteal.vip, host: expire.selfsteal.vip, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NUszayjBaw2LyjJtctsGRPzLltoafwwxO7xgEcDXWGk, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.217.240:443, server: 172.67.217.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9b18ccef-b9e0-41d1-8990-9d970569e142, servername: web-socket.tgdaosheng.ggff.net, network: ws, ws-opts: {path: /proxyip=bpb.yousef.isegaro.com, headers: {Host: web-socket.tgdaosheng.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 216.167.27.227:41478, server: 216.167.27.227, port: 41478, type: vless, tls: true, packet-encoding: xudp, uuid: a5c9b82e-b971-4502-bce4-693f1eb97229, servername: www.intel.com, host: www.intel.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XImbM2wWs5wGcIB2ooFmtancJkhnWJZmsBPlM76gWG0, short-id: 285be4ed203a22fd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:110 3, server: 91.228.227.172, port: 110, type: vless, tls: true, packet-encoding: xudp, uuid: a94a402b-e1cf-43d9-9304-3ccc07126eb9, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.204.97.195:23576, server: 15.204.97.195, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: e-d3.rehan-boesap.ir:8443, server: e-d3.rehan-boesap.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM, short-id: 8b2caa1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: e-d6.rehan-boesap.ir:8443, server: e-d6.rehan-boesap.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM, short-id: 8b2caa1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: e-n.celmexa.ir:8443, server: e-n.celmexa.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM, short-id: 8b2caa1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: finland.tl-germ.ir:8443, server: finland.tl-germ.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM, short-id: 8b2caa1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: uispo.borna-lbop.ir:8443, server: uispo.borna-lbop.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d63a6ba-5a9c-3bd3-7734-fa850a7c9ca5, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: LvyogY3W7rt_7SkgWJfrwa4Pimzv-h9AzO5GCzm4pmM, short-id: 8b2caa1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.184.37:8880, server: 172.67.184.37, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4f54572a-b852-4da3-8823-0ddccc60b5d8, network: ws, ws-opts: {path: /, headers: {Host: icy-snowflake-1f56.147-1ea.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.253.30.99:40443, server: 5.253.30.99, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: 511c1563-2cb6-4064-abc6-a59ee49818a8, servername: deepl.com, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0, short-id: 88b6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.192.217.236:8443, server: 212.192.217.236, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51231507-67c3-4141-ab08-a69eb121c716, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U, short-id: 1688}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: yesilove.beer:8443, server: yesilove.beer, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51231507-67c3-4141-ab08-a69eb121c716, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U, short-id: 1688}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.147.26.175:443, server: 185.147.26.175, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 55ed97fc-77d1-4802-baf3-acef70776331, servername: yt.orpheous.ru, host: yt.orpheous.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4, short-id: e4aa362b5f9d07d7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 yt.orpheous.ru:443, server: yt.orpheous.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 55ed97fc-77d1-4802-baf3-acef70776331, servername: yt.orpheous.ru, host: yt.orpheous.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4, short-id: e4aa362b5f9d07d7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: 5b8165d4-87bb-4584-96af-a4997261ffd9, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84.32.177.6:443, server: 84.32.177.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d8cf280-e0f4-4539-b35c-7ff90659c0d0, servername: apiv5.jarvesitw.ru, host: apiv5.jarvesitw.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg, short-id: cf41f778}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sv14.betust.net:443, server: sv14.betust.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d8cf280-e0f4-4539-b35c-7ff90659c0d0, servername: apiv14.betust.net, host: apiv14.betust.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE, short-id: ab9d5f3c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.204.171.221:443, server: 185.204.171.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5fca9c0b-5575-4e98-8af2-8cd867ab731d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.43.146.241:59726, server: 212.43.146.241, port: 59726, type: vless, tls: true, packet-encoding: xudp, uuid: 603856a5-8604-4670-8ea5-ee3b39342a53, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk, short-id: 90a901}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.43.146.241:59726 2, server: 212.43.146.241, port: 59726, type: vless, tls: true, packet-encoding: xudp, uuid: 603856a5-8604-4670-8ea5-ee3b39342a53, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk, short-id: 90a901}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.192.224.30:8880, server: 45.192.224.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime17.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.65.90.52:8880 2, server: 172.65.90.52, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 667a035b-6656-4a4f-a74c-8cd6a679f8d4, network: ws, ws-opts: {path: /pyip=ProxyIP.SG.CMLiussss.net, headers: {Host: winter-mode-7f4e.89-136.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: milan.adaspoloandco.com:8443, server: milan.adaspoloandco.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 69ac162b-1643-4acb-9f49-09d8b0fad609, servername: milan.adaspoloandco.com, network: ws, ws-opts: {path: /RoBeRt, headers: {Host: milan.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 31.128.37.67:16560, server: 31.128.37.67, port: 16560, type: vless, tls: true, packet-encoding: xudp, uuid: 6d60c73d-5915-4cf8-b155-e522dfd863bb, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.80.1:8880, server: 172.64.80.1, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9, network: ws, ws-opts: {path: /pyip=ProxyIP.JP.CMLiussss.net, headers: {Host: tight-star-08eb.331-729.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 132.243.228.209:7443, server: 132.243.228.209, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 70d482eb-7584-4841-a02a-c668f1ee33e7, servername: de.routeliora.ru, host: de.routeliora.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de.routeliora.ru:7443, server: de.routeliora.ru, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 70d482eb-7584-4841-a02a-c668f1ee33e7, servername: de.routeliora.ru, host: de.routeliora.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46.8.21.191:30021, server: 46.8.21.191, port: 30021, type: vless, tls: true, packet-encoding: xudp, uuid: 721df957-3c91-439d-b937-0c620d8d56bd, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 43.161.254.71:443, server: 43.161.254.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7893b302-3882-4c38-9ab6-6313f1575d1a, servername: cf.udpid.org, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], network: ws, ws-opts: {path: /@zyzzzoao, headers: {Host: cf.udpid.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5n4lmxeu.selqora.ir:31663, server: 5n4lmxeu.selqora.ir, port: 31663, type: vless, tls: true, packet-encoding: xudp, uuid: 8cc08028-07e1-4ec6-a836-eee68fab6c10, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: HbzPMj4dHY0RX8oZCiFU60HPoc5pCc5iuORNYlTCOWY, short-id: 32bf1b3fe9c072a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9jzxiz62.selqora.ir:56514, server: 9jzxiz62.selqora.ir, port: 56514, type: vless, tls: true, packet-encoding: xudp, uuid: 8cc08028-07e1-4ec6-a836-eee68fab6c10, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: GRgIJHNAOFEDtZlHhxkkoxhUk3xxm04NNuI9h2VATH8, short-id: 7649a935e6fd2399}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fyh2s2vu.danqela.ir:50303, server: fyh2s2vu.danqela.ir, port: 50303, type: vless, tls: true, packet-encoding: xudp, uuid: 8cc08028-07e1-4ec6-a836-eee68fab6c10, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: vvfBLh_F_at9_JVe1dkfmCfNH-ibLwJhLta-6PHsOBE, short-id: 116e67a5e2307565}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v3o45am5.selqora.ir:22211, server: v3o45am5.selqora.ir, port: 22211, type: vless, tls: true, packet-encoding: xudp, uuid: 8cc08028-07e1-4ec6-a836-eee68fab6c10, host: apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: spd-spd-spd.team-pluss.com:8080, server: spd-spd-spd.team-pluss.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 8d1fac7b-690b-420f-955e-d7e9900561a1, servername: the.world.of.the.champions.retrovip.net, host: the.world.of.the.champions.retrovip.net, path: /, reality-opts: {public-key: a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4, short-id: 8d9419e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 153.80.249.125:443, server: 153.80.249.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 901e6dca-1b73-4266-978b-f7dc1266a7f6, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs, short-id: 23ae46816e87c7b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.b.mobilesari.ir:443, server: www.b.mobilesari.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91a32c70-7a90-42ca-94d5-cd44b98cd262, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM, short-id: 5002b5329814b487}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.38.70.192:443, server: 51.38.70.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9343f183-7a16-4bdd-9c65-b0c21feca40b, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M, short-id: 98fa0b00d09419f7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.38.70.192:443 2, server: 51.38.70.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9343f183-7a16-4bdd-9c65-b0c21feca40b, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M, short-id: 98fa0b00d09419f7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 8970141323_e90f.d8a.syslogd.ir:9094, server: 8970141323_e90f.d8a.syslogd.ir, port: 9094, type: vless, tls: true, packet-encoding: xudp, uuid: 9570e104-9f08-4a4e-94a4-5b8ffb588646, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _wJqd5Am8LwVgEEwzBSAuWa8aGlwx1wxew7eHMz18xk, short-id: f579f0598e22af3a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 8970141323_e90f.t3a.syslogd.ir:9093, server: 8970141323_e90f.t3a.syslogd.ir, port: 9093, type: vless, tls: true, packet-encoding: xudp, uuid: 9570e104-9f08-4a4e-94a4-5b8ffb588646, network: ws, ws-opts: {path: "/api/v2/com.trezor.io?ed=2560", headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: k2.cloud--vpn.site:443 2, server: k2.cloud--vpn.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95b5d1d0-a878-4a52-bf2a-c8e323457b02, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.75.207.73:8090, server: 5.75.207.73, port: 8090, type: vless, tls: true, packet-encoding: xudp, uuid: 9c602d08-a0d6-479d-9657-135e1c9b5a52, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: t_fK8a7jtmIGyUDBwqwhiwK8NUOEeErKCmUO-4wqDno, short-id: f947d9f8a1ad6daa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443, server: ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9cc3c03e-21fd-11ee-a642-f23c91369f2d, servername: updates.cdn-apple.com, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], host: updates.cdn-apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 2, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: 9d1edc82-a983-496a-954a-a52e4fb13f37, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 3, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: 9e320f5b-6574-41bc-bb41-59f21c943b0d, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 4, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: 9e320f5b-6574-41bc-bb41-59f21c943b0d, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.17.66:443, server: 144.31.17.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9fdc794e-3ec2-4907-90ad-d7e9b0d5e747, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc, short-id: c7514dbbd2af28b5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mira2.godp.ir:3113, server: mira2.godp.ir, port: 3113, type: vless, tls: true, packet-encoding: xudp, uuid: a133cbd4-2ce4-47e5-9728-937b6cfaa6af, servername: global.sony.eu, host: global.sony.eu, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EPCfWxz-0Kc8XjP0OoQnZZPmJfKzXurRvpe0VQvc1XE, short-id: 6e5661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de13.bexait.ir:2434, server: de13.bexait.ir, port: 2434, type: vless, tls: true, packet-encoding: xudp, uuid: a3558ef4-b843-4b05-8456-495815234c95, servername: icloud.com, host: icloud.com, path: /, reality-opts: {public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0, short-id: 9de041877612a718}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 167.104.104.138:8443, server: 167.104.104.138, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a5194487-9b9a-462f-a047-ac7580d80201, servername: n.tmkkarss.online, network: ws, ws-opts: {path: /, headers: {Host: n.tmkkarss.online}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 103.246.146.220:59726, server: 103.246.146.220, port: 59726, type: vless, tls: true, packet-encoding: xudp, uuid: a8eabfe5-0140-4fbf-a3b1-7f807d879f79, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk, short-id: 37dcbf75}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 145.63.132.218:59726, server: 145.63.132.218, port: 59726, type: vless, tls: true, packet-encoding: xudp, uuid: a8eabfe5-0140-4fbf-a3b1-7f807d879f79, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk, short-id: 2050c0ac613e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.83.129.124:443, server: 5.83.129.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14, servername: 50gport3.potatosubge20.org, alpn: [http%2F1.1], host: 50gport3.potatosubge20.org, path: /, flow: xtls-rprx-vision-udp443, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.101.192.223:80 2, server: 151.101.192.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: abe29339-9ac1-48be-bc47-00d81c0a3019, network: ws, ws-opts: {path: /ws, headers: {Host: freekabotar2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.3:443, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aa519395-940a-4778-9e65-d06fe6835405, servername: cTO5n8WeRerTNkYHPM5RFTPIopaAv0.kMpVties9zlT4B6IZ5X6AGNO9.woRkErS.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/vl/zwnxUaFvsHTWfqFCo6NNyyb7C?ed=2560", headers: {Host: cTO5n8WeRerTNkYHPM5RFTPIopaAv0.kMpVties9zlT4B6IZ5X6AGNO9.woRkErS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.119.176.24:443, server: 88.119.176.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae8e0f7d-b661-41ca-b55d-d8c383adb2f8, servername: lit9.helper-internet.com, host: lit9.helper-internet.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE, short-id: ff776ff77be48b88}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.136.92.67:443, server: 213.136.92.67, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: af348651-1624-4710-b55f-0307a22d891f, servername: status.play.google.com, host: status.play.google.com, path: /, reality-opts: {public-key: jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo, short-id: 5030}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: aml1.plasdomain.ir:32855, server: aml1.plasdomain.ir, port: 32855, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10, short-id: deb7a9e5a6e1d41a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ita1.plasdomain.ir:32855, server: ita1.plasdomain.ir, port: 32855, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10, short-id: deb7a9e5a6e1d41a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lopa1.plasdomain.ir:32855, server: lopa1.plasdomain.ir, port: 32855, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10, short-id: deb7a9e5a6e1d41a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lopa1.plasdomain.ir:53147, server: lopa1.plasdomain.ir, port: 53147, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tuuy.plasdomain.ir:32855, server: tuuy.plasdomain.ir, port: 32855, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10, short-id: deb7a9e5a6e1d41a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tuuy.plasdomain.ir:53147, server: tuuy.plasdomain.ir, port: 53147, type: vless, tls: true, packet-encoding: xudp, uuid: b55d4ef4-4f37-467e-8a34-14986a21d6da, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:110 4, server: 91.228.227.172, port: 110, type: vless, tls: true, packet-encoding: xudp, uuid: b877fa69-2d1c-48da-a1e8-2ac8a40f1227, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 82.118.16.20:443, server: 82.118.16.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbc82487-c90c-4c14-8ceb-93d62ad497fc, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: j0A43i0wgMyM0118jBsy9s8XJ36oK2rr8aj1egLjfCc, short-id: c1c9554e0a86a3a7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 138.124.60.146:443, server: 138.124.60.146, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbfd1f68-ec64-452f-8404-9e2bcf1df951, servername: usa.oblaco.bet, host: usa.oblaco.bet, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 95.85.230.35:443, server: 95.85.230.35, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbfd1f68-ec64-452f-8404-9e2bcf1df951, servername: de.oblaco.bet, host: de.oblaco.bet, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ww4.levikogjgfdd.ir:32396, server: ww4.levikogjgfdd.ir, port: 32396, type: vless, tls: true, packet-encoding: xudp, uuid: bd6ebd72-25cd-4209-a418-a8c72946da90, servername: www.sony.com, host: www.sony.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU, short-id: dd6ce6af95001a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 178.95.170.115:2087, server: 178.95.170.115, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be, network: ws, ws-opts: {path: /4bc027a44532, headers: {Host: Telegram-Leviko_v2ray}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 neth8.lunariai.ru:443, server: neth8.lunariai.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c21631d5-36c9-4664-b575-97eca17456be, network: ws, ws-opts: {path: /, headers: {Host: neth8.lunariai.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:110 5, server: 91.228.227.172, port: 110, type: vless, tls: true, packet-encoding: xudp, uuid: c5249cf1-d682-42d9-8af8-c1faade2fdec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:443 2, server: 91.228.227.172, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c5249cf1-d682-42d9-8af8-c1faade2fdec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.228.227.172:8080 3, server: 91.228.227.172, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: c5249cf1-d682-42d9-8af8-c1faade2fdec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇬🇧 gb5.murhost.network:443, server: gb5.murhost.network, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6cff605-90cf-4953-bf97-0a44e43f229d, servername: gb5.murhost.network, host: gb5.murhost.network, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo, short-id: fc36b4a584871aa5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.75.195.244:40792, server: 5.75.195.244, port: 40792, type: vless, tls: true, packet-encoding: xudp, uuid: cc50ca48-b54a-42f3-afad-c54b136d1f14, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CkuULNczLmaVd-vabRfj3UpPd__M7BlrXivZ728Toyg, short-id: 546b264aac9b6fed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ww6.levikogjgfdd.ir:443, server: ww6.levikogjgfdd.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cf990ae8-ee77-4436-aa3a-bbc2fb040c53, host: store.steampowered.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.157.104:20017, server: 144.31.157.104, port: 20017, type: vless, tls: true, packet-encoding: xudp, uuid: d2733ae6-44e7-4b14-8c2d-3f5bef74cdec, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.157.104:20017 2, server: 144.31.157.104, port: 20017, type: vless, tls: true, packet-encoding: xudp, uuid: d2733ae6-44e7-4b14-8c2d-3f5bef74cdec, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: istan.zavqeron.ir:8444, server: istan.zavqeron.ir, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: d2edc028-3452-46b5-8098-c22690cd4549, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: 4_-SYNUa6FNFe4yKiomBiyW9UqUZwlJfA8LnXZ0QRXA, short-id: 68d2d5f8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: zavqeron.ir:2053, server: zavqeron.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d2edc028-3452-46b5-8098-c22690cd4549, servername: zavqeron.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /tr2-cdn, headers: {Host: zavqeron.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ww10.levikogjgfdd.ir:55861, server: ww10.levikogjgfdd.ir, port: 55861, type: vless, tls: true, packet-encoding: xudp, uuid: d51ed55c-d6dd-400b-aaf6-017c33969bfe, servername: www.intel.com, host: www.intel.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs, short-id: 7551ed1b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 203.23.179.147:8443, server: 203.23.179.147, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d53f098c-c146-4c16-b8fc-263743fdb6b3, servername: palworld.mega-play.app, host: palworld.mega-play.app, path: /, reality-opts: {public-key: ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14, short-id: ae47480fa46b76b0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: a2.arshia-nova.ir:443, server: a2.arshia-nova.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d60e2537-13e8-41db-bdad-cd5c054a0ec7, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.142.37.217:443, server: 192.142.37.217, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d62d49cb-a9b5-4f1f-90a4-316ecc3dadc4, servername: www.oracle.com, host: www.oracle.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc, short-id: 89e0494514ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.101.1.242:443 2, server: 151.101.1.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d643c485-eb5d-4085-a7f6-1889049384cb, servername: adheres-scruple.quick-cdn.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: adheres-scruple.quick-cdn.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:443, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: da6ece67-aff5-4f94-94f3-08e87ca8cd51, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 217.16.31.218:443, server: 217.16.31.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: grm3.fereshtehagonahnemikonnad.ir:8443, server: grm3.fereshtehagonahnemikonnad.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b1e8a8fb-5d4d-4d14-ad72-e2b80337c0a9, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hMXDSai7G4IGOX5WLbUNSoMYJAfK2HbF2Fydxk-dgjk, short-id: e5c2227d78a1b375}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ae.209qu4892fh8934.live:443, server: ae.209qu4892fh8934.live, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbb9b9db-d7f8-4242-b053-8526899f87b5, servername: irangov.ir, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: livestreamcontent}, reality-opts: {public-key: PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA, short-id: 5c93a30dbabbc444}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tr-akbar-awex.awexio.ir:20988, server: tr-akbar-awex.awexio.ir, port: 20988, type: vless, tls: true, packet-encoding: xudp, uuid: bcc661cc-4604-4610-95ee-60a469ca66f2, servername: nihongoacademy.jp, host: nihongoacademy.jp, path: /, reality-opts: {public-key: KNZrRBUj714rDAQPM-oWy_MPO791eXxtDWuSu_l6QD8, short-id: 81afcb236d29f3b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 5, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: bfd636ff-59f3-4e98-8a31-a47985e6bc3e, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.27.202.112:443, server: 2.27.202.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bfde1878-f157-4ec7-a5ad-38e8835c6e36, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Uaq2YojNeUXGkaCPKxcR_IF9iaatuc3srHfFuwwG7FA, short-id: a19516e2d20b09e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 6, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: c2f33b4c-aae2-4e1d-be70-0eecfd50c55c, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 31.76.81.9:443, server: 31.76.81.9, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c47b421f-65f1-4190-b7ba-bd2045086fe4, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI, short-id: 7f2e9c4b1a8d6e53}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84.32.177.6:443 2, server: 84.32.177.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6037cf7-d931-4027-af06-6bfb0f10684c, servername: apiv5.jarvesitw.ru, host: apiv5.jarvesitw.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg, short-id: cf41f778}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sv14.betust.net:443 2, server: sv14.betust.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6037cf7-d931-4027-af06-6bfb0f10684c, servername: apiv14.betust.net, host: apiv14.betust.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE, short-id: ab9d5f3c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 sv7.jarvesitw.ru:443, server: sv7.jarvesitw.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6037cf7-d931-4027-af06-6bfb0f10684c, servername: apiv7.jarvesitw.ru, host: apiv7.jarvesitw.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk, short-id: 4de8a374}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sub3.ak24.site:20234 3, server: sub3.ak24.site, port: 20234, type: vless, tls: true, packet-encoding: xudp, uuid: c6f72a9d-360a-4292-9777-a0307d04d332, host: sub3.ak24.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.5.64:443, server: 144.31.5.64, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd3bb7d9-7df3-4644-ac05-c260990ac277, servername: pl6.moritech.net, alpn: [h2], host: pl6.moritech.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: rubifen.adaspoloandco.com:443, server: rubifen.adaspoloandco.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cf39fab0-bb85-42cb-9945-2ad69d78e575, servername: rubifen.adaspoloandco.com, network: ws, ws-opts: {path: /GOrbEh, headers: {Host: rubifen.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.17.66:443 2, server: 144.31.17.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d2351240-3ef6-4ec3-a82c-0e71742895dc, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc, short-id: c7514dbbd2af28b5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46.62.135.67:443, server: 46.62.135.67, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d2351240-3ef6-4ec3-a82c-0e71742895dc, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: 1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo, short-id: 7a0300af51a1c4cf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57.131.38.163:2053, server: 57.131.38.163, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d4b08cd6-0903-411a-9dac-45dbdf5c9712, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc, short-id: 5b8a942318178e7b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ciel.hlsd.ir:4445, server: ciel.hlsd.ir, port: 4445, type: vless, tls: true, packet-encoding: xudp, uuid: d4c7303f-f463-4145-ab0a-938ddbbc7264, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 0qX8IIejiNzzDuy62m4gFLZSixLPWD2edf9tEGIe5EM, short-id: 2b69c88d1ca07b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80 2, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d4eb2efc-b444-4e9e-bebe-282b96c07d49, network: ws, ws-opts: {path: /, headers: {Host: 7wwwspeedtestnet.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80 3, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d4eb2efc-b444-4e9e-bebe-282b96c07d49, network: ws, ws-opts: {path: /, headers: {Host: BlackGod.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: i.cloudnet1.ir:443, server: i.cloudnet1.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5463106-bc2e-49f5-8da0-5f6eec58af64, servername: fi.wikipedia.org, host: fi.wikipedia.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: i.cloudnet1.ir:443 2, server: i.cloudnet1.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5463106-bc2e-49f5-8da0-5f6eec58af64, servername: fi.wikipedia.org, host: fi.wikipedia.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.21.88.129:8880, server: 104.21.88.129, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: d829cf8d-0a32-4e60-bcc3-a03fb4658ea4, network: ws, ws-opts: {path: /pyip, headers: {Host: shy-wind-a26f.182-104.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.190.141:8880, server: 172.67.190.141, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: d8a7b463-dc98-474d-a87e-8781476aef32, alpn: [http/1.1], network: ws, ws-opts: {path: /pyip=ProxyIP.KR.CMLiussss.net, headers: {Host: ancient-tree-7dc9.336-5f9.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 eu-central-de-1.hanvpn.biz:443, server: eu-central-de-1.hanvpn.biz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9d0f208-d582-41d5-bb7b-742671402810, servername: eu-central-de-1.hanvpn.iz, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], host: eu-central-de-1.hanvpn.iz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B2ZW-mosEf8Cz4PYahKxn_B4Qa3yDZ9qFG7uLan-ngQ, short-id: 0183b7681806bc97}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.39.96.233:8443, server: 54.39.96.233, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: db3f09ae-23f2-42b8-abee-7b89fb392c5e, servername: maple.adaspoloandco.com, network: ws, ws-opts: {path: /uploader.php, headers: {Host: maple.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.19.228.119:80, server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, alpn: [http%2F1.1], network: ws, ws-opts: {path: /http, headers: {Host: "%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.19.228.119:80 2, server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, alpn: [http%2F1.1], network: ws, ws-opts: {path: /http, headers: {Host: "%2F%3Fv2rayNplus--v2rayNplus--v2rayNplus"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.19.228.119:80 3, server: 162.19.228.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51, alpn: [http%2F1.1], network: ws, ws-opts: {path: /http, headers: {Host: "%2F%3Fv2rayNplus--v2rayNplus--v2rayNplus"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.224.91.247:22222, server: 15.224.91.247, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.168.125.235:22222, server: 18.168.125.235, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.169.233.193:22222, server: 18.169.233.193, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.9.28.242:22222, server: 3.9.28.242, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.47.166.121:22222, server: 52.47.166.121, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.165.125:443, server: 172.67.165.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e48e4049-58bb-4355-9a9a-433b9524d928, servername: z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV, network: ws, ws-opts: {path: "/vl/Fx1O4r0oHuQMNuKFQzcoV2yl31?ed", headers: {Host: z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.64.150.28:2082, server: 172.64.150.28, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, network: ws, ws-opts: {path: /fp, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.64.150.28:2082 2, server: 172.64.150.28, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, servername: hhlfy.twiladaphne.ndjp.net, network: ws, ws-opts: {path: /fp, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:443 2, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e60265c7-8b28-4b93-9a6e-c502c497cac3, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:80, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e60265c7-8b28-4b93-9a6e-c502c497cac3, network: ws, ws-opts: {path: /, headers: {Host: 7wwwspeedtestnet.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.61.28.51:443, server: 5.61.28.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eaeb9077-b90c-45e3-a52c-da847f5f86d7, servername: v5p.sabermusic.ir, host: v5p.sabermusic.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: maple.adaspoloandco.com:8443, server: maple.adaspoloandco.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: db3f09ae-23f2-42b8-abee-7b89fb392c5e, servername: maple.adaspoloandco.com, network: ws, ws-opts: {path: /uploader.php, headers: {Host: maple.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.121.241:22223, server: 13.36.121.241, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.74.87:22222, server: 13.36.74.87, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.74.87:22224, server: 13.36.74.87, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.47.129.194:22224, server: 52.47.129.194, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.150.28:2082, server: 172.64.150.28, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], network: ws, ws-opts: {path: /fp, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.150.28:2082 2, server: 172.64.150.28, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, network: ws, ws-opts: {path: /fp, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.150.28:2082 3, server: 172.64.150.28, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b, network: ws, ws-opts: {path: /fp, headers: {Host: hhlfy.twiladaphne.ndjp.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 157.22.133.130:2087, server: 157.22.133.130, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e6d369db-22be-4f30-8685-455c717aaa8c, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], network: ws, ws-opts: {path: /5021201ef53f}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 157.22.133.130:2087 2, server: 157.22.133.130, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e6d369db-22be-4f30-8685-455c717aaa8c, network: ws, ws-opts: {path: /5021201ef53f}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v5p.sabermusic.ir:443, server: v5p.sabermusic.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eaeb9077-b90c-45e3-a52c-da847f5f86d7, host: v5p.sabermusic.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tgfree.rush-server.com:443, server: tgfree.rush-server.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ebd1c0d6-7ff4-4b9f-8692-237517a27a64, servername: anyfile2file.com, host: anyfile2file.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0, short-id: 64c1fe36c7846400}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tgfree.rush-server.com:443 2, server: tgfree.rush-server.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ebd1c0d6-7ff4-4b9f-8692-237517a27a64, servername: anyfile2file.com, host: anyfile2file.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0, short-id: 64c1fe36c7846400}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 31.76.79.118:2444, server: 31.76.79.118, port: 2444, type: vless, tls: true, packet-encoding: xudp, uuid: fc1ee51e-72ec-4af0-ab0f-540c9e22427b, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA, short-id: 0809f782a29a2030}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 72.56.78.50:443, server: 72.56.78.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fee2cdd8-55d1-4c5b-a67a-cfde8d45eed0, servername: sun6-21.userapi.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: huH_8n0Dfk4iolIkzrc-qET8ySHWgZAr-i6K6lr6xSs, short-id: 375838bc17c0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn", server: 94.156.170.102, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 2", server: 94.156.179.138, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 3", server: guanwang.awsno.com, port: 443, type: vmess, uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 140.233.177.152:8080, server: 140.233.177.152, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: ed105216-170f-4c04-9d40-ddc4f531614f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.f.mobilesari.ir:12345 7, server: www.f.mobilesari.ir, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: ee8c8894-25b3-40c2-bb3d-7b71ee9f3b57, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw, short-id: 2b368990a94e8cbb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 178.236.246.69:443, server: 178.236.246.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eec2f6a7-c10f-43b0-b133-61f9bf9bbc27, servername: amazon.de, host: amazon.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: G8SING6Ibc_igZ5vI5578fXCT_mBMRuq_o8_Ymnj2SQ, short-id: eba1498e012ef580}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.63.169.66:443, server: 195.63.169.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eec2f6a7-c10f-43b0-b133-61f9bf9bbc27, servername: www.booking.com, host: www.booking.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gtCZKjg0BtNaeAZKxXiEKnn5SqZyktjr-mBknr_2HW0, short-id: fa3854d37455ace1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 130.17.6.235:443, server: 130.17.6.235, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36, servername: api-de.data-media-social.org, host: api-de.data-media-social.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM, short-id: f3c4d918e7c4f744}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 217.177.75.93:443, server: 217.177.75.93, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36, servername: api-us.upd-media.com, host: api-us.upd-media.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T5Dj3GB5C8gtZ4H8x_eS0aZXik-8Yqzyi3F1AEmM4zE, short-id: f3a9d24f68}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: metach.adsmoba.com:443, server: metach.adsmoba.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36, servername: metach.adsmoba.com, host: metach.adsmoba.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XatId7M5qJTuy9WBKcT_Z33n_MgBm3-F8IymygnjQmE, short-id: f3c9d9b1e7d4f712}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 31.77.61.89:443, server: 31.77.61.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef5f6054-61c7-4ce8-a35b-dbcec449f242, servername: jobinvest.ru, host: jobinvest.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fn5.bexait.ir:2434, server: fn5.bexait.ir, port: 2434, type: vless, tls: true, packet-encoding: xudp, uuid: efd9cf32-2a2f-4d05-abe4-d63eb002e483, servername: icloud.com, host: icloud.com, path: /, reality-opts: {public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0, short-id: 9de041877612a718}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 82.40.62.11:53971, server: 82.40.62.11, port: 53971, type: vless, tls: true, packet-encoding: xudp, uuid: f22af613-bbb0-425c-94e1-f5cf869705ed, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80 4, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fb4604b7-fb4d-41c8-9727-91e514aa1578, network: ws, ws-opts: {path: /, headers: {Host: 7wwwspeedtestnet.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80 5, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fb4604b7-fb4d-41c8-9727-91e514aa1578, network: ws, ws-opts: {path: /, headers: {Host: BlackGod.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199.232.78.159:80 6, server: 199.232.78.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fb4604b7-fb4d-41c8-9727-91e514aa1578, network: ws, ws-opts: {path: /, headers: {Host: yaSharClass.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 151.101.192.223:80, server: 151.101.192.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fc0fcbe9-f990-4172-9c30-74f16433b950, network: ws, ws-opts: {path: /ws, headers: {Host: freekabotar4.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.210.169.181:443, server: 91.210.169.181, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff0b6ba8-bed0-4c4d-bbc9-23af47582615, network: ws, ws-opts: {path: /api/connect, headers: {Host: wstg.datasynctrue.online}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn", server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 2", server: 143.14.189.125, port: 21316, type: vmess, uuid: 116f6ecd-275e-4b50-921d-780e78a526cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pull.free.video.10010.com}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 3", server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 4", server: 176.65.140.210, port: 23981, type: vmess, uuid: 18c1c45d-95bf-435b-ae4c-7eb96f793af4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: bobo.badrangteb.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -619,142 +637,160 @@ proxy-groups:
     type: select
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -762,142 +798,160 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -905,142 +959,160 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1057,142 +1129,160 @@ proxy-groups:
     interval: 600
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1200,142 +1290,160 @@ proxy-groups:
     interval: 600
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1343,142 +1451,160 @@ proxy-groups:
     interval: 600
     proxies:
       - 199.232.78.160:443
-      - 18.177.61.231:30203
-      - 94.156.232.254:443
-      - ov-italy1.09vpn.com:80
-      - 46.19.69.201:443
-      - 🇷🇺 wsnl7.wba-pn.ru:443
-      - 47.253.226.114:443
       - k2.cloud--vpn.site:443
-      - k2.cloud--vpn.site:443 2
       - 45.136.126.70:8443
-      - free.filecloudos.space:443
       - 151.101.1.242:443
+      - 151.101.65.242:443
+      - 91.92.33.95:443
+      - 🇩🇪 de11.bexait.ir:2434
       - 188.114.97.6:443
-      - 188.114.97.6:443 2
-      - fsercicesl.iramssnew2.ir:443
-      - okm.corerelay.ir:2096
-      - 91.228.227.172:110
-      - 91.228.227.172:8080
+      - 188.114.97.6:8080
+      - sub3.ak24.site:20234
+      - 185.207.198.186:2087
+      - gsv1.montago-shop.ir:443
+      - 151.242.168.237:443
+      - 207.241.172.254:4777
       - 104.167.24.227:18443
-      - 🇮🇹 OV-Italy1.09vpn.com:80
-      - ov-italy1.09vpn.com:80 2
-      - 150.251.141.91:8443
-      - 185.189.47.107:443
+      - 104.167.24.227:18443 2
+      - 104.167.24.227:18443 3
+      - 199.232.78.159:80
       - 5.255.126.104:46142
-      - 5.255.126.104:46142 2
-      - 45.33.62.166:43595
-      - 159.195.137.29:8443
-      - 146.235.16.130:19825
+      - 150.40.126.18:443
+      - 150.40.126.21:443
       - 150.40.126.24:443
       - 150.40.126.24:443 2
-      - 45.9.156.27:443
+      - 150.40.126.24:443 3
+      - 45.9.156.24:443
+      - 45.9.156.24:443 2
+      - 45.9.156.24:443 3
       - 89.35.14.30:443
-      - 89.35.14.32:443
-      - bg3.univesalsrv.com:443
+      - 89.35.14.33:443
+      - 89.35.14.33:443 2
+      - 89.35.14.33:443 3
       - bg4.univesalsrv.com:443
-      - rs1.univesalsrv.com:443
-      - rs1.univesalsrv.com:443 2
-      - 88.216.68.68:443
+      - bg4.univesalsrv.com:443 2
+      - md3.univesalsrv.com:443
+      - rs2.univesalsrv.com:443
+      - 172.65.90.52:8880
+      - 🇭🇰 e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443
+      - 5.75.206.185:56539
+      - 185.143.233.5:80
+      - 185.143.233.5:80 2
+      - 104.17.26.45:8880
       - ww5.levikogjgfdd.ir:443
-      - 18.178.233.232:16138
-      - 45.131.208.4:80
-      - 104.17.105.137:80
+      - 89.169.0.193:443
+      - sub3.ak24.site:20234 2
       - 72.56.92.177:40443
-      - shop.jarorobo.ir:443
-      - 104.21.74.214:8443
-      - p1real1.greewebservices.ir:1230
-      - 104.27.122.18:443
-      - mn10.levikogjgfdd.ir:23776
-      - meli-netbot-join.team-pluss.com:8080
-      - 91.228.227.172:110 2
-      - 91.228.227.172:443
-      - 91.228.227.172:8080 2
-      - 163.8.195.241:2087
-      - 163.8.195.241:2087 2
-      - 163.8.195.241:2087 3
-      - 5.75.194.217:56539
-      - 81.18.48.97:2053
-      - 🇩🇪 de1.cnyvpn.com:2053
-      - 31.77.220.183:1443
-      - 192.204.45.220:47991
-      - 57.131.21.102:8443
+      - 15.204.97.195:23576
+      - e-d3.rehan-boesap.ir:8443
+      - e-d6.rehan-boesap.ir:8443
+      - e-n.celmexa.ir:8443
+      - finland.tl-germ.ir:8443
+      - uispo.borna-lbop.ir:8443
+      - 172.67.184.37:8880
+      - 5.253.30.99:40443
+      - 212.192.217.236:8443
+      - yesilove.beer:8443
+      - 185.147.26.175:443
+      - 🇷🇺 yt.orpheous.ru:443
+      - www.f.mobilesari.ir:12345
+      - 84.32.177.6:443
+      - sv14.betust.net:443
+      - 185.204.171.221:443
+      - 212.43.146.241:59726
+      - 212.43.146.241:59726 2
+      - 45.192.224.30:8880
+      - 172.65.90.52:8880 2
       - milan.adaspoloandco.com:8443
-      - milan.adaspoloandco.com:8443 2
-      - 52.195.209.55:39512
-      - 185.140.12.160:2083
-      - 140.248.186.45:80
-      - 151.101.128.223:80
-      - 151.101.192.223:80
-      - 167.82.95.202:80
-      - 91.224.87.22:9882
-      - 78.17.116.201:443
-      - ww7.levikogjgfdd.ir:443
-      - 31.76.80.69:443
-      - 31.58.144.31:18149
-      - 150.241.72.43:443
-      - 62.133.63.253:443
-      - 64.188.80.82:443
-      - 91.92.43.177:443
-      - 172.67.217.240:443
-      - 216.167.27.227:41478
-      - 91.228.227.172:110 3
+      - 31.128.37.67:16560
+      - 172.64.80.1:8880
+      - 132.243.228.209:7443
+      - 🇩🇪 de.routeliora.ru:7443
+      - 46.8.21.191:30021
+      - 43.161.254.71:443
+      - 5n4lmxeu.selqora.ir:31663
+      - 9jzxiz62.selqora.ir:56514
+      - fyh2s2vu.danqela.ir:50303
+      - v3o45am5.selqora.ir:22211
+      - spd-spd-spd.team-pluss.com:8080
+      - 153.80.249.125:443
+      - www.b.mobilesari.ir:443
+      - 51.38.70.192:443
+      - 51.38.70.192:443 2
+      - 8970141323_e90f.d8a.syslogd.ir:9094
+      - 8970141323_e90f.t3a.syslogd.ir:9093
+      - k2.cloud--vpn.site:443 2
+      - 5.75.207.73:8090
+      - 🇭🇰 ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com:443
+      - www.f.mobilesari.ir:12345 2
+      - www.f.mobilesari.ir:12345 3
+      - www.f.mobilesari.ir:12345 4
+      - 144.31.17.66:443
+      - mira2.godp.ir:3113
+      - 🇩🇪 de13.bexait.ir:2434
+      - 167.104.104.138:8443
+      - 103.246.146.220:59726
+      - 145.63.132.218:59726
       - 5.83.129.124:443
-      - 151.101.192.223:80 2
+      - 188.114.97.3:443
       - 88.119.176.24:443
       - 213.136.92.67:443
-      - aml1.plasdomain.ir:32855
-      - ita1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:32855
-      - lopa1.plasdomain.ir:53147
-      - tuuy.plasdomain.ir:32855
-      - tuuy.plasdomain.ir:53147
-      - 91.228.227.172:110 4
-      - 82.118.16.20:443
-      - 138.124.60.146:443
-      - 95.85.230.35:443
-      - ww4.levikogjgfdd.ir:32396
-      - 178.95.170.115:2087
-      - 🇷🇺 neth8.lunariai.ru:443
-      - 91.228.227.172:110 5
-      - 91.228.227.172:443 2
-      - 91.228.227.172:8080 3
-      - 🇬🇧 gb5.murhost.network:443
-      - 5.75.195.244:40792
-      - ww6.levikogjgfdd.ir:443
-      - 144.31.157.104:20017
-      - 144.31.157.104:20017 2
-      - istan.zavqeron.ir:8444
-      - zavqeron.ir:2053
-      - ww10.levikogjgfdd.ir:55861
-      - 203.23.179.147:8443
-      - a2.arshia-nova.ir:443
-      - 192.142.37.217:443
-      - 151.101.1.242:443 2
-      - 199.232.78.159:443
+      - 217.16.31.218:443
+      - grm3.fereshtehagonahnemikonnad.ir:8443
+      - ae.209qu4892fh8934.live:443
+      - tr-akbar-awex.awexio.ir:20988
+      - www.f.mobilesari.ir:12345 5
+      - 2.27.202.112:443
+      - www.f.mobilesari.ir:12345 6
+      - 31.76.81.9:443
+      - 84.32.177.6:443 2
+      - sv14.betust.net:443 2
+      - 🇷🇺 sv7.jarvesitw.ru:443
+      - sub3.ak24.site:20234 3
+      - 144.31.5.64:443
+      - rubifen.adaspoloandco.com:443
+      - 144.31.17.66:443 2
+      - 46.62.135.67:443
+      - 57.131.38.163:2053
+      - ciel.hlsd.ir:4445
+      - 199.232.78.159:80 2
+      - 199.232.78.159:80 3
+      - i.cloudnet1.ir:443
+      - i.cloudnet1.ir:443 2
+      - 104.21.88.129:8880
+      - 172.67.190.141:8880
+      - 🇩🇪 eu-central-de-1.hanvpn.biz:443
       - 54.39.96.233:8443
-      - 162.19.228.119:80
-      - 162.19.228.119:80 2
-      - 162.19.228.119:80 3
-      - 15.224.91.247:22222
-      - 18.168.125.235:22222
-      - 18.169.233.193:22222
-      - 3.9.28.242:22222
-      - 52.47.166.121:22222
-      - 172.67.165.125:443
+      - maple.adaspoloandco.com:8443
+      - 13.36.121.241:22223
+      - 13.36.74.87:22222
+      - 13.36.74.87:22224
+      - 52.47.129.194:22224
       - 172.64.150.28:2082
       - 172.64.150.28:2082 2
-      - 199.232.78.159:443 2
-      - 199.232.78.159:80
-      - 5.61.28.51:443
+      - 172.64.150.28:2082 3
+      - 157.22.133.130:2087
+      - 157.22.133.130:2087 2
       - v5p.sabermusic.ir:443
-      - tgfree.rush-server.com:443
-      - tgfree.rush-server.com:443 2
-      - 31.76.79.118:2444
-      - 72.56.78.50:443
+      - 140.233.177.152:8080
+      - www.f.mobilesari.ir:12345 7
+      - 178.236.246.69:443
+      - 195.63.169.66:443
+      - 130.17.6.235:443
+      - 217.177.75.93:443
+      - metach.adsmoba.com:443
+      - 31.77.61.89:443
+      - fn5.bexait.ir:2434
+      - 82.40.62.11:53971
+      - 199.232.78.159:80 4
+      - 199.232.78.159:80 5
+      - 199.232.78.159:80 6
+      - 151.101.192.223:80
+      - 91.210.169.181:443
       - "@chillguy_vpn"
       - "@chillguy_vpn 2"
       - "@chillguy_vpn 3"
+      - "@chillguy_vpn 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

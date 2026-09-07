@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: lizca2.footballfantasyforum.com:443, server: lizca2.footballfantasyforum.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 716426fa-bcb7-4eb9-b460-36399ebf740d, servername: lizca2.footballfantasyforum.com, alpn: [h2%2Chttp%2F1.1], host: lizca2.footballfantasyforum.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ae.209qu4892fh8934.live:443, server: ae.209qu4892fh8934.live, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbb9b9db-d7f8-4242-b053-8526899f87b5, servername: irangov.ir, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: livestreamcontent}, reality-opts: {public-key: PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA, short-id: 5c93a30dbabbc444}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - lizca2.footballfantasyforum.com:443
+      - ae.209qu4892fh8934.live:443
   - name: دانلود منیجر 📥
     type: select
     proxies:
