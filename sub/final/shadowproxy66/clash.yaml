@@ -465,36 +465,20 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "Channel id: @ShadowProxy66 🇹🇼", server: 36.224.152.189, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇳🇱", server: 92.112.126.90, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇳🇱 2", server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇳🇱 3", server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: wwzVn2ZnHfqYa6l8EWh3eY, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇩🇪", server: 207.241.172.111, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: OhGXJG4nEqTN62cDDcD_8_CddrpTHn0u, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇩🇪 2", server: de-server-1.zelnora.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: OhGXJG4nEqTN62cDDcD_8_CddrpTHn0u, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇳🇱 4", server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RFK38Cg7APneSB5cWDcpbm, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇹🇼 2", server: 36.224.152.189, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: b1ae0fce-9340-4f2e-882d-fdb2218e2e2b, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇷🇺", server: 195.133.23.200, port: 40404, type: ss, cipher: aes-256-gcm, password: 81a20429165df87e, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇰🇷", server: 141.164.45.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇩🇪 3", server: 185.226.172.8, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇰🇷 2", server: 141.164.45.187, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇰🇷 3", server: 141.164.45.187, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇮🇹", server: 194.87.47.204, port: 10901, type: ss, cipher: aes-256-gcm, password: d1fa2f4b98a38bc8, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇷🇺 2", server: 195.58.48.97, port: 40404, type: ss, cipher: aes-256-gcm, password: d99c422199e62b6b, udp: true, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇰🇷 4", server: 141.164.45.187, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸", server: 31.77.220.152, port: 5015, type: vless, tls: true, packet-encoding: xudp, uuid: 1206bad5-dcc9-410e-9595-d9fe9ee54085, servername: special.aeternavpn.space, host: special.aeternavpn.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇩🇪", server: 159.69.28.178, port: 20995, type: vless, tls: true, packet-encoding: xudp, uuid: 20bcb7a8-c51b-4771-9686-6b4509dc9cd2, servername: itunes.apple.com, host: itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸 2", server: 45.33.62.166, port: 43595, type: vless, tls: true, packet-encoding: xudp, uuid: 2642f590-2bce-4031-8f93-7eed983621f5, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: waNzNRIL_3TaF3UfgeAy1M5r8YVUeOA0nx3jPiXYZSE, short-id: e482c0320674c651}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸 3", server: 173.230.155.55, port: 50900, type: vless, tls: true, packet-encoding: xudp, uuid: 2c082e78-bd9d-4960-b9f3-cde0040cb4f3, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vdE4t2bYhYun6fZ9Weu_f6MXtsmq8iJ7XQBUj62scR0, short-id: 12fa394e28d52011}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸 4", server: 15.204.97.195, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸 5", server: 15.204.97.206, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇳🇱", server: 51.158.206.29, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇪🇪", server: 64.188.82.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7836b28e-8451-4596-ad3e-e3601b2335ba, servername: cloudflare.vhub.pro, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/websocket?ed=2560", headers: {Host: cloudflare.vhub.pro}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇳🇱 2", server: wsnl24.wba-pn.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc, servername: wsnl24.wba-pn.ru, network: ws, ws-opts: {path: /, headers: {Host: wsnl24.wba-pn.ru}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇺🇸 6", server: 173.255.242.56, port: 39706, type: vless, tls: true, packet-encoding: xudp, uuid: aab91459-f905-4164-adda-c4ec45578542, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SmWcFiJqTzD74CIIwbK4uckT9u7rpxy_wQ24TlJMphY, short-id: 586d60b12e89}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇫🇷", server: 161.97.160.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b81b4d1b-7f20-48f1-82dc-d24bef898cab, servername: passport.yandex.ru, host: passport.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0, short-id: e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇩🇪 2", server: rubifen.adaspoloandco.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cf39fab0-bb85-42cb-9945-2ad69d78e575, servername: rubifen.adaspoloandco.com, network: ws, ws-opts: {path: /GOrbEh, headers: {Host: rubifen.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇱🇹", server: 88.119.176.28, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dabb9a19-03ab-4cdf-8963-d3c45eb0f80d, servername: lit5.freeinternat.com, host: lit5.freeinternat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U, short-id: 6aa2d2e950441a9a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ShadowProxy66 🇱🇹 2", server: lit5.freeinternat.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dabb9a19-03ab-4cdf-8963-d3c45eb0f80d, servername: lit5.freeinternat.com, host: lit5.freeinternat.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U, short-id: 6aa2d2e950441a9a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇩🇪", server: 194.48.217.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14f4be39-cb89-4f2b-8200-704666b6fa4e, servername: sdfv.cloudvk.cc, host: sdfv.cloudvk.cc, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇷🇺", server: 46.254.19.179, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 14f4be39-cb89-4f2b-8200-704666b6fa4e, servername: id.pervye.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ns}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇩🇪 2", server: avczx.cloudvk.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14f4be39-cb89-4f2b-8200-704666b6fa4e, servername: avczx.cloudvk.cc, host: avczx.cloudvk.cc, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇷🇺 2", server: 200.165.229.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3db8407b-1f96-4b82-bfeb-55258c1e57b4, servername: flarora.ferreo.sbs, host: flarora.ferreo.sbs, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU, short-id: 1067b23f928e7618}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇷🇺 3", server: 185.147.26.175, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 55ed97fc-77d1-4802-baf3-acef70776331, servername: yt.orpheous.ru, alpn: [v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus], host: yt.orpheous.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4, short-id: e4aa362b5f9d07d7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇳🇱", server: 89.105.206.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5d4a87fa-16f1-4b65-b217-225a31e36239, servername: nl.convert-flow.net, host: nl.convert-flow.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w, short-id: 00a61d55a07de885}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇸🇪", server: 5.157.10.146, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 732255eb-8ce9-4cd5-8bdc-376bd3fa0b11, servername: sweb1.loozerp.wiki, host: sweb1.loozerp.wiki, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA, short-id: fb442438e2223836}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇩🇪 3", server: 91.233.8.141, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20, servername: tnt-cloud.ru, host: tnt-cloud.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw, short-id: 6e5f2a3b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇵🇱", server: 2.26.255.99, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bbd487f-8f84-4ad7-b897-681c3f7d95dc, servername: hyjik.mervi.icu, host: hyjik.mervi.icu, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vPyWYb8hplqCP1lsABPEnLmK0e93h4vr3amlaRC67FA, short-id: 7ba136a9edb83c99}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇺🇸", server: 188.137.242.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9d0f208-d582-41d5-bb7b-742671402810, servername: us-main-1.hanvpn.biz, host: us-main-1.hanvpn.biz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RY0VjR_1hwb6oO9FvhRvFOjf4iLfYC95xagmDdk2fCA, short-id: 54b5a7681806bc97}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇱🇻", server: 213.21.237.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9d0f208-d582-41d5-bb7b-742671402810, servername: eu-east-lv-1.hanvpn.biz, host: eu-east-lv-1.hanvpn.biz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5zYWQJfG5b1Gck2HKGOOndDP-OGgXytw8Ct0Q-zdtgA, short-id: 35b5a7681806bc97}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇫🇷", server: 179.61.227.145, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0b9fb0f-1bbd-478b-9580-c2294778338b, servername: assets.pleiades.codes, host: assets.pleiades.codes, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw, short-id: d3124debabf1456c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇷🇺 4", server: 77.110.104.125, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0b9fb0f-1bbd-478b-9580-c2294778338b, servername: maps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: your-custom-path}, reality-opts: {public-key: OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY, short-id: 2da4299da566b7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ShadowProxy66 🇷🇺 5", server: 188.130.209.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eaf8abff-0fbf-4b64-8d8f-18c1757c75df, servername: images.mycdn-io.ru, host: images.mycdn-io.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vrtWpW_N3rBs9WEoV1Yz4uOYsci3Kpe7HitaYr4oQGc, short-id: fbe42a5d4788bacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -511,108 +495,60 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -628,108 +564,60 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "Channel id: @ShadowProxy66 🇹🇼"
-      - "Channel id: @ShadowProxy66 🇳🇱"
-      - "Channel id: @ShadowProxy66 🇳🇱 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 3"
-      - "Channel id: @ShadowProxy66 🇩🇪"
-      - "Channel id: @ShadowProxy66 🇩🇪 2"
-      - "Channel id: @ShadowProxy66 🇳🇱 4"
-      - "Channel id: @ShadowProxy66 🇹🇼 2"
-      - "Channel id: @ShadowProxy66 🇷🇺"
-      - "Channel id: @ShadowProxy66 🇰🇷"
-      - "Channel id: @ShadowProxy66 🇩🇪 3"
-      - "Channel id: @ShadowProxy66 🇰🇷 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 3"
-      - "Channel id: @ShadowProxy66 🇮🇹"
-      - "Channel id: @ShadowProxy66 🇷🇺 2"
-      - "Channel id: @ShadowProxy66 🇰🇷 4"
-      - "@ShadowProxy66 🇺🇸"
       - "@ShadowProxy66 🇩🇪"
-      - "@ShadowProxy66 🇺🇸 2"
-      - "@ShadowProxy66 🇺🇸 3"
-      - "@ShadowProxy66 🇺🇸 4"
-      - "@ShadowProxy66 🇺🇸 5"
-      - "@ShadowProxy66 🇳🇱"
-      - "@ShadowProxy66 🇪🇪"
-      - "@ShadowProxy66 🇳🇱 2"
-      - "@ShadowProxy66 🇺🇸 6"
-      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺"
       - "@ShadowProxy66 🇩🇪 2"
-      - "@ShadowProxy66 🇱🇹"
-      - "@ShadowProxy66 🇱🇹 2"
+      - "@ShadowProxy66 🇷🇺 2"
+      - "@ShadowProxy66 🇷🇺 3"
+      - "@ShadowProxy66 🇳🇱"
+      - "@ShadowProxy66 🇸🇪"
+      - "@ShadowProxy66 🇩🇪 3"
+      - "@ShadowProxy66 🇵🇱"
+      - "@ShadowProxy66 🇺🇸"
+      - "@ShadowProxy66 🇱🇻"
+      - "@ShadowProxy66 🇫🇷"
+      - "@ShadowProxy66 🇷🇺 4"
+      - "@ShadowProxy66 🇷🇺 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:

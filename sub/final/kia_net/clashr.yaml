@@ -5,137 +5,172 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇦🇱 dc-udp-🇦🇱 Albania-Tirana, server: giftcard.gateway-stream.com, port: 52000, type: hysteria2, ports: 52000, password: s6gt5e4mof43sfg8, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇹 dc-udp-🇦🇹 Austria-Vienna, server: giftcard.gateway-stream.com, port: 52002, type: hysteria2, ports: 52002, password: s6gt5e4mof43sfg8, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore, server: giftcard.gateway-stream.com, port: 52063, type: hysteria2, ports: 52063, password: s6gt5e4mof43sfg8, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul, server: giftcard.gateway-stream.com, port: 52067, type: hysteria2, ports: 52067, password: s6gt5e4mof43sfg8, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv, server: giftcard.gateway-stream.com, port: 52068, type: hysteria2, ports: 52068, password: s6gt5e4mof43sfg8, obfs: salamander, obfs-password: fuw2k1ddrouwxr3u, sni: giftcard.gateway-stream.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 Germany 🇩🇪, server: 51.195.126.38, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 2YdE4lFOid5a, udp: true, tfo: false}
-  - {name: 🇺🇸 United States 🇺🇸, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true, tfo: false}
-  - {name: 🇬🇧 United Kingdom 🇬🇧, server: 82.38.31.42, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇮🇹 Italy 🇮🇹, server: 57.131.48.45, port: 8388, type: ss, cipher: aes-256-gcm, password: itzvpn@321, udp: true, tfo: false}
-  - {name: 🇪🇪 Estonia 🇪🇪, server: 95.85.224.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 342ab7e4-5a89-0001-8809-304120d4aa83, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc, short-id: a696de84963656de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇱 Albania 🇦🇱, server: 45.82.13.150, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51231507-67c3-4141-ab08-a69eb121c716, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U, short-id: 1688}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 France 🇫🇷, server: 152.228.162.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5ce84688-f535-46ad-a512-37b17becf6ea, network: ws, ws-opts: {path: /vless/, headers: {Host: akamaized.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇵🇱 Poland 🇵🇱, server: 178.95.170.115, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be, network: ws, ws-opts: {path: /4bc027a44532}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 Singapore, server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇬🇧 United Kingdom 🇬🇧, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: ⟡ 🛰️ ᴛᴜɴɴᴇʟ, server: tuns1.milkabebar.ir, port: 25341, type: ss, cipher: chacha20-ietf-poly1305, password: lsR8y2oUEb1ypOkTmkuU73QdqzP2QLI_, udp: true, tfo: false}
+  - {name: ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2, server: tuns2.milkabebar.ir, port: 25341, type: ss, cipher: chacha20-ietf-poly1305, password: lsR8y2oUEb1ypOkTmkuU73QdqzP2QLI_, udp: true, tfo: false}
+  - {name: ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3, server: tuns2.milkabebar.ir, port: 25342, type: ss, cipher: chacha20-ietf-poly1305, password: lsR8y2oUEb1ypOkTmkuU73QdqzP2QLI_, udp: true, tfo: false}
+  - {name: ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4, server: tuns3.milkabebar.ir, port: 25341, type: ss, cipher: chacha20-ietf-poly1305, password: lsR8y2oUEb1ypOkTmkuU73QdqzP2QLI_, udp: true, tfo: false}
+  - {name: 🇳🇱 The Netherlands 🇳🇱, server: 193.29.139.129, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇬🇧 United Kingdom 🇬🇧 2, server: 82.38.31.42, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇧🇬 Bulgaria 🇧🇬, server: bg4.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cloud.v1.RelayService}, reality-opts: {public-key: k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc, short-id: 51f45d4fd58cc319}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇱🇻 Latvia 🇱🇻, server: 138.124.180.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5234b2b7-5e07-422c-8159-d62a676c00c6, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c, short-id: 33acba1b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 Germany 🇩🇪 2, server: 163.8.195.241, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, network: ws, ws-opts: {path: /29c8fed7ca22, headers: {Host: "%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--"}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 France 🇫🇷, server: 45.144.28.39, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 70e20b2e-3b1f-4c25-9a3d-9240570391bb, network: ws, ws-opts: {path: /, headers: {Host: usejh2.neobo-tooth.ru}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇱🇻 Latvia 🇱🇻 2, server: laoye.in-gect.fun, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 70e20b2e-3b1f-4c25-9a3d-9240570391bb, network: ws, ws-opts: {path: /, headers: {Host: laoye.in-gect.fun}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇵🇱 Poland 🇵🇱, server: 185.223.57.10, port: 33743, type: vless, tls: true, packet-encoding: xudp, uuid: b3a11068-1a7e-4643-85de-7c82cce46943, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TunService}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡آمریکا مستقیم, server: dashboard.aframall.top, port: 5386, type: vmess, uuid: 63a01857-93c1-490b-95f5-991bd79116c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: لهستان تانل شده, server: dashboard.afrapay.top, port: 5385, type: vmess, uuid: 63a01857-93c1-490b-95f5-991bd79116c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: هلند تانل شده, server: dashboard.afrasim.top, port: 5388, type: vmess, uuid: 63a01857-93c1-490b-95f5-991bd79116c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: انگلستان تانل شده, server: dashboard.afrasoft.top, port: 5383, type: vmess, uuid: 63a01857-93c1-490b-95f5-991bd79116c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡🎮ترکیه مستقیم | گیم, server: dashboard.afrastore.top, port: 5384, type: vmess, uuid: 63a01857-93c1-490b-95f5-991bd79116c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -163,20 +198,25 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇦🇱 dc-udp-🇦🇱 Albania-Tirana
-      - 🇦🇹 dc-udp-🇦🇹 Austria-Vienna
-      - 🇸🇬 dc-udp-🇸🇬 Singapore-Singapore
-      - 🇹🇷 dc-udp-🇹🇷 Turkey-Istanbul
-      - 🇺🇦 dc-udp-🇺🇦 Ukraine-Kyiv
       - 🇩🇪 Germany 🇩🇪
-      - 🇺🇸 United States 🇺🇸
       - 🇬🇧 United Kingdom 🇬🇧
-      - 🇮🇹 Italy 🇮🇹
-      - 🇪🇪 Estonia 🇪🇪
-      - 🇦🇱 Albania 🇦🇱
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 2
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 3
+      - ⟡ 🛰️ ᴛᴜɴɴᴇʟ 4
+      - 🇳🇱 The Netherlands 🇳🇱
+      - 🇬🇧 United Kingdom 🇬🇧 2
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇱🇻 Latvia 🇱🇻
+      - 🇩🇪 Germany 🇩🇪 2
       - 🇫🇷 France 🇫🇷
+      - 🇱🇻 Latvia 🇱🇻 2
       - 🇵🇱 Poland 🇵🇱
-      - 🇸🇬 Singapore
+      - ⚡آمریکا مستقیم
+      - لهستان تانل شده
+      - هلند تانل شده
+      - انگلستان تانل شده
+      - ⚡🎮ترکیه مستقیم | گیم
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

@@ -5,46 +5,67 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: ae.209qu4892fh8934.live:443, server: ae.209qu4892fh8934.live, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbb9b9db-d7f8-4242-b053-8526899f87b5, servername: irangov.ir, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: livestreamcontent}, reality-opts: {public-key: PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA, short-id: 5c93a30dbabbc444}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.73.8:22222, server: 13.37.73.8, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.73.8:22223, server: 13.37.73.8, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.73.8:22224, server: 13.37.73.8, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.75.196.199:56539, server: 5.75.196.199, port: 56539, type: vless, tls: true, packet-encoding: xudp, uuid: f373e5d8-8dff-44e6-a4d8-41abeb038b8a, host: www.unscramblerer.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +93,10 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - ae.209qu4892fh8934.live:443
+      - 13.37.73.8:22222
+      - 13.37.73.8:22223
+      - 13.37.73.8:22224
+      - 5.75.196.199:56539
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

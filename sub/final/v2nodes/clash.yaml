@@ -465,20 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 86.38.182.226:97, server: 86.38.182.226, port: 97, type: ss, cipher: chacha20-ietf-poly1305, password: T6IcUpcVx0Y85DxSTgXe4A, udp: true, tfo: false}
-  - {name: 149.22.87.204:443, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 149.22.87.240:443, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 149.22.87.241:443, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 193.163.203.170:443, server: 193.163.203.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o, short-id: b28db60d77c50b4f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.50.236:443, server: 144.31.50.236, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c332eae-7e02-4acd-996d-4eb3e652401c, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM, short-id: bbe46bd8f6b96839}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.242.168.186:443, server: 151.242.168.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 258ab003-733b-4d79-b0b0-c41044ba2e86, servername: kibi-institut.de, host: kibi-institut.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.93.231:443, server: 144.31.93.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3710fc0f-5f0c-4b9c-a5d4-40cb419e943a, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc, short-id: b97e7d4582b6fa6e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.242.168.186:443 2, server: 151.242.168.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d83043a-650c-44c4-bbf6-5d760e4ec58f, servername: kibi-institut.de, host: kibi-institut.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:8080, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 73796e63-0000-4000-8000-000000000000, network: ws, ws-opts: {path: /sync, headers: {Host: wireguard.ahmad-kh5716.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.220.67.245:2087, server: 188.220.67.245, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee, network: ws, ws-opts: {path: /8f2690e2d016}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.242.168.186:443 3, server: 151.242.168.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d6e76e7c-14ff-48a3-879c-81a257788059, servername: kibi-institut.de, host: kibi-institut.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.36.74.87:22222, server: 13.36.74.87, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:8080 2, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 130.61.231.219:59924, server: 130.61.231.219, port: 59924, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: IqGBz5QqcOCmSLFq3Byz30nz+eafkJ98Zxlffhvc48A=, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -495,60 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -564,60 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 86.38.182.226:97
-      - 149.22.87.204:443
-      - 149.22.87.240:443
-      - 149.22.87.241:443
-      - 193.163.203.170:443
-      - 144.31.50.236:443
-      - 151.242.168.186:443
-      - 144.31.93.231:443
-      - 151.242.168.186:443 2
-      - 188.114.97.6:8080
-      - 188.220.67.245:2087
-      - 151.242.168.186:443 3
-      - 13.36.74.87:22222
-      - 188.114.97.6:8080 2
+      - 130.61.231.219:59924
   - name: دانلود منیجر 📥
     type: select
     proxies:
