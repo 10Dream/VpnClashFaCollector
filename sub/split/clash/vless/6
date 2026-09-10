@@ -465,11 +465,37 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: du9273782djdjdjshua.adidasm10.ir:57391, server: du9273782djdjdjshua.adidasm10.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166496 | ⚡️Telegram - t.me/SOSkeyNET, server: du9273782djdjdjshua.adidasm10.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166545 | ⚡️Telegram - t.me/LonUp_M, server: du9273782djdjdjshua.adidasm10.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166625 | ⚡️Telegram - t.me/SOSkeyNET, server: du9273782djdjdjshua.adidasm10.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166674 | ⚡️Telegram - t.me/LonUp_M, server: du9273782djdjdjshua.adidasm10.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166623 | ⚡️Telegram - t.me/SOSkeyNET, server: fr-jan.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166672 | ⚡️Telegram - t.me/LonUp_M, server: fr-jan.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2box_meli🇴🇲", server: ms8373738jdndhshom.adidasm10.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166643 | ⚡️Telegram - t.me/SOSkeyNET, server: ms8373738jdndhshom.adidasm10.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166692 | ⚡️Telegram - t.me/LonUp_M, server: ms8373738jdndhshom.adidasm10.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166624 | ⚡️Telegram - t.me/SOSkeyNET, server: pol-hhasca.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166673 | ⚡️Telegram - t.me/LonUp_M, server: pol-hhasca.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sw94848dndjdbdaz.presiansad.ir:3040, server: sw94848dndjdbdaz.presiansad.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: sheets.google.com, host: sheets.google.com, path: /, reality-opts: {public-key: p4b7SBEWQBqsm0bapsee1VFvXYOgrpRodbosZKGsFxw, short-id: 3571577d63a821bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166492 | ⚡️Telegram - t.me/SOSkeyNET, server: sw94848dndjdbdaz.presiansad.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: sheets.google.com, host: sheets.google.com, path: /, reality-opts: {public-key: p4b7SBEWQBqsm0bapsee1VFvXYOgrpRodbosZKGsFxw, short-id: 3571577d63a821bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166541 | ⚡️Telegram - t.me/LonUp_M, server: sw94848dndjdbdaz.presiansad.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: sheets.google.com, host: sheets.google.com, path: /, reality-opts: {public-key: p4b7SBEWQBqsm0bapsee1VFvXYOgrpRodbosZKGsFxw, short-id: 3571577d63a821bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166622 | ⚡️Telegram - t.me/SOSkeyNET, server: sw94848dndjdbdaz.presiansad.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166671 | ⚡️Telegram - t.me/LonUp_M, server: sw94848dndjdbdaz.presiansad.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166494 | ⚡️Telegram - t.me/SOSkeyNET, server: trakinsntl.ramcalshoping.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166543 | ⚡️Telegram - t.me/LonUp_M, server: trakinsntl.ramcalshoping.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166493 | ⚡️Telegram - t.me/SOSkeyNET, server: trkqountl.ramcalshoping.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: sheets.google.com, host: sheets.google.com, path: /, reality-opts: {public-key: p4b7SBEWQBqsm0bapsee1VFvXYOgrpRodbosZKGsFxw, short-id: 3571577d63a821bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166542 | ⚡️Telegram - t.me/LonUp_M, server: trkqountl.ramcalshoping.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: sheets.google.com, host: sheets.google.com, path: /, reality-opts: {public-key: p4b7SBEWQBqsm0bapsee1VFvXYOgrpRodbosZKGsFxw, short-id: 3571577d63a821bb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166495 | ⚡️Telegram - t.me/SOSkeyNET, server: trkqountl.ramcalshoping.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166544 | ⚡️Telegram - t.me/LonUp_M, server: trkqountl.ramcalshoping.ir, port: 57391, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, servername: amp-api-edge.apps.apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: tcBtbA2x1XDB6Rkn3oF61zuTZUgbq3rrgDn0z1GqdRo, short-id: eee4b95d3c557317}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166621 | ⚡️Telegram - t.me/SOSkeyNET, server: trkqountl.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166670 | ⚡️Telegram - t.me/LonUp_M, server: trkqountl.ramcalshoping.ir, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: ff1dcb64-f13d-4ccd-a3c6-055218f7490b, network: ws, ws-opts: {path: /bmi.ir, headers: {Host: play-apps-features.googleusercontent.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 166006 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.21.20.148, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: ff771898-3e59-4d0a-91b1-c4d5260c8f9a, servername: abcdefghigklmnopqrstuvwxyz.likeboukan1.top, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 166055 | ⚡️Telegram - t.me/LonUp_M, server: 104.21.20.148, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: ff771898-3e59-4d0a-91b1-c4d5260c8f9a, servername: abcdefghigklmnopqrstuvwxyz.likeboukan1.top, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166158 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.87.24.3, port: 2085, type: vless, tls: true, packet-encoding: xudp, uuid: ffa722c8-da3f-4371-a0e0-6afcc9f3f93b, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 166207 | ⚡️Telegram - t.me/LonUp_M, server: 185.87.24.3, port: 2085, type: vless, tls: true, packet-encoding: xudp, uuid: ffa722c8-da3f-4371-a0e0-6afcc9f3f93b, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffc1bcfa-4846-4bee-be26-5d7464f91e3d, servername: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: star.jeyranim.ir:2053, server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.217.240:443, server: 172.67.217.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: mahanvpn-mahanvpn, servername: mAhaNrEaliteAm.MaHkHan.iR, network: ws, ws-opts: {path: "/?ed", headers: {Host: mAhaNrEaliteAm.MaHkHan.iR}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.61.120.154:443, server: 194.61.120.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: slaBIilo5hnqhDDqEJLNxq, host: googletagmanager.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -487,11 +513,37 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -499,11 +551,37 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -511,11 +589,37 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: اتصال پایدار 🔗
     type: url-test
@@ -532,11 +636,37 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -544,11 +674,37 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -556,11 +712,37 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - du9273782djdjdjshua.adidasm10.ir:57391
+      - 166496 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166545 | ⚡️Telegram - t.me/LonUp_M
+      - 166625 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166674 | ⚡️Telegram - t.me/LonUp_M
+      - 166623 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166672 | ⚡️Telegram - t.me/LonUp_M
+      - "@v2box_meli🇴🇲"
+      - 166643 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166692 | ⚡️Telegram - t.me/LonUp_M
+      - 166624 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166673 | ⚡️Telegram - t.me/LonUp_M
+      - sw94848dndjdbdaz.presiansad.ir:3040
+      - 166492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166541 | ⚡️Telegram - t.me/LonUp_M
+      - 166622 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166671 | ⚡️Telegram - t.me/LonUp_M
+      - 166494 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166543 | ⚡️Telegram - t.me/LonUp_M
+      - 166493 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166542 | ⚡️Telegram - t.me/LonUp_M
+      - 166495 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166544 | ⚡️Telegram - t.me/LonUp_M
+      - 166621 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166670 | ⚡️Telegram - t.me/LonUp_M
       - 166006 | ⚡️Telegram - t.me/SOSkeyNET
       - 166055 | ⚡️Telegram - t.me/LonUp_M
+      - 166158 | ⚡️Telegram - t.me/SOSkeyNET
+      - 166207 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
       - star.jeyranim.ir:2053
-      - 172.67.217.240:443
       - 194.61.120.154:443
   - name: دانلود منیجر 📥
     type: select

@@ -5,81 +5,95 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***", server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***", server: render.com, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***", server: 185.71.219.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2107ea1e-26fb-4831-8c3f-fb190bea79f7, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***", server: 172.67.217.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9b18ccef-b9e0-41d1-8990-9d970569e142, servername: web-socket.tgdaosheng.ggff.net, network: ws, ws-opts: {path: /, headers: {Host: web-socket.tgdaosheng.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***", server: 217.16.31.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***", server: 217.16.31.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw, short-id: e7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 151.101.56.6, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***", server: 151.101.56.7, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***", server: 167.82.76.27, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***", server: 199.232.78.160, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***", server: 207.241.172.98, port: 4777, type: vless, tls: true, packet-encoding: xudp, uuid: 008678b8-5e27-49fa-b95a-1fff4c61a849, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo, short-id: 01115788253bc845}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***", server: qq.utiltools.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4054fdc2-ee80-4419-8a8e-d937df4719e2, servername: qq.utiltools.site, host: qq.utiltools.site, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***", server: 83.168.71.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho, short-id: 2f49bccf11150ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***", server: tgfree.rush-server.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ebd1c0d6-7ff4-4b9f-8692-237517a27a64, servername: anyfile2file.com, host: anyfile2file.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0, short-id: 64c1fe36c7846400}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -107,12 +121,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦚***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🐓***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🕊***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪽***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦜***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🦢***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🎄***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌱***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍀***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪵***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🪴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌴***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌵***"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
