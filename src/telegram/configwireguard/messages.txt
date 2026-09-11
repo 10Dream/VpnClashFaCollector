@@ -1,5 +1,5 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-09-11 10:50:11 UTC
+بروزرسانی: 2026-09-11 14:56:22 UTC
 
 ### 🕒 2026-09-11 09:19:01 UTC
 Telegram Proxy
@@ -208,91 +208,6 @@ WhiteVPN-Desktop-1.0.22-linux-amd64.AppImage
 Address generator 
 [http://address.daimonna.com/](http://address.daimonna.com/)
 [http://github.com/daimon3332/address](http://github.com/daimon3332/address)
-
----
-
-### 🕒 2026-09-10 13:25:15 UTC
-**Automate V2Ray Config Collector**
-پایپ‌لاین خودکار جمع‌آوری، اعتبارسنجی و انتشار کانفیگ‌های V2Ray/Xray از منابع عمومی. این پروژه با Python 3.12 نوشته شده و از یک سیستم تست دو مرحله‌ای استفاده می‌کند: ابتدا فیلتر سریع TCP با ۱۰۰ worker همزمان، سپس تست واقعی با Xray-core که برای هر کانفیگ یک instance موقت اجرا کرده و از طریق SOCKS5 درخواست HTTP واقعی ارسال می‌کند. فقط کانفیگ‌هایی که latency آن‌ها زیر threshold باشد منتشر می‌شوند.
-خروجی‌ها هر ۲ ساعت از طریق GitHub Actions به‌روزرسانی شده و شامل فایل‌های جداگانه بر اساس پروتکل، کشور و نوع شبکه هستند. پروژه تحت مجوز MIT منتشر شده است.
----
-***🔗***
- لینک‌های Subscription
-اشتراک اصلی (MIX)
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix_sub.txt
-اشتراک Lite (حداکثر ۲۰۰ کانفیگ سریع)
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix_sub.txt
-لیست خام ترکیبی
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix.txt
----
-***📡***
- خروجی‌های پروتکل
-VLESS:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vless.txt
-VMess:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/vmess.txt
-Trojan:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/trojan.txt
-Shadowsocks: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/ss.txt
-Reality:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/reality.txt
----
-***🌍***
- خروجی‌های کشوری
-***🇩🇪***
- آلمان:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_DE.txt
-***🇺🇸***
- آمریکا:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_US.txt
-***🇳🇱***
- هلند:     https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_NL.txt
-***🇹🇷***
- ترکیه:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_TR.txt
-***🇮🇷***
- ایران:    https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_IR.txt
----
-***🌐***
- خروجی‌های Network
-WebSocket:   https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_ws.txt
-gRPC:        https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_grpc.txt
-TCP:         https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt
-H2:          https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_h2.txt
-HTTPUpgrade: https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_httpupgrade.txt
-XHTTP:       https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_xhttp.txt
----
-***📊***
- آمار لحظه‌ای
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/stats.json
----
-***⚠️***
- نکات مهم
-- خطای 404 روی فایل‌های پروتکل/کشور طبیعی است — فایل فقط وقتی ساخته می‌شود که کانفیگ سالم از آن نوع وجود داشته باشد
-- فقط کشورهایی با حداقل ۳ کانفیگ سالم فایل می‌گیرند
-- لینک‌های 
-`mix_sub.txt`
- و 
-`lite_mix_sub.txt`
- را مستقیماً در کلاینت‌هایی مثل v2rayNG، NekoBox یا Matsuri وارد کنید
-- کانفیگ‌ها هر ۲ ساعت به‌روزرسانی می‌شوند
----
-***⭐***
- اگر پروژه برای شما مفید بود، به آن Star بدهید: 
-[https://github.com/Idolvpn/Automate-V2ray-Config-Collector](https://github.com/Idolvpn/Automate-V2ray-Config-Collector)
-ربات کانفیگ  رایگان کانال 
-[@Idolvpn_robot](https://t.me/Idolvpn_robot)
-وب سایت ما 
-[https://idolvpn.github.io/](https://idolvpn.github.io/)
- 
-ابزار تست سرعت و نشت آیپی ما
-[https://idolvpn.testplus.workers.dev‌](https://idolvpn.testplus.workers.dev%E2%80%8C/)
-ابزار مخفی کردن کانفیگ در محتوای رسانه 
-[https://idolvpn.github.io/hmm.html](https://idolvpn.github.io/hmm.html)
-پروژه متن باز جمع آوری کانفیگ 
-[https://github.com/Idolvpn/Automate-V2ray-Config-Collector](https://github.com/Idolvpn/Automate-V2ray-Config-Collector)
-اسکن هوشمند دامنه و DNS
-[https://idolvpn.github.io/irnet](https://idolvpn.github.io/irnet)
-[@IDOLvpn](https://t.me/IDOLvpn)
-[@IDOLvpn_group](https://t.me/IDOLvpn_group)
-
----
-
-### 🕒 2026-09-10 11:55:52 UTC
-OpenVPN.ovpn
 
 ---
 
