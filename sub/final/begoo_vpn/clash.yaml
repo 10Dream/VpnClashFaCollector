@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Begoo_VPN ²⁹³", server: 78.17.41.122, port: 42262, type: vless, tls: true, packet-encoding: xudp, uuid: a3bd1997-6f78-4e61-83e1-4f5d5000ed24, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ²⁹⁴", server: 185.216.71.225, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1af93670-c30e-4207-8458-7a0fc5638e53, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹³"
+      - "@Begoo_VPN ²⁹⁴"
   - name: دانلود منیجر 📥
     type: select
     proxies:
