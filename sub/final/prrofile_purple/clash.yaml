@@ -465,11 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***", server: 172.67.149.60, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***", server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***", server: render.com, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 200.165.235.78, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 238e492b-bc20-4380-92b6-135d39112ca4, servername: api8.eaglors.com, host: api8.eaglors.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o, short-id: 52ccb3687fe0b7ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***", server: 200.165.235.78, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 238e492b-bc20-4380-92b6-135d39112ca4, servername: api8.eaglors.com, host: api8.eaglors.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o, short-id: 52ccb3687fe0b7ec}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***", server: 199.232.78.101, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***", server: 199.232.78.160, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***", server: 91.107.185.25, port: 38466, type: vless, tls: true, packet-encoding: xudp, uuid: "%40Cooonfig", servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: o9QosLrFuqtMUXoPURDVw6JMr2Aw4e-ztIJoV-Li7gY, short-id: 2d26}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***", server: 194.62.105.24, port: 22153, type: vless, tls: true, packet-encoding: xudp, uuid: 05fede71-7e9f-45b2-b9b3-8ee3ec671411, servername: play-apps-features.googleusercontent.com, host: play-apps-features.googleusercontent.com, path: /, reality-opts: {public-key: H00yTh50AxpQgq1lv7ejTzOPWIJjV6JoyfnRt4haiT8, short-id: 274188ee4cbd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 194.62.105.24, port: 22153, type: vless, tls: true, packet-encoding: xudp, uuid: 05fede71-7e9f-45b2-b9b3-8ee3ec671411, servername: play-apps-features.googleusercontent.com, host: play-apps-features.googleusercontent.com, path: /, reality-opts: {public-key: H00yTh50AxpQgq1lv7ejTzOPWIJjV6JoyfnRt4haiT8, short-id: 274188ee4cbd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***", server: 167.104.216.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 367b6ccd-ecf1-42da-b9d7-375161ab0952, servername: fr3.esimpson.org, host: fr3.esimpson.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YzcD3L8gMsXxNBiGsPaLsy6DMip_MK6xu7voH_HriA8, short-id: cd41f54066ca4672}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***", server: swe.demka.live, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6230dfe2-7de5-4d4b-990f-73ac7f53e987, servername: swe.demka.live, host: swe.demka.live, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Xex41s7KQghFptGs_fynXpT-1KDEV0WPlTUV0CQUBBg, short-id: 6d71ba03965556a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***", server: arvancloud.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9a6c35c3-08ff-4945-a9e2-b9b04dee4430, network: ws, ws-opts: {path: /, headers: {Host: farshekashan.saminpcm.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,33 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,33 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***☀️***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💦***"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***💧***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍏***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍊***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍋***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍌***"
       - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🌈***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍉***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍎***"
+      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚***🍇***"
   - name: دانلود منیجر 📥
     type: select
     proxies:
