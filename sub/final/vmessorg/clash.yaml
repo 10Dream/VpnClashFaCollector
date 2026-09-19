@@ -465,7 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: vmessorg, server: 82.40.62.178, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: Telegramjoin%3ATurboConfigs%20, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: jsv-p-de1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-de1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg, server: jsv-de1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 2, server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 2", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: jsv-p-tr1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-tr1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 3", server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 4", server: jsv-tr1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 5", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: jsv-p-us1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-us1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 3, server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 4, server: jsv-us1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +490,45 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +544,45 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: دانلود منیجر 📥
     type: select
     proxies:

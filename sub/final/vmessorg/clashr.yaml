@@ -5,46 +5,102 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: vmessorg, server: 82.40.62.178, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: Telegramjoin%3ATurboConfigs%20, host: amp-api-edge.apps.apple.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: jsv-p-de1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-de1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg, server: jsv-de1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 2, server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-000B-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 2", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: jsv-p-tr1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-tr1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 3", server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 4", server: jsv-tr1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-0015-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vmessorg 5", server: c-1.mrcloudi.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: jsv-p-us1.donick.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: jsv-p-us1.donick.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 3, server: jsv-ir2.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vmessorg 4, server: jsv-us1.jmovies.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c26fe2f0-5c69-001F-8a1a-bf116ceb9215, servername: numpy.org, host: numpy.org, path: /, reality-opts: {public-key: fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc, short-id: f373df45a687eaff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +128,15 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - "@vmessorg"
       - vmessorg
+      - vmessorg 2
+      - "@vmessorg 2"
+      - "@vmessorg 3"
+      - "@vmessorg 4"
+      - "@vmessorg 5"
+      - vmessorg 3
+      - vmessorg 4
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

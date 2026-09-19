@@ -465,15 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Free x265 @Outline_Vpn, server: 199.232.78.101, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: Free x260 @Outline_Vpn, server: 84.32.177.97, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 02722550-1915-4629-a653-cbe95e594f70, servername: apiv1nd.goonars.com, host: apiv1nd.goonars.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U, short-id: 2aef5875}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x263 @Outline_Vpn, server: nid3ch.betust.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 02722550-1915-4629-a653-cbe95e594f70, servername: apiv13.betust.net, host: apiv13.betust.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo, short-id: ef5d4ad5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x262 @Outline_Vpn, server: nid3ch.betust.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 02722550-1915-4629-a653-cbe95e594f70, servername: apiv13.betust.net, host: apiv13.betust.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo, short-id: ef5d4ad5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x267 @Outline_Vpn, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a5a2bfd-97d5-4a35-bd9f-abb117b79f40, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x264 @Outline_Vpn, server: de9.bexait.ir, port: 2434, type: vless, tls: true, packet-encoding: xudp, uuid: 3a5a2bfd-97d5-4a35-bd9f-abb117b79f40, servername: icloud.com, host: icloud.com, path: /, reality-opts: {public-key: yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0, short-id: 9de041877612a718}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x261 @Outline_Vpn, server: 84.252.100.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3db8407b-1f96-4b82-bfeb-55258c1e57b4, servername: flarora.ferreo.sbs, host: flarora.ferreo.sbs, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU, short-id: 1067b23f928e7618}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Free x268 @Outline_Vpn, server: 178.95.170.115, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be, network: ws, ws-opts: {path: /4bc027a44532}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "", server: s1.connect.labex.pro, port: 1007, type: vmess, uuid: d4c556a2-3d61-4b1d-9550-d6d010ff1d3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x356 @Outline_Vpn, server: 20.238.35.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LB2J8MvTt2SBgD6o, udp: true, tfo: false}
+  - {name: Free x358 @Outline_Vpn, server: 68.219.211.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Ps4MSc9PUejUkW3E, udp: true, tfo: false}
+  - {name: Free x357 @Outline_Vpn, server: 82.47.186.18, port: 19290, type: ss, cipher: aes-128-gcm, password: o2rw2hICwu1blrr_gZAl2Q, udp: true, tfo: false}
+  - {name: Free x354 @Outline_Vpn, server: 82.47.186.18, port: 55597, type: ss, cipher: aes-128-gcm, password: o2rw2hICwu1blrr_gZAl2Q, udp: true, tfo: false}
+  - {name: Free x355 @Outline_Vpn, server: 31.184.244.162, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 60a361f9-3c45-4954-9e4c-92a85bda243d, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY, short-id: 4881f8244d1b9021}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x350 @Outline_Vpn, server: turkey.senbilarsin.ir, port: 4896, type: vless, tls: true, packet-encoding: xudp, uuid: 779317ef-3964-4189-8e0c-d3094a9ffe01, servername: www.trthaber.com, host: www.trthaber.com, path: /, reality-opts: {public-key: OB-zrDNApRBNMSqcZagc5NUpWGQSGXOgLO4M91GzoVo, short-id: 1b94d025d119dd86}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x351 @Outline_Vpn, server: 80.91.79.136, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 807cd1e0-f4ce-4785-b7a3-cde0c1614b8d, servername: www.logitech.com, host: www.logitech.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: g9uQwtqcqsPvzqQy2hM4rpvTIGXRQSAt-MAgHpz_gCI, short-id: 0b0bf0590fb9c138}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x353 @Outline_Vpn, server: 147.90.26.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, servername: cdn8848.776676.xyz, network: ws, ws-opts: {path: /, headers: {Host: cdn8848.776676.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x352 @Outline_Vpn, server: 202.181.177.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, servername: cdn8848.776676.xyz, network: ws, ws-opts: {path: /channels/act, headers: {Host: cdn8848.776676.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Free x359 @Outline_Vpn, server: g1.haxat.bestvbest.ir, port: 20610, type: vless, tls: true, packet-encoding: xudp, uuid: d65a82af-a403-405e-8b7b-27a68b830511, servername: doctor-yab.ir, host: doctor-yab.ir, path: /, reality-opts: {public-key: lcXIrYi2o8yXrYHR321qQ--5lqVT8a6TKbaGpYTq4CI, short-id: 1d1a8f9fefeff5e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +491,48 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +548,48 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Free x265 @Outline_Vpn
-      - Free x260 @Outline_Vpn
-      - Free x263 @Outline_Vpn
-      - Free x262 @Outline_Vpn
-      - Free x267 @Outline_Vpn
-      - Free x264 @Outline_Vpn
-      - Free x261 @Outline_Vpn
-      - Free x268 @Outline_Vpn
-      - ""
+      - Free x356 @Outline_Vpn
+      - Free x358 @Outline_Vpn
+      - Free x357 @Outline_Vpn
+      - Free x354 @Outline_Vpn
+      - Free x355 @Outline_Vpn
+      - Free x350 @Outline_Vpn
+      - Free x351 @Outline_Vpn
+      - Free x353 @Outline_Vpn
+      - Free x352 @Outline_Vpn
+      - Free x359 @Outline_Vpn
   - name: دانلود منیجر 📥
     type: select
     proxies:

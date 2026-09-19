@@ -465,73 +465,31 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 165750 | @LonUp_M, server: 108.162.192.188, port: 80, type: vmess, uuid: 2ac4e269-1576-4f41-8c0d-6242e3c5fd8c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz.}}, udp: true, tfo: false}
-  - {name: 165701 | @SOSkeyNET, server: 108.162.192.188, port: 80, type: vmess, uuid: 2ac4e269-1576-4f41-8c0d-6242e3c5fd8c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: 1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz.}}, udp: true, tfo: false}
-  - {name: 166243 | @SOSkeyNET, server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166292 | @LonUp_M, server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn", server: 149.88.23.207, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166589 | @SOSkeyNET, server: 165.140.217.2, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166638 | @LonUp_M, server: 165.140.217.2, port: 443, type: vmess, uuid: b65a2d69-5634-42a2-e4be-54e8a6176900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166441 | @SOSkeyNET, server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166490 | @LonUp_M, server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165699 | @SOSkeyNET, server: 172.64.154.102, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 165748 | @LonUp_M, server: 172.64.154.102, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 165698 | @SOSkeyNET, server: 172.67.184.53, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 165747 | @LonUp_M, server: 172.67.184.53, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 165708 | @SOSkeyNET, server: 188.114.97.3, port: 80, type: vmess, uuid: b79a6959-6feb-43ba-b3c7-f1afae9ea32c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: Uk2.vmess.site.}}, udp: true, tfo: false}
-  - {name: 165757 | @LonUp_M, server: 188.114.97.3, port: 80, type: vmess, uuid: b79a6959-6feb-43ba-b3c7-f1afae9ea32c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: Uk2.vmess.site.}}, udp: true, tfo: false}
-  - {name: 166647 | @SOSkeyNET, server: 188.132.232.85, port: 2086, type: vmess, uuid: f6361af8-bb8f-4609-bf5d-3fc0f688f47b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166696 | @LonUp_M, server: 188.132.232.85, port: 2086, type: vmess, uuid: f6361af8-bb8f-4609-bf5d-3fc0f688f47b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165988 | @LonUp_M, server: 193.24.120.32, port: 1070, type: vmess, uuid: dac2a3bd-0519-4641-9f16-5de37434b124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165939 | @SOSkeyNET, server: 193.24.120.32, port: 1070, type: vmess, uuid: dac2a3bd-0519-4641-9f16-5de37434b124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166581 | @SOSkeyNET, server: 212.74.39.88, port: 8080, type: vmess, uuid: abe912e7-45d9-44d5-b079-c6933b853a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166630 | @LonUp_M, server: 212.74.39.88, port: 8080, type: vmess, uuid: abe912e7-45d9-44d5-b079-c6933b853a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 2", server: 212.74.39.88, port: 8080, type: vmess, uuid: abe912e7-45d9-44d5-b079-c6933b853a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 3", server: 212.74.39.88, port: 8080, type: vmess, uuid: abe912e7-45d9-44d5-b079-c6933b853a56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165780 | @SOSkeyNET, server: 31.77.8.97, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165829 | @LonUp_M, server: 31.77.8.97, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 4", server: 31.77.8.97, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166443 | @SOSkeyNET, server: 47.244.120.197, port: 23026, type: vmess, uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
-  - {name: 166492 | @LonUp_M, server: 47.244.120.197, port: 23026, type: vmess, uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
-  - {name: "@i10VPN⛰️", server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 5", server: 66.163.117.58, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165779 | @SOSkeyNET, server: 77.92.151.66, port: 26215, type: vmess, uuid: 6c8f5cfb-75f2-45b4-887c-59f909ef61ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 165828 | @LonUp_M, server: 77.92.151.66, port: 26215, type: vmess, uuid: 6c8f5cfb-75f2-45b4-887c-59f909ef61ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 6", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: jp1.sstank.top, udp: true, tfo: false}
-  - {name: "@i10VPN🔥", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN🥬", server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166168 | @SOSkeyNET, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: usaapp2.jisuyun.top, udp: true, tfo: false}
-  - {name: 166217 | @LonUp_M, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: usaapp2.jisuyun.top, udp: true, tfo: false}
-  - {name: 166458 | @LonUp_M, server: 84.17.41.2, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166409 | @SOSkeyNET, server: 84.17.41.2, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: Forde.arosakforosh.ir, port: 5941, type: vmess, uuid: 26f3dc79-c1a5-40aa-b9dd-6436b5e4188e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166275 | @SOSkeyNET, server: Forde.arosakforosh.ir, port: 5941, type: vmess, uuid: 26f3dc79-c1a5-40aa-b9dd-6436b5e4188e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166324 | @LonUp_M, server: Forde.arosakforosh.ir, port: 5941, type: vmess, uuid: 26f3dc79-c1a5-40aa-b9dd-6436b5e4188e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166585 | @SOSkeyNET, server: alman.asasin6.ir, port: 110, type: vmess, uuid: 4fcdbb54-17bf-41e2-8879-1d708a02cfdd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166634 | @LonUp_M, server: alman.asasin6.ir, port: 110, type: vmess, uuid: 4fcdbb54-17bf-41e2-8879-1d708a02cfdd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 7", server: alman.asasin6.ir, port: 110, type: vmess, uuid: 4fcdbb54-17bf-41e2-8879-1d708a02cfdd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165742 | @SOSkeyNET, server: de.connfull.org, port: 2053, type: vmess, uuid: 83694535-1784-4647-a9b4-067c48903263, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165791 | @LonUp_M, server: de.connfull.org, port: 2053, type: vmess, uuid: 83694535-1784-4647-a9b4-067c48903263, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 8", server: me7.movieseryalirani.ir, port: 57361, type: vmess, uuid: d0b164f6-f805-42a2-bf59-f30c6c4ff0b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165821 | @SOSkeyNET, server: me2.movieseryalirani.ir, port: 14991, type: vmess, uuid: 7337d648-0414-4b00-ad85-46f6f3e0e27b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165870 | @LonUp_M, server: me2.movieseryalirani.ir, port: 14991, type: vmess, uuid: 7337d648-0414-4b00-ad85-46f6f3e0e27b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165853 | @SOSkeyNET, server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165902 | @LonUp_M, server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@chillguy_vpn 9", server: newrelax.relaxedboy.online, port: 110, type: vmess, uuid: 8e9687fc-a3a7-414a-8676-8e2136797cfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166343 | @SOSkeyNET, server: star.starnick2031.ir, port: 28997, type: vmess, uuid: e3c74528-9598-43e8-8185-fdab71ca0a9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166392 | @LonUp_M, server: star.starnick2031.ir, port: 28997, type: vmess, uuid: e3c74528-9598-43e8-8185-fdab71ca0a9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165886 | @SOSkeyNET, server: pori.cjlife.ir, port: 110, type: vmess, uuid: 0accd97e-a16c-4d4f-b19a-883f7ea0f484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165935 | @LonUp_M, server: pori.cjlife.ir, port: 110, type: vmess, uuid: 0accd97e-a16c-4d4f-b19a-883f7ea0f484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165887 | @SOSkeyNET, server: renderer-stream-2-62.mirra.now, port: 443, type: vmess, uuid: db50a20e-7ff5-4e70-948f-17cc9ca7c154, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: renderer-stream-2-62.mirra.now, network: ws, ws-opts: {path: /api/v1/gpu-stream/socket, headers: {Host: renderer-stream-2-62.mirra.now}}, udp: true, tfo: false}
-  - {name: 165936 | @LonUp_M, server: renderer-stream-2-62.mirra.now, port: 443, type: vmess, uuid: db50a20e-7ff5-4e70-948f-17cc9ca7c154, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: renderer-stream-2-62.mirra.now, network: ws, ws-opts: {path: /api/v1/gpu-stream/socket, headers: {Host: renderer-stream-2-62.mirra.now}}, udp: true, tfo: false}
-  - {name: 166130 | @SOSkeyNET, server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166179 | @LonUp_M, server: ww11.levikogjgfdd.ir, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166049 | @LonUp_M, server: www.zeneco.ir, port: 2495, type: vmess, uuid: bed17909-34c1-4e6c-b444-0f5db9cb5ce8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 166000 | @SOSkeyNET, server: www.zeneco.ir, port: 2495, type: vmess, uuid: bed17909-34c1-4e6c-b444-0f5db9cb5ce8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165777 | @SOSkeyNET, server: t.degeristir.ir, port: 8080, type: vmess, uuid: 3280feeb-69d6-4b1a-927d-bcab6720bfbd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: tk.zerossrz.ir, network: ws, ws-opts: {path: /, headers: {Host: aparat.zerossrz.ir}}, udp: true, tfo: false}
-  - {name: 165826 | @LonUp_M, server: t.degeristir.ir, port: 8080, type: vmess, uuid: 3280feeb-69d6-4b1a-927d-bcab6720bfbd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: tk.zerossrz.ir, network: ws, ws-opts: {path: /, headers: {Host: aparat.zerossrz.ir}}, udp: true, tfo: false}
-  - {name: 165741 | @SOSkeyNET, server: uk.connfull.org, port: 2053, type: vmess, uuid: d8d43cb7-2c08-4e08-969b-a0766a34d59a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 165790 | @LonUp_M, server: uk.connfull.org, port: 2053, type: vmess, uuid: d8d43cb7-2c08-4e08-969b-a0766a34d59a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170573 | @SOSkeyNET, server: 47.83.207.148, port: 443, type: vmess, uuid: f23bb427c1f94373876c2f43e9f790f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws-vmess, headers: {Host: VAH4URdZL3jDX5r2.v.3dns.vip}}, udp: true, tfo: false}
+  - {name: 170622 | @LonUp_M, server: 47.83.207.148, port: 443, type: vmess, uuid: f23bb427c1f94373876c2f43e9f790f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws-vmess, headers: {Host: VAH4URdZL3jDX5r2.v.3dns.vip}}, udp: true, tfo: false}
+  - {name: "@chillguy_vpn", server: 47.85.188.30, port: 12004, type: vmess, uuid: 8b5552bd-4cc7-4cac-af08-81c21686fd4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170984 | @LonUp_M, server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170935 | @SOSkeyNET, server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170809 | @SOSkeyNET, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170858 | @LonUp_M, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170808 | @SOSkeyNET, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170857 | @LonUp_M, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170580 | @LonUp_M, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170531 | @SOSkeyNET, server: 82.198.246.37, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 171046 | @SOSkeyNET, server: 94.184.17.130, port: 44580, type: vmess, uuid: 03508b01-f824-43d9-993f-cc491664ab2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 171095 | @LonUp_M, server: 94.184.17.130, port: 44580, type: vmess, uuid: 03508b01-f824-43d9-993f-cc491664ab2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 94.184.17.130, port: 44580, type: vmess, uuid: 03508b01-f824-43d9-993f-cc491664ab2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 2", server: 94.184.17.130, port: 44580, type: vmess, uuid: 03508b01-f824-43d9-993f-cc491664ab2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170675 | @LonUp_M, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore.sharecentre.online, network: ws, ws-opts: {path: /, headers: {Host: cf-lt.sharecentre.online}}, udp: true, tfo: false}
+  - {name: 170626 | @SOSkeyNET, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore.sharecentre.online, network: ws, ws-opts: {path: /, headers: {Host: cf-lt.sharecentre.online}}, udp: true, tfo: false}
+  - {name: "@BioBioChannel", server: ger1.ez0535.ir, port: 443, type: vmess, uuid: 6218633e-7f0f-42ba-bbce-0b641b8f796f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170428 | @LonUp_M, server: gr.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170379 | @SOSkeyNET, server: gr.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170377 | @SOSkeyNET, server: mnl2.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170426 | @LonUp_M, server: mnl2.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn 3", server: mnl2.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170380 | @SOSkeyNET, server: nll2.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170429 | @LonUp_M, server: nll2.qjcm.ir, port: 2086, type: vmess, uuid: 43c7c028-4309-41c8-99f2-0896766615f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -548,219 +506,93 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -776,219 +608,93 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 165750 | @LonUp_M
-      - 165701 | @SOSkeyNET
-      - 166243 | @SOSkeyNET
-      - 166292 | @LonUp_M
+      - 170573 | @SOSkeyNET
+      - 170622 | @LonUp_M
       - "@chillguy_vpn"
-      - 166589 | @SOSkeyNET
-      - 166638 | @LonUp_M
-      - 166441 | @SOSkeyNET
-      - 166490 | @LonUp_M
-      - 165699 | @SOSkeyNET
-      - 165748 | @LonUp_M
-      - 165698 | @SOSkeyNET
-      - 165747 | @LonUp_M
-      - 165708 | @SOSkeyNET
-      - 165757 | @LonUp_M
-      - 166647 | @SOSkeyNET
-      - 166696 | @LonUp_M
-      - 165988 | @LonUp_M
-      - 165939 | @SOSkeyNET
-      - 166581 | @SOSkeyNET
-      - 166630 | @LonUp_M
-      - "@chillguy_vpn 2"
-      - "@chillguy_vpn 3"
-      - 165780 | @SOSkeyNET
-      - 165829 | @LonUp_M
-      - "@chillguy_vpn 4"
-      - 166443 | @SOSkeyNET
-      - 166492 | @LonUp_M
-      - "@i10VPN⛰️"
-      - "@chillguy_vpn 5"
-      - 165779 | @SOSkeyNET
-      - 165828 | @LonUp_M
-      - "@chillguy_vpn 6"
-      - "@i10VPN🔥"
-      - "@i10VPN🥬"
-      - 166168 | @SOSkeyNET
-      - 166217 | @LonUp_M
-      - 166458 | @LonUp_M
-      - 166409 | @SOSkeyNET
+      - 170984 | @LonUp_M
+      - 170935 | @SOSkeyNET
+      - 170809 | @SOSkeyNET
+      - 170858 | @LonUp_M
+      - 170808 | @SOSkeyNET
+      - 170857 | @LonUp_M
+      - 170580 | @LonUp_M
+      - 170531 | @SOSkeyNET
+      - 171046 | @SOSkeyNET
+      - 171095 | @LonUp_M
       - "@meliproxyy"
-      - 166275 | @SOSkeyNET
-      - 166324 | @LonUp_M
-      - 166585 | @SOSkeyNET
-      - 166634 | @LonUp_M
-      - "@chillguy_vpn 7"
-      - 165742 | @SOSkeyNET
-      - 165791 | @LonUp_M
-      - "@chillguy_vpn 8"
-      - 165821 | @SOSkeyNET
-      - 165870 | @LonUp_M
-      - 165853 | @SOSkeyNET
-      - 165902 | @LonUp_M
-      - "@chillguy_vpn 9"
-      - 166343 | @SOSkeyNET
-      - 166392 | @LonUp_M
-      - 165886 | @SOSkeyNET
-      - 165935 | @LonUp_M
-      - 165887 | @SOSkeyNET
-      - 165936 | @LonUp_M
-      - 166130 | @SOSkeyNET
-      - 166179 | @LonUp_M
-      - 166049 | @LonUp_M
-      - 166000 | @SOSkeyNET
-      - 165777 | @SOSkeyNET
-      - 165826 | @LonUp_M
-      - 165741 | @SOSkeyNET
-      - 165790 | @LonUp_M
+      - "@chillguy_vpn 2"
+      - 170675 | @LonUp_M
+      - 170626 | @SOSkeyNET
+      - "@BioBioChannel"
+      - 170428 | @LonUp_M
+      - 170379 | @SOSkeyNET
+      - 170377 | @SOSkeyNET
+      - 170426 | @LonUp_M
+      - "@chillguy_vpn 3"
+      - 170380 | @SOSkeyNET
+      - 170429 | @LonUp_M
   - name: دانلود منیجر 📥
     type: select
     proxies:
