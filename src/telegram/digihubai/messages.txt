@@ -1,5 +1,62 @@
 # آرشیو کانال: @digihubai
-بروزرسانی: 2026-09-19 08:42:34 UTC
+بروزرسانی: 2026-09-19 13:00:10 UTC
+
+### 🕒 2026-09-19 09:36:35 UTC
+***🛡️***
+**بررسی امنیت پروژه‌های GitHub :**
+***1️⃣***
+OpenSSF Scorecard :
+امنیت کلی یک پروژه را بررسی میکنه و به مواردی مثل نحوه نگهداری پروژه، بررسی کد، تنظیمات گیت‌هاب و امنیت وابستگی‌ها امتیاز میده.
+[https://scorecard.dev](https://scorecard.dev/)
+***2️⃣***
+Gitleaks :
+برای پیدا کردن اطلاعات حساسی که اشتباهی داخل پروژه قرار گرفته‌، مثل کلید API، رمز عبور، توکن و کلید خصوصی.
+[https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+***3️⃣***
+OSV-Scanner :
+وابستگی‌های یک پروژه را بررسی میکنه تا مشخص بشه از نسخه‌های آسیب‌پذیر استفاده میکنه یا نه.
+[https://google.github.io/osv-scanner](https://google.github.io/osv-scanner)
+***4️⃣***
+Trivy :
+یک اسکنر چندمنظوره برای پیدا کردن آسیب‌پذیری، اطلاعات حساس، مشکلات امنیتی در پروژه، فایل‌ها و...
+[https://trivy.dev/](https://trivy.dev/)
+***5️⃣***
+Socket :
+روی امنیت بسته‌ها و کتابخونه‌های متن‌باز تمرکز داره.
+[https://socket.dev](https://socket.dev/)
+***6️⃣***
+Semgrep :
+کد پروژه رو بررسی میکنه و به دنبال الگوهای خطرناک و خطاهای امنیتی رایج میگرده. برای پیدا کردن مشکلات داخل خود کد کاربردیه.
+[https://semgrep.dev](https://semgrep.dev/)
+***7️⃣***
+GitHub Security :
+خود گیت‌هابم هم ابزارهای امنیتی داخلی داره.
+[https://github.com/security](https://github.com/security)
+***8️⃣***
+ بررسی اصالت و منشا فایل‌ها :
+گاهی مشکل خود کد نیست، باید بدونیم فایل اجرایی یا بسته‌ای که دانلود کردیم واقعا از همون پروژه ساخته شده یا نه؟
+فناوری‌هایی مثل Sigstore، SLSA و GitHub Attestations برای ثبت و بررسی منشا فایل‌ها و نحوه ساخته‌شدنشون استفاده میشه.
+***🔗***
+ 
+[https://www.sigstore.dev](https://www.sigstore.dev/)
+***🔗***
+ 
+[https://slsa.dev](https://slsa.dev/)
+***🔗***
+ 
+[https://docs.github.com/en/actions/security-for-github-actions/using-artifact-attestations](https://docs.github.com/en/actions/security-for-github-actions/using-artifact-attestations)
+﻿
+ 
+[#امنیت](?q=%23%D8%A7%D9%85%D9%86%DB%8C%D8%AA)
+ 
+[#OpenSource](?q=%23OpenSource)
+ 
+[#تکنولوژی](?q=%23%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C)
+ 
+[#کاربردی](?q=%23%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C)
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
 
 ### 🕒 2026-09-19 08:00:57 UTC
 [#اقتصاد_مقاربتی](?q=%23%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%AA%DB%8C)
@@ -97,14 +154,6 @@
 ### 🕒 2026-09-18 16:11:33 UTC
 **⭕️اسکريپت دور زدن محدودیت دسترسی به Google Flow بدون تغییر آیپی :**
 [https://github.com/maanimeisam/Google-Flow-Helper](https://github.com/maanimeisam/Google-Flow-Helper)
-[@DigiHubAI](https://t.me/DigiHubAI)
-
----
-
-### 🕒 2026-09-18 09:43:15 UTC
-***👛***
-ولت Gram تلگرام(تون سابق) در نسخه بتا تلگرام برای MacOS منتشر شده. فعلا قابلیت‌های اصلی آنلاک نشده و صرفا ازش رونمایی کردن.
-+ این ولت جدید غیرحضانتیه و مثل بات Wallet نیست که نتونید ازش استفاده کنید.
 [@DigiHubAI](https://t.me/DigiHubAI)
 
 ---
