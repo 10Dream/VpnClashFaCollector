@@ -465,17 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇩🇪 Germany 🇩🇪, server: 185.226.172.8, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
-  - {name: 🇮🇹 Italy 🇮🇹, server: 57.131.48.45, port: 8388, type: ss, cipher: aes-256-gcm, password: itzvpn@321, udp: true, tfo: false}
-  - {name: FI 🇫🇮 | @Kia_Net | 3E44B2, server: 31.76.88.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03c48eca-e0aa-4e18-998c-1f53f1de293c, servername: cf5.rumedia-cdn.com, network: ws, ws-opts: {path: /cdn/v3/live, headers: {Host: cf5.rumedia-cdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F, server: 91.107.154.19, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 11af1c47-865a-47c6-92ff-118013655d78, network: ws, ws-opts: {path: "/?ed"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇹🇷 Türkiye 🇹🇷, server: tr.cloudtechone.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5, servername: tr.cloudtechone.org, host: tr.cloudtechone.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo, short-id: f93c9d5127e622e4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇪🇸 Spain 🇪🇸, server: 185.254.205.79, port: 19842, type: vless, tls: true, packet-encoding: xudp, uuid: 43c23116-1115-4af4-a0f0-56f02841a605, servername: www.tesla.com, host: www.tesla.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sfOfuQeJBlKfDnPL_EMWUxMIiFAN8BNKjtWDUvlsjzM, short-id: 25ebc9e0a912}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 FR 🇫🇷 | @kia_net | 165A21, server: 62.210.91.2, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28, server: 163.8.195.241, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54, network: ws, ws-opts: {path: /29c8fed7ca22}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: turkey-@Kia_Net  چنل, server: app.life-pro.ir, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 79f98593-6a21-4783-a425-3d5609a79df1, host: app.life-pro.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TR 🇹🇷 | @kia_net | 852826, server: 156.67.63.231, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b052df40-d51c-456c-9bd6-57af01a87e4e, servername: sync-bridge.org, host: sync-bridge.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI, short-id: 5606d4a25c99e7af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪, server: 45.130.125.201, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: dc8a9493-c54a-459e-d060-81a700000001, network: ws, ws-opts: {path: /sync, headers: {Host: nahan-core.netizo09.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇧🇬 Bulgaria 🇧🇬, server: 45.9.156.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v2.RelayService}, reality-opts: {public-key: RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw, short-id: 1a3102bb8e51399e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇲🇩 Moldova 🇲🇩, server: 89.35.14.32, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.PushService}, reality-opts: {public-key: q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ, short-id: 9a72d40f1ff882b3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: United Arab Emirates 🇦🇪, server: core-data.gorekmas.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4f8a1d19-4d21-47f5-816e-a8f475fbd3f7, servername: core-data.gorekmas.online, host: core-data.gorekmas.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CRh0VOb2qvDm4H89m6qiHg_9M6nnJ0f_h0kpPitA6hw, short-id: 266337e69bb1f189}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: United Arab Emirates 🇦🇪 2, server: srv-waw.kintecolas.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4f8a1d19-4d21-47f5-816e-a8f475fbd3f7, servername: srv-waw.kintecolas.com, host: srv-waw.kintecolas.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU, short-id: 22f534c530d37170}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇨🇿 Czechia 🇨🇿, server: 95.85.230.35, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbfd1f68-ec64-452f-8404-9e2bcf1df951, servername: de.oblaco.bet, host: de.oblaco.bet, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -492,51 +486,33 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -552,51 +528,33 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Germany 🇩🇪
-      - 🇮🇹 Italy 🇮🇹
-      - FI 🇫🇮 | @Kia_Net | 3E44B2
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 7BEA5F
-      - 🇹🇷 Türkiye 🇹🇷
-      - 🇪🇸 Spain 🇪🇸
-      - 🇫🇷 FR 🇫🇷 | @kia_net | 165A21
-      - 🇩🇪 DE 🇩🇪 | @Kia_Net | 416C28
-      - turkey-@Kia_Net  چنل
-      - TR 🇹🇷 | @kia_net | 852826
-      - CLOUDFLARE 🇨🇱🇴🇺🇩🇫🇱🇦🇷🇪
+      - 🇧🇬 Bulgaria 🇧🇬
+      - 🇲🇩 Moldova 🇲🇩
+      - United Arab Emirates 🇦🇪
+      - United Arab Emirates 🇦🇪 2
+      - 🇨🇿 Czechia 🇨🇿
   - name: دانلود منیجر 📥
     type: select
     proxies:

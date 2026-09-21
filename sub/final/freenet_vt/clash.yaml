@@ -465,11 +465,37 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Freenet_vt, server: 89.124.94.83, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: 0eea2d4c-9bde-40a7-bf57-3d5a9a8caeab, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i63mOV0i35u-2VR7mpaVC0XML1dS7s6XmzAlff50Eic, short-id: ec70d3b2b6298ba1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Freenet_vt 2, server: netraidly.ru, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: 4480161e-2c59-4d37-8736-675c9af32bf1, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y, short-id: 01d1bf2d4755d40c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Freenet_vt 3, server: 150.241.101.80, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 47d9b534-8a0a-4bd2-90f1-1d6ade14427e, servername: yandex.net, host: yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Freenet_vt 4, server: 5.253.28.242, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: af5eac96-e478-488a-bc8c-45269d7e8847, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw, short-id: 68a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Freenet_vt 5, server: 51.81.203.63, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cb2dbb6a-a1ea-4023-9ace-6466cee57241, servername: www.icloud.com, host: www.icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0, short-id: 4477382ff6d3d41c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt, server: web.turbooserver.net.tr, port: 2087, type: ss, cipher: 2022-blake3-aes-256-gcm, password: WAqeGA+dU+HZYSipCio+Jmt7SSVfHjwMH7j8xmsm7/s=:althddZ27iu261I+568pk7HZzBFDCyIx6pvG8H9oXow=, udp: true, tfo: false}
+  - {name: Freenet_vt 2, server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: Freenet_vt 3, server: 104.21.14.100, port: 443, type: trojan, password: Siw3_iSte%40ulOTO%2C-, sni: 4zGCcbcB10PQYiBNWmM4NvZnj4.royAEhMAN5.woRKERS.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/Eo2droQb0humwDihHeNc?ed=2560", headers: {Host: 4zGCcbcB10PQYiBNWmM4NvZnj4.royAEhMAN5.woRKERS.deV}}, udp: true, tfo: false}
+  - {name: Freenet_vt 4, server: 172.67.158.158, port: 443, type: trojan, password: Siw3_iSte%40ulOTO%2C-, sni: 4zgCcbCb10PqYIBNwmM4NVzNj4.RoyaehmaN5.WORkErs.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/fZ9yFHHYZsOSWv2vnEhP?ed=2560", headers: {Host: 4zgCcbCb10PqYIBNwmM4NVzNj4.RoyaehmaN5.WORkErs.DeV}}, udp: true, tfo: false}
+  - {name: Freenet_vt 5, server: 4zgccbcb10pqyibnwmm4nvznj4.royaehman5.workers.dev, port: 443, type: trojan, password: Siw3_iSte%40ulOTO%2C-, sni: 4zgcCBcB10PQYIbnWMM4nvznJ4.rOyAEhmAn5.WorKers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/3BEU3jR06ZEdPc6FBekHFztK?ed=2560", headers: {Host: 4zgcCBcB10PQYIbnWMM4nvznJ4.rOyAEhmAn5.WorKers.dev}}, udp: true, tfo: false}
+  - {name: Freenet_vt 6, server: www.speedtest.net, port: 443, type: trojan, password: Siw3_iSte%40ulOTO%2C-, sni: 4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/JxEfewo91O5PbO3TqlIpmg43u?ed=2560", headers: {Host: 4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV}}, udp: true, tfo: false}
+  - {name: 172.67.149.60:443, server: 172.67.149.60, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
+  - {name: Freenet_vt 7, server: 104.21.236.63, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 44eae030-290b-4083-8102-6f8bab05701b, servername: cfvvv-ev1.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 8, server: 104.21.70.228, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 44eae030-290b-4083-8102-6f8bab05701b, servername: cfvvv-ev1.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: cfvvv-ev1.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freen, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 44eae030-290b-4083-8102-6f8bab05701b, servername: cfvvv-ev1.pages.dev, network: ws, ws-opts: {path: "/?TELEGRAM--V2ray_confiig?ed=2560", headers: {Host: cfvvv-ev1.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 9, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 44eae030-290b-4083-8102-6f8bab05701b, servername: cfvvv-ev1.pages.dev, network: ws, ws-opts: {path: /mtmvpn, headers: {Host: cfvvv-ev1.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 10, server: 201.7.25.208, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b571245-ec1e-44b1-bb5a-f7c61157d2c4, servername: ee.api-yandex.net, host: ee.api-yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE, short-id: 0f4dacf33211e04f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 11, server: 104.21.14.100, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc7f295-b80e-4235-bb17-61e3ddc0744a, servername: 4zGCcbcB10PQYiBNWmM4NvZnj4.royAEhMAN5.woRKERS.deV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/vl/dUpDYuQTXxF5X83infdA74?ed=2560", headers: {Host: 4zGCcbcB10PQYiBNWmM4NvZnj4.royAEhMAN5.woRKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 12, server: 172.67.158.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc7f295-b80e-4235-bb17-61e3ddc0744a, servername: 4zgCcbCb10PqYIBNwmM4NVzNj4.RoyaehmaN5.WORkErs.DeV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/vl/hVKvQ38dIVUYYMACe6IBe4E?ed=2560", headers: {Host: 4zgCcbCb10PqYIBNwmM4NVzNj4.RoyaehmaN5.WORkErs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 13, server: 4zgccbcb10pqyibnwmm4nvznj4.royaehman5.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc7f295-b80e-4235-bb17-61e3ddc0744a, servername: 4zgcCBcB10PQYIbnWMM4nvznJ4.rOyAEhmAn5.WorKers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/vl/AV21Gwm6013FI8fP?ed=2560", headers: {Host: 4zgcCBcB10PQYIbnWMM4nvznJ4.rOyAEhmAn5.WorKers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 14, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc7f295-b80e-4235-bb17-61e3ddc0744a, servername: 4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/vl/dirxIBhljtrTSM76Q?ed=2560", headers: {Host: 4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 15, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8102891d-7b37-4dc5-8261-9474b59b5c63, servername: vip.868068.xyz, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: vip.868068.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 16, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8102891d-7b37-4dc5-8261-9474b59b5c63, servername: vip.868068.xyz, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: vip.868068.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 17, server: neth9.lunariai.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a, host: neth9.lunariai.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 18, server: 45.58.126.92, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: ad297a2b-ae17-4d2d-8fce-e2eafb89b145, servername: nbcnews.com, host: nbcnews.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8, short-id: 08}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 19, server: 162.159.192.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b2593749-691c-428c-9481-14979cba3446, servername: xi.tbv.ccwu.cc, network: ws, ws-opts: {path: /proxyip=us.xiabibi.cf, headers: {Host: xi.tbv.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 20, server: 169.40.42.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 21, server: 169.40.42.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 22, server: 169.40.42.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 23, server: 169.40.42.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 24, server: 169.40.42.75, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 25, server: 103.109.234.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, servername: de10.delivery-4f1c.com, host: de10.delivery-4f1c.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: z_Rn0Vvq1GB39RhN6v7DhdtD-kS0XZa_je0h-no_hWs, short-id: 59eee550a1014198}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 26, server: 136.148.71.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, servername: de2.edge-9d7c.com, host: de2.edge-9d7c.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM, short-id: 9d84de9d9f7b85e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 27, server: 136.148.71.9, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, servername: de3.edge-9d7c.com, host: de3.edge-9d7c.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM, short-id: 9d84de9d9f7b85e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Freenet_vt 28, server: 45.141.131.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, servername: de5.edge-9d7c.com, host: de5.edge-9d7c.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM, short-id: 9d84de9d9f7b85e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freenet_vt", server: 134.195.196.211, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,6 +517,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -502,6 +554,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -513,6 +591,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -533,6 +637,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -544,6 +674,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -555,6 +711,32 @@ proxy-groups:
       - Freenet_vt 3
       - Freenet_vt 4
       - Freenet_vt 5
+      - Freenet_vt 6
+      - 172.67.149.60:443
+      - Freenet_vt 7
+      - Freenet_vt 8
+      - Freen
+      - Freenet_vt 9
+      - Freenet_vt 10
+      - Freenet_vt 11
+      - Freenet_vt 12
+      - Freenet_vt 13
+      - Freenet_vt 14
+      - Freenet_vt 15
+      - Freenet_vt 16
+      - Freenet_vt 17
+      - Freenet_vt 18
+      - Freenet_vt 19
+      - Freenet_vt 20
+      - Freenet_vt 21
+      - Freenet_vt 22
+      - Freenet_vt 23
+      - Freenet_vt 24
+      - Freenet_vt 25
+      - Freenet_vt 26
+      - Freenet_vt 27
+      - Freenet_vt 28
+      - "@Freenet_vt"
   - name: دانلود منیجر 📥
     type: select
     proxies:

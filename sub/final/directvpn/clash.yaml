@@ -465,14 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Our@DirectVPN, server: 13.37.31.153, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 2, server: 13.38.187.46, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 3, server: 13.39.230.204, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 4, server: 13.42.122.76, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 5, server: 15.236.33.146, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 6, server: 16.61.134.243, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 7, server: 35.176.34.52, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 8, server: 35.179.59.25, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN, server: 13.36.1.52, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 2, server: 13.37.147.23, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 3, server: 15.188.103.174, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 4, server: 15.224.194.93, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 5, server: 15.237.17.206, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 6, server: 15.237.5.137, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 7, server: 16.60.58.242, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 8, server: 16.60.90.238, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 9, server: 18.132.128.159, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 10, server: 18.171.93.11, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,6 +499,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -511,6 +515,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -525,6 +531,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -548,6 +556,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -562,6 +572,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -576,6 +588,8 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
+      - Our@DirectVPN 9
+      - Our@DirectVPN 10
   - name: دانلود منیجر 📥
     type: select
     proxies:

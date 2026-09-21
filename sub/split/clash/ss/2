@@ -465,8 +465,22 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 161416 | ⚡️Telegram - t.me/SOSkeyNET, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
-  - {name: 161465 | ⚡️Telegram - t.me/LonUp_M, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: 15.204.247.244:4444, server: 15.204.247.244, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: 175630 | ⚡️Telegram - t.me/SOSkeyNET, server: 15.204.247.244, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: 175679 | ⚡️Telegram - t.me/LonUp_M, server: 15.204.247.244, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 15.204.247.244, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: 175879 | ⚡️Telegram - t.me/SOSkeyNET, server: 139.180.220.175, port: 8388, type: ss, cipher: aes-256-gcm, password: qpSevKaUXYQKvSjp, udp: true, tfo: false}
+  - {name: 175928 | ⚡️Telegram - t.me/LonUp_M, server: 139.180.220.175, port: 8388, type: ss, cipher: aes-256-gcm, password: qpSevKaUXYQKvSjp, udp: true, tfo: false}
+  - {name: 176260 | ⚡️Telegram - t.me/SOSkeyNET, server: 87.58.148.70, port: 443, type: ss, cipher: aes-256-gcm, password: rg0g3xp9rk9nk9o0, udp: true, tfo: false}
+  - {name: 176309 | ⚡️Telegram - t.me/LonUp_M, server: 87.58.148.70, port: 443, type: ss, cipher: aes-256-gcm, password: rg0g3xp9rk9nk9o0, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 87.58.148.70, port: 443, type: ss, cipher: aes-256-gcm, password: rg0g3xp9rk9nk9o0, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 💚 کانال تلگرام", server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🩵 کانال تلگرام", server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: 176492 | ⚡️Telegram - t.me/SOSkeyNET, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: 176541 | ⚡️Telegram - t.me/LonUp_M, server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: 51.222.12.127, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: 51.222.141.125:445, server: 51.222.141.125, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🤍 کانال تلگرام", server: 51.222.141.125, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +497,66 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +572,66 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 161416 | ⚡️Telegram - t.me/SOSkeyNET
-      - 161465 | ⚡️Telegram - t.me/LonUp_M
+      - 15.204.247.244:4444
+      - 175630 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175679 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - 175879 | ⚡️Telegram - t.me/SOSkeyNET
+      - 175928 | ⚡️Telegram - t.me/LonUp_M
+      - 176260 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176309 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 2"
+      - "@Vpn_Tehran 💚 کانال تلگرام"
+      - "@Vpn_Tehran 🩵 کانال تلگرام"
+      - 176492 | ⚡️Telegram - t.me/SOSkeyNET
+      - 176541 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy 3"
+      - 51.222.141.125:445
+      - "@Vpn_Tehran 🤍 کانال تلگرام"
   - name: دانلود منیجر 📥
     type: select
     proxies:
