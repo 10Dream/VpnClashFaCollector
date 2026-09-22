@@ -1,5 +1,26 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-09-22 09:17:28 UTC
+بروزرسانی: 2026-09-22 14:35:04 UTC
+
+### 🕒 2026-09-22 10:44:48 UTC
+اگر روی 9Router ارور 
+`HTTP 403: [403]: {"type":"error","error":{"type":"FreeTierError","message":"Error from provider (Console): OpenCode's free tier can only be used from within OpenCode"}}`
+می‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.
+برای آپدیت کسایی که با npm نصب کردن، از دستور
+npm i -g 9router@latest --prefer-online
+استفاده کنن، و کسایی هم که با داکر نصب کردن از
+docker pull decolua/9router:latest
+docker rm -f 9router
+docker run -d \
+  --name 9router \
+  -p 20128:20128 \
+  -v "$HOME/.9router:/app/data" \
+  -e DATA_DIR=/app/data \
+  -e JWT_SECRET="change-this-to-a-long-random-secret" \
+  -e INITIAL_PASSWORD="your-strong-dashboard-password" \
+  decolua/9router:latest
+استفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)
+
+---
 
 ### 🕒 2026-09-22 09:10:19 UTC
 این وسط Mimo 2.6 Pro هم اومد و grok 4.7 رو بولی کرد:))
@@ -88,50 +109,6 @@
 ### 🕒 2026-09-21 15:24:55 UTC
 هوش مصنوعی مسلمان
 اصلا هیچی بهش نگفته بودما، خودش یهو اومد گفت بسم‌الله
-
----
-
-### 🕒 2026-09-21 11:14:41 UTC
-یه نفر یه چیزی ساخته بود
-من دارم یه کم خفن‌ترش می‌کنم که ازش ویدئو بگیرم
-بعدشم اوپن سورس منتشرش می‌کنم
-مربوط به بازیه
-***#️⃣***
-از اونجایی که 3 تا 5 هم برق میره، بعدش ضبط میکنم و احتمالا تا شب آماده بشه
-
----
-
-### 🕒 2026-09-21 10:26:39 UTC
-دسترسی به Jev برای همه با استارت کردیت 5$ دلاری رایگان شد: console.typesafe.ai  
-***✉️***
- t.me/MatinSenPaii
-
----
-
-### 🕒 2026-09-21 09:55:24 UTC
-اگه اولش ازتون پرسید Can you chat with Jev
-باید بزنید No
-چون طبیعتا LLM نیست و نمی‌تونید باهاش حرف بزنید
-یک مقدار شاید پیچیده به نظرتون برسه اما به زودی راجب کاربردهاش صحبت می‌کنیم و ویدئو هم داریم
-
----
-
-### 🕒 2026-09-21 09:43:19 UTC
-خیلی بامزست:)
-
----
-
-### 🕒 2026-09-21 09:33:47 UTC
-دسترسی به Jev برای همه با استارت کردیت 5$ دلاری رایگان شد: console.typesafe.ai  
-***✉️***
- t.me/MatinSenPaii
-
----
-
-### 🕒 2026-09-21 09:32:20 UTC
-خلاصه‌ی کاری که Jev انجام میده
-***😂***
- (سریال Breaking Bad) برای اون نرم‌افزار بررسی کامنت اینستاگرام صد درصد میشه ازش استفاده کرد
 
 ---
 
