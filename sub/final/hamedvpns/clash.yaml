@@ -465,8 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: hamedvpns_2`, server: ir.gafe-lorbad.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e0a63a9-e44c-42f3-8274-0cd1f282e3e7, host: ir.gafe-lorbad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedvpns_1`, server: demo.fllanagan.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a72f055b-8929-4947-bbcd-1eb567e1f69e, host: demo.fllanagan.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedvpns::🇫🇮, server: 62.238.103.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: d78de562-872e-43dd-be48-e9d7b06c87a3, servername: www.yahoo.com, host: www.yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tADYkZWWksM_mCqqwlRHCciSCXnP3JMYrPi5eoRHh2s, short-id: d059fb98048c5318}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hamedvpns_2`
-      - hamedvpns_1`
+      - hamedvpns::🇫🇮
   - name: دانلود منیجر 📥
     type: select
     proxies:

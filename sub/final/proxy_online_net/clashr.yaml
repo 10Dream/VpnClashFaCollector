@@ -5,305 +5,144 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 8989 @proxy_online_net, server: 2.27.59.206, port: 443, type: hysteria2, ports: 443, password: cd74c0a406664a5bc0bac098220a2468, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, sni: de1.sferavpn.pro, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9006 @proxy_online_net, server: 2.27.59.206, port: 443, type: hysteria2, ports: 443, password: cd74c0a406664a5bc0bac098220a2468, obfs: salamander, obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0, sni: de1.sferavpn.pro, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9020 @proxy_online_net, server: 129.146.202.221, port: 50356, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: +fzJvpwW2VTKUH4q8DKLuZXnibvrI2eRuStiXN8txX4=, udp: true, tfo: false}
-  - {name: 9022 @proxy_online_net, server: AiOgrAm325666zXcAssfDweRw3R34535467b67h678h678jm67i67i.iranpuls.ir, port: 443, type: trojan, password: 3noytnrarq8xhp43, sni: AiOgrAm325666zXcAssfDweRw3R34535467b67h678h678jm67i67i.iranpuls.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8999 @proxy_online_net, server: 151.101.56.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9000 @proxy_online_net, server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9010 @proxy_online_net, server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 8998 @proxy_online_net, server: 199.232.78.101, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9008 @proxy_online_net, server: 199.232.78.101, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9013 @proxy_online_net, server: 199.232.78.101, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9009 @proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9021 @proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 8997 @proxy_online_net, server: 172.67.149.60, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: 8995 @proxy_online_net, server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: 8996 @proxy_online_net, server: render.com, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: 9011 @proxy_online_net, server: 195.58.144.56, port: 11907, type: vless, tls: true, packet-encoding: xudp, uuid: 07cb07b9-0c4d-46c1-a15a-b147511b6b07, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9004 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3680a45e-ee4d-4093-bc7f-487fd66b8f59, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9005 @proxy_online_net, server: sb3.centeriran.shop, port: 1280, type: vless, tls: true, packet-encoding: xudp, uuid: 3680a45e-ee4d-4093-bc7f-487fd66b8f59, network: ws, ws-opts: {path: /, headers: {Host: is1-ssl.mzstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8990 @proxy_online_net, server: trc.athforce.ir, port: 34733, type: vless, tls: true, packet-encoding: xudp, uuid: 3e5a79ea-657f-454c-9c5c-3ee6e7159e40, host: play-apps-features.googleusercontent.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8992 @proxy_online_net, server: 132.243.65.161, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d08aa81-f729-4857-a2e9-06e48b8b9556, servername: ee.global-cdn.org, host: ee.global-cdn.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0, short-id: 7a3f9e2b1c8d4f6a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9002 @proxy_online_net, server: 193.233.223.87, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 541b92a5-7a97-4b6b-a6be-bd4f5a5b0911, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9014 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 59d75dc8-0de0-452d-bf3b-10a4b1925abc, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9029 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 59d75dc8-0de0-452d-bf3b-10a4b1925abc, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9012 @proxy_online_net, server: 201.7.25.208, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b571245-ec1e-44b1-bb5a-f7c61157d2c4, servername: ee.api-yandex.net, host: ee.api-yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE, short-id: 0f4dacf33211e04f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9025 @proxy_online_net, server: 201.7.25.208, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b571245-ec1e-44b1-bb5a-f7c61157d2c4, servername: ee.api-yandex.net, host: ee.api-yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE, short-id: 0f4dacf33211e04f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8991 @proxy_online_net, server: 151.101.56.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9503e890-3702-4847-af0a-2bceac2f0da0, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9026 @proxy_online_net, server: vxxxx.th3store.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9659faf0-8438-4ffc-95a4-667f714d25ee, servername: google.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9003 @proxy_online_net, server: 66.33.22.226, port: 37200, type: vless, tls: true, packet-encoding: xudp, uuid: 99d52e86-fb2d-4e08-9c69-d7a27179a095, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9019 @proxy_online_net, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: XpnTeam-11, servername: ssl.fastly.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8993 @proxy_online_net, server: k2.cloud--vpn.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac3ef9c7-5732-4726-e7c6-3c73703987c7, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9017 @proxy_online_net, server: 45.58.126.115, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: ad297a2b-ae17-4d2d-8fce-e2eafb89b145, servername: nbcnews.com, host: nbcnews.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8, short-id: 08}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9018 @proxy_online_net, server: 45.58.126.92, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: ad297a2b-ae17-4d2d-8fce-e2eafb89b145, servername: nbcnews.com, host: nbcnews.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8, short-id: 08}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8994 @proxy_online_net, server: 176.65.151.237, port: 13054, type: vless, tls: true, packet-encoding: xudp, uuid: b08daec7-2ced-43bc-97df-783d6633cd5a, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9016 @proxy_online_net, server: 185.218.17.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bc8446e7-ba8e-4dfd-92df-8681793fe31e, servername: corporate.amazon.com, host: corporate.amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ, short-id: 33c0b6e213}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9024 @proxy_online_net, server: 82.25.63.167, port: 24443, type: vless, tls: true, packet-encoding: xudp, uuid: c096503a-4ff2-439d-b1e6-6ceeea2f5ce6, servername: 1.1.1.1, host: 1.1.1.1, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9001 @proxy_online_net, server: 31.76.53.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c0d50d44-de29-43e8-bb83-f05a80552b6d, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: Jl60WixqwUX4OaCW-jWb0j8kylBB4ogJPc1K5G2EYGw, short-id: ffbb5b9f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9015 @proxy_online_net, server: 31.76.7.227, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0e771c5-024e-4393-bb90-4a3e3c561656, servername: origin.vpnoodles.ru, host: origin.vpnoodles.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4, short-id: 4af4102cb26e59}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9007 @proxy_online_net, server: 199.232.237.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: turboo-server, servername: turboo-server-telegram.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: turboo-server-telegram.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9031 @proxy_online_net, server: 4.221.224.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 3aN9XUwhvq1ujlsO, udp: true, tfo: false}
+  - {name: 9043 @proxy_online_net, server: 151.101.56.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: 9044 @proxy_online_net, server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: 9042 @proxy_online_net, server: 199.232.78.101, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: 9045 @proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: 9036 @proxy_online_net, server: 188.114.97.6, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: "%40Cooonfig%40Cooonfig%40N", network: ws, ws-opts: {path: /, headers: {Host: guji.azazilvpn.sbs.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9039 @proxy_online_net, server: 91.196.161.218, port: 2054, type: vless, tls: true, packet-encoding: xudp, uuid: 040e129c-f6bc-4f7c-8351-bcbab5078cd1, servername: www.ibm.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc, short-id: 54b24594713b5f13}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9035 @proxy_online_net, server: 151.101.56.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1fac5e18-2ca8-4626-c299-1f3f21c6b55e, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: "/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray", headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9030 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9032 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9033 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9038 @proxy_online_net, server: 111.88.74.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 88a4915f-d68d-44aa-b4a4-36b99a2ab1ed, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo, short-id: c56d4f1c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9034 @proxy_online_net, server: 95.85.246.58, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 91c593d7-6095-4e20-aaf2-e591b61da7f2, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h9UaYbYpywLQ3QkOw99nR6HTmyDUaKrdkt7gZJwayCQ, short-id: 1c4a8f6e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9041 @proxy_online_net, server: 109.176.91.28, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d, servername: cloudcdn-m9-15.cdn.yandex.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: simplegrpc}, reality-opts: {public-key: zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU, short-id: b9e7a1c4d8329f10}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9037 @proxy_online_net, server: 5.175.161.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e48e4377-1f29-485b-80d4-85fd4fa27bfa, servername: www.bmw.com, host: www.bmw.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: arisCHgQjf_nE3Nei0IyrtTpTNQRQWEqRs3C24yORnY, short-id: 6de6f68cb1f8041c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -331,44 +170,21 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 8989 @proxy_online_net
-      - 9006 @proxy_online_net
-      - 9020 @proxy_online_net
-      - 9022 @proxy_online_net
-      - 8999 @proxy_online_net
-      - 9000 @proxy_online_net
-      - 9010 @proxy_online_net
-      - 8998 @proxy_online_net
-      - 9008 @proxy_online_net
-      - 9013 @proxy_online_net
-      - 9009 @proxy_online_net
-      - 9021 @proxy_online_net
-      - 8997 @proxy_online_net
-      - 8995 @proxy_online_net
-      - 8996 @proxy_online_net
-      - 9011 @proxy_online_net
-      - 9004 @proxy_online_net
-      - 9005 @proxy_online_net
-      - 8990 @proxy_online_net
-      - 8992 @proxy_online_net
-      - 9002 @proxy_online_net
-      - 9014 @proxy_online_net
-      - 9029 @proxy_online_net
-      - 9012 @proxy_online_net
-      - 9025 @proxy_online_net
-      - 8991 @proxy_online_net
-      - 9026 @proxy_online_net
-      - 9003 @proxy_online_net
-      - 9019 @proxy_online_net
-      - 8993 @proxy_online_net
-      - 9017 @proxy_online_net
-      - 9018 @proxy_online_net
-      - 8994 @proxy_online_net
-      - 9016 @proxy_online_net
-      - 9024 @proxy_online_net
-      - 9001 @proxy_online_net
-      - 9015 @proxy_online_net
-      - 9007 @proxy_online_net
+      - 9031 @proxy_online_net
+      - 9043 @proxy_online_net
+      - 9044 @proxy_online_net
+      - 9042 @proxy_online_net
+      - 9045 @proxy_online_net
+      - 9036 @proxy_online_net
+      - 9039 @proxy_online_net
+      - 9035 @proxy_online_net
+      - 9030 @proxy_online_net
+      - 9032 @proxy_online_net
+      - 9033 @proxy_online_net
+      - 9038 @proxy_online_net
+      - 9034 @proxy_online_net
+      - 9041 @proxy_online_net
+      - 9037 @proxy_online_net
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
