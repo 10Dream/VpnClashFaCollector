@@ -1,27 +1,74 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-09-23 05:40:34 UTC
+بروزرسانی: 2026-09-23 11:02:40 UTC
 
-### 🕒 2026-09-23 04:30:08 UTC
+### 🕒 2026-09-23 11:00:23 UTC
 ***🚨***
 [ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
 ***🚀***
  نسخه جدید منتشر شد برای 
-[**karing**](https://github.com/KaringX/karing)
+[**wgtunnel**](https://github.com/wgtunnel/wgtunnel)
 :
-***🧪***
+***✅***
  
-**v1.2.26.2903**
- (v1.2.26.2903) [Pre-release]
-1. Fixed some issues/exceptions.
-2. Fixed an issue where the proxy cluster function failed to start due to duplicate node names.
-iOS/tvOS AppStore: (Search Keywords: karing vpn) 
-[https://apps.apple.com/us/app/karing/id6472431552](https://apps.apple.com/us/app/karing/id6472431552)
+**5.7.4**
+ (5.7.4)
+What's new:
+- Fixes tunnel start failures on 32-bit Android devices (especially Android TV)
+- Fixes tunnel DNS race that can cause DNS leaks for custom tunnel DNS
+SHA-256 fingerprints for the 4096-bit signing certificate:
+```sh
+5204d82e766e8aa14dcbb06dc70aebae2bdd812d4d6203cd521a8a685d7d3d80
+```
+To verify fingerprint:
+```sh
+apksigner verify --print-certs [path to APK file] | grep SHA-256
+```
+### Changelog
+### :bug: Bug Fixes
+- [`0629b4d`](
+[https://github.com/wgtunnel/android/commit/0629b4d6dfb](https://github.com/wgtunnel/android/commit/0629b4d6dfb)
+...
+(متن کامل در گیت‌هاب)
 ***🔗***
  
-[مشاهده در گیت‌هاب](https://github.com/KaringX/karing/releases/tag/v1.2.26.2903)
+[مشاهده در گیت‌هاب](https://github.com/wgtunnel/android/releases/tag/5.7.4)
 [𓄂𓆃](https://t.me/update_releases)
 
-[📱 karing_1.2.26.2903_android_arm.apk](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_android_arm.apk) | [📱 karing_1.2.26.2903_android_arm64-v8a.apk](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_android_arm64-v8a.apk) | [📱 karing_1.2.26.2903_android_armeabi-v7a.apk](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_android_armeabi-v7a.apk) | [🖥️ karing_1.2.26.2903_linux_amd64.deb](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_linux_amd64.deb) | [🖥️ karing_1.2.26.2903_macos_universal.dmg](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_macos_universal.dmg) | [💻 karing_1.2.26.2903_windows_x64.exe](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_windows_x64.exe) | [🗜️ karing_1.2.26.2903_windows_x64.zip](https://github.com/KaringX/karing/releases/download/v1.2.26.2903/karing_1.2.26.2903_windows_x64.zip)
+[📱 wgtunnel-fdroid-v5.7.4-arm64.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-fdroid-v5.7.4-arm64.apk) | [📱 wgtunnel-fdroid-v5.7.4-armv7.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-fdroid-v5.7.4-armv7.apk) | [📱 wgtunnel-fdroid-v5.7.4.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-fdroid-v5.7.4.apk) | [📱 wgtunnel-standalone-v5.7.4-arm64.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4-arm64.apk) | [📱 wgtunnel-standalone-v5.7.4-armv7.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4-armv7.apk) | [📱 wgtunnel-standalone-v5.7.4.apk](https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4.apk)
+
+---
+
+### 🕒 2026-09-23 09:33:29 UTC
+دوستان نسخه جدید کارینگ خیلی خیلی اوکی کار میکنه حتما امتحان کنید بدون باگ ترین نسخه هست میشه گفت .
+و خیلی عالی به کانفیگی که بهترین اتصال رو میده وصل میشه و خیلی توپ پایدار میمونه بدون هیچ مشکلی .
+[https://github.com/KaringX/karing/releases/tag/v1.2.26.2903](https://github.com/KaringX/karing/releases/tag/v1.2.26.2903)
+حتما نصب کنید .
+
+[Link Preview](https://github.com/KaringX/karing/releases/tag/v1.2.26.2903)
+
+---
+
+### 🕒 2026-09-23 08:59:30 UTC
+کانفیگ تستی متصل  
+***🔥***
+تست شده با مخابرات و ایرانسل 
+***✅***
+`vless://a62a4c64-2270-4d41-828b-2591906c48ba@104.21.23.72:8880?encryption=none&flow=&host=sweet-disk-a026.253-54b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC`
+تست کنید و نتیجه رو بگین 
+***😎***
+.
+***❤️***
+ اشتراک گذاری یادتون نره 
+***🌈***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
 
 ---
 
