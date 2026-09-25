@@ -1,5 +1,51 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-09-25 07:19:40 UTC
+بروزرسانی: 2026-09-25 13:24:20 UTC
+
+### 🕒 2026-09-25 10:59:01 UTC
+پل Argo VPN
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzN1ugjAYANB36e1MZLAxZ8LFIICtomFxC3DXVtJ8/FRC
+ays1vvt2HuA8kGlnBVeJtq8rNNFluNIL2qJ2IZaPnx7zj4Yl
+OMR9CoeEuKYiflNhOAFZWD75fBzgML4PlwQrLGPDZQmnrvSK
+wIvQCikQkurb3P6XRVomOFX1eU1m+2MMy5gwTejOvHtxha2x
+Hy5rWgVdznc6y/oviGHnaqu/dS/2k7w77k2bud/s5ZA3sdIm
+CH7frBT049iJKELPP8dVRbE=
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwVzM1ugjAAAOB36RWTdQo4TDy1nbThRyYLrLdCCWsFMaVI
+xOzdp+cv+R7g1phRDRewe1+Bq7h3g5BgB5o7m+s+gNU6uVWI
++vRMVITYwku25iVVqWK9PHDFN1coTt7Ey+zlc7VhkOoBJjgJ
+wAqMqr0IO5nmWcbkG9EMnbVHit83lJAT9sOoZqGudT4iF2cW
+OiJMm0LmpneOXy1tD8ViI3eKtySNO/kZdF5OPby1H5mdiBGy
+9LGjf4wzL+4e/P0D04lCOw==
+-----END ARGO VPN BRIDGE BLOCK-----
+
+---
+
+### 🕒 2026-09-25 07:58:02 UTC
+> ↪️ **Forwarded**
+
+امکان اتصال به psiphon/tor و همچنین warp -> psiphon/tor در نسخه
+[PattNG v2.3.9-P56](https://github.com/patterniha/PattNG)
+فراهم شد، همچنین مشکلات گزارش شده نیز رفع گردید.
+تمام موارد مربوط به هسته‌ی اتر (وارپ، سایفون، تور) به صورت مجزا در قسمت Add aether config قرار دارند.
+///
+مزایای استفاده از warp -> psiphon:
+* رفع تحریم
+* انتخاب کشور دلخواه
+معایب استفاده از warp -> psiphon:
+* سرعت سایفون از طرف خود سرور‌های سایفون محدود شده، بنابراین اگر نیاز به رفع تحریم و یا انتخاب کشوری خاص ندارید و صرفا نیاز به فیلترشکن با سرعت بالا دارید از warp خالی استفاده کنید.
+///
+علاوه بر warp، میتوانید از 
+[کانفیگ‌های رایگان](https://github.com/patterniha/free-configs)
+ نیز برای دسترسی به اینترنت آزاد استفاده کنید.
+البته همچنان 
+[سرورلس برای ایران](https://github.com/patterniha/Serverless-for-Iran)
+ سریعترین راه برای دسترسی به یوتویوب، ایکس و بسیاری از وبسایت‌ها میباشد.
+
+[Link Preview](https://github.com/patterniha/PattNG)
+
+---
 
 ### 🕒 2026-09-25 05:59:02 UTC
 Telegram Proxy
@@ -65,27 +111,6 @@ Aether کشف نقطه اتصال، تونل رمزگذاری‌شده و مسی
  لینک پروژه در گیت‌هاب:
 [https://github.com/MrMatin0/Aether](https://github.com/MrMatin0/Aether)
 ​
-
----
-
-### 🕒 2026-09-24 10:53:01 UTC
-پل Argo VPN
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAW
-Glj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kP
-a7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvP
-QzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD
-3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu2
-0jZScXUiQ0I99PcPV3lDdQ==
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzNtugjAYAOB36bUJyAYOE25WyGwVgSkZcEcpwo9yGId2
-Zdm7z/sv3y8S5ThB36H9doOGXD36nKM9KhWVRWvrzDgLholF
-7h6cMF2zhBpZQiAAaqbt51IYvEnb+5Ia9kxAQvFhK/70Zzda
-b5HjoA2aoOryeRnLZ+t7MSYRJu9cZ8JqpKYf3J9hktCbwSHs
-xjXxWX0cqFaLh4AsMitSXX1faPYcVJo+fne1Cl4vWHFirWH9
-5s5hXLDm64UcdzL2HPT3D641RgA=
------END ARGO VPN BRIDGE BLOCK-----
 
 ---
 
