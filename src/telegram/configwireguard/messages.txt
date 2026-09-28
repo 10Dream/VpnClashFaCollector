@@ -1,5 +1,97 @@
 # آرشیو کانال: @configwireguard
-بروزرسانی: 2026-09-28 06:26:52 UTC
+بروزرسانی: 2026-09-28 15:06:23 UTC
+
+### 🕒 2026-09-28 13:37:02 UTC
+> ↪️ **Forwarded**
+
+محدودیت آپلود 
+**۶**
+ پکت رو دوباره دارن اعمال میکنن.
+از چند روز پیش برخی سرورهای شخصی دچار این محدودیت شدن.
+از دیشب وبسوکتِ (alpn/1.1) کلودفلر هم برای برخی دامنه ها مثل 
+[workers.dev](http://workers.dev/)
+.* دچار همین محدودیت ۶ پکت شده (فعلا فقط بر روی IPv4 اعمال کردن).
+در نتیجه کانفیگ‌های ورکر کلودفلر به صورت عادی در دسترس نیستند.
+با ech ,
+[fragment+fingerprint](https://t.me/patt_channel_x/94?single)
+, استفاده از IPv6 و چندین روش دیگه میشه این محدودیت رو بر روی کلودفلر دور زد.
+فعلا تغییری در وضعیت warp هم مشاهده نشده.
+
+---
+
+### 🕒 2026-09-28 13:37:02 UTC
+> ↪️ **Forwarded**
+
+خب برادران فیلترچی اومدن دامنه‌ی دریافت کلید وارپ رو فیلتر کردن.
+کلید وارپ یه چیزیه که فقط یکبار و فقط دفعه‌ی اول نیاز دارید که دریافتش کنید و بعد دیگه ذخیره میشه و برای همیشه میتونید ازش استفاده کنید.
+بنابراین فعلا تا حل مشکل، اگه کلید وارپ ندارید، صرفا فقط برای اتصال اول به کانفیگ‌های وارپ، باید از یه فیلترشکن دیگه استفاده کنید تا کلید وارپ دریافت شه.
+///
+این پیام موقت هست و بعد از حل مشکل پاک میشه.
+
+---
+
+### 🕒 2026-09-28 11:02:02 UTC
+پل Argo VPN
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzcFugjAAgOF36VUP0A4zTDyQAtoGIXWLq9yoFNYgtAoWYdm7y/3P9/8BKx+9
+0h3YumtgiummixJsgZzoeG19R8DUCkw2pIlUgumccwpzTlSmaCP2Q5vDweQte16g
+PxA1quven8qlT0M2V2y3A2vQq7orhudDLuwxYpgcwpicEuRZbl4/LnLOo9DZV6A5
+/l71vhN7po9fJvQ+P26BCqwo0/NpTiKvQEd2r6DIOiyMQQHjckqR/aVuJbOLJvWy
++38DX/FEwA==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzM0SQkAAAOB32WsdlqjRjAPb366I/qxuWGkVtiWlpnev
++zffB3SZbHhdgakyBCLub3XMwBRkPXmmpQET1esShMf4Oudr
+RN4nStQTxXzDSRuFrUhDoa/Lv9nhBld2l1YB3xQBdEfQBEPQ
+8LyK24fM/qU7DxBe9lJM/Bezw6OrKYiEd1LIt0Z9dQ+ltiK4
+XBycgXdO7JnFrXOxFV7k0It87Fju00lzZGPLUKCujth1iY3e
+OQhU536Qmyb4/gBm3EM3
+-----END ARGO VPN BRIDGE BLOCK-----
+
+---
+
+### 🕒 2026-09-28 08:12:01 UTC
+Telegram Proxy
+[https://t.me/proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+
+---
 
 ### 🕒 2026-09-28 05:18:02 UTC
 > ↪️ **Forwarded**
@@ -47,52 +139,6 @@ rjw6+BNdMYyuSJ4kbjLPNmIWauH1LYd2g2Qvk6Glg/e3wScP
 xNrCYs784oDPHomtHt03VBfLKnpyHeRsBBUjXU5piFjJ413J
 9rLVecu0wZfzG/z+eypGGA==
 -----END ARGO VPN BRIDGE BLOCK-----
-
----
-
-### 🕒 2026-09-27 13:56:01 UTC
-Amnezia VPN , WG Tunnel
-`[Interface]PrivateKey = 2CrfwQPEBN6lffPO8YSBZ0o29GDmiuyWCAwAIOVMMFM=Address = 10.185.137.228/18DNS = 8.8.8.8Jc = 4Jmin = 40Jmax = 70S1 = 0S2 = 0S3 = 0S4 = 0H1 = 1H2 = 2H3 = 3H4 = 4I1 = <b 0x494e56495445207369703a626f624062696c6f78692e636f6d205349502f322e300d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a4d61782d466f7277617264733a2037300d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e746163743a203c7369703a616c69636540706333332e61746c616e74612e636f6d3e0d0a436f6e74656e742d547970653a206170706c69636174696f6e2f7364700d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>I2 = <b 0x5349502f322e302031303020547279696e670d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>[Peer]PublicKey = u2O6c5VR3moGRzNSdQN4soMvVRn58mXfd6WmyEI8gHA=Endpoint = 103.241.67.85:51820AllowedIPs = 0.0.0.0/0PersistentKeepalive = 25`
-
----
-
-### 🕒 2026-09-27 10:03:02 UTC
-Telegram Proxy
-[https://t.me/proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=FLOKI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=FLOKI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=](https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=)
-[https://t.me/proxy?server=kamni.monaliza.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=](https://t.me/proxy?server=kamni.monaliza.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=)
-[https://t.me/proxy?server=49.13.84.142&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ](https://t.me/proxy?server=49.13.84.142&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ)
-[https://t.me/proxy?server=167.233.30.194&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ](https://t.me/proxy?server=167.233.30.194&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ)
-[https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ](https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ)
-[https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=for.iranian.ir.zigoraaat.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=for.iranian.ir.zigoraaat.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=194.60.228.4&port=2096&secret=ee79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=194.60.228.4&port=2096&secret=ee79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=49.13.93.223&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ](https://t.me/proxy?server=49.13.93.223&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ)
-[https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=206.71.149.70&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee](https://t.me/proxy?server=206.71.149.70&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee)
-[https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=95.182.91.83&port=443&secret=083e907b0c0164df64a6ae79575fdbd7](https://t.me/proxy?server=95.182.91.83&port=443&secret=083e907b0c0164df64a6ae79575fdbd7)
-[https://t.me/proxy?server=for.iranian.ir.zigoraaat.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=for.iranian.ir.zigoraaat.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=194.60.228.4&port=2096&secret=ee79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=194.60.228.4&port=2096&secret=ee79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=49.13.93.223&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ](https://t.me/proxy?server=49.13.93.223&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ)
 
 ---
 
