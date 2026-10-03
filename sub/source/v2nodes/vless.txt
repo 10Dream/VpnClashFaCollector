@@ -5,3 +5,5 @@ vless://454431fc-71e2-42b1-b375-5b55dd06666a@45.154.206.88:443?security=reality&
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@78.153.155.149:443?security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@de.monkora.org:443?security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@pl.monkora.org:443?security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F
+vless://593c2ff4-f051-4859-8449-b0130e2991df@216.38.170.8:26506?type=ws&host=www.baidu.com&path=/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.211:443?sni=d3-nl1.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=vlgrpc&fp=edge&security=tls
