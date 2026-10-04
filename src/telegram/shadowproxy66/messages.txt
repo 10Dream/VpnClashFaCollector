@@ -1,5 +1,86 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-10-04 15:49:42 UTC
+بروزرسانی: 2026-10-04 19:21:47 UTC
+
+### 🕒 2026-10-04 18:27:47 UTC
+**PattNG 2.3.10-P60**
+آپدیت جدید کلاینت
+(فورک بهینه شده مناسب نت ایران)
+***🔗***
+لینک دانلود نسخه جدید
+[https://github.com/patterniha/PattNG/releases/tag/2.3.10-P60](https://github.com/patterniha/PattNG/releases/tag/2.3.10-P60)
+***📍***
+[تغییرات این نسخه](https://t.me/ShadowProxy66/17364)
+***🔺***
+[آموزش fragment+fingerprint](https://t.me/ShadowProxy66/16625)
+***🔻***
+[آموزش استفاده از کانفیگ Aether](https://t.me/ShadowProxy66/17093)
+***🔺***
+[لینک ساب اختصاصی](https://t.me/ShadowProxy66/16719)
+***🔻***
+[پیدا کردن ایپی تمیز](https://t.me/ShadowProxy66/16779?single)
+***🔺***
+[آموزش زنجیره](https://t.me/ShadowProxy66/17141)
+***🔻***
+[آموزش اتصال وارپ+سایفون](https://t.me/ShadowProxy66/17240)
+***📍***
+با Aether ipv6 متصله
+***🫆***
+[@ShadowProxy66](https://t.me/ShadowProxy66)
+
+---
+
+### 🕒 2026-10-04 18:26:31 UTC
+[**PattNG v2.3.10-P60**](https://github.com/patterniha/PattNG)
+منتشر شد. (+Android 10)
+**امکانات اضافه شده**
+:
+ ۱. مقادیر متد فرگمنت+فینگرپرینت اکنون به صورت آپشن تو خود اپ اضافه شده، بنابراین برای اجرای متد فرگمنت+فینگرپرینت کافیست:
+address: 
+`188.114.97.6`
+ (or any clean ip)
+finalMask: tlshello-0-len
+fingerprint: unsafe
+cipherSuites: semi-python
+را انتخاب کنید، و دیگر نیاز به کپی پیست ندارید.
+برای اجرای این متد روی کانفیگ‌های اتر نیز کافیست:
+finalMask: tlshello-0-len
+fingerprint: semi-python
+را قرار دهید.
+۲. اکنون امکان chain کردن کانفیگ‌های psiphon/tor/warp با هر کانفیگ دلخواهی به صورت 
+**دو طرفه**
+ برقرار شده.
+به طور مثال برای chain کردن سایفون با یک کانفیگ دلخواه ابتدا باید یک کانفیگ psiphon-only بسازید و سپس از قسمت Add Proxy chain میتوانید آن را با هر کانفیگ دلخواهی به صورت 
+**دو طرفه**
+ chain کنید.
+همچنان برای chain کردن سایفون با خود warp باید از همان منوی aether اقدام کنید (warp -> psiphon/psiphon -> warp)
+۳. با توجه به فیلتر شدن دامنه دریافت کلید وارپ، اکنون میتوانید از طریق متد فرگمنت+فینگرپرینت (finalMask+semi-python) و یا حتی ech این محدودیت را دور بزنید و بدون نیاز به فیلترشکن مجزا کلید وارپ را دریافت کنید.
+۴. به طور مشابه با توجه به فیلتر شدن دامنه masque-h2, اکنون میتوانید از طریق متد فرگمنت+فینگرپرینت (finalMask+semi-python) این محدودیت را دور بزنید و به پروتکل masque-h2 نیز متصل شوید.
+فرگمنت روی فایروال همراه اول (شامل همراه اول، مخابرات، شاتل و ...) به طور کامل از کار افتاده.
+روی فایروال ایرانسل (شامل ایرانسل، پیشگامان، مبین‌نت و حتی خود همراه اول در برخی مناطق) هنوز کار میکنه.
+///
+روشهایی که هنوز روی فایروال همراه اول کار میکنند:
+1. IPv6 (with F&F method)
+2. ECH
+3. XHTTP
+برای استفاده از ECH کافیه اول finalMask و cipherSuites رو پاک کنید، فینگرپرینت رو روی chrome بزارید و در قسمت echConfigList به طور مثال مقدار:
+`cloudflare-ech.com+udp://1.1.1.1`
+رو قرار بدید.
+///
+نگران نباشید، راه‌های رسیدن به خدا زیاده.
+بعد از بسته شدن ECH و IPv6 روشهای بعدی رو به صورت عمومی منتشر میکنم.
+پروتوکل UDP هم به طور کامل روی ip های کلودفلر بسته شد (فعلا فقط روی فایروال همراه اول و فقط هم‌ IPv4)
+در نتیجه امکان اتصال به warp از طریق پروتوکل wireguard و یا masque-h3 دیگر امکان پذیر نمیباشد.(روی IPv4)
+برای پروتوکل masque-h2 نیز، امکان استفاده از ECH از سمت خود کلودفلر بسته است، بنابراین در حال حاضر فقط با استفاده از IPv6 میتوان از این پروتوکل استفاده کرد.
+روشهای جدیدی که بزودی منتشر خواهد شد امکان اتصال کانکشنهای TCP را به کلودفلر فراهم میکنند، در نتیجه، میتوان از آنها برای masque-h2، کانفیگهای ورکر، cdn و به طور کلی تمام اتصالات TCP روی کلودفلر استفاده کرد.
+محدودیت ۶ پکت روی وبسوکت (alpn/1.1) به طور کلی بر روی تمام دامنه‌های غیر وایت کلودفلر اعمال شده.(فعلا فقط برای IPv4)
+مواردی که الان روی کلودفلر کار میکنند:
+1. IPv6
+2. ECH
+3. XHTTP (alpn h2)
+اتر هم رو IPv6 وصله (wireguard/warp-in-warp)
+[Source](https://t.me/patt_channel_x/156)
+
+---
 
 ### 🕒 2026-10-03 20:39:15 UTC
 ***📶***
@@ -28,43 +109,6 @@
 ***🪧***
 (فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
 ***🔅***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-10-03 17:44:18 UTC
-clash-68-config.yaml
-
----
-
-### 🕒 2026-10-03 17:39:52 UTC
-FlClash v0.8.99
-نسخه جدید کلاینت
-لینک دانلود از وبسایت
-[https://flclash.cc/en/download](https://flclash.cc/en/download)
-لینک دانلود از گیتهاب
-[https://github.com/chen08209/FlClash/releases/tag/v0.8.99](https://github.com/chen08209/FlClash/releases/tag/v0.8.99)
-تغییرات:
-Features
-• Editor word wrap and snippets
-• More dashboard cards
-• Hide timed-out nodes and search every list
-• Sidebar, floating dock and drag to go back
-• New app glyphs, empty states and theme page
-• Invalid override warnings and rule presets
-• DNS query log and per-key DNS/NTP overrides
-• Proxied service checks and outbound IP risk
-• Tray hotkeys, node delays and a delay test
-Bug Fixes
-• A changed resource link is now used by the next sync and by auto update
-• DNS lookups no longer fail on networks that report no DNS servers
-• Smaller icons in icon-only group headers
-• Push notifications reconnect in Doze
-• Restores never apply halfway
-[آموزش استفاده](https://t.me/ShadowProxy66/10651)
-[آموزش ساخت لینک ساب](https://t.me/ShadowProxy66/7876)
-***🫆***
- 
 [@ShadowProxy66](https://t.me/ShadowProxy66)
 
 ---
