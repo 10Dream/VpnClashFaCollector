@@ -1,13 +1,96 @@
 # آرشیو کانال: @digihubai
-بروزرسانی: 2026-10-05 01:45:47 UTC
+بروزرسانی: 2026-10-05 08:36:38 UTC
 
-### 🕒 2026-10-04 22:21:58 UTC
-***📌***
-معرفی FPTN VPN   ●ویژگی ها : رایگان و اپن سورس مبتنی بر Https بدون محدودیت و نیاز به ثبت‌نام دریافت توکن از بات تلگرامی 
+### 🕒 2026-10-05 07:24:49 UTC
 ***🟢***
-برای دریافت توکن، وارد بات تلگرامی بشید و گزینه /token رو بزنید : http://t.me/fptn_bot  
-***✔️***
-پس از دریافت توکن، وارد اپ بشید و توکن رو وارد…
+ظاهرا میلی داره با کاربرها تسویه میکنه و بزودی مشکلاتش حل میشه.
+یک عده میگن، کمپین زمین زدن میلی سازماندهی‌شده از طرف رقباش بوده. اگر چنین چیزی هم بوده باشه، رقباش رسما مغز خر خوردن!
+بی‌اعتمادی که شکل گرفته، کلا نسبت به همه پلتفرم‌های آنلاین طلاست. کسی که پولش رو با کلی استرس از میلی کشیده بیرون، نمیره تو پلتفرم بابک‌ زنجانی طلا بخره که.
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
+
+### 🕒 2026-10-05 06:46:39 UTC
+***📌***
+نحوه اتصال با FPTN VPN :  
+***🔻***
+ابتدا وارد بات زیر بشید و با دستور /token یک توکن بگیرید و در اپ وارد کنید: http://t.me/fptn_bot  
+***◾️***
+سپس وارد Settings بشید و Bypass blocking methods رو انتخاب کنید.  
+***🔹***
+Connection strategy : اینجا سه حالت داریم: -Rolling tunnel -Dual…
+
+---
+
+### 🕒 2026-10-05 06:42:16 UTC
+***📌***
+**نحوه اتصال با FPTN VPN :**
+***🔻***
+ابتدا وارد بات زیر بشید و با دستور /token یک توکن بگیرید و در اپ وارد کنید:
+[http://t.me/fptn_bot](http://t.me/fptn_bot)
+***◾️***
+سپس وارد Settings بشید و Bypass blocking methods رو انتخاب کنید.
+**🔹Connection strategy :**
+اینجا سه حالت داریم:
+-Rolling tunnel
+-Dual rolling tunnel
+-Triple rolling tunnel
+این‌ها روش برقراری تونل FPTN هستن. Rolling حالت معموله و Dual و Triple برای شرایطی هستن که اختلال شدیدتره.
+**🔸Bypass blocking methods:**
+***1⃣***
+Traffic masking (Obfuscation)
+در این روش FPTN تلاش میکنه الگوی ترافیک VPN رو پنهان کنه.
+***2⃣***
+Domain spoofing (SNI + REALITY)
+در این روش FPTN ظاهر اتصال TLS و SNI رو شبیه یک اتصال عادی به یک سایت معتبر میکنه.
+***🔴***
+وقتی Domain spoofing رو انتخاب کنید:
+Chrome 148 / Firefox / Yandex و...
+فینگرپرینت TLS رو انتخاب میکنن.یعنی شکل handshake شبیه همون مرورگر میشه، دیفالتش اوکیه.
+ 
+***🌐***
+Current SNI :
+دامنه‌ایه که در ابتدای اتصال TLS به‌عنوان مقصد اعلام میشه. میتونید این دامنه‌ها رو وارد کنید :
+[Arvancloud.ir](http://Arvancloud.ir/)
+[Farsnews.ir](http://Farsnews.ir/)
+[Snapp.ir](http://Snapp.ir/)
+***✅***
+لوکیشن‌های لهستان در حالت دوم، در همه اپراتورها متصل میشه.
+[@DigiHubAI](https://t.me/DigiHubAI)
+
+---
+
+### 🕒 2026-10-05 05:03:02 UTC
+**🟢 لیست پروکسی های تلگرام :**
+[https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add)
+[@DigiHubAI](https://t.me/DigiHubAI)
 
 ---
 
@@ -120,55 +203,6 @@ ECH : روی گزینه
 ***🔗***
  
 [universesimulator.org](http://universesimulator.org/)
-[@DigiHubAI](https://t.me/DigiHubAI)
-
----
-
-### 🕒 2026-10-04 07:37:53 UTC
-افزایش قیمت دلار، با افزایش اختلال در اینترنت، رابطه مستقیم داره.
-البته به جاش جبران میکنن، برامون سلبریتی صادراتی وارد میکنن
-***🥰***
-
----
-
-### 🕒 2026-10-04 07:35:32 UTC
-***❌***
-ظاهرا هسته ایتر، از دیشب روی همراه اول مرخص شده.
-
----
-
-### 🕒 2026-10-04 07:18:56 UTC
-***❌***
-ظاهرا هسته ایتر، از دیشب روی همراه اول مرخص شده.
-
----
-
-### 🕒 2026-10-04 05:24:02 UTC
-**🟢 لیست پروکسی های تلگرام :**
-[https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add)
-[https://t.me/proxy?server=boro.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=boro.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [@DigiHubAI](https://t.me/DigiHubAI)
 
 ---
