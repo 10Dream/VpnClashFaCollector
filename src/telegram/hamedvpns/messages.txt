@@ -1,29 +1,69 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-10-06 20:05:04 UTC
+بروزرسانی: 2026-10-07 00:29:32 UTC
 
-### 🕒 2026-10-06 20:00:15 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-[**dicodePing**](https://github.com/mcodersir/dicodePing)
-:
-***✅***
- 
-**DicodePing 4.0.0 — Stable (revision 2)**
- (v4.0.0)
-## DicodePing 4.0.0 — Stable (revision 2)
-بازنشر اصلاح‌شدهٔ همان نسخهٔ پایدار 4.0.0 با انتخاب مسیر مقاوم و بدون تغییر بی‌دلیل اتصال کاربر.
-- ابتدا اتصال فعال DicodePing از هر ساب بررسی می‌شود؛ اگر GitHub و Telegram از آن قابل دسترسی باشند، همان اتصال و انتخاب کاربر حفظ می‌شود.
-- سپس مسیر مستقیم سیستم بررسی می‌شود تا VPN فعال نرم‌افزارهای دیگر نیز بدون راه‌اندازی DicodePing قابل استفاده باشد.
-- فقط وقتی هر دو مسیر واقعاً نامعتبر باشند، cache/ساب رسمی آزموده و بهترین کانفیگ آن به‌عنوان fallback ...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/mcodersir/dicodePing/releases/tag/v4.0.0)
-[𓄂𓆃](https://t.me/update_releases)
+### 🕒 2026-10-06 20:34:30 UTC
+نسخه 1.0.9 — Aurora Edition از پنل حامد منتشر شد !  
+***🔧***
+ باگ‌های رفع‌شده  ۱. باگ Master Key تغییر Master Key ذخیره می‌شد ولی موقع لاگین نادیده گرفته می‌شد. الان پسورد از تنظیمات خونده می‌شه و تغییرش کاملاً اعمال می‌شه.  ۲. باگ پسورد مدیران ویرایش رمز root کار…
 
-[📱 DicodePing-4.0.0-arm64-v8a.apk](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-arm64-v8a.apk) | [📱 DicodePing-4.0.0-armeabi-v7a.apk](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-armeabi-v7a.apk) | [🗜️ DicodePing-4.0.0-linux-x64-portable.zip](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-linux-x64-portable.zip) | [🗜️ DicodePing-4.0.0-macos-arm64-portable.zip](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-macos-arm64-portable.zip) | [🗜️ DicodePing-4.0.0-macos-x64-portable.zip](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-macos-x64-portable.zip) | [📱 DicodePing-4.0.0-universal.apk](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-universal.apk) | [💻 DicodePing-4.0.0-windows-x64-installer.exe](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-windows-x64-installer.exe) | [🗜️ DicodePing-4.0.0-windows-x64-portable.zip](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-windows-x64-portable.zip) | [📱 DicodePing-4.0.0-x86.apk](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-x86.apk) | [📱 DicodePing-4.0.0-x86_64.apk](https://github.com/mcodersir/dicodePing/releases/download/v4.0.0/DicodePing-4.0.0-x86_64.apk)
+---
+
+### 🕒 2026-10-06 20:27:47 UTC
+نسخه 1.0.9 — Aurora Edition از پنل حامد منتشر شد !
+***🔧** باگ‌های رفع‌شده*
+**۱. باگ Master Key**
+تغییر Master Key ذخیره می‌شد ولی موقع لاگین نادیده گرفته می‌شد. الان پسورد از تنظیمات خونده می‌شه و تغییرش کاملاً اعمال می‌شه.
+**۲. باگ پسورد مدیران**
+ویرایش رمز root کار نمی‌کرد. الان رمز جدید با salt تازه ذخیره می‌شه و ویرایش رمز خود root هم ممکنه.
+**۳. خطای 1011 در WebSocket**
+در قطع ناگهانی اتصال، کد خطای 1011 فرستاده می‌شد. الان همه کدها به 1000 تبدیل می‌شن و اتصال پایدارتره.
+**۴. دکمه‌های بی‌واکنش**
+بعضی دکمه‌ها کار نمی‌کردن. الان همه با onclick مستقیم کار می‌کنن.
+**۵. باگ Port Logic**
+پورت‌ها همیشه 443 برمی‌گشتن. الان اولویت‌بندی درست داره: کاربر ← ISP ← سراسری.
+**۶. باگ Escape در HTML**
+مشکل بک‌اسلش در string های HTML برطرف شد.
+[https://github.com/hamedp-71/Hamed_Panel/releases](https://github.com/hamedp-71/Hamed_Panel/releases)
+ | لینک دانلود ورژن 1.0.9 پنل از گیت هاب
+[https://github.com/hamedp-71/Hamed_Panel](https://github.com/hamedp-71/Hamed_Panel)
+ | لینک پروژه جهت استار دادن و بررسی ورژن جدید
+**HAMED PANEL | **
+*پــنــل حــامــد*
+***🎨** تغییرات ظاهری*
+**صفحه لاگین**
+طراحی split-screen با انیمیشن Aurora، کارت شیشه‌ای و پس‌زمینه متحرک.
+**داشبورد پنل**
+ساید‌بار شناور، کارت‌های آماری Bento Grid، پالت فرمان با Ctrl+K و انیمیشن‌های نرم.
+**صفحه اشتراک**
+اضافه شدن کارت "Your Subscription" که خلاصه وضعیت رو نشون می‌ده:
+- روزهای باقی‌مانده
+- نوار ترافیک با انیمیشن
+- تاریخ انقضا
+- مصرف امروز
+- شناسه و مصرف کل
+**لوگوی اپ‌ها**
+لوگوی واقعی اپ‌های پیشنهادی (Karing، NekoBox، v2rayNG، Clash Meta، Shadowrocket، Streisand، Hiddify) از GitHub گرفته می‌شه. اگر لود نشد، حرف اول نمایش داده می‌شه.
+*Freedom is NOT a gift*
+ 
+***🎁***
+ 
+*آزادی یک هدیه نیست*
+ 
+***🎁***
+***❤️***
+ اشتراک گذاری یادتون نره 
+***🌈***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+[Link Preview](https://github.com/hamedp-71/Hamed_Panel/releases)
 
 ---
 
