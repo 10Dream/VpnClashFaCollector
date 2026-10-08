@@ -1,5 +1,49 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-10-08 15:24:28 UTC
+بروزرسانی: 2026-10-08 21:10:21 UTC
+
+### 🕒 2026-10-08 20:28:29 UTC
+***🖇***
+لینک ساب 82 حاوی 442 کانفیگ V2ray
+`https://shz.al/~82-@ShadowProxy66`
+***⚡️***
+کلاینت‌های زیر میتونید استفاده کنید
+V2rayNg & Hiddify & karing & ...
+***💠***
+ اد نشد فیلترشکن کمکی روشن کنید
+[#sub](?q=%23sub)
+***🫆***
+[@ShadowProxy66](https://t.me/ShadowProxy66)
+
+---
+
+### 🕒 2026-10-08 18:27:27 UTC
+Release PattNG v2.3.10-P63
+[https://github.com/patterniha/PattNG/releases/tag/2.3.10-P63](https://github.com/patterniha/PattNG/releases/tag/2.3.10-P63)
+تغییرات این نسخه:
+۱. با تغییرات انجام شده امکان اتصال به پروتکل MASQUE-HTTP/2 روی اکثر نت‌ها امکان پذیر شد.
+۲. کانفیگ‌های اتر (warp/psiphon/tor) را اکنون میتوانید به سادگی از طریق exit-node با هر کانفیگ دلخواهی از همان منوی اتر چین کنید:
+selected-config -> warp/psiphon/tor
+(برای برعکسش همچنان باید از قسمت add proxy chain اقدام کنید)
+///
+فرگمنت به طور کامل روی فایروال همراه اول حتی روی IPv6 هم بسته شد، در نتیجه فعلا تا انتشار متد جدید امکان استفاده از Serverless-for-Iran رو اکثر نت‌ها مقدور نیست.
+۳. پروتوکل جدید Wireguard-Over-Masque (new gool) 
+اضافه شده، اتصال به این پروتوکل به شما ipی غیر ایران میده، در نتیجه برای دور زدن تحریم‌ها نیاز به چین کردن آن با سایفون و یا سایر کانفیگها ندارید (نوع HTTP/2ش رو اکثر نت‌ها وصل میشه).
+
+[Link Preview](https://github.com/patterniha/PattNG/releases/tag/2.3.10-P63)
+
+---
+
+### 🕒 2026-10-08 16:04:02 UTC
+***📶***
+ 182 کانفیگ V2ray متصل با همه اپراتورها قابل استفاده در 
+[**کلاینت PattNg**](https://t.me/ShadowProxy66/17400?single)
+***🪧***
+تغییرات مورد نیاز بر روی کانفیگ انجام شده و تعداد ایپی مناسب اسکن و جاگذاری و آماده استفاده گردید
+(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید)
+***🔅***
+[@ShadowProxy66](https://t.me/ShadowProxy66)
+
+---
 
 ### 🕒 2026-10-08 12:31:00 UTC
 ***📶***
@@ -27,104 +71,6 @@
 [آموزش زنجیره](https://t.me/ShadowProxy66/17141)
 ***🔻***
 [آموزش اتصال وارپ+سایفون](https://t.me/ShadowProxy66/17240)
-***🫆***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-10-07 20:55:02 UTC
-***📶***
- 250 کانفیگ V2ray تست شده با نت مخابرات
-***🤎***
-***🔁***
-بقیه اپراتورها خودشون تست کنند
-***🪧***
-(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-***🔅***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-10-07 19:52:20 UTC
-***📶***
- 204 کانفیگ V2ray تست شده با نت همراه اول
-***🔵***
-***🔁***
-بقیه اپراتورها خودشون تست کنند
-***🪧***
-(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-***🔅***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-10-07 19:51:14 UTC
-لینک ساب سبک موقت V2ray  https://mifa.world/quake  آموزش استفاده در V2rayNg هر شب لینک تغییر میکنه لینک قبلی رو پاک کنید و لینک جدید رو وارد کنید
-
----
-
-### 🕒 2026-10-07 17:49:52 UTC
-پروکسی‌های تلگرام (60)
-[اتصال به پروکسی 01](tg://proxy?server=whiteblox.org&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 02](tg://proxy?server=olk00kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 03](tg://proxy?server=7klp010743711lllll.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 04](tg://proxy?server=62ddd1.mmd1.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 05](tg://proxy?server=ahvaz.co.uk&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 06](tg://proxy?server=7gh.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 07](tg://proxy?server=178.104.218.201&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 08](tg://proxy?server=alone.goooalir.co.uk&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 09](tg://proxy?server=s47n.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 10](tg://proxy?server=pm00c.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 11](tg://proxy?server=j7nf.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 12](tg://proxy?server=91.99.223.8&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 13](tg://proxy?server=66.206.25.194&amp;port=443&amp;secret=ddc2100744c7c9f87ce4c23e061499cd04)
-[اتصال به پروکسی 14](tg://proxy?server=pmjc.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 15](tg://proxy?server=7463711lllll.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 16](tg://proxy?server=0000.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 17](tg://proxy?server=ii8k13.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 18](tg://proxy?server=d7ud7d88u12.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 19](tg://proxy?server=ssh2.best-moz.info&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[اتصال به پروکسی 20](tg://proxy?server=49.12.71.146&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 21](tg://proxy?server=bvv608.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 22](tg://proxy?server=s7n.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 23](tg://proxy?server=recordzan.herfeibash.info.&amp;port=7799&amp;secret=dd10400103324995b07c030386e886e7f1)
-[اتصال به پروکسی 24](tg://proxy?server=56667.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 25](tg://proxy?server=0680021.mmd1.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 26](tg://proxy?server=star.talebi.co.uk&amp;port=2096&amp;secret=79e344818749bd7ac519130220c25d09)
-[اتصال به پروکسی 27](tg://proxy?server=97e91m2.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 28](tg://proxy?server=turkish-kish-mish.tosenortejarat.info&amp;port=8443&amp;secret=1603010200010001fc030386e24c3add)
-[اتصال به پروکسی 29](tg://proxy?server=ajab.lolauth.info&amp;port=8443&amp;secret=1603010200010001fc030386e24c3add)
-[اتصال به پروکسی 30](tg://proxy?server=9d78d8n.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 31](tg://proxy?server=1addnl1.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 32](tg://proxy?server=gafio6g7h268uh8ihbx7h7hdhh991m2.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 33](tg://proxy?server=guardiola.pictureface.info.&amp;port=7799&amp;secret=dd10400103324995b07c030386e886e7f1)
-[اتصال به پروکسی 34](tg://proxy?server=VIP.goooalir.co.uk&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 35](tg://proxy?server=71.li.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 36](tg://proxy?server=116.203.12.4&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 37](tg://proxy?server=irj000006000363000.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 38](tg://proxy?server=49.13.137.49&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 39](tg://proxy?server=6990vz.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 40](tg://proxy?server=id7ih.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 41](tg://proxy?server=194.60.228.4&amp;port=2096&amp;secret=79e344818749bd7ac519130220c25d09)
-[اتصال به پروکسی 42](tg://proxy?server=194.60.228.11&amp;port=2053&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[اتصال به پروکسی 43](tg://proxy?server=69d7d7d0.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 44](tg://proxy?server=JOKER.goooalir.co.uk&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 45](tg://proxy?server=range-sal.browncolor.info&amp;port=8443&amp;secret=1603010200010001fc030386e24c3add)
-[اتصال به پروکسی 46](tg://proxy?server=17fh.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 47](tg://proxy?server=3322xx22.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 48](tg://proxy?server=49.13.24.222&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 49](tg://proxy?server=91.98.108.176&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 50](tg://proxy?server=vasle3.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 51](tg://proxy?server=d7u88u12.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 52](tg://proxy?server=188.40.68.169&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 53](tg://proxy?server=dxx00777new7fh7hhh7tvuh8uh8iix001m1.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 54](tg://proxy?server=26ddd1.mmd1.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 55](tg://proxy?server=0056889.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 56](tg://proxy?server=6632511kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 57](tg://proxy?server=d7k88k13.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 58](tg://proxy?server=teranhavaei.charkhofalak.info.&amp;port=7799&amp;secret=dd10400103324995b07c030386e886e7f1)
-[اتصال به پروکسی 59](tg://proxy?server=11112.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[اتصال به پروکسی 60](tg://proxy?server=mm7h.masi.ir.he6fhd.ru&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09)
 ***🫆***
 [@ShadowProxy66](https://t.me/ShadowProxy66)
 
