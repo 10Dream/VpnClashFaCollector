@@ -1,5 +1,5 @@
 # آرشیو کانال: @matinsenpaii
-بروزرسانی: 2026-10-17 18:22:32 UTC
+بروزرسانی: 2026-10-17 21:26:15 UTC
 
 ### 🕒 2026-10-17 16:12:01 UTC
 لوکیشن آلمان بذارید، جمنای و سرویس‌های گوگل هم اوکیه
@@ -34,29 +34,6 @@ Cache 0.003 $
 ***✉️***
  
 [t.me/MatinSenPaii](http://t.me/MatinSenPaii)
-
----
-
-### 🕒 2026-10-16 20:55:35 UTC
-> ↪️ **Forwarded**
-
-اگر روی 9Router ارور 
-`HTTP 403: [403]: {"type":"error","error":{"type":"FreeTierError","message":"Error from provider (Console): OpenCode's free tier can only be used from within OpenCode"}}`
-می‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.
-برای آپدیت کسایی که با npm نصب کردن، از دستور
-npm i -g 9router@latest --prefer-online
-استفاده کنن، و کسایی هم که با داکر نصب کردن از
-docker pull decolua/9router:latest
-docker rm -f 9router
-docker run -d \
-  --name 9router \
-  -p 20128:20128 \
-  -v "$HOME/.9router:/app/data" \
-  -e DATA_DIR=/app/data \
-  -e JWT_SECRET="change-this-to-a-long-random-secret" \
-  -e INITIAL_PASSWORD="your-strong-dashboard-password" \
-  decolua/9router:latest
-استفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)
 
 ---
 
