@@ -1,105 +1,62 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-10-18 03:33:59 UTC
+بروزرسانی: 2026-10-18 08:43:35 UTC
 
-### 🕒 2026-10-18 02:15:08 UTC
+### 🕒 2026-10-18 08:00:49 UTC
 ***🚨***
 [ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
 ***🚀***
  نسخه جدید منتشر شد برای 
-[**ThroneForAndroid**](https://github.com/throneproj/ThroneForAndroid)
+[**WhiteDNS**](https://github.com/iampedii/WhiteDNS)
 :
+***🧪***
+ 
+**WhiteDNS 1.6.7-beta2**
+ (1.6.7-beta2) [Pre-release]
+# WhiteDNS 1.6.7-beta2 — Soar browser reliability
+This signed test release addresses Soar connections that pass the startup HTTPS
+check but close ordinary browser connections under concurrent TLS handshakes.
+MasterDNS/StormDNS and CottenDNS engines and profile formats are unchanged.
+- Bound simultaneous initial stream flights, including their window announcements,
+  and scale startup concurrency to measured path capacity. A small DNS budget can
+  complete connection prefaces instead of spreadi...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.7-beta2)
+[𓄂𓆃](https://t.me/update_releases)
+
+[📱 WhiteDNS-1.6.7-beta2-arm64-v8a.apk](https://github.com/WhiteDNS/WhiteDNS-Android/releases/download/1.6.7-beta2/WhiteDNS-1.6.7-beta2-arm64-v8a.apk) | [📱 WhiteDNS-1.6.7-beta2-armeabi-v7a.apk](https://github.com/WhiteDNS/WhiteDNS-Android/releases/download/1.6.7-beta2/WhiteDNS-1.6.7-beta2-armeabi-v7a.apk) | [📱 WhiteDNS-1.6.7-beta2-universal.apk](https://github.com/WhiteDNS/WhiteDNS-Android/releases/download/1.6.7-beta2/WhiteDNS-1.6.7-beta2-universal.apk) | [📱 WhiteDNS-1.6.7-beta2-x86.apk](https://github.com/WhiteDNS/WhiteDNS-Android/releases/download/1.6.7-beta2/WhiteDNS-1.6.7-beta2-x86.apk) | [📱 WhiteDNS-1.6.7-beta2-x86_64.apk](https://github.com/WhiteDNS/WhiteDNS-Android/releases/download/1.6.7-beta2/WhiteDNS-1.6.7-beta2-x86_64.apk)
+
+---
+
+### 🕒 2026-10-18 05:50:15 UTC
+پروکسی متصل 
 ***✅***
- 
-**v2.0.3**
- (v2.0.3)
-* Add multi-group Auto Selector **1**
-* Add input validation to editors and imports **2**
-* Add live graphs
-* Add core performance profiling in Settings › Diagnostics
-* Add log filter
-* Add TLS and HTTP version settings for subscriptions
-* Add per-subscription update interval
-* Add persistent group sorting
-* Add TLS fragment options to route rules
-* Add cipher suites and the unsafe fingerprint
-* Add AmneziaWG QUIC signature generator
-* Allow customizing the exit country lookup **3**
-...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.3)
-[𓄂𓆃](https://t.me/update_releases)
-
-[📱 Throne-2.0.3-arm64-v8a.apk](https://github.com/throneproj/ThroneForAndroid/releases/download/v2.0.3/Throne-2.0.3-arm64-v8a.apk) | [📱 Throne-2.0.3-armeabi-v7a.apk](https://github.com/throneproj/ThroneForAndroid/releases/download/v2.0.3/Throne-2.0.3-armeabi-v7a.apk) | [📱 Throne-2.0.3-x86_64.apk](https://github.com/throneproj/ThroneForAndroid/releases/download/v2.0.3/Throne-2.0.3-x86_64.apk)
-
----
-
-### 🕒 2026-10-18 01:45:09 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+ پخش کنید بره 
+***🫠***
+***⚡️***
+ با اسپانسری کانال خودمان
 ***🚀***
- نسخه جدید منتشر شد برای 
-[**Throne**](https://github.com/throneproj/Throne)
-:
-***🧪***
- 
-**1.4.0-beta.3**
- (1.4.0-beta.3) [Pre-release]
-* Add Amnezia auto l-values generator
-* Improve group sort
-* Show profile names in connection tab
-* Remove Xray forced deprecation
-* Refactor traffic graph
-* Add input validation
-* Add multi-group autoselector support
-* Introducing Headless mode **1**
-* Fixes and Improvements
-**1**:
-Throne can now be run as a process without GUI through docker or any daemon, controlled via the [API and our command line tool](
-[https://github.com/throneproj/Throne-api](https://github.com/throneproj/Throne-api)
-), useful for automations and enviro...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.3)
-[𓄂𓆃](https://t.me/update_releases)
-
-[🖥️ Throne-1.4.0-beta.3-debian-amd64-system-qt.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-amd64-system-qt.deb) | [🖥️ Throne-1.4.0-beta.3-debian-amd64.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-amd64.deb) | [🖥️ Throne-1.4.0-beta.3-debian-arm64-system-qt.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-arm64-system-qt.deb) | [🖥️ Throne-1.4.0-beta.3-debian-arm64.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-arm64.deb) | [🗜️ Throne-1.4.0-beta.3-linux-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-linux-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-linux-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-linux-arm64.zip) | [🗜️ Throne-1.4.0-beta.3-macos-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macos-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-macos-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macos-arm64.zip) | [🗜️ Throne-1.4.0-beta.3-macoslegacy-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macoslegacy-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-windows-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows-arm64.zip) | [💻 Throne-1.4.0-beta.3-windows-universal-installer.exe](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows-universal-installer.exe) | [🗜️ Throne-1.4.0-beta.3-windows32.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows32.zip) | [🗜️ Throne-1.4.0-beta.3-windows64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows64.zip) | [🗜️ Throne-1.4.0-beta.3-windowslegacy64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windowslegacy64.zip)
-
----
-
-### 🕒 2026-10-18 01:30:09 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
 ***🚀***
- نسخه جدید منتشر شد برای 
-[**nekoray**](https://github.com/Mahdi-zarei/nekoray)
-:
-***🧪***
+***🚀***
+ارسالی ادمینمون am 
+***🫶***
+[tg://proxy?server=66.33.22.249&port=57506&secret=27093dfaa1dbe608be804fd34cf881ba](tg://proxy?server=66.33.22.249&port=57506&secret=27093dfaa1dbe608be804fd34cf881ba)
+____
+***❤️***
+ اشتراک گذاری یادتون نره 
+***🌈***
+╔═══════════╗
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
  
-**1.4.0-beta.3**
- (1.4.0-beta.3) [Pre-release]
-* Add Amnezia auto l-values generator
-* Improve group sort
-* Show profile names in connection tab
-* Remove Xray forced deprecation
-* Refactor traffic graph
-* Add input validation
-* Add multi-group autoselector support
-* Introducing Headless mode **1**
-* Fixes and Improvements
-**1**:
-Throne can now be run as a process without GUI through docker or any daemon, controlled via the [API and our command line tool](
-[https://github.com/throneproj/Throne-api](https://github.com/throneproj/Throne-api)
-), useful for automations and enviro...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.3)
-[𓄂𓆃](https://t.me/update_releases)
-
-[🖥️ Throne-1.4.0-beta.3-debian-amd64-system-qt.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-amd64-system-qt.deb) | [🖥️ Throne-1.4.0-beta.3-debian-amd64.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-amd64.deb) | [🖥️ Throne-1.4.0-beta.3-debian-arm64-system-qt.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-arm64-system-qt.deb) | [🖥️ Throne-1.4.0-beta.3-debian-arm64.deb](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-debian-arm64.deb) | [🗜️ Throne-1.4.0-beta.3-linux-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-linux-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-linux-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-linux-arm64.zip) | [🗜️ Throne-1.4.0-beta.3-macos-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macos-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-macos-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macos-arm64.zip) | [🗜️ Throne-1.4.0-beta.3-macoslegacy-amd64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-macoslegacy-amd64.zip) | [🗜️ Throne-1.4.0-beta.3-windows-arm64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows-arm64.zip) | [💻 Throne-1.4.0-beta.3-windows-universal-installer.exe](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows-universal-installer.exe) | [🗜️ Throne-1.4.0-beta.3-windows32.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows32.zip) | [🗜️ Throne-1.4.0-beta.3-windows64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windows64.zip) | [🗜️ Throne-1.4.0-beta.3-windowslegacy64.zip](https://github.com/throneproj/Throne/releases/download/1.4.0-beta.3/Throne-1.4.0-beta.3-windowslegacy64.zip)
+***☑️***
+╚═══════════╝
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
 
 ---
 
@@ -142,41 +99,6 @@ sIeN+dY6rQubO+n1dK2cg172+YIs8yPFzywRKi0EK8mUzaLu
 ***⭐️***
 
 [Link Preview](https://t.me/hamedvpns/20377)
-
----
-
-### 🕒 2026-10-17 04:17:11 UTC
-**دامین **
-[**co.uk**](http://co.uk/)
-** رایگان به مدت 1 سال**
- 
-***🔥***
-Free 
-[co.uk](http://co.uk/)
- domain 
-***✅***
-کافیه دامین موردنظرتون رو توی لینک زیر بنویسید و جستجو کنید ، اگر آزاد بود ، میتونید بگیریدش.
-لینک جستجوی دامین : 
-***👇***
-***👇***
-***👇***
-[https://www.names.co.uk/](https://www.names.co.uk/)
-حتماً در سایت اکانت باید داشته باشید تا بتونید دامنه رو بردارید .
-جهت ثبت نام در سایت هم از لینک زیر استفاده کنید :
-[https://login.names.co.uk/login/create-account/index](https://login.names.co.uk/login/create-account/index)
-..
-***❤️***
- اشتراک گذاری یادتون نره 
-***🌈***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
 
 ---
 
