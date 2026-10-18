@@ -465,7 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@ConfigX2ray", server: 45.95.96.236, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c5694dc5-39fd-4a92-8430-3837baa522a3, servername: gesmankos.sadiepinki.com, host: gesmankos.sadiepinki.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 2", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 3", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 1", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +484,27 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +520,27 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@ConfigX2ray"
+      - "@ConfigX2ray 2"
+      - "@ConfigX2ray 3"
+      - "@ConfigX2ray 1"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,21 +465,90 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 9031 @proxy_online_net, server: 4.221.224.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 3aN9XUwhvq1ujlsO, udp: true, tfo: false}
-  - {name: 9043 @proxy_online_net, server: 151.101.56.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9044 @proxy_online_net, server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9042 @proxy_online_net, server: 199.232.78.101, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9045 @proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 9036 @proxy_online_net, server: 188.114.97.6, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: "%40Cooonfig%40Cooonfig%40N", network: ws, ws-opts: {path: /, headers: {Host: guji.azazilvpn.sbs.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9039 @proxy_online_net, server: 91.196.161.218, port: 2054, type: vless, tls: true, packet-encoding: xudp, uuid: 040e129c-f6bc-4f7c-8351-bcbab5078cd1, servername: www.ibm.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: LZEcqc7M6ypBzgtrnT-LjZKCbEQ8m-IgGhz24iezfDc, short-id: 54b24594713b5f13}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9035 @proxy_online_net, server: 151.101.56.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1fac5e18-2ca8-4626-c299-1f3f21c6b55e, servername: ssl.fastly.com, alpn: [h2], network: ws, ws-opts: {path: "/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray", headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9030 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9032 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9033 @proxy_online_net, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a5f3465-f8d8-4766-8141-beb02c4e723b, servername: ssl.fastly.com, network: ws, ws-opts: {path: /, headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9038 @proxy_online_net, server: 111.88.74.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 88a4915f-d68d-44aa-b4a4-36b99a2ab1ed, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo, short-id: c56d4f1c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9034 @proxy_online_net, server: 95.85.246.58, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 91c593d7-6095-4e20-aaf2-e591b61da7f2, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h9UaYbYpywLQ3QkOw99nR6HTmyDUaKrdkt7gZJwayCQ, short-id: 1c4a8f6e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9041 @proxy_online_net, server: 109.176.91.28, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d, servername: cloudcdn-m9-15.cdn.yandex.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: simplegrpc}, reality-opts: {public-key: zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU, short-id: b9e7a1c4d8329f10}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9037 @proxy_online_net, server: 5.175.161.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e48e4377-1f29-485b-80d4-85fd4fa27bfa, servername: www.bmw.com, host: www.bmw.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: arisCHgQjf_nE3Nei0IyrtTpTNQRQWEqRs3C24yORnY, short-id: 6de6f68cb1f8041c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10592@proxy_online_net, server: 20.164.216.208, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: tM0sV3CrjAU0nokd, udp: true, tfo: false}
+  - {name: 10572@proxy_online_net, server: 40.113.132.179, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: y7KeRTzmH0vXT2kp, udp: true, tfo: false}
+  - {name: 10583@proxy_online_net, server: c3.nastuh.link, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: y7KeRTzmH0vXT2kp, udp: true, tfo: false}
+  - {name: 10530@proxy_online_net, server: 20.164.209.198, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: IdBspBchqpInOZFK, udp: true, tfo: false}
+  - {name: 10531@proxy_online_net, server: 20.164.209.198, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: IdBspBchqpInOZFK, udp: true, tfo: false}
+  - {name: 10553@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10548@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10552@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10570@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---pirozi_ArGaP---", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10551@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10554@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10555@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10567@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10559@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10556@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10549@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10547@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10537@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10543@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10544@proxy_online_net, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10523@proxy_online_net, server: 146.75.57.238, port: 443, type: trojan, password: mitivpn, sni: www.google.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: www.google.com}}, udp: true, tfo: false}
+  - {name: 10529@proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: google.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: google.com}}, udp: true, tfo: false}
+  - {name: 10571@proxy_online_net, server: de-allnet.onlinernet.ir, port: 22000, type: vless, tls: true, packet-encoding: xudp, uuid: 16188ecf-2dcd-40d7-898b-60461f125978, servername: connectivitycheck.android.com, host: connectivitycheck.android.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw, short-id: 1b0fa065866978d2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10545@proxy_online_net, server: ger-allnet.onlinernet.ir, port: 22000, type: vless, tls: true, packet-encoding: xudp, uuid: 16188ecf-2dcd-40d7-898b-60461f125978, servername: connectivitycheck.android.com, host: connectivitycheck.android.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw, short-id: 1b0fa065866978d2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10563@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20ff936a-8eb5-4d27-9cce-93f2016d467b, servername: free.nadun.store, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: free.nadun.store}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10582@proxy_online_net, server: mci.amir12.ir, port: 2112, type: vless, tls: true, packet-encoding: xudp, uuid: 36c3dcc2-17b6-4478-b8a7-3978e6d5afe9, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ, short-id: 125ba3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10605@proxy_online_net, server: 81b52e72fcd7b5c0.tunde.w-ert.org, port: 501, type: vless, tls: true, packet-encoding: xudp, uuid: 3c055671-0633-4b8c-8c6b-ab6fe5fd9862, servername: www.aparat.com, host: www.aparat.com, path: /, reality-opts: {public-key: woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU, short-id: ca4134a0ed2592b6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10584@proxy_online_net, server: fr.song69.fun, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 408c51e8-9246-483d-ba73-34ab4e202eb9, servername: metrika.yandex.ru, host: metrika.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww, short-id: dcb858da}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10518@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10519@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: /fdip, headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10546@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: /fdip, headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10560@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 497f5381-3533-4c6a-939c-66eb3a7de108, servername: cdn.topingr.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /gropcdn, headers: {Host: cdn.topingr.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10578@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 30892, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4, short-id: 3d31326f95}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10597@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 30892, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4, short-id: 3d31326f95}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10533@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 34379, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA, short-id: e51285e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10579@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 34379, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA, short-id: e51285e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10568@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 34379, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA, short-id: e51285e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10589@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 34379, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA, short-id: e51285e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10604@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 34379, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA, short-id: e51285e3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10580@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 35544, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: iosapps.itunes.apple.com, host: iosapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc, short-id: 25c79e5856c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10598@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 35544, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: iosapps.itunes.apple.com, host: iosapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc, short-id: 25c79e5856c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10585@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 35544, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: iosapps.itunes.apple.com, host: iosapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc, short-id: 25c79e5856c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10536@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 46105, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.lamer.com.sg, host: www.lamer.com.sg, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik, short-id: 28f5c1f8f98a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10573@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 46105, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.lamer.com.sg, host: www.lamer.com.sg, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik, short-id: 28f5c1f8f98a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10594@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 46105, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.lamer.com.sg, host: www.lamer.com.sg, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik, short-id: 28f5c1f8f98a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10564@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 46105, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.lamer.com.sg, host: www.lamer.com.sg, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik, short-id: 28f5c1f8f98a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10534@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10575@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10535@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10569@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10590@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10588@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10565@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10586@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47672, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: us1p1.xn--ghq880n3na965a.com, host: us1p1.xn--ghq880n3na965a.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4, short-id: 70ab6d813e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10577@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47691, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: m.media-amazon.com, host: m.media-amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg, short-id: 2905326a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10593@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 47691, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: m.media-amazon.com, host: m.media-amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg, short-id: 2905326a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10574@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 55688, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: bilibili-vn.biliimg.com, host: bilibili-vn.biliimg.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw, short-id: a46bb5972cf50671}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10591@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 55688, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: bilibili-vn.biliimg.com, host: bilibili-vn.biliimg.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw, short-id: a46bb5972cf50671}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10595@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 55688, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: bilibili-vn.biliimg.com, host: bilibili-vn.biliimg.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw, short-id: a46bb5972cf50671}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10576@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 56415, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.kaidee.com, host: www.kaidee.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4, short-id: cbd39bea0805e2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10596@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 56415, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.kaidee.com, host: www.kaidee.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4, short-id: cbd39bea0805e2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10581@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 56656, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: cdn-dynmedia-1.microsoft.com, host: cdn-dynmedia-1.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc, short-id: aae6d935}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10599@proxy_online_net, server: funagfrdfs.alixxplay.com, port: 56656, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: cdn-dynmedia-1.microsoft.com, host: cdn-dynmedia-1.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc, short-id: aae6d935}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10527@proxy_online_net, server: 72.56.241.230, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 88b744bb-8ac7-484e-a376-136193452a2c, servername: max.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v1.StreamService}, reality-opts: {public-key: SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4, short-id: aabbccdd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10603@proxy_online_net, server: revers.bachidze.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a9c586c-4b2c-49e5-9e78-97408bf58500, servername: poland.travel, host: poland.travel, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10532@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4edb87e-8544-4fa4-bd1c-b0cda9a34b46, servername: a.cwvps.eu.org, network: ws, ws-opts: {path: "/ws#TELEGRAM--pirozi_ArGaP?ed=2560", headers: {Host: a.cwvps.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10566@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4edb87e-8544-4fa4-bd1c-b0cda9a34b46, servername: a.cwvps.eu.org, network: ws, ws-opts: {path: "/ws?ed#", headers: {Host: a.cwvps.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10540@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4edb87e-8544-4fa4-bd1c-b0cda9a34b46, servername: a.cwvps.eu.org, network: ws, ws-opts: {path: /ws, headers: {Host: a.cwvps.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10539@proxy_online_net, server: 199.232.78.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ce63bc59-da16-4942-89ab-33ca3f4b547c, servername: www.speedtest.net, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: www.speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10562@proxy_online_net, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10538@proxy_online_net, server: 164.37.224.244, port: 25239, type: vless, tls: true, packet-encoding: xudp, uuid: d54a7512-dda3-4218-8ae7-c591d300fd7c, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: 0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk, short-id: 9a382b227140e86f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10600@proxy_online_net, server: 37.32.31.16, port: 1200, type: vless, tls: true, packet-encoding: xudp, uuid: d8abd668-0b7d-47da-b59f-a6566e69fb16, host: "%2F%3FTELEGRAM-TOOTFFARANGI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10606@proxy_online_net, server: 37.32.31.16, port: 1300, type: vless, tls: true, packet-encoding: xudp, uuid: d8abd668-0b7d-47da-b59f-a6566e69fb16, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10602@proxy_online_net, server: 37.32.31.16, port: 1300, type: vless, tls: true, packet-encoding: xudp, uuid: d8abd668-0b7d-47da-b59f-a6566e69fb16, host: "%2F%3F", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10601@proxy_online_net, server: 37.32.31.16, port: 1300, type: vless, tls: true, packet-encoding: xudp, uuid: d8abd668-0b7d-47da-b59f-a6566e69fb16, host: "%2F%3FTELEGRAM-TOOTFFARANGI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10542@proxy_online_net, server: 172.67.155.65, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, network: ws, ws-opts: {path: "/cart/docs/www/proxyip?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10557@proxy_online_net, server: 172.67.155.65, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, network: ws, ws-opts: {path: /cart/docs/www/proxyip, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10521@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10558@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---bored_vpn", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10561@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: /cart/docs/www/proxyip, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10541@proxy_online_net, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10550@proxy_online_net, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: 3, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10520@proxy_online_net, server: b2n.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---bored_vpn", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 10587@proxy_online_net, server: 2001:bc8:32d7:1a9::2, port: 18901, type: vmess, uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999-newpac/fanqiang}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -496,63 +565,270 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -568,63 +844,270 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 9031 @proxy_online_net
-      - 9043 @proxy_online_net
-      - 9044 @proxy_online_net
-      - 9042 @proxy_online_net
-      - 9045 @proxy_online_net
-      - 9036 @proxy_online_net
-      - 9039 @proxy_online_net
-      - 9035 @proxy_online_net
-      - 9030 @proxy_online_net
-      - 9032 @proxy_online_net
-      - 9033 @proxy_online_net
-      - 9038 @proxy_online_net
-      - 9034 @proxy_online_net
-      - 9041 @proxy_online_net
-      - 9037 @proxy_online_net
+      - 10592@proxy_online_net
+      - 10572@proxy_online_net
+      - 10583@proxy_online_net
+      - 10530@proxy_online_net
+      - 10531@proxy_online_net
+      - 10553@proxy_online_net
+      - 10548@proxy_online_net
+      - 10552@proxy_online_net
+      - 10570@proxy_online_net
+      - 10551@proxy_online_net
+      - 10554@proxy_online_net
+      - 10555@proxy_online_net
+      - 10567@proxy_online_net
+      - 10559@proxy_online_net
+      - 10556@proxy_online_net
+      - 10549@proxy_online_net
+      - 10547@proxy_online_net
+      - 10537@proxy_online_net
+      - 10543@proxy_online_net
+      - 10544@proxy_online_net
+      - 10523@proxy_online_net
+      - 10529@proxy_online_net
+      - 10571@proxy_online_net
+      - 10545@proxy_online_net
+      - 10563@proxy_online_net
+      - 10582@proxy_online_net
+      - 10605@proxy_online_net
+      - 10584@proxy_online_net
+      - 10518@proxy_online_net
+      - 10519@proxy_online_net
+      - 10546@proxy_online_net
+      - 10560@proxy_online_net
+      - 10578@proxy_online_net
+      - 10597@proxy_online_net
+      - 10533@proxy_online_net
+      - 10579@proxy_online_net
+      - 10568@proxy_online_net
+      - 10589@proxy_online_net
+      - 10604@proxy_online_net
+      - 10580@proxy_online_net
+      - 10598@proxy_online_net
+      - 10585@proxy_online_net
+      - 10536@proxy_online_net
+      - 10573@proxy_online_net
+      - 10594@proxy_online_net
+      - 10564@proxy_online_net
+      - 10534@proxy_online_net
+      - 10575@proxy_online_net
+      - 10535@proxy_online_net
+      - 10569@proxy_online_net
+      - 10590@proxy_online_net
+      - 10588@proxy_online_net
+      - 10565@proxy_online_net
+      - 10586@proxy_online_net
+      - 10577@proxy_online_net
+      - 10593@proxy_online_net
+      - 10574@proxy_online_net
+      - 10591@proxy_online_net
+      - 10595@proxy_online_net
+      - 10576@proxy_online_net
+      - 10596@proxy_online_net
+      - 10581@proxy_online_net
+      - 10599@proxy_online_net
+      - 10527@proxy_online_net
+      - 10603@proxy_online_net
+      - 10532@proxy_online_net
+      - 10566@proxy_online_net
+      - 10540@proxy_online_net
+      - 10539@proxy_online_net
+      - 10562@proxy_online_net
+      - 10538@proxy_online_net
+      - 10600@proxy_online_net
+      - 10606@proxy_online_net
+      - 10602@proxy_online_net
+      - 10601@proxy_online_net
+      - 10542@proxy_online_net
+      - 10557@proxy_online_net
+      - 10521@proxy_online_net
+      - 10558@proxy_online_net
+      - 10561@proxy_online_net
+      - 10541@proxy_online_net
+      - 10550@proxy_online_net
+      - 10520@proxy_online_net
+      - 10587@proxy_online_net
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -5,102 +5,74 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: Lagos-1, server: 103.97.91.17, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: la.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Los Angeles-14, server: 104.160.44.203, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: la14.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Canberra-1, server: 113.20.12.98, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: ca.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Ashburn-2, server: 152.53.80.195, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: abr2.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Seoul, server: 158.247.222.240, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: kr.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: San Jose-6, server: 23.106.44.14, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: sj6.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Bucharest-2, server: 38.180.35.145, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: bu2.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Graz-1, server: 86.106.119.23, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, sni: gr.freeguard.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 86.106.119.23:443, server: 86.106.119.23, port: 443, type: trojan, password: 600421cf-11d7-429f-a65b-c30397f1bc03, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S1, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081d669a-c84f-4e4c-b312-bbeac59a85b9, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S3, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 853d191e-0d1d-47d0-9be1-66824606a4a0, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S2, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98bf753a-78bb-448e-99df-29f8d5b01da1, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S5, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c86662c1-0cc3-4527-9eaf-9166e3e7fea3, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S4, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa92c1a9-d3fe-4318-b1a5-6276c4429a68, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -128,15 +100,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Lagos-1
-      - Los Angeles-14
-      - Canberra-1
-      - Ashburn-2
-      - Seoul
-      - San Jose-6
-      - Bucharest-2
-      - Graz-1
-      - 86.106.119.23:443
+      - S1
+      - S3
+      - S2
+      - S5
+      - S4
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

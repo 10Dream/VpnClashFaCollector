@@ -5,67 +5,46 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 13.37.73.8:22222, server: 13.37.73.8, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.73.8:22223, server: 13.37.73.8, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.73.8:22224, server: 13.37.73.8, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.75.196.199:56539, server: 5.75.196.199, port: 56539, type: vless, tls: true, packet-encoding: xudp, uuid: f373e5d8-8dff-44e6-a4d8-41abeb038b8a, host: www.unscramblerer.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.130.159:2096, server: 172.67.130.159, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1d54a125-8f1e-46bb-9a23-0ecf4ac92db8, servername: cdn-ca.skyvora.app, network: ws, ws-opts: {path: /fqg7aacd8s, headers: {Host: cdn-ca.skyvora.app}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -93,10 +72,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

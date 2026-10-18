@@ -465,10 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 13.37.73.8:22222, server: 13.37.73.8, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.73.8:22223, server: 13.37.73.8, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.37.73.8:22224, server: 13.37.73.8, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.75.196.199:56539, server: 5.75.196.199, port: 56539, type: vless, tls: true, packet-encoding: xudp, uuid: f373e5d8-8dff-44e6-a4d8-41abeb038b8a, host: www.unscramblerer.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.130.159:2096, server: 172.67.130.159, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1d54a125-8f1e-46bb-9a23-0ecf4ac92db8, servername: cdn-ca.skyvora.app, network: ws, ws-opts: {path: /fqg7aacd8s, headers: {Host: cdn-ca.skyvora.app}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 13.37.73.8:22222
-      - 13.37.73.8:22223
-      - 13.37.73.8:22224
-      - 5.75.196.199:56539
+      - 172.67.130.159:2096
   - name: دانلود منیجر 📥
     type: select
     proxies:

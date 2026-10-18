@@ -465,13 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 2, server: 18.157.222.169, port: 1040, type: hysteria2, ports: 1040, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 6, server: 18.157.222.169, port: 4040, type: hysteria2, ports: 4040, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3, server: 18.157.222.169, port: 44044, type: hysteria2, ports: 44044, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5, server: 18.157.222.169, port: 443, type: hysteria2, ports: 443, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 7`, server: 18.157.222.169, port: 54040, type: hysteria2, ports: 54040, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4, server: 18.157.222.169, port: 8880, type: hysteria2, ports: 8880, password: Masir_Sefid, obfs: salamander, obfs-password: Masir_Sefid, sni: free.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1, server: 3.121.136.75, port: 443, type: hysteria2, ports: 443, password: masir_sefid, obfs: salamander, obfs-password: masir_sefid, sni: content.masir-sefid.shop, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: test, server: 3.150.178.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41702e3f-5442-48da-8731-dc4ab1b2abcb, servername: 3.150.178.157, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws-a21a0339ad41ff6818015f94, headers: {Host: 3.150.178.157}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 2
-      - 6
-      - 3
-      - 5
-      - 7`
-      - 4
-      - 1
+      - test
   - name: دانلود منیجر 📥
     type: select
     proxies:

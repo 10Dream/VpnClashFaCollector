@@ -465,7 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: lrnbymaa, server: 199.232.237.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: turboo-server, servername: turboo-server-telegram.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: turboo-server-telegram.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa, server: 188.42.145.180, port: 443, type: trojan, password: humanity, sni: wWw.Volumeroot.cOm., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: wWw.Volumeroot.cOm.}}, udp: true, tfo: false}
+  - {name: lrnbymaa 2, server: 47.253.226.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 3, server: 15.204.97.206, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 4, server: 15.204.97.216, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 5, server: 15.204.97.219, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 6, server: 185.166.154.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91d734be-a3d0-4d50-83ab-74cf7b6966fa, servername: cdn.bulkavpn.top, host: cdn.bulkavpn.top, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU, short-id: 94f32cfc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 7, server: cdn.bulkavpn.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91d734be-a3d0-4d50-83ab-74cf7b6966fa, servername: cdn.bulkavpn.top, host: cdn.bulkavpn.top, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU, short-id: 94f32cfc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 8, server: dorado.yokkastars.com, port: 40443, type: vless, tls: true, packet-encoding: xudp, uuid: af5eac96-e478-488a-bc8c-45269d7e8847, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw, short-id: 68a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 9, server: 198.251.78.29, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c423cc1b-f88e-421c-9a16-c480d84da20f, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, reality-opts: {public-key: Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw, short-id: b5d625695ec82c7e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +491,14 @@ proxy-groups:
     type: select
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +506,14 @@ proxy-groups:
     tolerance: 50
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +521,14 @@ proxy-groups:
     tolerance: 50
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +545,14 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +560,14 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +575,14 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
+      - lrnbymaa 2
+      - lrnbymaa 3
+      - lrnbymaa 4
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa 8
+      - lrnbymaa 9
   - name: دانلود منیجر 📥
     type: select
     proxies:
