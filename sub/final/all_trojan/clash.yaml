@@ -465,92 +465,89 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 196182 | ⚡️Telegram - t.me/SOSkeyNET, server: ger8.fytpn.com, port: 443, type: trojan, password: -VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ, sni: ger1.fytpn.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196231 | ⚡️Telegram - t.me/LonUp_M, server: ger8.fytpn.com, port: 443, type: trojan, password: -VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ, sni: ger1.fytpn.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196086 | ⚡️Telegram - t.me/SOSkeyNET, server: uwu.blueknightnet.qzz.io, port: 2087, type: trojan, password: 5j3xqsajt1474jb3, sni: uwu.dianaw.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net, headers: {Host: uwu.dianaw.cc.cd}}, udp: true, tfo: false}
-  - {name: 196135 | ⚡️Telegram - t.me/LonUp_M, server: uwu.blueknightnet.qzz.io, port: 2087, type: trojan, password: 5j3xqsajt1474jb3, sni: uwu.dianaw.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net, headers: {Host: uwu.dianaw.cc.cd}}, udp: true, tfo: false}
+  - {name: 197092 | ⚡️Telegram - t.me/SOSkeyNET, server: superjinx-production-3aac.up.railway.app, port: 443, type: trojan, password: 3QRCm9YzuvrnPG7sb64xZg, sni: superjinx-production-3aac.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/cdn/82b3976f-b7c9-462d-80dd-6ee426d5a410/t?ed=2560", headers: {Host: superjinx-production-3aac.up.railway.app}}, udp: true, tfo: false}
+  - {name: 197141 | ⚡️Telegram - t.me/LonUp_M, server: superjinx-production-3aac.up.railway.app, port: 443, type: trojan, password: 3QRCm9YzuvrnPG7sb64xZg, sni: superjinx-production-3aac.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/cdn/82b3976f-b7c9-462d-80dd-6ee426d5a410/t?ed=2560", headers: {Host: superjinx-production-3aac.up.railway.app}}, udp: true, tfo: false}
+  - {name: configraygan-1, server: superjinx-production-3aac.up.railway.app, port: 443, type: trojan, password: 3QRCm9YzuvrnPG7sb64xZg, sni: superjinx-production-3aac.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/cdn/82b3976f-b7c9-462d-80dd-6ee426d5a410/t?ed=2560", headers: {Host: superjinx-production-3aac.up.railway.app}}, udp: true, tfo: false}
+  - {name: 197249 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.241.241.122, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: de2.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 197298 | ⚡️Telegram - t.me/LonUp_M, server: 188.241.241.122, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: de2.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 188.241.241.122, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: de2.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: de10.dedushka.top, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: de10.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: de2.dedushka.top, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: de2.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: pl2.dedushka.top, port: 443, type: trojan, password: 4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA, sni: pl2.dedushka.top, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 197256 | ⚡️Telegram - t.me/SOSkeyNET, server: marzbanupdate-production-b655.up.railway.app, port: 443, type: trojan, password: G0LxzwInSH2_zUVnki1Spw, sni: marzbanupdate-production-b655.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/cdn/a3e1ac40-9f87-457c-99d4-7853b5edfe6f/t?ed=2560", headers: {Host: marzbanupdate-production-b655.up.railway.app}}, udp: true, tfo: false}
+  - {name: 197305 | ⚡️Telegram - t.me/LonUp_M, server: marzbanupdate-production-b655.up.railway.app, port: 443, type: trojan, password: G0LxzwInSH2_zUVnki1Spw, sni: marzbanupdate-production-b655.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/cdn/a3e1ac40-9f87-457c-99d4-7853b5edfe6f/t?ed=2560", headers: {Host: marzbanupdate-production-b655.up.railway.app}}, udp: true, tfo: false}
   - {name: outgoing-ladybird.rooster465.autos:443, server: outgoing-ladybird.rooster465.autos, port: 443, type: trojan, password: IL37892054, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196160 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.78.101, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: 196209 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.78.101, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
   - {name: 172.67.191.189:443, server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
-  - {name: 196002 | ⚡️Telegram - t.me/SOSkeyNET, server: 82164024@92.118.150.146, port: 443, type: trojan, password: Trojan, sni: pl.tronsg.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196051 | ⚡️Telegram - t.me/LonUp_M, server: 82164024@92.118.150.146, port: 443, type: trojan, password: Trojan, sni: pl.tronsg.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: top-goshawk.rooster465.autos:443, server: top-goshawk.rooster465.autos, port: 443, type: trojan, password: WF42809561, sni: top-goshawk.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.191.189:2053, server: 172.67.191.189, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: 172.67.68.87:2053, server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
   - {name: 45.85.118.0:2053, server: 45.85.118.0, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
-  - {name: 196092 | ⚡️Telegram - t.me/SOSkeyNET, server: 172.67.140.126, port: 2087, type: trojan, password: av7fquzvuc99xcs9, sni: uwu.dianaw.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net, headers: {Host: uwu.dianaw.cc.cd}}, udp: true, tfo: false}
-  - {name: 196141 | ⚡️Telegram - t.me/LonUp_M, server: 172.67.140.126, port: 2087, type: trojan, password: av7fquzvuc99xcs9, sni: uwu.dianaw.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net, headers: {Host: uwu.dianaw.cc.cd}}, udp: true, tfo: false}
   - {name: 65.109.129.120:80, server: 65.109.129.120, port: 80, type: trojan, password: b65cbe72-59e2-4011-a22b-760621b5921f, sni: fl.configasli.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4c2d5151.266nets.com:12001, server: 4c2d5151.266nets.com, port: 12001, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196929 | ⚡️Telegram - t.me/SOSkeyNET, server: 4c2d5151.266nets.com, port: 12001, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196978 | ⚡️Telegram - t.me/LonUp_M, server: 4c2d5151.266nets.com, port: 12001, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4c2d5151.266nets.com:12019, server: 4c2d5151.266nets.com, port: 12019, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196931 | ⚡️Telegram - t.me/SOSkeyNET, server: 4c2d5151.266nets.com, port: 12019, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196980 | ⚡️Telegram - t.me/LonUp_M, server: 4c2d5151.266nets.com, port: 12019, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.143.235.5:443, server: 185.143.235.5, port: 443, type: trojan, password: "biS(YrwB,3L$", sni: mydigipay.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196321 | ⚡️Telegram - t.me/SOSkeyNET, server: russia.com, port: 443, type: trojan, password: bpb-trojan, sni: 6982410.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /tr, headers: {Host: 6982410.xyz}}, udp: true, tfo: false}
-  - {name: 196370 | ⚡️Telegram - t.me/LonUp_M, server: russia.com, port: 443, type: trojan, password: bpb-trojan, sni: 6982410.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /tr, headers: {Host: 6982410.xyz}}, udp: true, tfo: false}
-  - {name: 196253 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.19.173.68, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
-  - {name: 196302 | ⚡️Telegram - t.me/LonUp_M, server: 104.19.173.68, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡", server: 188.114.98.0, port: 443, type: trojan, password: e309e031-991e-4656-9934-44d10deb8fd8, sni: nimm.mpd.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /0962, headers: {Host: nimm.mpd.cc.cd}}, udp: true, tfo: false}
-  - {name: 196091 | ⚡️Telegram - t.me/SOSkeyNET, server: nimm.mpd.cc.cd, port: 2053, type: trojan, password: e309e031-991e-4656-9934-44d10deb8fd8, sni: nimm.mpd.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /0962, headers: {Host: nimm.mpd.cc.cd}}, udp: true, tfo: false}
-  - {name: 196140 | ⚡️Telegram - t.me/LonUp_M, server: nimm.mpd.cc.cd, port: 2053, type: trojan, password: e309e031-991e-4656-9934-44d10deb8fd8, sni: nimm.mpd.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /0962, headers: {Host: nimm.mpd.cc.cd}}, udp: true, tfo: false}
-  - {name: 195870 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.0, port: 443, type: trojan, password: e7TTceggMwUMg%2BaFN%3AF4, sni: Apkd964o1oghltGhhT0L0oF.PAGEs.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/K6yFgCX8e93ySqOO4K?ed=2560", headers: {Host: Apkd964o1oghltGhhT0L0oF.PAGEs.DeV}}, udp: true, tfo: false}
-  - {name: 195919 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.0, port: 443, type: trojan, password: e7TTceggMwUMg%2BaFN%3AF4, sni: Apkd964o1oghltGhhT0L0oF.PAGEs.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/K6yFgCX8e93ySqOO4K?ed=2560", headers: {Host: Apkd964o1oghltGhhT0L0oF.PAGEs.DeV}}, udp: true, tfo: false}
-  - {name: 195980 | ⚡️Telegram - t.me/SOSkeyNET, server: mr-taha66-production.up.railway.app, port: 443, type: trojan, password: gBhqUAyFVAnh-Izet4KW57De91y1jNbG, sni: mr-taha66-production.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/live/01607476-d818-4aa9-ba8c-3dfb9de94853?ed=2560", headers: {Host: mr-taha66-production.up.railway.app}}, udp: true, tfo: false}
-  - {name: 196029 | ⚡️Telegram - t.me/LonUp_M, server: mr-taha66-production.up.railway.app, port: 443, type: trojan, password: gBhqUAyFVAnh-Izet4KW57De91y1jNbG, sni: mr-taha66-production.up.railway.app, skip-cert-verify: false, network: ws, ws-opts: {path: "/live/01607476-d818-4aa9-ba8c-3dfb9de94853?ed=2560", headers: {Host: mr-taha66-production.up.railway.app}}, udp: true, tfo: false}
-  - {name: 195783 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 195832 | ⚡️Telegram - t.me/LonUp_M, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 195820 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.9.83, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 195869 | ⚡️Telegram - t.me/LonUp_M, server: 104.18.9.83, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 196302 | ⚡️Telegram - t.me/SOSkeyNET, server: 141.101.115.104, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 196351 | ⚡️Telegram - t.me/LonUp_M, server: 141.101.115.104, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 195814 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.3, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195863 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.3, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195822 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.5, port: 443, type: trojan, password: humanity, sni: wWw.Volumeroot.cOm., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: wWw.Volumeroot.cOm.}}, udp: true, tfo: false}
-  - {name: 195871 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.5, port: 443, type: trojan, password: humanity, sni: wWw.Volumeroot.cOm., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: wWw.Volumeroot.cOm.}}, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 188.114.97.6:443, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---mehrosaboran", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 3", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195873 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: 195922 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 4", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 5", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---mehrosaboran", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 6", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 7", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 8", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: configraygan-71, server: 188.42.145.180, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 9", server: 188.42.145.180, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 196331 | ⚡️Telegram - t.me/SOSkeyNET, server: 209.38.109.222, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 196380 | ⚡️Telegram - t.me/LonUp_M, server: 209.38.109.222, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: configraygan-53, server: 31.57.190.34, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: 196314 | ⚡️Telegram - t.me/SOSkeyNET, server: 31.57.190.40, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: 196363 | ⚡️Telegram - t.me/LonUp_M, server: 31.57.190.40, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: 195810 | ⚡️Telegram - t.me/SOSkeyNET, server: 31.57.190.89, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195859 | ⚡️Telegram - t.me/LonUp_M, server: 31.57.190.89, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195799 | ⚡️Telegram - t.me/SOSkeyNET, server: 31.77.126.2, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 195848 | ⚡️Telegram - t.me/LonUp_M, server: 31.77.126.2, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
-  - {name: 196254 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.87.41.18, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 196303 | ⚡️Telegram - t.me/LonUp_M, server: 45.87.41.18, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: configraygan-27, server: 8.47.69.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: blog.findlocaljobnetworkandbuildcommunityconnections.com:443, server: blog.findlocaljobnetworkandbuildcommunityconnections.com, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: blog.findlocaljobnetworkandbuildcommunityconnections.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196932 | ⚡️Telegram - t.me/SOSkeyNET, server: blog.findlocaljobnetworkandbuildcommunityconnections.com, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: blog.findlocaljobnetworkandbuildcommunityconnections.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 196981 | ⚡️Telegram - t.me/LonUp_M, server: blog.findlocaljobnetworkandbuildcommunityconnections.com, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: blog.findlocaljobnetworkandbuildcommunityconnections.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: test-hamedvpns, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
+  - {name: 196939 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
+  - {name: 196988 | ⚡️Telegram - t.me/LonUp_M, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
+  - {name: test-hamedvpns 2, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
+  - {name: 63@oneclickvpnkeys, server: 141.193.213.172, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 196991 | ⚡️Telegram - t.me/SOSkeyNET, server: 172.64.145.133, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 197040 | ⚡️Telegram - t.me/LonUp_M, server: 172.64.145.133, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 172.64.145.133, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 10800@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 2", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10749@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---mehrosaboran", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 3", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---pirozi_ArGaP---", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10803@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---pirozi_ArGaP---", headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10804@proxy_online_net, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 188.114.97.6:443, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@vpnbaz ☂️", server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: //assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: //assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 4", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 10808@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 2, server: 188.114.98.0, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET"}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 5", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 6", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10760@proxy_online_net, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: "@proxy_online_net 7", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 63@oneclickvpnkeys 2, server: 45.87.41.18, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 197240 | ⚡️Telegram - t.me/SOSkeyNET, server: 46.101.110.34, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: 197289 | ⚡️Telegram - t.me/LonUp_M, server: 46.101.110.34, port: 443, type: trojan, password: humanity, sni: www.volumeroot.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumeroot.com}}, udp: true, tfo: false}
+  - {name: "@vpnbaz 🛸", server: 8.47.69.0, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
   - {name: v1.dabache.top:443, server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: www.gossipglove.com:443, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 196222 | ⚡️Telegram - t.me/SOSkeyNET, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---bored_vpn", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 196271 | ⚡️Telegram - t.me/LonUp_M, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---bored_vpn", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?ed#Telegram---mehrosaboran", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: www.speedtest.net:443 2, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 10", server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 11", server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 196290 | ⚡️Telegram - t.me/SOSkeyNET, server: 167.82.64.46, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 196339 | ⚡️Telegram - t.me/LonUp_M, server: 167.82.64.46, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 196291 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.78.160, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 196340 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.78.160, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 195778 | ⚡️Telegram - t.me/SOSkeyNET, server: 151.101.38.6, port: 443, type: trojan, password: mitivpn, sni: www.firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: www.firefox.com}}, udp: true, tfo: false}
-  - {name: 195827 | ⚡️Telegram - t.me/LonUp_M, server: 151.101.38.6, port: 443, type: trojan, password: mitivpn, sni: www.firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: www.firefox.com}}, udp: true, tfo: false}
-  - {name: 196273 | ⚡️Telegram - t.me/SOSkeyNET, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 196322 | ⚡️Telegram - t.me/LonUp_M, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-51, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-79, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: google.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: google.com}}, udp: true, tfo: false}
-  - {name: 196274 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: 196323 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-73, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: google.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: google.com}}, udp: true, tfo: false}
+  - {name: "@vasl_bashim", server: www.pleadcourt.org, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
+  - {name: 10750@proxy_online_net, server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: www.speedtest.net, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 38@oneclickvpnkeys, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 36@oneclickvpnkeys, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 197268 | ⚡️Telegram - t.me/SOSkeyNET, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 197317 | ⚡️Telegram - t.me/LonUp_M, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 10777@proxy_online_net, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 10790@proxy_online_net, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: configraygan-18, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 10774@proxy_online_net, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: configraygan-6, server: 167.82.64.46, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 197277 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.6, port: 443, type: trojan, password: mitivpn, sni: de.mitivpn.in.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: de.mitivpn.in.net}}, udp: true, tfo: false}
+  - {name: 197326 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.6, port: 443, type: trojan, password: mitivpn, sni: de.mitivpn.in.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: de.mitivpn.in.net}}, udp: true, tfo: false}
+  - {name: 36@oneclickvpnkeys 2, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 197285 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 197334 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 10807@proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 9", server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: configraygan-2, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: 10773@proxy_online_net, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: configraygan-7, server: 199.232.78.160, port: 443, type: trojan, password: mitivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
   - {name: 84.32.9.60:4443, server: 84.32.9.60, port: 4443, type: trojan, password: strong-secret-pass-777, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.242.117:22223, server: 13.36.242.117, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.130.107:22223, server: 13.37.130.107, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -582,12 +579,9 @@ proxies:
   - {name: 51.44.121.226:22222, server: 51.44.121.226, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.80.167:22222, server: 52.47.80.167, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.59.137:22222, server: 63.183.59.137, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 195794 | ⚡️Telegram - t.me/SOSkeyNET, server: 78.17.171.62, port: 443, type: trojan, password: u93yPGuY2zgIsisJZKS2QzJzg, sni: FREETOPLAY-2.TETRIS-GAME.WORLD, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: FREETOPLAY-2.TETRIS-GAME.WORLD}}, udp: true, tfo: false}
-  - {name: 195843 | ⚡️Telegram - t.me/LonUp_M, server: 78.17.171.62, port: 443, type: trojan, password: u93yPGuY2zgIsisJZKS2QzJzg, sni: FREETOPLAY-2.TETRIS-GAME.WORLD, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: FREETOPLAY-2.TETRIS-GAME.WORLD}}, udp: true, tfo: false}
-  - {name: 196049 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.8.223, port: 443, type: trojan, password: xe87RY6ogJWdQQrSPFPxveXI967sTz-t, sni: hbjb.google.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196098 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.8.223, port: 443, type: trojan, password: xe87RY6ogJWdQQrSPFPxveXI967sTz-t, sni: hbjb.google.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196106 | ⚡️Telegram - t.me/SOSkeyNET, server: 199.232.8.223, port: 443, type: trojan, password: xgMQFUPICwZdBrYI2FpbrnneP_xmTtkd, sni: speedtest.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196155 | ⚡️Telegram - t.me/LonUp_M, server: 199.232.8.223, port: 443, type: trojan, password: xgMQFUPICwZdBrYI2FpbrnneP_xmTtkd, sni: speedtest.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 197019 | ⚡️Telegram - t.me/SOSkeyNET, server: 78.17.171.62, port: 443, type: trojan, password: u93yPGuY2zgIsisJZKS2QzJzg, sni: FREETOPLAY-2.TETRIS-GAME.WORLD, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 197068 | ⚡️Telegram - t.me/LonUp_M, server: 78.17.171.62, port: 443, type: trojan, password: u93yPGuY2zgIsisJZKS2QzJzg, sni: FREETOPLAY-2.TETRIS-GAME.WORLD, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 2", server: 78.17.171.62, port: 443, type: trojan, password: u93yPGuY2zgIsisJZKS2QzJzg, sni: FREETOPLAY-2.TETRIS-GAME.WORLD, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -604,92 +598,89 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -721,104 +712,98 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -850,104 +835,98 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -979,12 +958,9 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1000,92 +976,89 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -1117,104 +1090,98 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -1246,104 +1213,98 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 196182 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196231 | ⚡️Telegram - t.me/LonUp_M
-      - 196086 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196135 | ⚡️Telegram - t.me/LonUp_M
+      - 197092 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197141 | ⚡️Telegram - t.me/LonUp_M
+      - configraygan-1
+      - 197249 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197298 | ⚡️Telegram - t.me/LonUp_M
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - 197256 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197305 | ⚡️Telegram - t.me/LonUp_M
       - outgoing-ladybird.rooster465.autos:443
-      - 196160 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196209 | ⚡️Telegram - t.me/LonUp_M
       - 172.67.191.189:443
-      - 196002 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196051 | ⚡️Telegram - t.me/LonUp_M
       - top-goshawk.rooster465.autos:443
       - 172.67.191.189:2053
       - 172.67.68.87:2053
       - 45.85.118.0:2053
-      - 196092 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196141 | ⚡️Telegram - t.me/LonUp_M
       - 65.109.129.120:80
+      - 4c2d5151.266nets.com:12001
+      - 196929 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196978 | ⚡️Telegram - t.me/LonUp_M
+      - 4c2d5151.266nets.com:12019
+      - 196931 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196980 | ⚡️Telegram - t.me/LonUp_M
       - 185.143.235.5:443
-      - 196321 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196370 | ⚡️Telegram - t.me/LonUp_M
-      - 196253 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196302 | ⚡️Telegram - t.me/LonUp_M
-      - "@prrofile_purple | ViP ⚡"
-      - 196091 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196140 | ⚡️Telegram - t.me/LonUp_M
-      - 195870 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195919 | ⚡️Telegram - t.me/LonUp_M
-      - 195980 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196029 | ⚡️Telegram - t.me/LonUp_M
-      - 195783 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195832 | ⚡️Telegram - t.me/LonUp_M
-      - 195820 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195869 | ⚡️Telegram - t.me/LonUp_M
-      - 196302 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196351 | ⚡️Telegram - t.me/LonUp_M
-      - 195814 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195863 | ⚡️Telegram - t.me/LonUp_M
-      - 195822 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195871 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - 188.114.97.6:443
-      - "@meliproxyy 3"
-      - 195873 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195922 | ⚡️Telegram - t.me/LonUp_M
-      - "@meliproxyy 4"
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - 196932 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196981 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns
+      - 196939 | ⚡️Telegram - t.me/SOSkeyNET
+      - 196988 | ⚡️Telegram - t.me/LonUp_M
+      - test-hamedvpns 2
+      - 63@oneclickvpnkeys
+      - 196991 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197040 | ⚡️Telegram - t.me/LonUp_M
       - "@meliproxyy 5"
+      - "@proxy_online_net"
+      - 10800@proxy_online_net
+      - "@proxy_online_net 2"
+      - 10749@proxy_online_net
+      - "@proxy_online_net 3"
+      - 10803@proxy_online_net
+      - 10804@proxy_online_net
+      - 188.114.97.6:443
+      - "@vpnbaz ☂️"
       - 188.114.98.0:443
       - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy 8"
-      - configraygan-71
-      - "@meliproxyy 9"
-      - 196331 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196380 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-53
-      - 196314 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196363 | ⚡️Telegram - t.me/LonUp_M
-      - 195810 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195859 | ⚡️Telegram - t.me/LonUp_M
-      - 195799 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195848 | ⚡️Telegram - t.me/LonUp_M
-      - 196254 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196303 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-27
+      - "@proxy_online_net 4"
+      - 10808@proxy_online_net
+      - 188.114.98.0:443 2
+      - "@proxy_online_net 5"
+      - "@proxy_online_net 6"
+      - 10760@proxy_online_net
+      - "@proxy_online_net 7"
+      - 63@oneclickvpnkeys 2
+      - 197240 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197289 | ⚡️Telegram - t.me/LonUp_M
+      - "@vpnbaz 🛸"
       - v1.dabache.top:443
       - www.gossipglove.com:443
-      - 196222 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196271 | ⚡️Telegram - t.me/LonUp_M
-      - www.speedtest.net:443
-      - www.speedtest.net:443 2
-      - "@meliproxyy 10"
-      - "@meliproxyy 11"
-      - 196290 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196339 | ⚡️Telegram - t.me/LonUp_M
-      - 196291 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196340 | ⚡️Telegram - t.me/LonUp_M
-      - 195778 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195827 | ⚡️Telegram - t.me/LonUp_M
-      - 196273 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196322 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-51
-      - configraygan-79
-      - 196274 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196323 | ⚡️Telegram - t.me/LonUp_M
-      - configraygan-73
+      - "@vasl_bashim"
+      - 10750@proxy_online_net
+      - "@meliproxyy 7"
+      - 38@oneclickvpnkeys
+      - 36@oneclickvpnkeys
+      - 197268 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197317 | ⚡️Telegram - t.me/LonUp_M
+      - 10777@proxy_online_net
+      - 10790@proxy_online_net
+      - "@meliproxyy 8"
+      - configraygan-18
+      - 10774@proxy_online_net
+      - configraygan-6
+      - 197277 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197326 | ⚡️Telegram - t.me/LonUp_M
+      - 36@oneclickvpnkeys 2
+      - 197285 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197334 | ⚡️Telegram - t.me/LonUp_M
+      - 10807@proxy_online_net
+      - "@meliproxyy 9"
+      - configraygan-2
+      - 10773@proxy_online_net
+      - configraygan-7
       - 84.32.9.60:4443
       - 13.36.242.117:22223
       - 13.37.130.107:22223
@@ -1375,12 +1336,9 @@ proxy-groups:
       - 51.44.121.226:22222
       - 52.47.80.167:22222
       - 63.183.59.137:22222
-      - 195794 | ⚡️Telegram - t.me/SOSkeyNET
-      - 195843 | ⚡️Telegram - t.me/LonUp_M
-      - 196049 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196098 | ⚡️Telegram - t.me/LonUp_M
-      - 196106 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196155 | ⚡️Telegram - t.me/LonUp_M
+      - 197019 | ⚡️Telegram - t.me/SOSkeyNET
+      - 197068 | ⚡️Telegram - t.me/LonUp_M
+      - "@vasl_bashim 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

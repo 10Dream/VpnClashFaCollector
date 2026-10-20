@@ -465,14 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@prrofile_purple | ViP ⚡", server: 188.114.98.0, port: 443, type: trojan, password: e309e031-991e-4656-9934-44d10deb8fd8, sni: nimm.mpd.cc.cd, skip-cert-verify: false, network: ws, ws-opts: {path: /0962, headers: {Host: nimm.mpd.cc.cd}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***😎***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-TOOTFFARANGI", headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***🤪***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?Telegram---DailyConfigs---DailyConfigs---DailyConfigs", headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***🥰***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?Telegram---bored_vpn", headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***🥳***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: /fdip, headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***😘***", server: 43.249.72.254, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 932b2343-2a3b-45c2-9699-7642a85abdc1, servername: default.ssl.fastly.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***💋***", server: 172.67.155.65, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, network: ws, ws-opts: {path: /cart/docs/www/proxyip, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | ViP ⚡***😍***", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eccc053a-7196-47cb-a4b5-f4b8bfd743d9, servername: firefox.com, network: ws, ws-opts: {path: "/?TELEGRAM-TOOTFFARANGI", headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***🤟***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-TOOTFFARANGIfp=chrome", headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***🤝***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 495c7195-85b8-498a-bf20-2ea9ce9175b5, servername: snip.edgeoneai.cc.cd, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: snip.edgeoneai.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***👍***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM--i10VPN?ed", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***👆***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?Telegram---TEHRANARGO", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***👐***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?Telegram---bored_vpn", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple | ViP ⚡***🙌***", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip?ed", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple | ViP ⚡"
-      - "@prrofile_purple | ViP ⚡***😎***"
-      - "@prrofile_purple | ViP ⚡***🤪***"
-      - "@prrofile_purple | ViP ⚡***🥰***"
-      - "@prrofile_purple | ViP ⚡***🥳***"
-      - "@prrofile_purple | ViP ⚡***😘***"
-      - "@prrofile_purple | ViP ⚡***💋***"
-      - "@prrofile_purple | ViP ⚡***😍***"
+      - "@prrofile_purple | ViP ⚡***🤟***"
+      - "@prrofile_purple | ViP ⚡***🤝***"
+      - "@prrofile_purple | ViP ⚡***👍***"
+      - "@prrofile_purple | ViP ⚡***👆***"
+      - "@prrofile_purple | ViP ⚡***👐***"
+      - "@prrofile_purple | ViP ⚡***🙌***"
   - name: دانلود منیجر 📥
     type: select
     proxies:

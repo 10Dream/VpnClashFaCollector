@@ -5,46 +5,46 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: test, server: 3.150.178.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41702e3f-5442-48da-8731-dc4ab1b2abcb, servername: 3.150.178.157, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws-a21a0339ad41ff6818015f94, headers: {Host: 3.150.178.157}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.150.178.157:443, server: 3.150.178.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41702e3f-5442-48da-8731-dc4ab1b2abcb, servername: 3.150.178.157, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws-a21a0339ad4…, headers: {Host: 3.150.178.157}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - test
+      - 3.150.178.157:443
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - test
+      - 3.150.178.157:443
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - test
+      - 3.150.178.157:443
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - test
+      - 3.150.178.157:443
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - test
+      - 3.150.178.157:443
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +72,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - test
+      - 3.150.178.157:443
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

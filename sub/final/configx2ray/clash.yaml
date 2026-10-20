@@ -465,9 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@ConfigX2ray 2", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ConfigX2ray 3", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ConfigX2ray 1", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d1cafeeb-2861-4d1e-a462-38f16442f5b2, servername: google.com, network: ws, ws-opts: {path: /, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 2", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dc7d45c9-c942-41e3-b880-9a7fd5b64e2f, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 3", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dc7d45c9-c942-41e3-b880-9a7fd5b64e2f, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wwww.qarvian.ir:443, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dc7d45c9-c942-41e3-b880-9a7fd5b64e2f, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,7 +486,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -495,7 +495,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -504,7 +504,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -522,7 +522,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -531,7 +531,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -540,7 +540,7 @@ proxy-groups:
     proxies:
       - "@ConfigX2ray 2"
       - "@ConfigX2ray 3"
-      - "@ConfigX2ray 1"
+      - wwww.qarvian.ir:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

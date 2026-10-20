@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: test, server: 3.150.178.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41702e3f-5442-48da-8731-dc4ab1b2abcb, servername: 3.150.178.157, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws-a21a0339ad41ff6818015f94, headers: {Host: 3.150.178.157}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.150.178.157:443, server: 3.150.178.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41702e3f-5442-48da-8731-dc4ab1b2abcb, servername: 3.150.178.157, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws-a21a0339ad4…, headers: {Host: 3.150.178.157}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test
+      - 3.150.178.157:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

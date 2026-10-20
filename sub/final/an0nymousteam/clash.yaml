@@ -465,11 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: S1, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081d669a-c84f-4e4c-b312-bbeac59a85b9, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S3, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 853d191e-0d1d-47d0-9be1-66824606a4a0, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S2, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98bf753a-78bb-448e-99df-29f8d5b01da1, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S5, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c86662c1-0cc3-4527-9eaf-9166e3e7fea3, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S4, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa92c1a9-d3fe-4318-b1a5-6276c4429a68, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S2, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 10c06e4a-b858-4dc7-ad21-7272968405e5, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S5, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e0f761c-4cfa-45d4-b4f5-5f4ef9910671, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S1, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5fe28268-9c62-4f19-a8ed-7c84d2d530bc, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S3, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8eeb2bb2-ac41-4d0e-ad9f-771fcd69cb0c, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S4, server: xray1-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9f9062fa-8555-4676-b5a3-506f8cfb5e66, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,10 +486,10 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -497,10 +497,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -508,10 +508,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: اتصال پایدار 🔗
     type: url-test
@@ -528,10 +528,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -539,10 +539,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -550,10 +550,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - S1
-      - S3
       - S2
       - S5
+      - S1
+      - S3
       - S4
   - name: دانلود منیجر 📥
     type: select

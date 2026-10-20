@@ -5,60 +5,74 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 152.232.57.10:443, server: 152.232.57.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 082f5694-9019-4110-b67b-8125dbb9bab8, servername: api.videobereg.cc, host: api.videobereg.cc, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs, short-id: a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.128.60.127:443, server: 45.128.60.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1a11d3a8-f327-4f97-81b2-f776c138dec7, servername: www.nokia.com, host: www.nokia.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI, short-id: 557d83da1a36996f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: funagfrdfs.alixxplay.com:55688, server: funagfrdfs.alixxplay.com, port: 55688, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: bilibili-vn.biliimg.com, host: bilibili-vn.biliimg.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw, short-id: a46bb5972cf50671}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4c2d5151.266nets.com:12001, server: 4c2d5151.266nets.com, port: 12001, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4c2d5151.266nets.com:12019, server: 4c2d5151.266nets.com, port: 12019, type: trojan, password: bad06c3525a6eaee1757b34776b83892, sni: ixigua.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: blog.findlocaljobnetworkandbuildcommunityconnections.com:443, server: blog.findlocaljobnetworkandbuildcommunityconnections.com, port: 443, type: trojan, password: dba20dcb635e430fa4d3bfc303a149d2, sni: blog.findlocaljobnetworkandbuildcommunityconnections.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: connect.hondamotor.site:10002, server: connect.hondamotor.site, port: 10002, type: vless, tls: true, packet-encoding: xudp, uuid: c6362720-0931-4b91-b187-d8ecf3149734, host: connect.hondamotor.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64.188.66.181:443, server: 64.188.66.181, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f8d52ece-fad4-478d-875d-df6eed3befa7, servername: ge-s-1.pythonmakemigreat.wiki, host: ge-s-1.pythonmakemigreat.wiki, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8, short-id: 2c9a2790ad5900b2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -86,9 +100,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 152.232.57.10:443
-      - 45.128.60.127:443
-      - funagfrdfs.alixxplay.com:55688
+      - 4c2d5151.266nets.com:12001
+      - 4c2d5151.266nets.com:12019
+      - blog.findlocaljobnetworkandbuildcommunityconnections.com:443
+      - connect.hondamotor.site:10002
+      - 64.188.66.181:443
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
