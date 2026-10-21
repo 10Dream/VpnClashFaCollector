@@ -1,5 +1,59 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-10-21 07:16:24 UTC
+بروزرسانی: 2026-10-21 13:36:48 UTC
+
+### 🕒 2026-10-21 10:41:46 UTC
+**ببینید اگه سایت **
+***👇***
+***👇***
+***👇***
+[https://cloudflare-ech.com](https://cloudflare-ech.com/)
+براتون تو مرورگر باز میشه یعنی همچنان روش ECH کار میکنه و دامنش قابل استفادس ، الان فقط اومدن جلوگیری کردن از اینکه شما بتونید از طریق plain DNS کلید ECH رو بگیرید.
+که خب من از قبل فکرش رو کرده بودم و echSockopt رو در هسته‌ی اصلی Xray-core و echOutbound رو در PattN/PattNG پیاده سازی کرده بودم.
+///
+[دانلود نسخه جدید Pattng ***👉***](https://t.me/patt_channel_x/185)
+***👉***
+بنابراین برای استفاده از روش ECH در حال حاضر کافیه قسمت های زیر را بزنید به جاهای مورد نظر :
+echConfigList :
+`cloudflare-ech.com+h2c://1.1.1.1/dns-query`
+و قسمت
+echOutbound :
+{
+      "tag": "tls-repack-dns",
+      "protocol": "direct",
+      "settings": {
+        "redirect": "1.1.1.1:443"
+      },
+      "streamSettings": {
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.microsoft.com",
+          "verifyPeerCertByName": "fromMitM,www.microsoft.com",
+          "alpn": ["fromMitM"],
+          "fingerprint": "chrome"
+        }
+      }
+    }
+قرار بدید ، از آخرین نسخه PattN و PattNG هم استفاده کنید. 
+(PattNG P67, PattN P34)
+///
+اگر کارهای بنده باعث اتصال شما شده، امیدوارم برای انگیزه‌ی بیشتر برای ادامه‌ی راه حمایت فراموش نشه 
+***🙏***
+کانال توسعه دهنده :
+[@patt_channel_x](https://t.me/patt_channel_x)
+***❤️***
+ اشتراک گذاری یادتون نره 
+***🌈***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-10-21 05:35:11 UTC
 کانفیگ نت ملی WhiteDNS
