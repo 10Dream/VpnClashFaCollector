@@ -16,7 +16,7 @@ on:
         type: boolean
         default: true
       run_tester:
-        description: 'Run Full Tester (Ping, Speed to 300, Gemini)?'
+        description: 'Run Full Tester (Ping, Speed to 300)?'
         required: true
         type: boolean
         default: true
@@ -60,7 +60,7 @@ jobs:
           echo "Current UTC Hour: $UTC_HOUR"
           if [ "$UTC_HOUR" = "03" ] || [ "${{ github.event.inputs.run_tester }}" = "true" ]; then
             echo "run_daily_test=true" >> "$GITHUB_OUTPUT"
-            echo "Mode: Daily Testing Active (Ping + Speed 300 + Gemini)"
+            echo "Mode: Daily Testing Active (Ping + Speed 300)"
           else
             echo "run_daily_test=false" >> "$GITHUB_OUTPUT"
             echo "Mode: Hourly Scrape & Extract"
@@ -74,7 +74,7 @@ jobs:
         if: github.event_name == 'schedule' || inputs.run_extractor == true
         run: python src/config_extractor.py
 
-      - name: 3. Run Full Config Tester (Ping, Speed to 300, Gemini)
+      - name: 3. Run Full Config Tester (Ping, Speed to 300)
         if: (github.event_name == 'schedule' && steps.check_mode.outputs.run_daily_test == 'true') || (github.event_name == 'workflow_dispatch' && inputs.run_tester == true)
         run: python src/config_tester.py
 

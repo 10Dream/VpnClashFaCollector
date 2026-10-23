@@ -32,7 +32,6 @@ def generate_web_page():
     tested_file_order = [
         "speed_passed.txt", "speed_passed_base64.txt",
         "ping_passed.txt", "ping_passed_base64.txt",
-        "gemini_passed.txt", "gemini_passed_base64.txt",
         "clash.yaml", "clashr.yaml",
         "surfboard.conf", "v2ray.txt",
         "quantumult.conf", "surge4.conf",
@@ -84,7 +83,7 @@ def generate_web_page():
         "clash": "fa-circle-nodes", "v2ray": "fa-share-nodes", "ss": "fa-key",
         "base64": "fa-code", "txt": "fa-file-lines", "yaml": "fa-file-code", "conf": "fa-gear",
         "dns": "fa-globe", "storm": "fa-bolt", "cotten": "fa-shield-halved", "slip": "fa-wind",
-        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal", "gemini": "fa-wand-magic-sparkles",
+        "master": "fa-crown", "slow": "fa-gauge", "ssh": "fa-terminal",
         "inactive": "fa-clock-rotate-left"
     }
 
@@ -363,7 +362,7 @@ def generate_web_page():
                         <i class="fa-solid fa-arrow-up-right-from-square text-slate-600 group-hover:text-blue-400 transition-all"></i>
                     </a>
                 </div>
-                <p class="text-center mt-12 text-slate-600 text-xs font-bold uppercase tracking-widest">Powered by Gemini AI & Open Source Tools</p>
+                <p class="text-center mt-12 text-slate-600 text-xs font-bold uppercase tracking-widest">Powered by Open Source Tools</p>
             </footer>
         </div>
 

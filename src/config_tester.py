@@ -13,11 +13,6 @@ SPEED_TIMEOUT = "8000"  # مهلت ۸ ثانیه‌ای برای هر پروکس
 TARGET_SPEED_CONFIGS = 300  # هدف: جمع‌آوری دقیقاً ۳۰۰ کانفیگ با سرعت دانلود فعال
 SPEED_BATCH_SIZE = 60  # پردازش دسته‌ای ۶۰تایی برای جلوگیری از مصرف بیهوده منابع
 
-GEMINI_THREADS = 30
-GEMINI_URL = "https://gemini.google.com"
-GEMINI_TIMEOUT = "6000"
-GEMINI_BLOCKED_COUNTRIES = {"IR", "RU", "KP", "CU", "SY"}
-
 SPAM_QUERY_PARAMS = {
     'telegram', 'telegramid', 'channel', 'bia_telegram', 'bia_tel', 'join',
     'sponsor', 'ad', 'ads', 'promo'
@@ -293,10 +288,9 @@ def rename_config(link, info, rank=None):
 
 def test_process(limit_for_test=None):
     """
-    اجرای ۳ فاز تست:
+    اجرای ۲ فاز تست:
     ۱. تست پینگ و تاخیر برای تمام کانفیگ‌ها و مرتب‌سازی از کمترین پینگ
     ۲. تست سرعت دانلود دسته‌ای برای کانفیگ‌های برتر تا رسیدن به ۳۰۰ کانفیگ فعال
-    ۳. تست اختصاصی بازگشایی Google Gemini و ساخت ساب مجزا
     """
     input_file = "sub/all/mixed.txt"
     base_dir = "sub/tested"
@@ -475,87 +469,6 @@ def test_process(limit_for_test=None):
             f.write(to_base64(s_text))
             
         logger.info(f"Phase 2 Complete: {len(top_speed_results)} unique proxies ranked by download speed.")
-
-    # =========================================================================
-    # --- Phase 3: Google Gemini AI Compatibility Test (تست بازگشایی جمنای) ---
-    # =========================================================================
-    if valid_ping_rows:
-        logger.info(f"--- Phase 3: Google Gemini AI Compatibility Test (Threads: {GEMINI_THREADS}) ---")
-        
-        # تست روی کانفیگ‌های سالم فاز ۱
-        gemini_candidates = [r.get('link') or r.get('Config') for r in valid_ping_rows if (r.get('link') or r.get('Config'))]
-        
-        gemini_tmp_txt = "gemini_candidates_tmp.txt"
-        gemini_csv = os.path.join(raw_dir, "gemini_raw.csv")
-        
-        with open(gemini_tmp_txt, "w", encoding="utf-8") as f:
-            f.write("\n".join(gemini_candidates))
-            
-        subprocess.run([
-            knife_bin, "http",
-            "-f", gemini_tmp_txt,
-            "-t", str(GEMINI_THREADS),
-            "-o", gemini_csv,
-            "-x", "csv",
-            "-u", GEMINI_URL,
-            "-a", GEMINI_TIMEOUT
-        ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        
-        gemini_passed_results = []
-        if os.path.exists(gemini_csv):
-            with open(gemini_csv, "r", encoding="utf-8-sig", errors="ignore") as f:
-                seen_gemini_cores = set()
-                for row in csv.DictReader(f):
-                    cc = (row.get('location') or 'UN').upper()
-                    delay = row.get('delay')
-                    code = str(row.get('code') or '')
-                    status = (row.get('status') or '').lower()
-                    link = row.get('link') or row.get('Config')
-                    
-                    if not link or not delay or not str(delay).isdigit():
-                        continue
-                    d_int = int(delay)
-                    if d_int <= 0 or d_int >= 4500 or cc in GEMINI_BLOCKED_COUNTRIES:
-                        continue
-                        
-                    if status == 'passed' or code in {'200', '301', '302', '307', '308'}:
-                        ck = get_proxy_core_key(link)
-                        if ck and ck in seen_gemini_cores:
-                            continue
-                        if ck:
-                            seen_gemini_cores.add(ck)
-                        gemini_passed_results.append({
-                            'link': link,
-                            'delay': d_int,
-                            'cc': cc
-                        })
-            
-            # مرتب‌سازی بر اساس کمترین پینگ
-            gemini_passed_results.sort(key=lambda x: x['delay'])
-            
-            gemini_final_list = [
-                rename_config(r['link'], {
-                    'cc': r['cc'],
-                    'ping': r['delay'],
-                    'custom_tag': '✨ Gemini'
-                })
-                for r in gemini_passed_results
-            ]
-            
-            g_text = "\n".join(filter(None, gemini_final_list))
-            with open(os.path.join(base_dir, "gemini_passed.txt"), "w", encoding="utf-8") as f:
-                f.write(g_text)
-            with open(os.path.join(base_dir, "gemini_passed_base64.txt"), "w", encoding="utf-8") as f:
-                f.write(to_base64(g_text))
-                
-            logger.info(f"Phase 3 Complete: {len(gemini_passed_results)} unique proxies successfully verified for Google Gemini.")
-            
-        if os.path.exists(gemini_tmp_txt):
-            try: os.remove(gemini_tmp_txt)
-            except Exception: pass
-        if os.path.exists(gemini_csv):
-            try: os.remove(gemini_csv)
-            except Exception: pass
 
     if limit_for_test and os.path.exists("sub/all/mixed_sample.txt"):
         try: os.remove("sub/all/mixed_sample.txt")
