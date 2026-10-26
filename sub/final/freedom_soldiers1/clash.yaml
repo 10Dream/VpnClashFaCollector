@@ -465,10 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Freedom_Soldiers1", server: 151.101.56.56, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: "@Freedom_Soldiers1 2", server: 167.82.76.7, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: "@Freedom_Soldiers1 3", server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
-  - {name: "@Freedom_Soldiers1 4", server: 199.232.78.160, port: 443, type: trojan, password: MiTIVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: ssl.fastly.com}}, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1", server: 20.123.12.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lmG45rfbkt8DAPfP, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,9 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,9 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -506,9 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -525,9 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -535,9 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -545,9 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Freedom_Soldiers1"
-      - "@Freedom_Soldiers1 2"
-      - "@Freedom_Soldiers1 3"
-      - "@Freedom_Soldiers1 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

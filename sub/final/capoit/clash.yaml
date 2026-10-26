@@ -465,7 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Capoit", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eccc053a-7196-47cb-a4b5-f4b8bfd743d9, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit", server: r5ycmuko.zibayeman.com, port: 54280, type: hysteria2, ports: 54280, password: f04i31zq8sy80v9b, obfs: salamander, obfs-password: hfwq51con9efdxx6, sni: r5ycmuko.zibayeman.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit 2", server: "[2607:5300:205:200::8aeb]", port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 20b98028-53c9-4f76-9bc9-b6b16b8a9152, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc, short-id: 2b30}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit 3", server: 37.27.12.39, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b821829-5b53-4421-949c-9147b65d1d51, servername: dl.google.com, host: dl.google.com, path: /, reality-opts: {public-key: VmuqEmtzbhkJqt4-k_EFRGZFIhrQaloRkB9WnKsVJWg, short-id: 0b9579b2dba04664}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit 4", server: "[2a01:4f8:1c1b:1afc::1]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 41ab3de9-ad07-48e1-9c38-fbcb4ece171b, servername: Play.google.com, host: Play.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: b4OORnT9Kh_H2jVT2l2w79D1Z5R4W6O_bNhUD1RhHmU, short-id: 2a5fdb9a29405afd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit 5", server: 45.92.218.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9ff5db63-88ff-4276-ab71-ac2b5cb2a740, servername: delivery.mp.microsoft.com, host: delivery.mp.microsoft.com, path: /, reality-opts: {public-key: I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM, short-id: d3feff5d570d6b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit 6", server: 167.82.64.64, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +488,11 @@ proxy-groups:
     type: select
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +500,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +512,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +533,11 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +545,11 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +557,11 @@ proxy-groups:
     interval: 600
     proxies:
       - "@Capoit"
+      - "@Capoit 2"
+      - "@Capoit 3"
+      - "@Capoit 4"
+      - "@Capoit 5"
+      - "@Capoit 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:

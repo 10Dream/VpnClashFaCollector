@@ -465,22 +465,114 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 199697 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.234.239.92, port: 443, type: trojan, password: 50414e45-4c5f-5a45-5553-eb719e39bd09, sni: hqzxcaeyukms.z2zptsequlds.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, udp: true, tfo: false}
+  - {name: 199746 | ⚡️Telegram - t.me/LonUp_M, server: 104.234.239.92, port: 443, type: trojan, password: 50414e45-4c5f-5a45-5553-eb719e39bd09, sni: hqzxcaeyukms.z2zptsequlds.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, udp: true, tfo: false}
+  - {name: 199699 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.234.239.92, port: 80, type: trojan, password: 50414e45-4c5f-5a45-5553-eb719e39bd09, skip-cert-verify: false, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09}, udp: true, tfo: false}
+  - {name: 199748 | ⚡️Telegram - t.me/LonUp_M, server: 104.234.239.92, port: 80, type: trojan, password: 50414e45-4c5f-5a45-5553-eb719e39bd09, skip-cert-verify: false, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09}, udp: true, tfo: false}
   - {name: 104.16.63.239:80, server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: /, headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.12.229:2052, server: 104.18.12.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.13.229:2052, server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.32.47:2052, server: 104.18.32.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.155.209:2052, server: 172.64.155.209, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: /, headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199804 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.19.173.68, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 2500e602-671c-4654-a602-c518b7282167, network: ws, ws-opts: {path: /, headers: {Host: 2639w-throbbing-band-3840.xphnn6jp.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199853 | ⚡️Telegram - t.me/LonUp_M, server: 104.19.173.68, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 2500e602-671c-4654-a602-c518b7282167, network: ws, ws-opts: {path: /, headers: {Host: 2639w-throbbing-band-3840.xphnn6jp.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.9.24:80, server: 104.16.9.24, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2ac6e527-6410-48ce-b9ba-cc8135ee2a3b, network: ws, ws-opts: {path: /, headers: {Host: fragrant-recipe-09f4.wopecuyubak61.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.24.45.247:80, server: 104.24.45.247, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2e71d8fc-d2e8-44fc-89bd-c8a449a193aa, network: ws, ws-opts: {path: /, headers: {Host: odd-bread-435d.ahmadrezasteamacc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.0.128:443, server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: "/?ed", headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197224 | ⚡️Telegram - t.me/SOSkeyNET, server: 154.197.75.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-7f22b1a7976d, servername: 8xz61metu1ws.xfvggjvfff.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/7f22b1a7976d/loc-2, headers: {Host: 8xz61metu1ws.xfvggjvfff.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197273 | ⚡️Telegram - t.me/LonUp_M, server: 154.197.75.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-7f22b1a7976d, servername: 8xz61metu1ws.xfvggjvfff.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/7f22b1a7976d/loc-2, headers: {Host: 8xz61metu1ws.xfvggjvfff.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197225 | ⚡️Telegram - t.me/SOSkeyNET, server: 69.48.218.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-7f22b1a7976d, servername: 8xz61metu1ws.xfvggjvfff.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/7f22b1a7976d/loc-0, headers: {Host: 8xz61metu1ws.xfvggjvfff.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197274 | ⚡️Telegram - t.me/LonUp_M, server: 69.48.218.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-7f22b1a7976d, servername: 8xz61metu1ws.xfvggjvfff.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/7f22b1a7976d/loc-0, headers: {Host: 8xz61metu1ws.xfvggjvfff.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.26.12.31:8080, server: 104.26.12.31, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 3e06b1db-2efb-446e-ba2d-68850dfd2f9d, servername: ip.sb, network: ws, ws-opts: {path: /, headers: {Host: ip.sb}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199696 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.234.239.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-eb719e39bd09, servername: hqzxcaeyukms.z2zptsequlds.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199745 | ⚡️Telegram - t.me/LonUp_M, server: 104.234.239.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-eb719e39bd09, servername: hqzxcaeyukms.z2zptsequlds.workers.dev, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199698 | ⚡️Telegram - t.me/SOSkeyNET, server: 104.234.239.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-eb719e39bd09, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199747 | ⚡️Telegram - t.me/LonUp_M, server: 104.234.239.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 50414e45-4c5f-5a45-5553-eb719e39bd09, network: ws, ws-opts: {path: /stream/PANEL_ZEUS/eb719e39bd09, headers: {Host: hqzxcaeyukms.z2zptsequlds.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:2096, server: 104.17.147.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.4.46:8880, server: 104.18.4.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 5b002005-7fb1-413e-8cbd-08e50c87c2ea, network: ws, ws-opts: {path: /, headers: {Host: wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200242 | ⚡️Telegram - t.me/SOSkeyNET, server: 172.64.144.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200291 | ⚡️Telegram - t.me/LonUp_M, server: 172.64.144.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cf.008500.xyz:443, server: cf.008500.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi6982dd6e0355e.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.configfarsi6982dd6e0355e.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.131.4.192:80, server: 45.131.4.192, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5f4845b4-11dc-41d6-9508-4ff6a02e36c1, network: ws, ws-opts: {path: /, headers: {Host: silent-paper-fa57.fipiyag989.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200135 | ⚡️Telegram - t.me/SOSkeyNET, server: 103.116.7.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200184 | ⚡️Telegram - t.me/LonUp_M, server: 103.116.7.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200221 | ⚡️Telegram - t.me/SOSkeyNET, server: 103.169.142.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime38.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200270 | ⚡️Telegram - t.me/LonUp_M, server: 103.169.142.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime38.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200168 | ⚡️Telegram - t.me/SOSkeyNET, server: 130.250.137.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime05.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200217 | ⚡️Telegram - t.me/LonUp_M, server: 130.250.137.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime05.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200136 | ⚡️Telegram - t.me/SOSkeyNET, server: 135.84.72.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime06.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200185 | ⚡️Telegram - t.me/LonUp_M, server: 135.84.72.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime06.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 135.84.79.30:8880, server: 135.84.79.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200229 | ⚡️Telegram - t.me/SOSkeyNET, server: 135.84.79.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200278 | ⚡️Telegram - t.me/LonUp_M, server: 135.84.79.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200105 | ⚡️Telegram - t.me/SOSkeyNET, server: 154.194.12.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200154 | ⚡️Telegram - t.me/LonUp_M, server: 154.194.12.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200199 | ⚡️Telegram - t.me/SOSkeyNET, server: 154.197.64.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200248 | ⚡️Telegram - t.me/LonUp_M, server: 154.197.64.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 154.197.75.40:8880, server: 154.197.75.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime37.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 154.197.75.40:8880 2, server: 154.197.75.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime37.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200103 | ⚡️Telegram - t.me/SOSkeyNET, server: 155.46.167.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime50.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200152 | ⚡️Telegram - t.me/LonUp_M, server: 155.46.167.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime50.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200204 | ⚡️Telegram - t.me/SOSkeyNET, server: 159.242.242.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200253 | ⚡️Telegram - t.me/LonUp_M, server: 159.242.242.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200162 | ⚡️Telegram - t.me/SOSkeyNET, server: 162.251.82.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200211 | ⚡️Telegram - t.me/LonUp_M, server: 162.251.82.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200219 | ⚡️Telegram - t.me/SOSkeyNET, server: 167.68.11.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200268 | ⚡️Telegram - t.me/LonUp_M, server: 167.68.11.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.150.28:8880, server: 172.64.150.28, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime29.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200167 | ⚡️Telegram - t.me/SOSkeyNET, server: 172.64.150.28, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime29.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200216 | ⚡️Telegram - t.me/LonUp_M, server: 172.64.150.28, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime29.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200201 | ⚡️Telegram - t.me/SOSkeyNET, server: 173.245.49.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200250 | ⚡️Telegram - t.me/LonUp_M, server: 173.245.49.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200200 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.148.106.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime54.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200249 | ⚡️Telegram - t.me/LonUp_M, server: 185.148.106.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime54.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200202 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.148.106.50, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime54.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200251 | ⚡️Telegram - t.me/LonUp_M, server: 185.148.106.50, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime54.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200155 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.158.133.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200204 | ⚡️Telegram - t.me/LonUp_M, server: 185.158.133.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.193.29.30:8880, server: 185.193.29.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200166 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.193.29.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200215 | ⚡️Telegram - t.me/LonUp_M, server: 185.193.29.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.225.195.30:8880, server: 185.225.195.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime18.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199604 | ⚡️Telegram - t.me/SOSkeyNET, server: 185.225.195.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime18.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199653 | ⚡️Telegram - t.me/LonUp_M, server: 185.225.195.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime18.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.0.54.30:8880, server: 192.0.54.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200243 | ⚡️Telegram - t.me/SOSkeyNET, server: 192.0.54.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200292 | ⚡️Telegram - t.me/LonUp_M, server: 192.0.54.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime35.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200197 | ⚡️Telegram - t.me/SOSkeyNET, server: 192.0.63.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200246 | ⚡️Telegram - t.me/LonUp_M, server: 192.0.63.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime36.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200165 | ⚡️Telegram - t.me/SOSkeyNET, server: 192.65.217.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime37.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200214 | ⚡️Telegram - t.me/LonUp_M, server: 192.65.217.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime37.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200218 | ⚡️Telegram - t.me/SOSkeyNET, server: 195.85.59.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200267 | ⚡️Telegram - t.me/LonUp_M, server: 195.85.59.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime58.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 216.24.57.30:8880, server: 216.24.57.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199605 | ⚡️Telegram - t.me/SOSkeyNET, server: 216.24.57.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199654 | ⚡️Telegram - t.me/LonUp_M, server: 216.24.57.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 216.24.57.40:8880, server: 216.24.57.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199607 | ⚡️Telegram - t.me/SOSkeyNET, server: 23.227.60.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime18.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199656 | ⚡️Telegram - t.me/LonUp_M, server: 23.227.60.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime18.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200134 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.12.30.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200183 | ⚡️Telegram - t.me/LonUp_M, server: 45.12.30.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime28.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.131.210.30:8880, server: 45.131.210.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: vms.lifetime05.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime05.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200222 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.131.210.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: vms.lifetime05.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime05.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200271 | ⚡️Telegram - t.me/LonUp_M, server: 45.131.210.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: vms.lifetime05.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime05.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200215 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.131.4.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200264 | ⚡️Telegram - t.me/LonUp_M, server: 45.131.4.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.142.120.30:8880, server: 45.142.120.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200220 | ⚡️Telegram - t.me/SOSkeyNET, server: 45.142.120.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200269 | ⚡️Telegram - t.me/LonUp_M, server: 45.142.120.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 62.72.166.30:8880, server: 62.72.166.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime40.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199606 | ⚡️Telegram - t.me/SOSkeyNET, server: 62.72.166.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime40.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199655 | ⚡️Telegram - t.me/LonUp_M, server: 62.72.166.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime40.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77.75.199.30:8880, server: 77.75.199.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200192 | ⚡️Telegram - t.me/SOSkeyNET, server: 77.75.199.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200241 | ⚡️Telegram - t.me/LonUp_M, server: 77.75.199.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 8.6.112.30:8880, server: 8.6.112.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200164 | ⚡️Telegram - t.me/SOSkeyNET, server: 8.6.112.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200213 | ⚡️Telegram - t.me/LonUp_M, server: 8.6.112.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200213 | ⚡️Telegram - t.me/SOSkeyNET, server: 88.216.69.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime06.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200262 | ⚡️Telegram - t.me/LonUp_M, server: 88.216.69.30, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime06.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.117.112.40:8880, server: 89.117.112.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime11.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200216 | ⚡️Telegram - t.me/SOSkeyNET, server: 92.53.189.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime19.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200265 | ⚡️Telegram - t.me/LonUp_M, server: 92.53.189.40, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime19.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200010 | ⚡️Telegram - t.me/SOSkeyNET, server: chat.openai.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime29.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200059 | ⚡️Telegram - t.me/LonUp_M, server: chat.openai.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime29.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.4.46:8880 2, server: 104.18.4.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.5.46:8880, server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: /, headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.155.209:80, server: 172.64.155.209, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 787b3724-16c8-4e58-a038-2b8013cdc6d9, network: ws, ws-opts: {path: /eyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=, headers: {Host: c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -493,15 +585,20 @@ proxies:
   - {name: 104.18.2.11:2082, server: 104.18.2.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.220.204:443, server: 172.67.220.204, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cbb2d3b3-9164-46cc-84f9-82722fbf1353, servername: 0n0W5JrE3RO-P4VmK-DILF-3HCr9U9fC.taLUmY147.WOrKErS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiVXhYd0VacUYxaUEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==, headers: {Host: 0n0W5JrE3RO-P4VmK-DILF-3HCr9U9fC.taLUmY147.WOrKErS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.12.229:2052 2, server: 104.18.12.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: cdec8542-a21f-4377-9da3-ea60bb6d3a30, network: ws, ws-opts: {path: 🔒, headers: {Host: chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197150 | ⚡️Telegram - t.me/SOSkeyNET, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d224-4463-b982-532309285094, servername: ccc.010304.xyz, network: ws, ws-opts: {path: /, headers: {Host: ccc.010304.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197199 | ⚡️Telegram - t.me/LonUp_M, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d224-4463-b982-532309285094, servername: ccc.010304.xyz, network: ws, ws-opts: {path: /, headers: {Host: ccc.010304.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.20.5.134:2086, server: 104.20.5.134, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, network: ws, ws-opts: {path: /PdgTMW8NBNZYo6L23v, headers: {Host: index.0x15.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.19.173.68:2053, server: 104.19.173.68, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d37a75db-76b6-4db8-b213-0d5b044d138d, servername: hio-awx.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: hio-awx.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.38.129:80, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.38.129:80 2, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.26.3.125:2052, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.24.68.193:443, server: 104.24.68.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ed0e05af-49ab-4ea8-a39c-634855811b03, servername: wild-grass-1917.tmpduardoolfsonerluke15.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: wild-grass-1917.tmpduardoolfsonerluke15.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200011 | ⚡️Telegram - t.me/SOSkeyNET, server: icook.tw, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f8f5d3a5-54bd-4f52-9759-137bdbf950db, network: ws, ws-opts: {path: /, headers: {Host: 23g-lively-resonance-96b9hsf.msc633k2.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200060 | ⚡️Telegram - t.me/LonUp_M, server: icook.tw, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f8f5d3a5-54bd-4f52-9759-137bdbf950db, network: ws, ws-opts: {path: /, headers: {Host: 23g-lively-resonance-96b9hsf.msc633k2.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.15.87:80, server: 104.17.15.87, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f929cc78-e2a1-4ce3-8051-3e9538405144, network: ws, ws-opts: {path: /@WireXnet, headers: {Host: britain.xydcqd.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200141 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, servername: nautica-cff.kloningstrife002.workers.dev, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200190 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, servername: nautica-cff.kloningstrife002.workers.dev, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.6:8080, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199911 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199960 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.97.6, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2, network: ws, ws-opts: {path: /138.2.74.219-28616, headers: {Host: nautica-cff.kloningstrife002.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ffc1bcfa-4846-4bee-be26-5d7464f91e3d, servername: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -519,22 +616,114 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -547,15 +736,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -563,22 +757,114 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -591,15 +877,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -607,22 +898,114 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -635,15 +1018,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: اتصال پایدار 🔗
     type: url-test
@@ -660,22 +1048,114 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -688,15 +1168,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -704,22 +1189,114 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -732,15 +1309,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -748,22 +1330,114 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 199697 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199746 | ⚡️Telegram - t.me/LonUp_M
+      - 199699 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199748 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.63.239:80
       - 104.18.12.229:2052
       - 104.18.13.229:2052
       - 104.18.32.47:2052
       - 172.64.155.209:2052
+      - 199804 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199853 | ⚡️Telegram - t.me/LonUp_M
       - 104.16.9.24:80
       - 104.24.45.247:80
       - 104.21.0.128:443
-      - 197224 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197273 | ⚡️Telegram - t.me/LonUp_M
-      - 197225 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197274 | ⚡️Telegram - t.me/LonUp_M
+      - 104.26.12.31:8080
+      - 199696 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199745 | ⚡️Telegram - t.me/LonUp_M
+      - 199698 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199747 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.147.22:2096
       - 104.18.4.46:8880
+      - 200242 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200291 | ⚡️Telegram - t.me/LonUp_M
       - cf.008500.xyz:443
       - 45.131.4.192:80
+      - 200135 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200184 | ⚡️Telegram - t.me/LonUp_M
+      - 200221 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200270 | ⚡️Telegram - t.me/LonUp_M
+      - 200168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200217 | ⚡️Telegram - t.me/LonUp_M
+      - 200136 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200185 | ⚡️Telegram - t.me/LonUp_M
+      - 135.84.79.30:8880
+      - 200229 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200278 | ⚡️Telegram - t.me/LonUp_M
+      - 200105 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200154 | ⚡️Telegram - t.me/LonUp_M
+      - 200199 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200248 | ⚡️Telegram - t.me/LonUp_M
+      - 154.197.75.40:8880
+      - 154.197.75.40:8880 2
+      - 200103 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200152 | ⚡️Telegram - t.me/LonUp_M
+      - 200204 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200253 | ⚡️Telegram - t.me/LonUp_M
+      - 200162 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200211 | ⚡️Telegram - t.me/LonUp_M
+      - 200219 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200268 | ⚡️Telegram - t.me/LonUp_M
+      - 172.64.150.28:8880
+      - 200167 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200216 | ⚡️Telegram - t.me/LonUp_M
+      - 200201 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200250 | ⚡️Telegram - t.me/LonUp_M
+      - 200200 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200249 | ⚡️Telegram - t.me/LonUp_M
+      - 200202 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200251 | ⚡️Telegram - t.me/LonUp_M
+      - 200155 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200204 | ⚡️Telegram - t.me/LonUp_M
+      - 185.193.29.30:8880
+      - 200166 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200215 | ⚡️Telegram - t.me/LonUp_M
+      - 185.225.195.30:8880
+      - 199604 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199653 | ⚡️Telegram - t.me/LonUp_M
+      - 192.0.54.30:8880
+      - 200243 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200292 | ⚡️Telegram - t.me/LonUp_M
+      - 200197 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200246 | ⚡️Telegram - t.me/LonUp_M
+      - 200165 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200214 | ⚡️Telegram - t.me/LonUp_M
+      - 200218 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200267 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.30:8880
+      - 199605 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199654 | ⚡️Telegram - t.me/LonUp_M
+      - 216.24.57.40:8880
+      - 199607 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199656 | ⚡️Telegram - t.me/LonUp_M
+      - 200134 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200183 | ⚡️Telegram - t.me/LonUp_M
+      - 45.131.210.30:8880
+      - 200222 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200271 | ⚡️Telegram - t.me/LonUp_M
+      - 200215 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200264 | ⚡️Telegram - t.me/LonUp_M
+      - 45.142.120.30:8880
+      - 200220 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200269 | ⚡️Telegram - t.me/LonUp_M
+      - 62.72.166.30:8880
+      - 199606 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199655 | ⚡️Telegram - t.me/LonUp_M
+      - 77.75.199.30:8880
+      - 200192 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200241 | ⚡️Telegram - t.me/LonUp_M
+      - 8.6.112.30:8880
+      - 200164 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200213 | ⚡️Telegram - t.me/LonUp_M
+      - 200213 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200262 | ⚡️Telegram - t.me/LonUp_M
+      - 89.117.112.40:8880
+      - 200216 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200265 | ⚡️Telegram - t.me/LonUp_M
+      - 200010 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200059 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.4.46:8880 2
       - 104.18.5.46:8880
       - 172.64.155.209:80
@@ -776,15 +1450,20 @@ proxy-groups:
       - 104.18.2.11:2082
       - 172.67.220.204:443
       - 104.18.12.229:2052 2
-      - 197150 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197199 | ⚡️Telegram - t.me/LonUp_M
       - 104.20.5.134:2086
       - 104.19.173.68:2053
       - 162.159.38.129:80
       - 162.159.38.129:80 2
       - 104.26.3.125:2052
       - 104.24.68.193:443
+      - 200011 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200060 | ⚡️Telegram - t.me/LonUp_M
       - 104.17.15.87:80
+      - 200141 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200190 | ⚡️Telegram - t.me/LonUp_M
+      - 188.114.97.6:8080
+      - 199911 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199960 | ⚡️Telegram - t.me/LonUp_M
       - 104.18.32.47:443
   - name: دانلود منیجر 📥
     type: select

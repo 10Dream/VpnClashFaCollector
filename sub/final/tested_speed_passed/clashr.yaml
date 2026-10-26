@@ -5,284 +5,270 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M", server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: "/XIXVPN?ed=2560", flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET", server: 169.40.42.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET", server: 169.40.42.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M", server: 169.40.42.202, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET", server: 169.40.42.229, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET", server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET", server: 38.110.1.246, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy", server: 130.49.161.70, port: 443, type: hysteria2, ports: 443, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, sni: hy2.aspidnet.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M", server: hy2.aspidnet.xyz, port: 443, type: hysteria2, ports: 443, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET", server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M", server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB", server: 158.173.20.208, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M", server: 104.18.9.83, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB", server: 51.158.206.26, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB", server: 51.158.206.97, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M", server: 212.183.88.136, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M", server: 104.19.229.21, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET", server: 51.158.206.20, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M", server: 82.38.31.42, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB", server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB", server: 51.158.206.8, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET", server: 193.29.139.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: "🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩", server: 193.29.139.234, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: "🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET", server: 51.83.192.80, port: 8388, type: ss, cipher: aes-256-gcm, password: itzvpn@321, udp: true, tfo: false}
-  - {name: "🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET", server: 193.29.139.132, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB", server: 8.209.74.72, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: PWpjPo3tqhPN4yRZ, udp: true, tfo: false}
-  - {name: "🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET", server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET", server: 138.124.180.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5234b2b7-5e07-422c-8159-d62a676c00c6, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c, short-id: 33acba1b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[38] | 🇿🇦 | ZA | 2371ms | 23KB", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M", server: 15.204.246.132, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: "🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M", server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET", server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy", server: 130.49.161.70, port: 443, type: hysteria2, ports: 443, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, sni: hy2.aspidnet.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET", server: 38.110.1.246, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M", server: hy2.aspidnet.xyz, port: 443, type: hysteria2, ports: 443, password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR, obfs: salamander, obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET", server: 169.40.42.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M", server: 169.40.42.202, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET", server: 169.40.42.229, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET", server: 169.40.42.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M", server: 15.204.246.132, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: "🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18", server: 84.247.155.196, port: 80, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true, tfo: false}
+  - {name: "🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M", server: 104.18.9.83, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M", server: 104.19.229.21, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M", server: 212.183.88.136, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET", server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB", server: 51.158.206.97, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB", server: 51.158.206.26, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET", server: 51.158.206.20, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB", server: 51.158.206.8, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB", server: 158.173.20.208, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET", server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB", server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M", server: 82.38.31.42, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩", server: 193.29.139.234, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: "🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET", server: 138.124.180.137, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5234b2b7-5e07-422c-8159-d62a676c00c6, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c, short-id: 33acba1b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET", server: 193.29.139.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: "[36] | 🇿🇦 | ZA | 3281ms | 14KB", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M", server: 185.147.27.164, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f, servername: user-6a8d949a.noooo.win, host: user-6a8d949a.noooo.win, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -310,41 +296,39 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 [1] | 🇺🇸 | US | 134ms | 438KB | 153239 | @LonUp_M
-      - 🇺🇸 [3] | 🇺🇸 | US | 219ms | 372KB | 153627 | @SOSkeyNET
-      - 🇺🇸 [4] | 🇺🇸 | US | 609ms | 344KB | 153879 | @SOSkeyNET
-      - 🇺🇸 [6] | 🇺🇸 | US | 378ms | 214KB | 153927 | @LonUp_M
-      - 🇺🇸 [7] | 🇺🇸 | US | 166ms | 210KB | 153673 | @SOSkeyNET
-      - 🇺🇸 [8] | 🇺🇸 | US | 294ms | 207KB | 153163 | @SOSkeyNET
-      - 🇺🇸 [9] | 🇺🇸 | US | 351ms | 137KB | 153160 | @SOSkeyNET
-      - 🇳🇱 [12] | 🇳🇱 | NL | 1112ms | 103KB | @meliproxyy
-      - 🇳🇱 [13] | 🇳🇱 | NL | 1122ms | 82KB | 153585 | @LonUp_M
-      - 🇺🇸 [14] | 🇺🇸 | US | 682ms | 79KB | 153877 | @SOSkeyNET
-      - 🇺🇸 [15] | 🇺🇸 | US | 732ms | 78KB | 153923 | @LonUp_M
-      - 🇳🇱 [16] | 🇳🇱 | NL | 897ms | 59KB
-      - 🇫🇷 [17] | 🇫🇷 | FR | 950ms | 58KB | 153915 | @LonUp_M
-      - 🇳🇱 [18] | 🇳🇱 | NL | 920ms | 58KB
-      - 🇳🇱 [19] | 🇳🇱 | NL | 927ms | 58KB
-      - 🇫🇷 [20] | 🇫🇷 | FR | 937ms | 57KB | 153573 | @LonUp_M
-      - 🇫🇷 [21] | 🇫🇷 | FR | 956ms | 57KB | 153916 | @LonUp_M
-      - 🇳🇱 [22] | 🇳🇱 | NL | 911ms | 57KB | 153193 | @SOSkeyNET
-      - 🇫🇷 [23] | 🇫🇷 | FR | 964ms | 57KB | 153336 | @LonUp_M
-      - 🇫🇷 [24] | 🇫🇷 | FR | 951ms | 56KB | 153364 | @SOSkeyNET
-      - 🇳🇱 [25] | 🇳🇱 | NL | 1041ms | 54KB | 153633 | @LonUp_M
-      - 🇳🇱 [26] | 🇳🇱 | NL | 1099ms | 53KB
-      - 🇳🇱 [27] | 🇳🇱 | NL | 1006ms | 53KB
-      - 🇳🇱 [28] | 🇳🇱 | NL | 1065ms | 53KB | 153206 | @SOSkeyNET
-      - 🇳🇱 [29] | 🇳🇱 | NL | 977ms | 52KB
-      - 🇳🇱 [30] | 🇳🇱 | NL | 1042ms | 50KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
-      - 🇳🇱 [31] | 🇳🇱 | NL | 972ms | 50KB
-      - 🇳🇱 [32] | 🇳🇱 | NL | 1030ms | 49KB
-      - 🇵🇱 [33] | 🇵🇱 | PL | 1090ms | 49KB | 153161 | @SOSkeyNET
-      - 🇳🇱 [34] | 🇳🇱 | NL | 1073ms | 49KB | 153312 | @SOSkeyNET
-      - 🇩🇪 [35] | 🇩🇪 | DE | 1070ms | 47KB
-      - 🇫🇷 [36] | 🇫🇷 | FR | 1029ms | 47KB | 153432 | @SOSkeyNET
-      - "[37] | 🇱🇻 | LV | 1248ms | 43KB | 153848 | @SOSkeyNET"
-      - "[38] | 🇿🇦 | ZA | 2371ms | 23KB"
-      - 🇺🇸 [39] | 🇺🇸 | US | 1142ms | 10KB | 153588 | @LonUp_M
+      - 🇺🇸 [4] | 🇺🇸 | US | 633ms | 164KB | 153923 | @LonUp_M
+      - 🇺🇸 [5] | 🇺🇸 | US | 660ms | 87KB | 153877 | @SOSkeyNET
+      - "[6] | 🌐 | Global | 1733ms | 68KB | @meliproxyy"
+      - 🇺🇸 [7] | 🇺🇸 | US | 879ms | 57KB | 153160 | @SOSkeyNET
+      - 🇳🇱 [8] | 🇳🇱 | NL | 1824ms | 55KB | 153585 | @LonUp_M
+      - 🇺🇸 [9] | 🇺🇸 | US | 934ms | 52KB | 153627 | @SOSkeyNET
+      - 🇺🇸 [10] | 🇺🇸 | US | 1272ms | 51KB | 153927 | @LonUp_M
+      - 🇺🇸 [11] | 🇺🇸 | US | 937ms | 49KB | 153673 | @SOSkeyNET
+      - 🇺🇸 [12] | 🇺🇸 | US | 950ms | 47KB | 153879 | @SOSkeyNET
+      - 🇺🇸 [13] | 🇺🇸 | US | 927ms | 38KB | 153588 | @LonUp_M
+      - 🇯🇵 [14] | 🇯🇵 | JP | 1568ms | 34KB | configraygan_18
+      - 🇫🇷 [15] | 🇫🇷 | FR | 1849ms | 34KB | 153336 | @LonUp_M
+      - 🇫🇷 [16] | 🇫🇷 | FR | 1719ms | 33KB | 153915 | @LonUp_M
+      - 🇫🇷 [17] | 🇫🇷 | FR | 1650ms | 32KB | 153364 | @SOSkeyNET
+      - 🇫🇷 [18] | 🇫🇷 | FR | 1709ms | 32KB | 153916 | @LonUp_M
+      - 🇫🇷 [19] | 🇫🇷 | FR | 1643ms | 32KB | 153573 | @LonUp_M
+      - 🇺🇸 [20] | 🇺🇸 | US | 800ms | 30KB | 153163 | @SOSkeyNET
+      - 🇳🇱 [21] | 🇳🇱 | NL | 1921ms | 27KB
+      - 🇳🇱 [22] | 🇳🇱 | NL | 1752ms | 27KB
+      - 🇳🇱 [23] | 🇳🇱 | NL | 1776ms | 27KB
+      - 🇳🇱 [24] | 🇳🇱 | NL | 1770ms | 26KB | 153193 | @SOSkeyNET
+      - 🇳🇱 [25] | 🇳🇱 | NL | 2047ms | 26KB
+      - 🇳🇱 [26] | 🇳🇱 | NL | 3003ms | 25KB
+      - 🇳🇱 [28] | 🇳🇱 | NL | 1983ms | 24KB
+      - 🇫🇷 [29] | 🇫🇷 | FR | 1994ms | 24KB | 153432 | @SOSkeyNET
+      - 🇳🇱 [30] | 🇳🇱 | NL | 1996ms | 24KB
+      - 🇳🇱 [31] | 🇳🇱 | NL | 1954ms | 24KB | 153633 | @LonUp_M
+      - 🇳🇱 [32] | 🇳🇱 | NL | 2040ms | 23KB | 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩 اتصال دائمی جوین شو🕖 🪩
+      - 🇳🇱 [33] | 🇳🇱 | NL | 2344ms | 23KB
+      - "[34] | 🇱🇻 | LV | 2563ms | 19KB | 153848 | @SOSkeyNET"
+      - 🇳🇱 [35] | 🇳🇱 | NL | 2509ms | 19KB | 153206 | @SOSkeyNET
+      - "[36] | 🇿🇦 | ZA | 3281ms | 14KB"
+      - "[37] | 🌐 | Global | 2464ms | 11KB | 153592 | @LonUp_M"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

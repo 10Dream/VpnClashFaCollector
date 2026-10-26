@@ -465,38 +465,40 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 197083 | ⚡️Telegram - t.me/SOSkeyNET, server: 194.55.235.77, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-0029-b520-2acc9a8a6b40, sni: api-l1-2.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197132 | ⚡️Telegram - t.me/LonUp_M, server: 194.55.235.77, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-0029-b520-2acc9a8a6b40, sni: api-l1-2.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 71@oneclickvpnkeys, server: 194.55.235.77, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-0029-b520-2acc9a8a6b40, sni: api-l1-2.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197008 | ⚡️Telegram - t.me/SOSkeyNET, server: de.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: de.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197057 | ⚡️Telegram - t.me/LonUp_M, server: de.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: de.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37@oneclickvpnkeys, server: de.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: de.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197081 | ⚡️Telegram - t.me/SOSkeyNET, server: fi.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: fi.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197130 | ⚡️Telegram - t.me/LonUp_M, server: fi.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: fi.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 68@oneclickvpnkeys, server: fi.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: fi.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197082 | ⚡️Telegram - t.me/SOSkeyNET, server: lv1.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: lv.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197131 | ⚡️Telegram - t.me/LonUp_M, server: lv1.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: lv.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 69@oneclickvpnkeys, server: lv1.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: lv.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197012 | ⚡️Telegram - t.me/SOSkeyNET, server: nl.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: nl.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197061 | ⚡️Telegram - t.me/LonUp_M, server: nl.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: nl.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 42@oneclickvpnkeys, server: nl.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: nl.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197080 | ⚡️Telegram - t.me/SOSkeyNET, server: sw.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: sw.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197129 | ⚡️Telegram - t.me/LonUp_M, server: sw.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: sw.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 66@oneclickvpnkeys, server: sw.northvale.cloud, port: 443, type: hysteria2, ports: 443, password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40, sni: sw.northvale.cloud, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197241 | ⚡️Telegram - t.me/SOSkeyNET, server: 144.31.49.47, port: 443, type: hysteria2, ports: 443, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197290 | ⚡️Telegram - t.me/LonUp_M, server: 144.31.49.47, port: 443, type: hysteria2, ports: 443, password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc, sni: admin.wwwinternetvideo.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196922 | ⚡️Telegram - t.me/SOSkeyNET, server: 189.74.106.166, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196971 | ⚡️Telegram - t.me/LonUp_M, server: 189.74.106.166, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 12@oneclickvpnkeys, server: 189.74.106.166, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196919 | ⚡️Telegram - t.me/SOSkeyNET, server: 189.74.114.41, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196968 | ⚡️Telegram - t.me/LonUp_M, server: 189.74.114.41, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9@oneclickvpnkeys, server: 189.74.114.41, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196917 | ⚡️Telegram - t.me/SOSkeyNET, server: 189.74.114.6, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 196966 | ⚡️Telegram - t.me/LonUp_M, server: 189.74.114.6, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 7@oneclickvpnkeys, server: 189.74.114.6, port: 54183, type: hysteria2, ports: 54183, password: acc89593-8200-4701-817b-c4d9727ea5a7, sni: outh.yandex-cloud.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197204 | ⚡️Telegram - t.me/SOSkeyNET, server: 179.255.104.98, port: 443, type: hysteria2, ports: 443, password: lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y, sni: dl1.yuanshicheng.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 197253 | ⚡️Telegram - t.me/LonUp_M, server: 179.255.104.98, port: 443, type: hysteria2, ports: 443, password: lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y, sni: dl1.yuanshicheng.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 100@oneclickvpnkeys, server: 179.255.104.98, port: 443, type: hysteria2, ports: 443, password: lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y, sni: dl1.yuanshicheng.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199940 | ⚡️Telegram - t.me/SOSkeyNET, server: r5ycmuko.zibayeman.com, port: 54280, type: hysteria2, ports: 54280, password: f04i31zq8sy80v9b, obfs: salamander, obfs-password: hfwq51con9efdxx6, sni: r5ycmuko.zibayeman.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199989 | ⚡️Telegram - t.me/LonUp_M, server: r5ycmuko.zibayeman.com, port: 54280, type: hysteria2, ports: 54280, password: f04i31zq8sy80v9b, obfs: salamander, obfs-password: hfwq51con9efdxx6, sni: r5ycmuko.zibayeman.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 97@oneclickvpnkeys, server: 103.88.243.142, port: 11592, type: hysteria2, ports: 11592, password: 41edb44c8e, sni: srv-17e124.21freedom.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199653 | ⚡️Telegram - t.me/SOSkeyNET, server: 109.235.49.234, port: 443, type: hysteria2, ports: 443, password: 529f1911-04d5-4427-94b9-c851fd459a27, sni: tcp-reset-club.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199702 | ⚡️Telegram - t.me/LonUp_M, server: 109.235.49.234, port: 443, type: hysteria2, ports: 443, password: 529f1911-04d5-4427-94b9-c851fd459a27, sni: tcp-reset-club.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫7@oneclickvpnkeys, server: 109.235.49.234, port: 443, type: hysteria2, ports: 443, password: 529f1911-04d5-4427-94b9-c851fd459a27, sni: tcp-reset-club.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199953 | ⚡️Telegram - t.me/SOSkeyNET, server: 140.238.213.114, port: 50160, type: hysteria2, ports: 50160, password: 84a506ca5aca505696a454d828420b3f, sni: 140.238.213.114, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200002 | ⚡️Telegram - t.me/LonUp_M, server: 140.238.213.114, port: 50160, type: hysteria2, ports: 50160, password: 84a506ca5aca505696a454d828420b3f, sni: 140.238.213.114, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫74@oneclickvpnkeys, server: 140.238.213.114, port: 50160, type: hysteria2, ports: 50160, password: 84a506ca5aca505696a454d828420b3f, sni: 140.238.213.114, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199765 | ⚡️Telegram - t.me/SOSkeyNET, server: 13.36.234.11, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199814 | ⚡️Telegram - t.me/LonUp_M, server: 13.36.234.11, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫44@oneclickvpnkeys, server: 13.36.234.11, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199757 | ⚡️Telegram - t.me/SOSkeyNET, server: 51.44.167.227, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199806 | ⚡️Telegram - t.me/LonUp_M, server: 51.44.167.227, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫35@oneclickvpnkeys, server: 51.44.167.227, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: vpn-fr-001.fastervpn.world, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 32@oneclickvpnkeys, server: 50.7.38.243, port: 443, type: hysteria2, ports: 443, password: d4ca9415f0eac7897472e1e5b86d2e96, sni: promo.betust.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200082 | ⚡️Telegram - t.me/SOSkeyNET, server: nas.aizhzo.com, port: 5010, type: hysteria2, ports: 5010, password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ, obfs: salamander, obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9, sni: nas.aizhzo.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200131 | ⚡️Telegram - t.me/LonUp_M, server: nas.aizhzo.com, port: 5010, type: hysteria2, ports: 5010, password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ, obfs: salamander, obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9, sni: nas.aizhzo.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit", server: r5ycmuko.zibayeman.com, port: 54280, type: hysteria2, ports: 54280, password: f04i31zq8sy80v9b, obfs: salamander, obfs-password: hfwq51con9efdxx6, sni: r5ycmuko.zibayeman.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199948 | ⚡️Telegram - t.me/SOSkeyNET, server: 62.210.7.139, port: 60111, type: hysteria2, ports: 60111, password: github.com%2FAlvin9999-newpac%2Ffanqiang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199997 | ⚡️Telegram - t.me/LonUp_M, server: 62.210.7.139, port: 60111, type: hysteria2, ports: 60111, password: github.com%2FAlvin9999-newpac%2Ffanqiang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫67@oneclickvpnkeys, server: 62.210.7.139, port: 60111, type: hysteria2, ports: 60111, password: github.com%2FAlvin9999-newpac%2Ffanqiang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199941 | ⚡️Telegram - t.me/SOSkeyNET, server: 68.210.96.82, port: 8443, type: hysteria2, ports: 8443, password: krdyzYNnXFQqyPtjiXw9lQ, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199990 | ⚡️Telegram - t.me/LonUp_M, server: 68.210.96.82, port: 8443, type: hysteria2, ports: 8443, password: krdyzYNnXFQqyPtjiXw9lQ, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199747 | ⚡️Telegram - t.me/SOSkeyNET, server: 88.99.213.222, port: 14444, type: hysteria2, ports: 14444, password: mhsl, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199796 | ⚡️Telegram - t.me/LonUp_M, server: 88.99.213.222, port: 14444, type: hysteria2, ports: 14444, password: mhsl, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199763 | ⚡️Telegram - t.me/SOSkeyNET, server: 5.45.100.100, port: 51511, type: hysteria2, ports: 51511, password: miaoge110, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199812 | ⚡️Telegram - t.me/LonUp_M, server: 5.45.100.100, port: 51511, type: hysteria2, ports: 51511, password: miaoge110, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫41@oneclickvpnkeys, server: 5.45.100.100, port: 51511, type: hysteria2, ports: 51511, password: miaoge110, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200039 | ⚡️Telegram - t.me/SOSkeyNET, server: 64.188.98.171, port: 443, type: hysteria2, ports: 443, password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj, sni: germany3.h2corp.local, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200088 | ⚡️Telegram - t.me/LonUp_M, server: 64.188.98.171, port: 443, type: hysteria2, ports: 443, password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj, sni: germany3.h2corp.local, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ‍🟫97@oneclickvpnkeys, server: 64.188.98.171, port: 443, type: hysteria2, ports: 443, password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj, sni: germany3.h2corp.local, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199745 | ⚡️Telegram - t.me/SOSkeyNET, server: 46.225.10.16, port: 443, type: hysteria2, ports: 443, password: wdXYbPlYLa5yLB7LF2Ambo, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 199794 | ⚡️Telegram - t.me/LonUp_M, server: 46.225.10.16, port: 443, type: hysteria2, ports: 443, password: wdXYbPlYLa5yLB7LF2Ambo, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -513,114 +515,120 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -636,114 +644,120 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 197083 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197132 | ⚡️Telegram - t.me/LonUp_M
-      - 71@oneclickvpnkeys
-      - 197008 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197057 | ⚡️Telegram - t.me/LonUp_M
-      - 37@oneclickvpnkeys
-      - 197081 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197130 | ⚡️Telegram - t.me/LonUp_M
-      - 68@oneclickvpnkeys
-      - 197082 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197131 | ⚡️Telegram - t.me/LonUp_M
-      - 69@oneclickvpnkeys
-      - 197012 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197061 | ⚡️Telegram - t.me/LonUp_M
-      - 42@oneclickvpnkeys
-      - 197080 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197129 | ⚡️Telegram - t.me/LonUp_M
-      - 66@oneclickvpnkeys
-      - 197241 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197290 | ⚡️Telegram - t.me/LonUp_M
-      - 196922 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196971 | ⚡️Telegram - t.me/LonUp_M
-      - 12@oneclickvpnkeys
-      - 196919 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196968 | ⚡️Telegram - t.me/LonUp_M
-      - 9@oneclickvpnkeys
-      - 196917 | ⚡️Telegram - t.me/SOSkeyNET
-      - 196966 | ⚡️Telegram - t.me/LonUp_M
-      - 7@oneclickvpnkeys
-      - 197204 | ⚡️Telegram - t.me/SOSkeyNET
-      - 197253 | ⚡️Telegram - t.me/LonUp_M
-      - 100@oneclickvpnkeys
+      - 199940 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199989 | ⚡️Telegram - t.me/LonUp_M
+      - 97@oneclickvpnkeys
+      - 199653 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199702 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫7@oneclickvpnkeys
+      - 199953 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200002 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫74@oneclickvpnkeys
+      - 199765 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199814 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫44@oneclickvpnkeys
+      - 199757 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199806 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫35@oneclickvpnkeys
+      - 32@oneclickvpnkeys
+      - 200082 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200131 | ⚡️Telegram - t.me/LonUp_M
+      - "@Capoit"
+      - 199948 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199997 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫67@oneclickvpnkeys
+      - 199941 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199990 | ⚡️Telegram - t.me/LonUp_M
+      - 199747 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199796 | ⚡️Telegram - t.me/LonUp_M
+      - 199763 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199812 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫41@oneclickvpnkeys
+      - 200039 | ⚡️Telegram - t.me/SOSkeyNET
+      - 200088 | ⚡️Telegram - t.me/LonUp_M
+      - ‍🟫97@oneclickvpnkeys
+      - 199745 | ⚡️Telegram - t.me/SOSkeyNET
+      - 199794 | ⚡️Telegram - t.me/LonUp_M
   - name: دانلود منیجر 📥
     type: select
     proxies:

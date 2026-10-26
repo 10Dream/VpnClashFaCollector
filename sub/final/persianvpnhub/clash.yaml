@@ -465,86 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: t.me/iProxyChannel, server: 129.146.112.34, port: 50356, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: B+J3OwRlIlJqP9SrgA4z53LTW6ln3omf4KzaBk7Wkfw=, udp: true, tfo: false}
-  - {name: "@FarazV2ray", server: 138.124.68.88, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: OTgxZ, udp: true, tfo: false}
-  - {name: "@FarazV2ray 2", server: 193.168.199.192, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: YzYwZ, udp: true, tfo: false}
-  - {name: 0498 | 🇱🇹 NetFreedom0, server: 195.238.126.20, port: 9045, type: ss, cipher: aes-256-cfb, password: Lp27rqyJq72bZsqX, udp: true, tfo: false}
-  - {name: 0123 | 🇮🇪 NetFreedom0, server: 176.34.158.52, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true, tfo: false}
-  - {name: " ", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚", server: 188.114.97.7, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: "  2", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2", server: render.com, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, udp: true, tfo: false}
-  - {name: 0048 | 🇹🇷 NetFreedom0, server: 87.120.106.180, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ed9a248-f693-46c1-ba1b-91d0a6dfa6a5, servername: us.demonware.net, host: us.demonware.net, path: /, reality-opts: {public-key: pfPkmGdr3k9jKAov3mjdc_DXROO9fl4jK1FpBsJqujk, short-id: e9518e9cb0754976}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 2, server: altaria.proxy.rlwy.net, port: 52281, type: vless, tls: true, packet-encoding: xudp, uuid: 109d407a-2058-4fdc-9b5e-f99f02f77fcd, network: ws, ws-opts: {path: /, headers: {Host: altaria.proxy.rlwy.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram, server: 154.92.9.218, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1149be91-5a4f-47de-995f-66f8d7d64498, servername: GeR6.SimAnSaNat.iR., alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: GeR6.SimAnSaNat.iR.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 3", server: 194.110.207.48, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0, servername: kibi-institut.de, host: kibi-institut.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 2, server: 104.21.20.148, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c71bd88-0477-4f4b-a6c0-9dd69e2ab456, servername: Iran.harchi.monster, alpn: [http/1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 3, server: 172.67.193.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c71bd88-0477-4f4b-a6c0-9dd69e2ab456, servername: Iran.harchi.monster, alpn: [http/1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy", server: cctvhikvision.center, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 1f61ccc1-cd38-49cd-97aa-a71771433976, network: ws, ws-opts: {path: api-v1, headers: {Host: uwu.blueknightnet.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 0252 | 🇹🇷 NetFreedom0, server: 144.225.65.111, port: 46142, type: vless, tls: true, packet-encoding: xudp, uuid: 255386a8-aec5-4425-bfe7-ca49b7448deb, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk, short-id: 39feeba3085c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@outline_ir", server: 176.109.88.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2c7f1414-87ae-4a01-9796-a02c067891a6, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk, short-id: a9c4f17e3b62d8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3", server: 89.35.14.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: md2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.SyncService}, reality-opts: {public-key: JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o, short-id: d36a38659ce106cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4", server: bg1.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg1.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v1.StreamService}, reality-opts: {public-key: vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY, short-id: 954891aec4fe0be9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5", server: bg3.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg3.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: home.v1.ApiService}, reality-opts: {public-key: XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk, short-id: 1be1bd931c98c84a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6", server: bg5.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: bg5.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v2.RelayService}, reality-opts: {public-key: RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw, short-id: 1a3102bb8e51399e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 4", server: rs2.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs2.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: media.v1.ObjectService}, reality-opts: {public-key: tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE, short-id: 1469af2040b7c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 4, server: 104.18.231.187, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 3365caca-abaa-47ba-ed1d-7e81c753fabe, servername: iraniancp.autos, network: ws, ws-opts: {path: /, headers: {Host: iraniancp.autos}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net, server: 185.147.27.164, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f, servername: user-6a8d949a.noooo.win, host: user-6a8d949a.noooo.win, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 5, server: 104.21.20.148, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3d74e12e-e81f-4ef6-b123-0233cd751d2a, network: ws, ws-opts: {path: "/Join--HAJIMAMADVPN?ed=2048", headers: {Host: HaJiMaMaDVpN.GoLdEn-PiNg.Ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net 2, server: 69.46.46.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4071c11b-0498-892b-afdf-c0c82bf55c35, servername: misty-grove-a9ed-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/4071c11b-0498-892b-afdf-c0c82bf55c35, headers: {Host: misty-grove-a9ed-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MTproxy22_v2ray", server: 167.104.223.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 419f25c1-bc35-412e-93fb-258efee859b5, servername: 167.104.223.66.sslip.io, host: 167.104.223.66.sslip.io, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8, short-id: 00e32d694f37c137}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 6, server: 104.16.240.48, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 7, server: 104.16.242.220, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 8, server: 104.17.102.140, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 9, server: 104.17.107.7, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 10, server: 104.17.120.9, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 11, server: 104.17.153.220, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 12, server: 104.17.159.89, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 13, server: 104.17.42.113, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 14, server: 104.17.63.105, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 15, server: 104.18.95.54, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 16, server: 141.101.115.3, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 17, server: 198.41.209.22, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net 3, server: 162.159.254.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4, servername: jp3.yohototo.top, network: ws, ws-opts: {path: /tyxyws, headers: {Host: jp3.yohototo.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 2", server: 89.34.90.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54a33907-c356-40fa-b6f3-844b3e6a8b7c, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI, short-id: 2a236a7fcbe0ce61}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 3", server: 91.92.43.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54a33907-c356-40fa-b6f3-844b3e6a8b7c, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI, short-id: 2a236a7fcbe0ce61}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 4", server: 94.26.83.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54a33907-c356-40fa-b6f3-844b3e6a8b7c, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI, short-id: 2a236a7fcbe0ce61}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 5", server: 31.128.37.67, port: 16560, type: vless, tls: true, packet-encoding: xudp, uuid: 6d60c73d-5915-4cf8-b155-e522dfd863bb, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 18, server: 13.77.50.99, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6f995056-7802-4a1d-bff7-61678e626c3f, servername: sdfee4.azurewebsites.net, network: ws, ws-opts: {path: /, headers: {Host: sdfee4.azurewebsites.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 3, server: ger22.orangesms.ir, port: 1824, type: vless, tls: true, packet-encoding: xudp, uuid: 708f0033-c6c0-4359-8bc6-a18bc8300f9c, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo, short-id: 8390ee7a5996648b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7", server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 73bcd72f-9545-4cb8-8daf-7d004501880d, servername: wzknb.pages.dev, network: ws, ws-opts: {path: "/proxyip=179.255.104.87,179.255.116.198,179.255.101.56,142.248.218.6,142.248.218.4,45.76.79.239,179.255.152.163,208.68.180.240", headers: {Host: wzknb.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 19, server: 104.21.17.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 76b3cbba-e6ac-485a-9481-876a0415eab9, servername: LUCKY-dREam-1d82.RePEs67653.WorkerS.dEV, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: LUCKY-dREam-1d82.RePEs67653.WorkerS.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 4, server: 178.72.147.249, port: 4100, type: vless, tls: true, packet-encoding: xudp, uuid: 7ee53e03-96ed-4121-9da2-62f3d3374506, network: ws, ws-opts: {path: /v1}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 6", server: 144.31.40.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 82d145c1-d691-4eef-9de1-9c316db4859a, servername: de3.tsumshop.org, host: de3.tsumshop.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HpzevplMIGzSxJPBn6qQ65PoHzFyo6D5gUwv5D118Dk, short-id: 91bc2d10a37e5368}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 20, server: 104.21.29.75, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 891d999f-7864-45c5-8db9-3c69f35dcb96, servername: uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net 4, server: 69.46.46.106, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9cc29319-4f39-d763-5c1f-1796fff0a03b, servername: quiet-beacon-9ee5-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/9cc29319-4f39-d763-5c1f-1796fff0a03b, headers: {Host: quiet-beacon-9ee5-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 0026 | 🇱🇹 NetFreedom0, server: 144.31.243.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9e1d737e-f3c1-4757-84b2-3dcf66a468ed, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 21, server: 63.141.128.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a13df940-020c-465f-bc89-ee5279b5cd6a, servername: hkh.ylks.link, network: ws, ws-opts: {path: /blue, headers: {Host: hkh.ylks.link}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net 5, server: 83.168.71.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a, servername: ads.x5.ru, alpn: [http%2F1.1], host: ads.x5.ru, path: /, reality-opts: {public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho, short-id: 2f49bccf11150ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 5, server: tg.riotvpn.eu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho, short-id: 2f49bccf11150ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 6, server: 138.16.141.59, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: a289a3d3-5833-4b28-8809-ae72898a98d0, servername: ibm.com, host: ibm.com, path: /, reality-opts: {public-key: RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k, short-id: a09ff9f8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 7", server: pl.alertyagency.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a704443d-655e-4d9f-8ce6-12eeb17a9a08, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY, short-id: 7db44191}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻➠@PlanB_net 6, server: 88.216.220.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a8e3155b-ceb1-4fcb-bc0c-2e77ec005401, servername: api.noneok.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v1.StreamService}, reality-opts: {public-key: S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w, short-id: 1ea59febb8d4fc8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 22, server: 104.19.54.50, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b3f32a41-1071-4fc9-b3fd-c530d776f1d2, network: ws, ws-opts: {path: "/Join--V2RAYFAST7.V2ray.re?ed=8080", headers: {Host: fast.photoggenic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 23, server: 185.146.173.134, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: bd3d7f7c-2b4b-4003-8c7f-a34abd72a82b, network: ws, ws-opts: {path: /Telegram:@UnlimitedDev-Telegram:@UnlimitedDev, headers: {Host: unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 24, server: 151.101.42.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6c2ffe5-f762-4b5d-b637-26e2fe889349, servername: google.com, alpn: [http/1.1], network: ws, ws-opts: {path: /5mDjILdUDmBqo0zg6V4b, headers: {Host: google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 8", server: 144.31.157.104, port: 20017, type: vless, tls: true, packet-encoding: xudp, uuid: d2733ae6-44e7-4b14-8c2d-3f5bef74cdec, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 25, server: 104.18.26.94, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, servername: aryoovpn.commen-esoteric-0q.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: aryoovpn.commen-esoteric-0q.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FarazV2ray 9", server: 194.110.207.48, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2, servername: kibi-institut.de, host: kibi-institut.de, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY, short-id: fd55b698ee8c3629}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@bored_vpn", server: 62.133.62.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d67af820-f54c-48ab-862c-19086357f276, servername: telegraf.lv, host: telegraf.lv, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI, short-id: e5f67890}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 26, server: 104.18.64.230, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /@vlees_v2rayng, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: da6ece67-aff5-4f94-94f3-08e87ca8cd51, servername: ssl.fastly.com, network: ws, ws-opts: {path: "/?TELEGRAM-TOOTFFARANGI?ed=512", headers: {Host: ssl.fastly.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 7, server: 13.134.132.121, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 8, server: 13.134.132.121, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.177.145.91:22222, server: 35.177.145.91, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 27, server: 172.67.144.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1a234f6-c946-4024-ba79-882f58c22727, servername: c2ray-free.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: c2ray-free.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 28, server: 104.16.60.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f1ffb60d-07b6-4381-8ecf-c368f7c2762d, network: ws, ws-opts: {path: /DSDaswd22!11*fdfm55247.COM., headers: {Host: mardi6.scorpion1.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram, server: 104.16.60.8, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f1ffb60d-07b6-4381-8ecf-c368f7c2762d, network: ws, ws-opts: {path: /DSDaswd22!ا*fdfm55247.COM., headers: {Host: mardi6.scorpion1.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: t.me/iProxyChannel 9, server: ru77.overseashost.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f23f641d-b83b-0002-8046-c513696f7fe5, servername: ru39.overseashost.ru, host: ru39.overseashost.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 29, server: 104.20.25.32, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f50e0469-3e74-4583-96bc-b6baa355093d, network: ws, ws-opts: {path: "/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080", headers: {Host: join-to.vmessorg.Community.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 30, server: 104.18.221.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f8d4d855-d620-4ce3-a167-e8937675959c, servername: xn--mgbu4df82a.pinocchio1.ir., alpn: [http/1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @Hope_Net-join-us-on-Telegram 31, server: 104.19.45.98, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: onea.flha.ru}}, udp: true, tfo: false}
+  - {name: "@FarazV2ray", server: 195.133.5.194, port: 18443, type: ss, cipher: aes-256-gcm, password: NTiHBg64fsY8u8DbGrtypD9gPGSL386p, udp: true, tfo: false}
+  - {name: "@mehrosaboran", server: 167.82.64.46, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: "@mehrosaboran 2", server: 199.232.78.160, port: 443, type: trojan, password: m%69tivpn, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: firefox.com}}, udp: true, tfo: false}
+  - {name: "@lion_lion_vpn", server: v.dianawmoon.dpdns.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 26769ac3-b34c-430a-87f8-e1de14619d25, servername: translate.google.com, host: translate.google.com, path: /, reality-opts: {public-key: hVzLxVkm1rEjj2mYfOcHAva8S6MQACbfQKxY9aIJIh0, short-id: 5a78bdc4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S101, server: 16.60.44.179, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S103, server: 35.180.222.143, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -561,258 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -828,258 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - t.me/iProxyChannel
       - "@FarazV2ray"
-      - "@FarazV2ray 2"
-      - 0498 | 🇱🇹 NetFreedom0
-      - 0123 | 🇮🇪 NetFreedom0
-      - " "
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚"
-      - "  2"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 2"
-      - 0048 | 🇹🇷 NetFreedom0
-      - t.me/iProxyChannel 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram
-      - "@FarazV2ray 3"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 2
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
-      - 0252 | 🇹🇷 NetFreedom0
-      - "@outline_ir"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 3"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 4"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 5"
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 6"
-      - "@FarazV2ray 4"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 4
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 5
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 2
-      - "@MTproxy22_v2ray"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 7
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 8
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 10
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 11
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 12
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 13
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 14
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 15
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 16
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 17
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 3
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
-      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
-      - "@FarazV2ray 5"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 18
-      - t.me/iProxyChannel 3
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 7"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 19
-      - t.me/iProxyChannel 4
-      - "@FarazV2ray 6"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 20
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 4
-      - 0026 | 🇱🇹 NetFreedom0
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 21
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 5
-      - t.me/iProxyChannel 5
-      - t.me/iProxyChannel 6
-      - "@FarazV2ray 7"
-      - 𝗝𝗼𝗶𝗻➠@PlanB_net 6
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 22
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 23
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 24
-      - "@FarazV2ray 8"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 25
-      - "@FarazV2ray 9"
-      - "@bored_vpn"
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 26
-      - "@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 8"
-      - t.me/iProxyChannel 7
-      - t.me/iProxyChannel 8
-      - 35.177.145.91:22222
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 27
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 28
-      - 🇺🇸 @v2ray_configs_pools-join-us-on-Telegram
-      - t.me/iProxyChannel 9
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 29
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 30
-      - ""
-      - 🇺🇸 @Hope_Net-join-us-on-Telegram 31
+      - "@mehrosaboran"
+      - "@mehrosaboran 2"
+      - "@lion_lion_vpn"
+      - (S101
+      - (S103
   - name: دانلود منیجر 📥
     type: select
     proxies:

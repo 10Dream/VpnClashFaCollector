@@ -465,23 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 4.210.68.244:443, server: 4.210.68.244, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: UUjphkQAh5BkOdbf, udp: true, tfo: false}
-  - {name: 188.114.97.6:443, server: 188.114.97.6, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: //assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 199.232.78.170:443, server: 199.232.78.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-21", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-22", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.160:443 2, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-24", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.170:443 2, server: 199.232.78.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pnTeam-24", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.59.186:443, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db16cc8-23be-4b09-ade8-38b847a3c9cb, servername: firefox.com, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 2, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4edb87e-8544-4fa4-bd1c-b0cda9a34b46, servername: a.cwvps.eu.org, network: ws, ws-opts: {path: /ws, headers: {Host: a.cwvps.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 69.46.46.71:443, server: 69.46.46.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d4c7937b83242588878da7ab7eb1e9a8, servername: core-166442-d9f37e-production.up.railway.app, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ws/d4c7937b83242588878da7ab7eb1e9a8, headers: {Host: core-166442-d9f37e-production.up.railway.app}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.91.244:443, server: 104.21.91.244, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---mehrosaboran", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.155.65:8443, server: 172.67.155.65, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, network: ws, ws-opts: {path: "/cart/docs/www/proxyip?ed#Telegram---mehrosaboran", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.155.65:8443 2, server: 172.67.155.65, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, network: ws, ws-opts: {path: /cart/docs/www/proxyip, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 3, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---DailyConfigs", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 4, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/cart/docs/www/proxyip=108.160.132.132?ed#Telegram---bored_vpn", headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 5, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: /cart/docs/www/proxyip=108.160.132.132, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.97.6:443 6, server: 188.114.97.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6df2095-a73c-4043-8693-8d5a03686870, servername: lucasjow.us.ci, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: lucasjow.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 202.50.253.18:19999, server: 202.50.253.18, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
+  - {name: 82.202.157.123:5002, server: 82.202.157.123, port: 5002, type: vless, tls: true, packet-encoding: xudp, uuid: 34851fc1-c4bb-4b17-a815-bc17c09e11a0, servername: br1.centermass.net, network: ws, ws-opts: {path: media.playback.v1.SessionGateway, headers: {Host: br1.centermass.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: funagfrdfs.alixxplay.com:35544, server: funagfrdfs.alixxplay.com, port: 35544, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: iosapps.itunes.apple.com, host: iosapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc, short-id: 25c79e5856c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: funagfrdfs.alixxplay.com:46105, server: funagfrdfs.alixxplay.com, port: 46105, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.lamer.com.sg, host: www.lamer.com.sg, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik, short-id: 28f5c1f8f98a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: funagfrdfs.alixxplay.com:54528, server: funagfrdfs.alixxplay.com, port: 54528, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo, short-id: 54cca3c1c1c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: funagfrdfs.alixxplay.com:54528 2, server: funagfrdfs.alixxplay.com, port: 54528, type: vless, tls: true, packet-encoding: xudp, uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo, short-id: 54cca3c1c1c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -498,69 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -576,69 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 4.210.68.244:443
-      - 188.114.97.6:443
-      - 188.114.98.0:443
-      - 199.232.78.170:443
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 199.232.78.170:443 2
-      - 146.75.59.186:443
-      - 188.114.97.6:443 2
-      - 69.46.46.71:443
-      - 104.21.91.244:443
-      - 172.67.155.65:8443
-      - 172.67.155.65:8443 2
-      - 188.114.97.6:443 3
-      - 188.114.97.6:443 4
-      - 188.114.97.6:443 5
-      - 188.114.97.6:443 6
+      - 202.50.253.18:19999
+      - 82.202.157.123:5002
+      - funagfrdfs.alixxplay.com:35544
+      - funagfrdfs.alixxplay.com:46105
+      - funagfrdfs.alixxplay.com:54528
+      - funagfrdfs.alixxplay.com:54528 2
   - name: دانلود منیجر 📥
     type: select
     proxies:
