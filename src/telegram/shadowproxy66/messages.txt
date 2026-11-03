@@ -1,5 +1,75 @@
 # آرشیو کانال: @shadowproxy66
-بروزرسانی: 2026-11-03 07:45:13 UTC
+بروزرسانی: 2026-11-03 16:06:00 UTC
+
+### 🕒 2026-11-03 11:23:41 UTC
+کلاینت کامل برای ایفون و مک CoreForge  پشتیبانی و امکانات VLESS / VMess / Trojan / WebSocket / XHTTP / HTTP Upgrade Subscription DnsForge SOAR OpenVPN SlipNet Slipstream NaiveProxy Juicity Mieru CDN Fronting SSTP IKEv2 Wireguard &.... ‏ ‏لینک‌های نصب — TestFlight…
+
+---
+
+### 🕒 2026-11-03 10:56:01 UTC
+آخرین نسخه WhiteDNS دسکتاپ
+[https://github.com/WhiteDNS/WhiteDNS-Desktop/releases/latest](https://github.com/WhiteDNS/WhiteDNS-Desktop/releases/latest)
+
+---
+
+### 🕒 2026-11-03 10:55:51 UTC
+آخرین نسخه whiteDNS اندروید
+[https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest](https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest)
+
+---
+
+### 🕒 2026-11-03 08:12:20 UTC
+***✏️***
+ 
+**نسخه ۲.۵.۶ اسلیپ‌نت منتشر شد**
+***📚***
+ 
+**قابلیت جدید: تونل Soar**
+• اضافه‌شدن پروفایل‌های Soar و Soar + SSH
+• ارسال هم‌زمان درخواست‌ها از طریق تمام Resolverها با استفاده از UDP، TCP/53 یا هر دو
+• بازیابی سریع‌تر اتصال در صورت از دست رفتن بسته‌ها
+• شناسایی خودکار Resolverهای فعال و قابل‌اعتماد
+• بررسی Resolverها با handshake امضاشدهٔ سرور و حذف موارد مسدود یا دست‌کاری‌شده
+• امکان انتخاب فهرست Resolverها:
+‏• 
+**Built-in:**
+ فهرست داخلی برنامه، با امکان انتخاب کشور شبکه
+‏• 
+**App list:**
+ فهرست Resolver داخلی برنامه
+‏• 
+**Custom:**
+ فهرست اختصاصی شما تا ۵۰۰۰ آدرس IP یا IP:Port
+• پشتیبانی از DNS روی TCP با حالت‌های Auto، On، Only و Off؛ مناسب شبکه‌هایی که UDP/53 در آن‌ها مسدود است
+• امکان استفاده از Soar به‌عنوان لایهٔ بیرونی زنجیره یا اجرای آن پشت SOCKS5
+• قابل استفاده در نسخه‌های کامل و Lite
+برای استفاده، سرور باید 
+**SlipGate نسخه ۱.۶.۸ یا بالاتر**
+ با گزینهٔ 
+`--transport soar`
+ یا یک 
+`soar-server`
+ استاندارد باشد.
+***📚***
+ 
+**به‌روزرسانی‌های نسخهٔ کامل**
+• به‌روزرسانی Tor به نسخهٔ ۰.۴.۹.۱۵
+• استفاده از OpenSSL ۳.۵.۹، libevent ۲.۱.۱۳ و zlib ۱.۳.۲
+• به‌روزرسانی NaiveProxy به نسخهٔ ۱۵۴ و مسدود شدن گواهی‌های میانی آسیب‌دیدهٔ eMudhra
+***📚***
+ 
+**رفع مشکلات**
+• اصلاح اتصال لایه‌های زنجیره به پورت واقعی لایهٔ بعدی
+• اصلاح شمارندهٔ ترافیک:
+• صفر شدن آمار NaiveProxy پس از قطع اتصال
+• محاسبه نشدن ترافیک مستقیم، UDP حذف‌شده و DNSهای پاسخ‌داده‌شده از کش یا به‌صورت محلی
+• محاسبه شدن DNS ارسال‌شده از طریق NaiveProxy
+***🔗***
+ دریافت نسخهٔ جدید:  
+[https://github.com/anonvector/SlipNet/releases/tag/v2.5.6](https://github.com/anonvector/SlipNet/releases/tag/v2.5.6)
+[@SlipNet_app](https://t.me/SlipNet_app)
+
+---
 
 ### 🕒 2026-11-02 20:22:59 UTC
 ***📶***
@@ -10,25 +80,6 @@
 ***🪧***
 (فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
 ***🔅***
-[@ShadowProxy66](https://t.me/ShadowProxy66)
-
----
-
-### 🕒 2026-11-02 10:29:49 UTC
-**Throne for Android**
- 2.0.5
-***🔥***
-آپدیت نسخه اندروید
-بر پایه NekoBox for Android و هسته sing-box
-[https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.5](https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.5)
-***🖥***
-برای دسکتاپ نسخه بتا منتشر شده
-Throne 1.4.0-beta.5
-نسخه جدید فورک بهینه شده کلاینت نکوری برای  ویندوز  مک  لینوکس
-[https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.5](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.5)
-***📍***
-[کانفیگ‌های فعال](https://t.me/ShadowProxy66/17538)
-***🫆***
 [@ShadowProxy66](https://t.me/ShadowProxy66)
 
 ---
