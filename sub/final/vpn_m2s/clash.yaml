@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 172.67.130.159:2096, server: 172.67.130.159, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1d54a125-8f1e-46bb-9a23-0ecf4ac92db8, servername: cdn-ca.skyvora.app, network: ws, ws-opts: {path: /fqg7aacd8s, headers: {Host: cdn-ca.skyvora.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 us.privatevip.ir:454, server: us.privatevip.ir, port: 454, type: vless, tls: true, packet-encoding: xudp, uuid: 7a015962-482c-44ce-abd3-3810e324c64c, servername: c.s-microsoft.com, host: c.s-microsoft.com, path: /, reality-opts: {public-key: Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg, short-id: bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: دانلود منیجر 📥
     type: select
     proxies:

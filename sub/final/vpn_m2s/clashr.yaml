@@ -5,46 +5,46 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 172.67.130.159:2096, server: 172.67.130.159, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 1d54a125-8f1e-46bb-9a23-0ecf4ac92db8, servername: cdn-ca.skyvora.app, network: ws, ws-opts: {path: /fqg7aacd8s, headers: {Host: cdn-ca.skyvora.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 us.privatevip.ir:454, server: us.privatevip.ir, port: 454, type: vless, tls: true, packet-encoding: xudp, uuid: 7a015962-482c-44ce-abd3-3810e324c64c, servername: c.s-microsoft.com, host: c.s-microsoft.com, path: /, reality-opts: {public-key: Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg, short-id: bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +72,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 172.67.130.159:2096
+      - 🇺🇸 us.privatevip.ir:454
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

@@ -465,10 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@ConfigX2ray 2", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:443, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ConfigX2ray 4", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ConfigX2ray 3", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray ***🪐***", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray ******", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray ***💫***", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray ***⚡***", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray ***🫡***", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58d2fb1c-7ae2-42c8-8c0d-a393603ebc9f, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 2", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 5", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 3", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ConfigX2ray 6", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +491,48 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +548,48 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@ConfigX2ray ***🪐***"
+      - "@ConfigX2ray ******"
+      - "@ConfigX2ray ***💫***"
+      - "@ConfigX2ray ***⚡***"
+      - "@ConfigX2ray ***🫡***"
       - "@ConfigX2ray 2"
-      - 199.232.78.159:443
-      - "@ConfigX2ray 4"
+      - "@ConfigX2ray"
+      - "@ConfigX2ray 5"
       - "@ConfigX2ray 3"
+      - "@ConfigX2ray 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:

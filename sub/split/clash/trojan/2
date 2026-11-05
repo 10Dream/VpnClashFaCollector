@@ -465,8 +465,22 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 6295, server: peo2.awexio.ir, port: 2020, type: trojan, password: y9vjyHqRS8OdLamNm7nBI-AmASb2EuEc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 6319, server: peo2.awexio.ir, port: 2020, type: trojan, password: y9vjyHqRS8OdLamNm7nBI-AmASb2EuEc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.130.107:22222, server: 13.37.130.107, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.210.125:22222, server: 13.37.210.125, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.37.25.182:22222, server: 13.37.25.182, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.39.70.196:22222, server: 13.39.70.196, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.132.93:22222, server: 15.188.132.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.184.73:22222, server: 15.236.184.73, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.83.28:22222, server: 15.236.83.28, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.158.157.203:22222, server: 18.158.157.203, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.120.57.119:22222, server: 3.120.57.119, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.122.157.102:22222, server: 3.122.157.102, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.78.2.6:22222, server: 3.78.2.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.121.226:22222, server: 51.44.121.226, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.47.80.167:22222, server: 52.47.80.167, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.183.59.137:22222, server: 63.183.59.137, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 203168 | ⚡️Telegram - t.me/SOSkeyNET, server: 188.114.96.0, port: 2096, type: trojan, password: vP%21XvZBNdw.e*ddSgmH%21, sni: N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/lqCTAonDgcErIZylZuNyy?ed=2560", headers: {Host: N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV}}, udp: true, tfo: false}
+  - {name: 203217 | ⚡️Telegram - t.me/LonUp_M, server: 188.114.96.0, port: 2096, type: trojan, password: vP%21XvZBNdw.e*ddSgmH%21, sni: N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr/lqCTAonDgcErIZylZuNyy?ed=2560", headers: {Host: N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +497,66 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +572,66 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 6295
-      - 6319
+      - 13.37.130.107:22222
+      - 13.37.210.125:22222
+      - 13.37.25.182:22222
+      - 13.39.70.196:22222
+      - 15.188.132.93:22222
+      - 15.236.184.73:22222
+      - 15.236.83.28:22222
+      - 18.158.157.203:22222
+      - 3.120.57.119:22222
+      - 3.122.157.102:22222
+      - 3.78.2.6:22222
+      - 51.44.121.226:22222
+      - 52.47.80.167:22222
+      - 63.183.59.137:22222
+      - 203168 | ⚡️Telegram - t.me/SOSkeyNET
+      - 203217 | ⚡️Telegram - t.me/LonUp_M
   - name: دانلود منیجر 📥
     type: select
     proxies:

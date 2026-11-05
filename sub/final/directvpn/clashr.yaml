@@ -5,15 +5,14 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: Our@DirectVPN, server: 13.135.99.248, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 2, server: 13.36.144.152, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 3, server: 13.36.83.199, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 4, server: 13.41.242.12, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 5, server: 13.42.89.114, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 6, server: 15.224.0.9, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 7, server: 18.171.101.244, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 8, server: 3.10.125.16, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Our@DirectVPN 9, server: 52.47.119.246, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN, server: 13.134.198.233, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 2, server: 13.134.83.203, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 3, server: 13.36.199.77, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 4, server: 13.36.94.5, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 5, server: 13.39.121.231, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 6, server: 13.41.3.108, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 7, server: 16.61.55.176, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Our@DirectVPN 8, server: 51.45.20.240, port: 22223, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -28,7 +27,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -43,7 +41,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -58,7 +55,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: 📲 电报信息
     type: select
     proxies:
@@ -72,7 +68,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -86,7 +81,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -100,7 +94,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -136,7 +129,6 @@ proxy-groups:
       - Our@DirectVPN 6
       - Our@DirectVPN 7
       - Our@DirectVPN 8
-      - Our@DirectVPN 9
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

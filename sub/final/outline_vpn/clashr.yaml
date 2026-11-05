@@ -5,102 +5,95 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: YFZ 175 @Outline_Vpn, server: 20.123.12.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lmG45rfbkt8DAPfP, udp: true, tfo: false}
-  - {name: YFZ 172 @Outline_Vpn, server: 185.176.206.9, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
-  - {name: YFZ 173 @Outline_Vpn, server: 194.238.79.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2d167f8d-529b-00cb-bc0a-a01d402d9fb9, servername: unip.russsport-life.org, host: unip.russsport-life.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: txmBYPHsg2BXg1J9-HokrNNO_sZh_Zl3N_cU46Ck5gs, short-id: 0d44312db16a14db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 174 @Outline_Vpn, server: 196.247.163.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30572b57-f5ab-4eb8-82d4-a24d399b99f6, servername: britainmh.eosvpn.com, host: britainmh.eosvpn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 179 @Outline_Vpn, server: 46.28.71.135, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc, servername: l97bke0sf1.hat.onl, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: v1.segment.UWfv4bkH4bz1Hs3u.ts}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 178 @Outline_Vpn, server: 147.45.47.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b, servername: ozon.ru, host: ozon.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 176 @Outline_Vpn, server: 198.202.146.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbd410e-1663-4f40-9d3b-df5117aa23ca, servername: 198.202.146.51.sslip.io, host: 198.202.146.51.sslip.io, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B5DMtKe8wjH_WeM8M8IEuKwPqJ6-Ku98JH_LifwehEY, short-id: 6fe2994a0e208408}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 170 @Outline_Vpn, server: 147.45.46.169, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87, servername: abuse.ozon.ru, host: abuse.ozon.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: YFZ 171 @Outline_Vpn, server: 193.160.141.27, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87, servername: abuse.ozon.ru, host: abuse.ozon.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 255 @Outline_Vpn, server: 82.38.31.165, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: YFZ 253 @Outline_Vpn, server: 5.75.244.105, port: 443, type: trojan, password: 8deb189a-3aed-4865-843b-b72dae954c46, sni: api.85s.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: api.85s.me}}, udp: true, tfo: false}
+  - {name: YFZ 257 @Outline_Vpn, server: 15.204.97.206, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 258 @Outline_Vpn, server: ww13.levikogjgfdd.ir, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 254 @Outline_Vpn, server: 91.201.67.245, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5c32201a-6c0e-451b-8f0a-24b4bd40df59, servername: files.porsche.com, host: files.porsche.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk, short-id: 1a2b3c4d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 250 @Outline_Vpn, server: 188.137.237.14, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: a8321cfe-39a2-48a0-a918-f01f7d9006ed, servername: nl16.meshbeat.online, network: ws, ws-opts: {path: /api/v1/devices/317eb6a07b/telemetry, headers: {Host: nl16.meshbeat.online}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 251 @Outline_Vpn, server: 153.76.190.31, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: d6eb8a46-e6a4-4891-b22e-dfaa609c6afd, servername: speedtestmark.com, network: ws, ws-opts: {path: /vless-ws, headers: {Host: speedtestmark.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: YFZ 259 @Outline_Vpn, server: 67.220.95.3, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -128,15 +121,14 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - YFZ 175 @Outline_Vpn
-      - YFZ 172 @Outline_Vpn
-      - YFZ 173 @Outline_Vpn
-      - YFZ 174 @Outline_Vpn
-      - YFZ 179 @Outline_Vpn
-      - YFZ 178 @Outline_Vpn
-      - YFZ 176 @Outline_Vpn
-      - YFZ 170 @Outline_Vpn
-      - YFZ 171 @Outline_Vpn
+      - YFZ 255 @Outline_Vpn
+      - YFZ 253 @Outline_Vpn
+      - YFZ 257 @Outline_Vpn
+      - YFZ 258 @Outline_Vpn
+      - YFZ 254 @Outline_Vpn
+      - YFZ 250 @Outline_Vpn
+      - YFZ 251 @Outline_Vpn
+      - YFZ 259 @Outline_Vpn
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
