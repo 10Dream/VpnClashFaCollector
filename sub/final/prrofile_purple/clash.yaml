@@ -465,13 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@prrofile_purple (تلگرام)***🩵***", server: de01.node.qixi.best, port: 443, type: trojan, password: 7e9facb8-b5e1-4a00-8295-2bf6e2e60a70, sni: de01.node.qixi.best, skip-cert-verify: false, network: ws, ws-opts: {path: /download, headers: {Host: de01.node.qixi.best}}, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)***💙***", server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)***🩷***", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)***💛***", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: "/?Telegram---EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN", headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)***❤️***", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)", server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4cae-912d-e95e602a5ca4, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@prrofile_purple (تلگرام)***🩶***", server: tg.riotvpn.eu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho, short-id: 2f49bccf11150ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***👋***", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***☝️***", server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***🫶***", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***👍***", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***🙌***", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***🤲***", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@prrofile_purple (تلگرام)***💪***", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64ce5faf-427b-4dd1-926c-6b7ced6b8c38, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@prrofile_purple (تلگرام)***🩵***"
-      - "@prrofile_purple (تلگرام)***💙***"
-      - "@prrofile_purple (تلگرام)***🩷***"
-      - "@prrofile_purple (تلگرام)***💛***"
-      - "@prrofile_purple (تلگرام)***❤️***"
+      - "@prrofile_purple (تلگرام)***👋***"
       - "@prrofile_purple (تلگرام)"
-      - "@prrofile_purple (تلگرام)***🩶***"
+      - "@prrofile_purple (تلگرام)***☝️***"
+      - "@prrofile_purple (تلگرام)***🫶***"
+      - "@prrofile_purple (تلگرام)***👍***"
+      - "@prrofile_purple (تلگرام)***🙌***"
+      - "@prrofile_purple (تلگرام)***🤲***"
+      - "@prrofile_purple (تلگرام)***💪***"
   - name: دانلود منیجر 📥
     type: select
     proxies:

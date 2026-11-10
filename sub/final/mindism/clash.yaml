@@ -465,11 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Бесплатный VPN tg:VLESSFORU 🇷🇺, server: 45.151.31.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 02d271c4-de21-4077-a048-55457295ed48, servername: cdn.callibri.ru, host: cdn.callibri.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇷🇺 2, server: 45.151.31.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 02d271c4-de21-4077-a048-55457295ed48, servername: cdn.callibri.ru, host: cdn.callibri.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇺🇸, server: 104.143.219.173, port: 3090, type: vless, tls: true, packet-encoding: xudp, uuid: 0d4c981f-687e-4e33-b934-4cbe64e896ed, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇪🇸, server: 213.182.201.133, port: 3090, type: vless, tls: true, packet-encoding: xudp, uuid: 0d4c981f-687e-4e33-b934-4cbe64e896ed, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇪🇸 2, server: 213.182.201.135, port: 3090, type: vless, tls: true, packet-encoding: xudp, uuid: 4c3b551c-017c-468b-aecc-82813033a27c, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇳🇱, server: 89.105.195.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: images.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатн�…, server: 89.105.195.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: images.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇧🇬, server: 93.152.215.254, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6db6b948-655f-4f68-a9e7-865050e05b31, servername: remote.propaint.cl, host: remote.propaint.cl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ, short-id: a2fcac}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,33 +484,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,33 +517,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - Бесплатный VPN tg:VLESSFORU 🇷🇺 2
-      - Бесплатный VPN tg:VLESSFORU 🇺🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸
-      - Бесплатный VPN tg:VLESSFORU 🇪🇸 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱
+      - Бесплатный VPN tg:VLESSFORU 🇧🇬
   - name: دانلود منیجر 📥
     type: select
     proxies:

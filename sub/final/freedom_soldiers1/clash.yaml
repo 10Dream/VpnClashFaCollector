@@ -465,7 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Freedom_Soldiers1", server: 20.123.12.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lmG45rfbkt8DAPfP, udp: true, tfo: false}
+  - {name: "@freedom_soldiers1", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@freedom_soldiers1 2", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Freedom_Soldiers1"
+      - "@freedom_soldiers1"
+      - "@freedom_soldiers1 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

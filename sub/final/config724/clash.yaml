@@ -465,14 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pn%54%65%61m-88", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.160:443 2, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: "%58pn%54%65%61m-89", servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.57.111:443, server: 146.75.57.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4c%61%65-912d-%6595%65602%615c%614, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.57.111:443 2, server: 146.75.57.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4c%61%65-912d-%6595%65602%615c%614, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.59.186:443, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4c%61%65-912d-%6595%65602%615c%614, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:443, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4c%61%65-912d-%6595%65602%615c%614, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.160:443 3, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72881b3f-76f7-4c%61%65-912d-%6595%65602%615c%614, servername: community.fastly.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: community.fastly.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9.247.23.209:443, server: 9.247.23.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9bfa54d-bc44-4592-a6d6-89a9665d286f, servername: mother-earth.fyi, host: mother-earth.fyi, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 20.164.217.73:443, server: 20.164.217.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: EmbMstDjjBNtxFc0, udp: true, tfo: false}
+  - {name: 193.151.160.9:19999, server: 193.151.160.9, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
+  - {name: 216.152.155.54:443, server: 216.152.155.54, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: edge.mediacorphub.org:443, server: edge.mediacorphub.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: edge.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ObjectService}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: skyroom.online.ljude22.mafule.top:443, server: skyroom.online.ljude22.mafule.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79468a8e-5328-43ee-88c8-1fc0508c4932, servername: skyroom.online.ljude22.mafule.top, network: ws, ws-opts: {path: /, headers: {Host: skyroom.online.ljude22.mafule.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 80.47.13.182:443, server: 80.47.13.182, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95f85937-7b95-45c4-8d69-95da6a978569, servername: dl.megadrishto.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tg.riotvpn.eu:443, server: tg.riotvpn.eu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho, short-id: 2f49bccf11150ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 199.232.78.160:443
-      - 199.232.78.160:443 2
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 3
-      - 9.247.23.209:443
+      - 20.164.217.73:443
+      - 193.151.160.9:19999
+      - 216.152.155.54:443
+      - edge.mediacorphub.org:443
+      - skyroom.online.ljude22.mafule.top:443
+      - 80.47.13.182:443
+      - tg.riotvpn.eu:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

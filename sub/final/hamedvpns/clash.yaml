@@ -465,8 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: test-hamedvpns, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
-  - {name: test-hamedvpns 2, server: 104.18.35.86, port: 443, type: trojan, password: humanity, sni: www.volumerOot.coM., skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.volumerOot.coM.}}, udp: true, tfo: false}
+  - {name: Kansas City via Chicago · IPv4, server: 176.126.122.168, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kansas City via Istanbul · IPv4, server: 213.156.152.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kansas City via Istanbul · IPv6, server: "[2a03:90c0:162:1::4ea]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kansas City via Chicago · IPv6, server: "[2a03:90c0:382:1::38f]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kansas City via Istanbul · Domain, server: caudal-reason.freevideochats.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kansas City via Chicago · Domain, server: crewmen-grittier.freevideochats.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - test-hamedvpns
-      - test-hamedvpns 2
+      - Kansas City via Chicago · IPv4
+      - Kansas City via Istanbul · IPv4
+      - Kansas City via Istanbul · IPv6
+      - Kansas City via Chicago · IPv6
+      - Kansas City via Istanbul · Domain
+      - Kansas City via Chicago · Domain
   - name: دانلود منیجر 📥
     type: select
     proxies:

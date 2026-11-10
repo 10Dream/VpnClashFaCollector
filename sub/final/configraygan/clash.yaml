@@ -465,33 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: configraygan-23, server: 82.38.31.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: configraygan-13, server: 208.69.78.29, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.yourultimateprofessionalcareerhub.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-21, server: 216.152.155.158, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: resources.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-28, server: 216.152.155.23, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: courses.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-30, server: 216.152.155.54, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-20, server: 216.152.156.49, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-22, server: 216.152.156.81, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: www.healthcarejobshubenhancemedicalprofessionalskillstoday.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-27, server: 66.163.118.244, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: api.discovergreatjobsandadvanceyourcareer.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-17, server: 66.163.118.62, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: courses.discovergreatjobsandadvanceyourcareer.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-16, server: 146.75.57.120, port: 443, type: trojan, password: MiTiVPN, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-5, server: 146.75.57.120, port: 443, type: trojan, password: MiTiVPN, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-4, server: 151.101.36.120, port: 443, type: trojan, password: MiTiVPN, sni: community.fastly.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: community.fastly.steamstatic.com}}, udp: true, tfo: false}
-  - {name: configraygan-12, server: 167.82.64.120, port: 443, type: trojan, password: MiTiVPN, sni: firefox.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: firefox.com}}, udp: true, tfo: false}
-  - {name: configraygan-6, server: 167.82.64.120, port: 443, type: trojan, password: MiTiVPN, sni: community.fastly.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: community.fastly.steamstatic.com}}, udp: true, tfo: false}
-  - {name: configraygan-3, server: 199.232.78.120, port: 443, type: trojan, password: MiTiVPN, sni: community.fastly.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: community.fastly.steamstatic.com}}, udp: true, tfo: false}
-  - {name: configraygan-26, server: 109.234.211.232, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.pleadcourt.org}}, udp: true, tfo: false}
-  - {name: configraygan-14, server: 88.216.70.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5254c281-3bc1-40ee-ba89-1aaf8c251402, servername: nl-modx-prime.storagedirectguide.com, host: nl-modx-prime.storagedirectguide.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-8, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-9, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-24, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-2, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: firefox.com, network: ws, ws-opts: {path: /, headers: {Host: firefox.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-1, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-7, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-25, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hw3.divarkhaghazi.com:465, server: hw3.divarkhaghazi.com, port: 465, type: vless, tls: true, packet-encoding: xudp, uuid: 924e20da-fcad-4e7e-8113-c62d27a0d01e, servername: hw3.divarkhaghazi.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: hw3.divarkhaghazi.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-10, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: XpnTeam-69, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-11, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: XpnTeam-70, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-27, server: 208.69.78.29, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.yourultimateprofessionalcareerhub.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-23, server: 104.25.95.49, port: 443, type: trojan, password: 883e3cc8-9613-4f2d-8c42-0dd3d429db55, sni: ltf8.jueson.de5.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: ltf8.jueson.de5.net}}, udp: true, tfo: false}
+  - {name: configraygan-25, server: 188.114.98.0, port: 443, type: trojan, password: 883e3cc8-9613-4f2d-8c42-0dd3d429db55, sni: ltf8.jueson.de5.net, skip-cert-verify: false, network: ws, ws-opts: {path: /order/ads/, headers: {Host: ltf8.jueson.de5.net}}, udp: true, tfo: false}
+  - {name: configraygan-19, server: 188.114.98.0, port: 443, type: trojan, password: 883e3cc8-9613-4f2d-8c42-0dd3d429db55, sni: ltf8.jueson.de5.net, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ltf8.jueson.de5.net}}, udp: true, tfo: false}
+  - {name: configraygan-2, server: 146.75.57.160, port: 443, type: trojan, password: MiTiVPN, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-4, server: 151.101.36.7, port: 443, type: trojan, password: MiTiVPN, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-3, server: 167.82.64.160, port: 443, type: trojan, password: MiTiVPN, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-1, server: 199.232.78.254, port: 443, type: trojan, password: MiTiVPN, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-12, server: 93.152.215.254, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6db6b948-655f-4f68-a9e7-865050e05b31, servername: remote.propaint.cl, host: remote.propaint.cl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ, short-id: a2fcac}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-17, server: 146.75.57.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-10, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-11, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-7, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-9, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-15, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-16, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-8, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-21, server: edge.bookmai.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9bfa54d-bc44-4592-a6d6-89a9665d286f, servername: mother-earth.fyi, host: mother-earth.fyi, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -508,99 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -616,99 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-13
-      - configraygan-21
-      - configraygan-28
-      - configraygan-30
-      - configraygan-20
-      - configraygan-22
       - configraygan-27
-      - configraygan-17
-      - configraygan-16
-      - configraygan-5
-      - configraygan-4
-      - configraygan-12
-      - configraygan-6
-      - configraygan-3
-      - configraygan-26
-      - configraygan-14
-      - configraygan-8
-      - configraygan-9
-      - configraygan-24
-      - configraygan-2
-      - configraygan-1
-      - configraygan-7
+      - configraygan-23
       - configraygan-25
-      - hw3.divarkhaghazi.com:465
+      - configraygan-19
+      - configraygan-2
+      - configraygan-4
+      - configraygan-3
+      - configraygan-1
+      - configraygan-12
+      - configraygan-17
       - configraygan-10
       - configraygan-11
+      - configraygan-7
+      - configraygan-9
+      - configraygan-15
+      - configraygan-16
+      - configraygan-8
+      - configraygan-21
   - name: دانلود منیجر 📥
     type: select
     proxies:
