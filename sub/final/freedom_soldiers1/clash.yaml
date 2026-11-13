@@ -465,8 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@freedom_soldiers1", server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@freedom_soldiers1 2", server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1", server: 81.12.35.246, port: 8443, type: ss, cipher: 2022-blake3-aes-128-gcm, password: SOg9NNrasz6s7bbtrDE7Fw==:I79Ue0EiAMrReeJF63SIIQ==, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 2", server: 51.83.61.102, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 29irqk0paakcx19v, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 3", server: 95.85.234.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3659f248-1797-4d6e-9982-a308565fec79, servername: fl-modx.webedg.net, host: fl-modx.webedg.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw, short-id: 00000000}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 4", server: 2.59.21.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3dad6500-9910-4aae-9422-7374a0e422f6, servername: tg-lovers-free.com, host: tg-lovers-free.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I, short-id: f00f58383241c807}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 5", server: 2.59.21.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3dad6500-9910-4aae-9422-7374a0e422f6, servername: tg-lovers-free.com, host: tg-lovers-free.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I, short-id: f00f58383241c807}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 6", server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 7", server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Freedom_Soldiers1 8", server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@freedom_soldiers1"
-      - "@freedom_soldiers1 2"
+      - "@Freedom_Soldiers1"
+      - "@Freedom_Soldiers1 2"
+      - "@Freedom_Soldiers1 3"
+      - "@Freedom_Soldiers1 4"
+      - "@Freedom_Soldiers1 5"
+      - "@Freedom_Soldiers1 6"
+      - "@Freedom_Soldiers1 7"
+      - "@Freedom_Soldiers1 8"
   - name: دانلود منیجر 📥
     type: select
     proxies:

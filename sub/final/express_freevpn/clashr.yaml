@@ -5,123 +5,123 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: برای اتصال دائمی جوین شو🪻, server: 152.53.1.57, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: AdawffFMHymlasRb0VOP3HFf7sTG5sJx, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭, server: 4.168.233.69, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cdrSQWa9CwUAVdt3, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪻 2, server: 158.51.121.221, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪻 3, server: 193.108.119.78, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: www.iloverussia2026.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭 2, server: 216.152.147.152, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.connectingpeoplewithgreatjobs.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪻 4, server: 216.152.155.54, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭 3, server: sclass-c1.catcat321.com, port: 20086, type: trojan, password: d9064589-74af-432a-9390-5d8a9da281bf, sni: hk.catxstar.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭 4, server: 31.76.230.158, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0806e6e2-e01d-482c-b530-be3b57d486d4, servername: mosdownloand.song69.fun, host: mosdownloand.song69.fun, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: yY1fkI_LuyCUjEiJcdltWRSegNPQVEGe8RT_1-e-8kI, short-id: 55f184e2a4067714}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭 5, server: 31.76.91.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7072eeba-94fd-4fb3-92f2-a4506dd84cd8, servername: fuji.etherhub.cc, host: fuji.etherhub.cc, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg, short-id: bd6f67b6b2152b45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪻 5, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fdeb819-df0c-456d-9a1d-e3a9950ece4d, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪭 6, server: 198.100.154.175, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e17150a9-f949-467b-94ea-4d50e4c84186, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo, short-id: 4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪻 6, server: 198.100.154.175, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e17150a9-f949-467b-94ea-4d50e4c84186, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo, short-id: 4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥, server: tuns.rupfem.ir, port: 8080, type: ss, cipher: 2022-blake3-aes-256-gcm, password: YZa1hYrK/xilZEfMJbGFPAdN1Oh/YIVIoDpyDZwHW5E=:zN4Jk+n+Va0MxBrTunjmyb+VZ/GjPs2xB4V0wLVM+xw=, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 2, server: 158.51.121.221, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 3, server: 66.163.112.242, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: resources.unlockyourfuturefindyourperfectcareer.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 4, server: 95.143.196.97, port: 443, type: trojan, password: FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF, sni: connect-se.mimowhat.online, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 5, server: 95.143.196.97, port: 443, type: trojan, password: FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF, sni: connect-se.mimowhat.online, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🥏, server: bg5.univesalsrv.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v2.RelayService}, reality-opts: {public-key: RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw, short-id: 1a3102bb8e51399e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 6, server: 87.248.149.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec, servername: base.hosamobenl.co.uk, host: base.hosamobenl.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍥 7, server: 31.76.32.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 71b566cb-78c4-48e4-af5b-720e4f7884f2, servername: p1.xvanta.online, host: p1.xvanta.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI, short-id: cb33163cf9c03ab1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🥏 2, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🥏 3, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🥏 4, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🥏 5, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -149,18 +149,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - برای اتصال دائمی جوین شو🪻
-      - برای اتصال دائمی جوین شو🪭
-      - برای اتصال دائمی جوین شو🪻 2
-      - برای اتصال دائمی جوین شو🪻 3
-      - برای اتصال دائمی جوین شو🪭 2
-      - برای اتصال دائمی جوین شو🪻 4
-      - برای اتصال دائمی جوین شو🪭 3
-      - برای اتصال دائمی جوین شو🪭 4
-      - برای اتصال دائمی جوین شو🪭 5
-      - برای اتصال دائمی جوین شو🪻 5
-      - برای اتصال دائمی جوین شو🪭 6
-      - برای اتصال دائمی جوین شو🪻 6
+      - برای اتصال دائمی جوین شو🍥
+      - برای اتصال دائمی جوین شو🍥 2
+      - برای اتصال دائمی جوین شو🍥 3
+      - برای اتصال دائمی جوین شو🍥 4
+      - برای اتصال دائمی جوین شو🍥 5
+      - برای اتصال دائمی جوین شو🥏
+      - برای اتصال دائمی جوین شو🍥 6
+      - برای اتصال دائمی جوین شو🍥 7
+      - برای اتصال دائمی جوین شو🥏 2
+      - برای اتصال دائمی جوین شو🥏 3
+      - برای اتصال دائمی جوین شو🥏 4
+      - برای اتصال دائمی جوین شو🥏 5
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

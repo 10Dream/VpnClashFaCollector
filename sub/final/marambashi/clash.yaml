@@ -465,34 +465,32 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Tel@MARAMBASHI 🇩🇪, server: 156.67.120.205, port: 51628, type: ss, cipher: chacha20-ietf-poly1305, password: 29ZZXVa34x7sC48w9FKQ54UKHiJJGTVgKFppBRgviLrVCAYVVyKZdD3obbpjCyk31V5b2G2d7xzqmaPBFdcheCVB9UQ4ZghF, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 2, server: 87.228.61.175, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: tAGGzgRCi6W95UwG0qerf6, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎, server: 4.168.233.69, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cdrSQWa9CwUAVdt3, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 2, server: 66.163.127.154, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: www.indyourperfectremotetechjobfromthecomfortofhome.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 3, server: 94.249.195.239, port: 43000, type: vless, tls: true, packet-encoding: xudp, uuid: 0809eed6-5204-49b8-8312-b82a10024022, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI, short-id: 8cfe1563}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 4, server: 159.89.87.21, port: 28190, type: vless, tls: true, packet-encoding: xudp, uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e, servername: aws.amazon.com, host: aws.amazon.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪, server: 89.105.195.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: images.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 3, server: 150.241.79.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1fe01c8a-ab37-4e95-bbfc-95d4a608931e, servername: de1.waspnest.space, host: de1.waspnest.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM, short-id: 5212dad2aa9723d7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 2, server: 150.40.126.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f35965a-9a9b-45fd-ba32-987296dfb6be, servername: rs4.univesalsrv.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: media.v1.StreamService}, reality-opts: {public-key: sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs, short-id: 861ac7d66953e55f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 3, server: 185.231.204.244, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a64b9a-ab79-4094-8656-30366a7c2ea3, servername: nl-balancer.peregrine-sub.net, host: nl-balancer.peregrine-sub.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 4, server: 87.248.149.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec, servername: base.hosamobenl.co.uk, host: base.hosamobenl.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 5, server: 185.147.27.23, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7592ca5c-b352-4562-8856-a9c936a3331b, servername: frb1.hat.onl, host: frb1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8, short-id: 1cfdb63f3b860379}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 5, server: 185.147.27.23, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 7592ca5c-b352-4562-8856-a9c936a3331b, servername: frb1.hat.onl, host: frb1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8, short-id: 1cfdb63f3b860379}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 6, server: 84.32.96.251, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95d0e214-eab0-4701-93ed-fea4f1b56062, servername: reg.jarbook.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: BookCatalog}, reality-opts: {public-key: nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo, short-id: dceb4214}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 4, server: 179.253.248.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3940ddb-ba50-5109-a0fd-4a06990f1ded, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ABZFDD3Ne57Q0i7skCnEpyUVTKTdMhm3aqJ9mwLZ7lw, short-id: 62169cb853fb7503}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 7, server: 95.182.93.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b2a6fb02-d9fa-43d6-b220-10dcacc36512, servername: docs.google.com, host: docs.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4, short-id: 1901f7857cb99487}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 6, server: 95.182.93.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b2a6fb02-d9fa-43d6-b220-10dcacc36512, servername: docs.google.com, host: docs.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4, short-id: 1901f7857cb99487}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 5, server: 104.16.4.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6683832-d6e2-4814-ab10-77cf4ab27368, servername: kvprotocol.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kvprotocol.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 6, server: 162.159.138.85, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6683832-d6e2-4814-ab10-77cf4ab27368, servername: kvprotocol.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kvprotocol.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 7, server: 179.61.145.164, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6683832-d6e2-4814-ab10-77cf4ab27368, servername: speedtest.net, host: speedtest.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 72QcQtX7aWGEcUQock3IzNypWaIH118df2kui1gDdiA, short-id: 71d0188b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 8, server: 198.41.214.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6683832-d6e2-4814-ab10-77cf4ab27368, servername: kvprotocol.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: kvprotocol.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 9, server: 188.130.209.212, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c8c2ddff-825a-46c3-bbdd-4a101de468a7, servername: thumbs.mycdn-io.ru, host: thumbs.mycdn-io.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc, short-id: 11979c0c9b2da371}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 7, server: 89.110.122.91, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: d553fa01-7a5f-4261-b82a-1191611fd1b4, servername: graphs.4cdn.de, host: graphs.4cdn.de, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 8, server: 89.110.72.202, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: d553fa01-7a5f-4261-b82a-1191611fd1b4, servername: graphs.4cdn.de, host: graphs.4cdn.de, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇩🇪 10, server: 103.172.116.191, port: 10203, type: vless, tls: true, packet-encoding: xudp, uuid: dbf3f074-3b18-43f3-b82a-debd8c879c69, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU, short-id: f96b3b17a0f5b1fe}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 🇸🇪 8, server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 9, server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel@MARAMBASHI 💎 10, server: 150.251.112.45, port: 2066, type: vless, tls: true, packet-encoding: xudp, uuid: f333ac5d-1e0b-4947-a123-7bb605803ad8, servername: tiktok.com, host: tiktok.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg, short-id: d18f4e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮, server: 185.176.204.18, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹, server: 193.151.160.9, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪, server: 195.211.98.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b4b11d5-4c2d-4533-9a55-636757cdee94, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA, short-id: 9c56fddf237e8eaf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 2, server: 195.211.98.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b4b11d5-4c2d-4533-9a55-636757cdee94, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA, short-id: 9c56fddf237e8eaf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 2, server: 196.199.122.2, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4201786b-d99b-4147-a5f0-20d47acddb81, servername: 7aa271t.es1.h1clayd.click, host: 7aa271t.es1.h1clayd.click, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE, short-id: 42426c882c5fcd41}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 3, server: 15.204.97.198, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 3, server: 15.204.97.206, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 4, server: 51.158.206.20, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 4, server: 51.158.206.86, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 5, server: 62.210.91.2, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 5, server: 62.210.91.2, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 6, server: 87.199.205.28, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 501a2da5-cb22-4a3f-915e-e3b821d1d62d, servername: vkvd754.okcdn.ru, host: vkvd754.okcdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw, short-id: ef1d3554c652a436}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹 2, server: 65.109.208.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f07a2a1-82a5-494d-847b-b882e6903192, servername: free.for.member.iiproxy.com, host: free.for.member.iiproxy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹 3, server: 200.102.183.5, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 664f65f4-33b3-43a3-b9e5-68192d1d428e, servername: 68r2nrw6avta71yq.cdn.cachefleet.com, host: 68r2nrw6avta71yq.cdn.cachefleet.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹 4, server: 87.248.149.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec, servername: base.hosamobenl.co.uk, host: base.hosamobenl.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 6, server: 194.150.220.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d9b168e-b952-452f-9307-53d2fdb926ef, servername: cdn.jsdelivr.net, host: cdn.jsdelivr.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 7, server: 185.215.184.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90157e25-cee1-4217-921e-91f300bc1a24, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs, short-id: 428ef87fd47a3a32}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹 5, server: 89.105.218.132, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90157e25-cee1-4217-921e-91f300bc1a24, servername: golos.mail.ru, host: golos.mail.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs, short-id: 428ef87fd47a3a32}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 8, server: 104.21.41.243, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 9, server: 162.159.198.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 7, server: 162.159.198.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇮🇹 6, server: 162.159.198.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 8, server: 23.95.72.244, port: 60776, type: vless, tls: true, packet-encoding: xudp, uuid: 9a5e7b1c-bf39-4b1f-891f-ac87824ee38f, servername: api.adidas.com, host: api.adidas.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: rPR7TUpmOpwShZeyLs2QFa46zzCBNkNdYkxe7-trUUc, short-id: 63290ae7179078}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 10, server: 188.130.209.212, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c8c2ddff-825a-46c3-bbdd-4a101de468a7, servername: thumbs.mycdn-io.ru, host: thumbs.mycdn-io.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc, short-id: 11979c0c9b2da371}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇫🇮 9, server: 45.88.12.180, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccf353ca-fa34-43fc-8ed9-520fb9d74bf6, servername: va.stream-room.com, network: ws, ws-opts: {path: /vless-ws, headers: {Host: va.stream-room.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Tel@MARAMBASHI 🇩🇪 11, server: 185.189.45.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd5bed0b-ee77-481b-9f2c-250a632ddd9f, servername: get.jarbook.net, host: get.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs, short-id: c6f97313}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -509,102 +507,96 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -620,102 +612,96 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Tel@MARAMBASHI 🇫🇮
+      - Tel@MARAMBASHI 🇮🇹
       - Tel@MARAMBASHI 🇩🇪
+      - Tel@MARAMBASHI 🇫🇮 2
       - Tel@MARAMBASHI 🇩🇪 2
-      - Tel@MARAMBASHI 💎
-      - Tel@MARAMBASHI 💎 2
-      - Tel@MARAMBASHI 💎 3
-      - Tel@MARAMBASHI 💎 4
-      - Tel@MARAMBASHI 🇸🇪
+      - Tel@MARAMBASHI 🇫🇮 3
       - Tel@MARAMBASHI 🇩🇪 3
-      - Tel@MARAMBASHI 🇸🇪 2
-      - Tel@MARAMBASHI 🇸🇪 3
-      - Tel@MARAMBASHI 🇸🇪 4
-      - Tel@MARAMBASHI 🇸🇪 5
-      - Tel@MARAMBASHI 💎 5
-      - Tel@MARAMBASHI 🇸🇪 6
+      - Tel@MARAMBASHI 🇫🇮 4
       - Tel@MARAMBASHI 🇩🇪 4
-      - Tel@MARAMBASHI 🇸🇪 7
-      - Tel@MARAMBASHI 💎 6
+      - Tel@MARAMBASHI 🇫🇮 5
       - Tel@MARAMBASHI 🇩🇪 5
+      - Tel@MARAMBASHI 🇫🇮 6
+      - Tel@MARAMBASHI 🇮🇹 2
+      - Tel@MARAMBASHI 🇮🇹 3
+      - Tel@MARAMBASHI 🇮🇹 4
       - Tel@MARAMBASHI 🇩🇪 6
       - Tel@MARAMBASHI 🇩🇪 7
+      - Tel@MARAMBASHI 🇮🇹 5
       - Tel@MARAMBASHI 🇩🇪 8
       - Tel@MARAMBASHI 🇩🇪 9
-      - Tel@MARAMBASHI 💎 7
-      - Tel@MARAMBASHI 💎 8
+      - Tel@MARAMBASHI 🇫🇮 7
+      - Tel@MARAMBASHI 🇮🇹 6
+      - Tel@MARAMBASHI 🇫🇮 8
       - Tel@MARAMBASHI 🇩🇪 10
-      - Tel@MARAMBASHI 🇸🇪 8
-      - Tel@MARAMBASHI 💎 9
-      - Tel@MARAMBASHI 💎 10
+      - Tel@MARAMBASHI 🇫🇮 9
+      - Tel@MARAMBASHI 🇩🇪 11
   - name: دانلود منیجر 📥
     type: select
     proxies:

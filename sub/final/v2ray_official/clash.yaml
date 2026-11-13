@@ -465,24 +465,31 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 20.166.20.135:443, server: 20.166.20.135, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: G2shlbeRXdE45aVA, udp: true, tfo: false}
-  - {name: "[2607:5300:205:200::8aeb]:8080", server: "[2607:5300:205:200::8aeb]", port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 20b98028-53c9-4f76-9bc9-b6b16b8a9152, host: "[2607:5300:205:200::8aeb]", path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.215.114:443, server: 144.31.215.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 558b26f6-061b-4079-9b84-ca13b3e90ae3, servername: c12.qwyak.ru, host: c12.qwyak.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _KW3heutvbzbrT2m8YUKoyjj0LzRuZZRYRJ1eS3U2Tw, short-id: 1390632cb141834f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.26.125.69:443, server: 2.26.125.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 558b26f6-061b-4079-9b84-ca13b3e90ae3, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: d7t1rPYp8ZhVKOx8ibPHNCfadb7uenjCEVNeOlx6jTI, short-id: 45ff4e6aa34a3182}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.26.125.69:443 2, server: 2.26.125.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 558b26f6-061b-4079-9b84-ca13b3e90ae3, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: d7t1rPYp8ZhVKOx8ibPHNCfadb7uenjCEVNeOlx6jTI, short-id: 45ff4e6aa34a3182}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 159.195.207.238:49313, server: 159.195.207.238, port: 49313, type: vless, tls: true, packet-encoding: xudp, uuid: 855c7aaa-e7d6-463e-971e-d36032744428, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 159.195.207.238:49313 2, server: 159.195.207.238, port: 49313, type: vless, tls: true, packet-encoding: xudp, uuid: 855c7aaa-e7d6-463e-971e-d36032744428, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.215.184.49:443, server: 185.215.184.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90157e25-cee1-4217-921e-91f300bc1a24, servername: dvizhok.su, host: dvizhok.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs, short-id: 428ef87fd47a3a32}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 mw-ru3.star1905.org:443, server: mw-ru3.star1905.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90559189-7899-4f25-a6ba-1f9057f9e901, servername: mw-nl4.star1905.org, host: mw-nl4.star1905.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Gv-aCaMZXqSEXem-G1IW9PICBw9rNcqqwydTSkDJzxE, short-id: 1720aadae757548b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 mw-ru3.star1905.org:443 2, server: mw-ru3.star1905.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90559189-7899-4f25-a6ba-1f9057f9e901, servername: mw-ru3.star1905.org, host: mw-ru3.star1905.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: IEldBmyWyqLROTIsxi8SDphC6cMxp1Pah2sx-5-Wyic, short-id: 0dd58a731e35d0c8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 mw-ru3.star1905.org:443 3, server: mw-ru3.star1905.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90559189-7899-4f25-a6ba-1f9057f9e901, servername: mw-nl3.star1905.org, host: mw-nl3.star1905.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: d4uh76IxM9qzEsIfyJnE_s7gGru2dUpUc4HEj48Jmgo, short-id: 927b8f49a5cd735f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: play.pishroo-rayaneh.ir:9463, server: play.pishroo-rayaneh.ir, port: 9463, type: vless, tls: true, packet-encoding: xudp, uuid: a8921b02-9ef1-4002-81cf-e1f0d53e056d, host: play.pishroo-rayaneh.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 66.bmi.ir.asopardaz.ir:8443, server: 66.bmi.ir.asopardaz.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aabfa4e8-c32b-4f41-b980-36819d9d8ed5, servername: hostgator.com, host: hostgator.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs, short-id: e915}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 66.bmi.ir.asopardaz.ir:8443 2, server: 66.bmi.ir.asopardaz.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aabfa4e8-c32b-4f41-b980-36819d9d8ed5, servername: timeline.www.cloudflare.com, host: timeline.www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs, short-id: e915}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 95.182.93.43:443, server: 95.182.93.43, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b2a6fb02-d9fa-43d6-b220-10dcacc36512, servername: docs.google.com, host: docs.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4, short-id: 1901f7857cb99487}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 179.61.145.164:443, server: 179.61.145.164, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6683832-d6e2-4814-ab10-77cf4ab27368, servername: speedtest.net, host: speedtest.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 72QcQtX7aWGEcUQock3IzNypWaIH118df2kui1gDdiA, short-id: 71d0188b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 de.trackless.sbs:19444, server: de.trackless.sbs, port: 19444, type: vless, tls: true, packet-encoding: xudp, uuid: d645a01f-adf4-4755-a13f-4f3c7aad3ab5, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gU7zZLaPvCNsgvu4DFSo7K6wD47Al2IWDqtHCjkKyXs, short-id: 44ae4d30a085848f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[2607:5300:229:bd1::1]:8080", server: "[2607:5300:229:bd1::1]", port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e17150a9-f949-467b-94ea-4d50e4c84186, host: "[2607:5300:229:bd1::1]", path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official", server: dns22.m3hrzd.ir, port: 1348, type: ss, cipher: chacha20-ietf-poly1305, password: byX4-DV0C42PLFTWQhMTAQ63mZ8qrDRB, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 2", server: 15.204.97.197, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 3", server: 15.204.97.206, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 4", server: 51.158.206.103, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 5", server: 51.158.206.103, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 6", server: 51.158.206.26, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 7", server: 51.158.206.86, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 8", server: 51.158.206.86, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 9", server: 51.158.206.86, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 10", server: 51.158.206.96, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 11", server: 51.158.206.97, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 12", server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 13", server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 14", server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 15", server: 62.210.91.2, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 16", server: 31.7.60.250, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90157e25-cee1-4217-921e-91f300bc1a24, servername: perevodchiki.su, host: perevodchiki.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs, short-id: 428ef87fd47a3a32}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 17", server: ee.subv.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90157e25-cee1-4217-921e-91f300bc1a24, servername: dvizhok.su, host: dvizhok.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs, short-id: 428ef87fd47a3a32}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 18", server: 162.159.198.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 19", server: duke.abrdns.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b11716c2-6d11-4752-b2bf-ac240b0136e4, servername: snapp.ir, host: snapp.ir, path: /, reality-opts: {public-key: 5wTeknadiZ3XFJA2bAe1ee5pkx-KL_3Wh8dZRzkonUQ, short-id: 278eba2e20817876}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***⚡***@V2ray_official 20", server: 169.40.42.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡@V2ray_official, server: 134.195.196.211, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡@V2ray_official 2, server: 169.197.142.22, port: 18000, type: vmess, uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡@V2ray_official 3, server: 2001:bc8:32d7:1a9::2, port: 18901, type: vmess, uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /github.com/Alvin9999-newpac/fanqiang}, udp: true, tfo: false}
+  - {name: ⚡@V2ray_official 4, server: 2001:bc8:32d7:1a9::2, port: 18901, type: vmess, uuid: 3a966d20-7b9d-48cc-ba2c-8d38161b6d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/github.com/Alvin9999-newpac/fanqiang?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET"}, udp: true, tfo: false}
+  - {name: ⚡@V2ray_official 5, server: 57.129.132.223, port: 80, type: vmess, uuid: a25cbf11-2908-4a1b-a3a8-9a571777dca3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/vmess/?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: google.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,72 +506,93 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -580,72 +608,93 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 20.166.20.135:443
-      - "[2607:5300:205:200::8aeb]:8080"
-      - 144.31.215.114:443
-      - 2.26.125.69:443
-      - 2.26.125.69:443 2
-      - 159.195.207.238:49313
-      - 159.195.207.238:49313 2
-      - 185.215.184.49:443
-      - 🇷🇺 mw-ru3.star1905.org:443
-      - 🇷🇺 mw-ru3.star1905.org:443 2
-      - 🇷🇺 mw-ru3.star1905.org:443 3
-      - play.pishroo-rayaneh.ir:9463
-      - 66.bmi.ir.asopardaz.ir:8443
-      - 66.bmi.ir.asopardaz.ir:8443 2
-      - 95.182.93.43:443
-      - 179.61.145.164:443
-      - 🇩🇪 de.trackless.sbs:19444
-      - "[2607:5300:229:bd1::1]:8080"
+      - "***⚡***@V2ray_official"
+      - "***⚡***@V2ray_official 2"
+      - "***⚡***@V2ray_official 3"
+      - "***⚡***@V2ray_official 4"
+      - "***⚡***@V2ray_official 5"
+      - "***⚡***@V2ray_official 6"
+      - "***⚡***@V2ray_official 7"
+      - "***⚡***@V2ray_official 8"
+      - "***⚡***@V2ray_official 9"
+      - "***⚡***@V2ray_official 10"
+      - "***⚡***@V2ray_official 11"
+      - "***⚡***@V2ray_official 12"
+      - "***⚡***@V2ray_official 13"
+      - "***⚡***@V2ray_official 14"
+      - "***⚡***@V2ray_official 15"
+      - "***⚡***@V2ray_official 16"
+      - "***⚡***@V2ray_official 17"
+      - "***⚡***@V2ray_official 18"
+      - "***⚡***@V2ray_official 19"
+      - "***⚡***@V2ray_official 20"
+      - ⚡@V2ray_official
+      - ⚡@V2ray_official 2
+      - ⚡@V2ray_official 3
+      - ⚡@V2ray_official 4
+      - ⚡@V2ray_official 5
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,14 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: (S103)******t.me/PrivateVPNs, server: 13.36.189.186, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S101)******t.me/PrivateVPNs, server: 13.43.176.3, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S104)******t.me/PrivateVPNs, server: 15.188.106.143, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S104)******t.me/PrivateVPNs 2, server: 15.237.5.255, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S102)******t.me/PrivateVPNs, server: 18.132.237.193, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S102)******t.me/PrivateVPNs 2, server: 35.177.73.134, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S103)******t.me/PrivateVPNs 2, server: 35.181.210.196, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (S101)******t.me/PrivateVPNs 2, server: 51.200.71.115, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S101)******t.me/PrivateVPNs, server: 13.134.244.172, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S103)******t.me/PrivateVPNs, server: 13.39.199.61, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S101)******t.me/PrivateVPNs 2, server: 18.130.123.114, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S104)******t.me/PrivateVPNs, server: 35.181.233.250, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S102)******t.me/PrivateVPNs, server: 51.24.104.155, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S102)******t.me/PrivateVPNs 2, server: 51.24.99.202, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S104)******t.me/PrivateVPNs 2, server: 51.44.228.113, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: (S103)******t.me/PrivateVPNs 2, server: 52.47.155.185, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - (S103)******t.me/PrivateVPNs
       - (S101)******t.me/PrivateVPNs
+      - (S103)******t.me/PrivateVPNs
+      - (S101)******t.me/PrivateVPNs 2
       - (S104)******t.me/PrivateVPNs
-      - (S104)******t.me/PrivateVPNs 2
       - (S102)******t.me/PrivateVPNs
       - (S102)******t.me/PrivateVPNs 2
+      - (S104)******t.me/PrivateVPNs 2
       - (S103)******t.me/PrivateVPNs 2
-      - (S101)******t.me/PrivateVPNs 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

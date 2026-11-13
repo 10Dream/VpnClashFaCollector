@@ -5,46 +5,46 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "@Begoo_VPN ²⁹⁷", server: 45.164.20.114, port: 10226, type: vless, tls: true, packet-encoding: xudp, uuid: 9aab8f39-ccb3-44ea-acdc-a8aefe211287, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ²⁹⁸", server: 192.3.153.192, port: 8855, type: vless, tls: true, packet-encoding: xudp, uuid: 2b043155-1d88-44fc-b612-abb7d9fa675e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -72,7 +72,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "@Begoo_VPN ²⁹⁷"
+      - "@Begoo_VPN ²⁹⁸"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

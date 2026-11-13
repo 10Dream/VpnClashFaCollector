@@ -5,88 +5,74 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 89.105.195.148:443, server: 89.105.195.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: api.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gw.v2.PushService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: edge.mediacorphub.org:443, server: edge.mediacorphub.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: edge.mediacorphub.org, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: hub.v1.ObjectService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: fetch.mediacorphub.org:443, server: fetch.mediacorphub.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: fetch.mediacorphub.org, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: api.v1.FeedService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: images.mediacorphub.org:443, server: images.mediacorphub.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: images.mediacorphub.org, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: img.mediacorphub.org:443, server: img.mediacorphub.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1653818d-532e-46be-b825-384107fb7c3a, servername: img.mediacorphub.org, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: home.v2.MetricsService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.47.13.182:443, server: 80.47.13.182, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95f85937-7b95-45c4-8d69-95da6a978569, servername: dl.megadrishto.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: stats.v2.StreamService}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.250.254.187:443, server: 46.250.254.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dns24.m3hrzd.ir:1349, server: dns24.m3hrzd.ir, port: 1349, type: ss, cipher: chacha20-ietf-poly1305, password: byX4-DV0C42PLFTWQhMTAQ63mZ8qrDRB, udp: true, tfo: false}
+  - {name: 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011, server: c17b957c5a76ec76.lebufflonfermegroup.us, port: 40011, type: ss, cipher: aes-128-gcm, password: 3411b0af-589e-40f3-b8d5-d2e04ce19fa9, udp: true, tfo: false}
+  - {name: 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191, server: c17b957c5a76ec76.lebufflonfermegroup.us, port: 21191, type: ss, cipher: aes-256-gcm, password: 3411b0af-589e-40f3-b8d5-d2e04ce19fa9, udp: true, tfo: false}
+  - {name: sclass-01.catcat321.com:20103, server: sclass-01.catcat321.com, port: 20103, type: trojan, password: d7563108-615c-4338-a7bd-77f359869a4a, sni: hk.catxstar.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 200.102.183.50:443, server: 200.102.183.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 664f65f4-33b3-43a3-b9e5-68192d1d428e, servername: f2hbck5x3c0g8pl7.cdn.cachefleet.com, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qi8ws15c7jv5q2fa}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -114,13 +100,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 89.105.195.148:443
-      - edge.mediacorphub.org:443
-      - fetch.mediacorphub.org:443
-      - images.mediacorphub.org:443
-      - img.mediacorphub.org:443
-      - 80.47.13.182:443
-      - 46.250.254.187:443
+      - dns24.m3hrzd.ir:1349
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:40011
+      - 🇺🇸 c17b957c5a76ec76.lebufflonfermegroup.us:21191
+      - sclass-01.catcat321.com:20103
+      - 200.102.183.50:443
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

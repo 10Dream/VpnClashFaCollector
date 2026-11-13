@@ -465,7 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇺🇸 us.privatevip.ir:454, server: us.privatevip.ir, port: 454, type: vless, tls: true, packet-encoding: xudp, uuid: 7a015962-482c-44ce-abd3-3810e324c64c, servername: c.s-microsoft.com, host: c.s-microsoft.com, path: /, reality-opts: {public-key: Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg, short-id: bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️Telegram:@Vpn_m2s, server: 18.196.82.94, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
+  - {name: 8.220.81.25:443, server: 8.220.81.25, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
+  - {name: 18.171.57.116:443, server: 18.171.57.116, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=, udp: true, tfo: false}
+  - {name: 3.252.190.91:443, server: 3.252.190.91, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fad6c240-14d0-47ce-9264-21c5f18689c1, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 us.privatevip.ir:454
+      - ⚡️Telegram:@Vpn_m2s
+      - 8.220.81.25:443
+      - 18.171.57.116:443
+      - 3.252.190.91:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

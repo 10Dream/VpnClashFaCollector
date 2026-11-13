@@ -5,81 +5,81 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: Kansas City via Chicago · IPv4, server: 176.126.122.168, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kansas City via Istanbul · IPv4, server: 213.156.152.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kansas City via Istanbul · IPv6, server: "[2a03:90c0:162:1::4ea]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kansas City via Chicago · IPv6, server: "[2a03:90c0:382:1::38f]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kansas City via Istanbul · Domain, server: caudal-reason.freevideochats.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: smyk.com, host: smyk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kansas City via Chicago · Domain, server: crewmen-grittier.freevideochats.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b3909eb9-84f7-4d8b-a18c-9cdc5c31d233, servername: www.gr-cdn.com, host: www.gr-cdn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns8, server: 87.120.106.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: supersklep.pl, host: supersklep.pl, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns10, server: 87.120.252.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: worldoftanks.eu, host: worldoftanks.eu, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns9, server: "[2a03:90c0:162:1::251]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: supersklep.pl, host: supersklep.pl, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns11, server: "[2a03:90c0:382:1::a6]", port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: worldoftanks.eu, host: worldoftanks.eu, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns7, server: animator-likeliest.sports-streams.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: worldoftanks.eu, host: worldoftanks.eu, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Hamedvpns6, server: brooded-plod.sports-streams.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df3c0b34-922d-4b5d-8c96-8561bfaac91b, servername: supersklep.pl, host: supersklep.pl, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -107,12 +107,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Kansas City via Chicago · IPv4
-      - Kansas City via Istanbul · IPv4
-      - Kansas City via Istanbul · IPv6
-      - Kansas City via Chicago · IPv6
-      - Kansas City via Istanbul · Domain
-      - Kansas City via Chicago · Domain
+      - Hamedvpns8
+      - Hamedvpns10
+      - Hamedvpns9
+      - Hamedvpns11
+      - Hamedvpns7
+      - Hamedvpns6
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
