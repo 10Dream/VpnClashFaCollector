@@ -1,5 +1,152 @@
 # آرشیو کانال: @beshkan
-بروزرسانی: 2026-11-16 15:09:05 UTC
+بروزرسانی: 2026-11-17 00:03:48 UTC
+
+### 🕒 2026-11-16 22:22:53 UTC
+دانلود نسخه جدید فیلترشکن 
+**سایفون(Psiphon)**
+ برای اندروید 
+***📱***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-11-16 22:12:01 UTC
+***🧅***
+ 
+**آپدیت اضطراری Tor به نسخه **
+[**0.4.9.17**](http://0.4.9.17/)
+** برای مقابله با حملات گسترده به شبکه**
+پروژه Tor روز ۲۲ آبان ۱۴۰۵، نسخه امنیتی 
+[0.4.9.17](http://0.4.9.17/)
+ را منتشر کرد. این به‌روزرسانی در واکنش به حملات گسترده و ادامه‌دار DDoS منتشر شده؛ حملاتی که با ایجاد حجم زیادی از درخواست‌ها و مسیرهای ارتباطی، سرورهای واسط شبکه Tor را زیر فشار گذاشته‌اند.
+برنامه Tor با عبور دادن ترافیک از چند سرور واسط، به حفظ حریم خصوصی کاربران کمک می‌کند. اختلال در این سرورها می‌تواند اتصال به شبکه را کند یا ناپایدار کند.
+**◾️در نسخه جدید چه چیزهایی اصلاح شده است؟**
+***⚫️***
+ 
+**دفاع بهتر در برابر حملات با IPv6:**
+ آدرس‌های متعلق به یک محدوده مشخص، برای اعمال محدودیت‌های ضدحمله یک مجموعه حساب می‌شوند. این تغییر، دور زدن محدودیت‌ها با جابه‌جایی میان آدرس‌های همان محدوده را دشوارتر می‌کند.
+***⚫️***
+**حذف کلیدهای Bastet به دلیل احتمال نفوذ:**
+ کلیدهای یکی از مراجع مورد اعتماد شبکه کنار گذاشته شده‌اند. این مرجع می‌تواند بعدا با کلیدهای تازه بازگردد. در توضیحات رسمی، از احتمال نفوذ صحبت شده است.
+***⚫️***
+ 
+**به‌روزرسانی اطلاعات اتصال: **
+آدرس‌های IP مرجع Maatuska و فهرست سرورهای کمکی برای اتصال اولیه به شبکه به‌روز شده‌اند.
+***⚫️***
+**رفع چند ایراد امنیتی و فنی: **
+رد پاسخ‌های DNS دارای نام نامعتبر، اصلاح جداسازی ارتباط‌ها در تونل HTTP، سخت‌گیرانه‌تر شدن بررسی درخواست‌های ntor-v3 و رفع یک خطای احتمالی هنگام دریافت اطلاعات شبکه.
+**◾️چه کسانی باید به‌روزرسانی کنند؟**
+درخواست فوری Tor متوجه گردانندگان سرورهای واسط یا رله‌هاست: نرم‌افزار را هرچه زودتر ارتقا دهند. طبق اعلام پروژه، پس از ارتقا اقدام اضافه‌ای لازم نیست.
+شماره 
+[0.4.9.17](http://0.4.9.17/)
+ مربوط به نرم‌افزار اصلی Tor است و با شماره نسخه مرورگر Tor تفاوت دارد. اگر کاربر مرورگر هستید، به‌روزرسانی‌های رسمی آن را از داخل برنامه یا وب‌سایت Tor دریافت کنید.
+**ن◾️حوه آپدیت مرورگر Tor: **
+منوی سه‌خط (≡) را باز کنید و در صورت نمایش گزینه «Update available – restart now»، روی آن بزنید. مرورگر پس از دریافت و نصب آپدیت، دوباره اجرا می‌شود.
+[***🔗***دانلود Tor 0.4.9.17 از وب‌سایت تور ](https://download.torproject.org/tor/?utm_source=chatgpt.com)
+[***🔗***دانلود کد منبع Tor نسخه 0.4.9.17](https://dist.torproject.org/tor-0.4.9.17.tar.gz)
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-11-16 19:11:33 UTC
+**پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- دوشنبه ۲۵ آبان- ۱۴۰۵ **
+***🤖***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های  MTproto **
+،
+** شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Russia
+[https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275](https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275)
+Russia
+[https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275](https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275)
+Germany
+[https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+Germany
+[https://t.me/proxy?server=91.107.241.237&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.107.241.237&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+Poland
+[https://t.me/proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275](https://t.me/proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275)
+Poland
+[https://t.me/proxy?server=crystal.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275](https://t.me/proxy?server=crystal.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275)
+Finland
+[https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
+Hong Kong
+[https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+Finland
+[https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+Germany
+[https://t.me/proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add](https://t.me/proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add)
+برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
+***➡***
+***⏺️***
+برای دسترسی و کپی پروکسی‌ها، از
+[** بات بشکن**](https://t.me/beshkantechbot)
+ استفاده کنید
+***⏺️***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-11-16 19:10:39 UTC
+**📶**
+ 
+** پروکسی‌های امن V2Ray **
+**📶**
+** و شادوساکس برای عبور از سد فیلترینگ در تلگرام- دوشنبه ۲۵ آبان**
+- 
+**۱۴۰۵**
+***🤖***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Germany
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@
+[8.220.81.25:443#%20](http://8.220.81.25:443/#%20)
+United States
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@
+[185.215.132.9:19999#%20](http://185.215.132.9:19999/#%20)
+Italy
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@
+[202.50.253.45:19999#%20](http://202.50.253.45:19999/#%20)
+United States
+socks://dXRkcjh3dnM6N2kxZGhlZzY=@
+[216.132.114.194:62000#%20](http://216.132.114.194:62000/#%20)
+United States
+vless://256eab05-abfc-4747-8671-01e92fb95192@162.35.101.168:44333?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=vhtQBb9x0bXClfNSSGals7dBBUEDZ7PuW0sllAsyzDM&sid=a1b2c3d4&type=tcp&headerType=none#%20
+France
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06ZFE2V1ljUHBHWDV4SXhVVlBBUjh3MUE5ZVk2a0VWb0tLVzNIbGVKNm84WT0=@
+[frr.drwrdoh.org:8086#%20](http://frr.drwrdoh.org:8086/#%20)
+Italy
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@
+[202.50.253.63:19999#%20](http://202.50.253.63:19999/#%20)
+United States
+socks://Og==@
+[69.55.49.177:38182#%20](http://69.55.49.177:38182/#%20)
+United States
+socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#%20
+Mexico
+socks://REp5MVQwZHQ6c1puRDhHVHo=@
+[144.225.47.106:42000#%20](http://144.225.47.106:42000/#%20)
+برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
+***➡***
+***⏺️***
+برای دسترسی و کپی پروکسی‌ها، از
+[** بات بشکن**](https://t.me/beshkantechbot)
+ استفاده کنید
+***⏺️***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
 
 ### 🕒 2026-11-16 09:42:25 UTC
 **⚠️**
