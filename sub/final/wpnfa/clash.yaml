@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: فر�%…, server: 51.75.118.171, port: 20142, type: vless, tls: true, packet-encoding: xudp, uuid: c9d261a2-7f0e-4408-984d-70d6a295a9c0, network: ws, ws-opts: {path: /bp-vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wpnfa, server: 51.75.118.171, port: 20142, type: vless, tls: true, packet-encoding: xudp, uuid: b0dc8459-2c82-4e95-a902-18e0ab3abda5, network: ws, ws-opts: {path: /bp-vless}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - DIRECT
+      - wpnfa
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - DIRECT
+      - wpnfa
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - DIRECT
+      - wpnfa
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - DIRECT
+      - wpnfa
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - DIRECT
+      - wpnfa
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - DIRECT
+      - wpnfa
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,14 +465,25 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: tg:VLESSFORU 🇮🇩 ⚡, server: 31.58.213.235, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2232d904-8e6a-4202-8240-6efd8aec02e9, servername: starter.jarbook.net, host: starter.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: yX-l9ntNogG7DJZjqbsQGfvfsvjAQVFqFLY-Zcc_qG0, short-id: 8de61902}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "tg: mindism top ping 🇬🇧", server: 50.7.193.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2232d904-8e6a-4202-8240-6efd8aec02e9, servername: prime.jarbook.net, host: prime.jarbook.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k, short-id: 77a8c8c8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇳🇱, server: 191.217.217.81, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a7849e7-8ef6-492f-860d-54dd6aae400a, servername: nl5.soshelper.space, host: nl5.soshelper.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE, short-id: e06e30590f288e0f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN tg:VLESSFORU 🇺🇸, server: 48.102.169.144, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63, servername: gemsubbgem.world, host: gemsubbgem.world, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN tg:VLESSFORU 🇧🇻, server: 31.77.28.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6c8e3705-809e-4ca8-ae10-fe2ae2fa9859, servername: nl3.soshelper.space, host: nl3.soshelper.space, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY, short-id: 6562cf617728186e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN tg:VLESSFORU 🇨🇦, server: 162.159.198.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Бесплатный VPN tg:VLESSFORU 🇷🇺, server: 5.59.204.221, port: 30131, type: vless, tls: true, packet-encoding: xudp, uuid: a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a, servername: lv1.hat.onl, host: lv1.hat.onl, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc, short-id: 76132b3b39704c44}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mindism VPN tg:VLESSFORU 🇷🇺, server: 201.34.130.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb9b439d-e5d2-4337-a781-b18a67b8127e, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision-udp443, reality-opts: {public-key: Adzk6YXb3MU4kN8PgDQjY_4GfQgMUhRy_2LOGmiFHCg, short-id: c48282c0acf92721}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇳🇱, server: 72.56.38.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200, servername: absolute-disaster.org, host: absolute-disaster.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇳🇱 2, server: 82.196.9.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3abdf446-f8dd-43d5-b662-f0bb4a7f5978, servername: heroec.shop, network: ws, ws-opts: {path: /content, headers: {Host: heroec.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: MINDISM VPN tg:VLESSFORU 🇩🇪, server: 31.76.35.130, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 463fdf29-59f1-43f5-ae4c-dd2cf32f7c95, servername: 31.76.35.90, host: 31.76.35.90, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇹🇷, server: 168.113.253.178, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58708e38-dd5a-0001-902d-93621ee2bd83, servername: uzndiuvzvqqljdyhzs.fcloudservices.site, host: uzndiuvzvqqljdyhzs.fcloudservices.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇵🇱, server: 144.31.4.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 58e22afd-bf74-4736-984d-63a8ca03d7f0, servername: marginbirch.cleanfoodshop.org, network: ws, ws-opts: {path: /media/ws/, headers: {Host: marginbirch.cleanfoodshop.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 ⚡ 🇩🇪 Germany, server: core3.ppglc.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6401d88e-b24c-4497-95db-fe26f7b772dd, servername: core3.ppglc.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: core3.ppglc.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TR Upgrade ⚡️, server: gateway.iran.zula.battely.centerzula.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6401d88e-b24c-4497-95db-fe26f7b772dd, servername: t-r-x-h-internal-routing-gateway-local-network-ir.centerzula.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: t-r-x-h-internal-routing-gateway-local-network-ir.centerzula.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: MINDISM VPN tg:VLESSFORU 🇨🇭, server: 195.15.207.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6, servername: ch.mntw.lol, host: ch.mntw.lol, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ, short-id: 76d0389e457fcba0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇩🇪, server: 138.124.240.190, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 713142c9-ad09-4894-b35c-645423f3f6c9, servername: dl-cdn.alpinelinux.org, host: dl-cdn.alpinelinux.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: LTE/5G Все операторы 🇪🇺, server: 188.225.83.204, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 71bd5b95-4079-417e-a34f-386a07588105, servername: polska.champmoney.ru, host: polska.champmoney.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇷🇺, server: 158.160.144.108, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a8f716f-37ee-4af3-84c3-67e9a1b17d08, servername: i0.photo.2gis.com, host: i0.photo.2gis.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw, short-id: 7755e972daf8eec8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: MINDISM VPN tg:VLESSFORU 🇨🇿, server: 193.124.94.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 909c8a7c-a7d4-4e2a-b2ec-775f436ce229, servername: promo-digital.wb.ru, host: promo-digital.wb.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: lxTQST37knG1eCPA0UscdPHzTmSnMgito5r4o0vZils, short-id: 4e9b7a1c5f3d2e68}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: SNi MINDISM 🇩🇪, server: 146.103.42.78, port: 9543, type: vless, tls: true, packet-encoding: xudp, uuid: 920b3cd9-4f82-4669-bbd2-d4a28b9052c6, servername: storage.yandexcloud.net, host: storage.yandexcloud.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc, short-id: 123abcdf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: LTE/5G Все операторы 🇪🇺 2, server: 178.248.236.229, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a71d6c6d-c95e-4ec1-a892-22e21733bf09, servername: 144.hexdey.com, host: 144.hexdey.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0, short-id: d05a120d3506d2cc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇫🇮, server: 185.190.53.214, port: 3443, type: vless, tls: true, packet-encoding: xudp, uuid: bfadfcda-99eb-424a-af53-cabb4fbcb820, servername: zynerio.com, host: zynerio.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw, short-id: 8a907b3d6a7a4ed4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: MINDISM VPN tg:VLESSFORU 🇩🇪 2, server: 193.42.12.163, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e486717e-7621-42ac-98b7-d4a40c99f9bc, servername: de.shadowshine.cc, host: de.shadowshine.cc, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇳🇱 3, server: 194.76.168.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef5a57c7-84d5-4f86-b99c-875a16da485f, servername: nemicro487.gangtype.com, network: ws, ws-opts: {path: /realtime/client/connect, headers: {Host: nemicro487.gangtype.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇩🇪 2, server: 48.102.173.125, port: 444, type: vless, tls: true, packet-encoding: xudp, uuid: ef5a57c7-84d5-4f86-b99c-875a16da485f, servername: neplay603.gangtype.com, network: ws, ws-opts: {path: /stream/updates/a66d7902, headers: {Host: neplay603.gangtype.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Бесплатный VPN tg:VLESSFORU 🇺🇸, server: 191.217.215.186, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: fbe22815-0718-4eae-816f-e91c67d15b54, servername: 191.217.215.186, host: 191.217.215.186, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +500,75 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +584,75 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - tg:VLESSFORU 🇮🇩 ⚡
-      - "tg: mindism top ping 🇬🇧"
       - Бесплатный VPN tg:VLESSFORU 🇳🇱
-      - mindism VPN tg:VLESSFORU 🇺🇸
-      - mindism VPN tg:VLESSFORU 🇧🇻
-      - mindism VPN tg:VLESSFORU 🇨🇦
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 2
+      - MINDISM VPN tg:VLESSFORU 🇩🇪
+      - Бесплатный VPN tg:VLESSFORU 🇹🇷
+      - Бесплатный VPN tg:VLESSFORU 🇵🇱
+      - 🇩🇪 ⚡ 🇩🇪 Germany
+      - TR Upgrade ⚡️
+      - MINDISM VPN tg:VLESSFORU 🇨🇭
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪
+      - LTE/5G Все операторы 🇪🇺
       - Бесплатный VPN tg:VLESSFORU 🇷🇺
-      - mindism VPN tg:VLESSFORU 🇷🇺
+      - MINDISM VPN tg:VLESSFORU 🇨🇿
+      - SNi MINDISM 🇩🇪
+      - LTE/5G Все операторы 🇪🇺 2
+      - Бесплатный VPN tg:VLESSFORU 🇫🇮
+      - MINDISM VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇳🇱 3
+      - Бесплатный VPN tg:VLESSFORU 🇩🇪 2
+      - Бесплатный VPN tg:VLESSFORU 🇺🇸
   - name: دانلود منیجر 📥
     type: select
     proxies:

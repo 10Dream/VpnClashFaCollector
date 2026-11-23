@@ -465,10 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: S3, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6cf935ab-1019-4251-8a3d-bdb31f9de10a, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S4, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94bfdcea-b921-4d85-860f-3dde54aa746a, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S2, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aa149bcb-d921-4f5b-9220-d2306e6bb789, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S1, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d4dab5da-87c1-4c18-9334-e8155444b9d2, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S3, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30fc3620-f02b-4a4a-b416-af4e2cb6cdd2, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S1, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b0a6c93-b9f6-4747-b1a0-ba41cfeb2c06, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S5, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4394ed22-92f3-4d3a-aaa0-0aa7a574f4cf, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S4, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cfc01a2a-bf5f-4bf7-aba3-7630edc31500, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: S2, server: xray2-direct-mci1-fs-ce.freesocks.work, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0aa8574-60a1-44d0-beb2-6c9feb29bf1c, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,9 +487,10 @@ proxy-groups:
     type: select
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,9 +498,10 @@ proxy-groups:
     tolerance: 50
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -506,9 +509,10 @@ proxy-groups:
     tolerance: 50
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -525,9 +529,10 @@ proxy-groups:
     interval: 600
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -535,9 +540,10 @@ proxy-groups:
     interval: 600
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -545,9 +551,10 @@ proxy-groups:
     interval: 600
     proxies:
       - S3
+      - S1
+      - S5
       - S4
       - S2
-      - S1
   - name: دانلود منیجر 📥
     type: select
     proxies:

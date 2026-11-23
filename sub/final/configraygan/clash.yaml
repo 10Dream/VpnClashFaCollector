@@ -465,15 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: configraygan-23, server: 193.108.119.134, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: api.iloverussia2026.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-21, server: 201.58.139.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 056405e8-de9f-4d0d-8145-956f13cc34da, servername: 57aac2t.pl7.h1clayd.click, host: 57aac2t.pl7.h1clayd.click, path: /, reality-opts: {public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM, short-id: 6c5c7900406a1ae7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-18, server: 51.158.206.97, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-16, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-20, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-14, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-15, server: wwww.qarvian.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e0ea78-67ae-4984-8a14-a7d1a51e58de, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: "/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN", headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-19, server: fs.qicai99.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e, servername: fs.qicai99.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: fs.qicai99.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan-25, server: tgfree.rush-server.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ebd1c0d6-7ff4-4b9f-8692-237517a27a64, servername: anyfile2file.com, host: anyfile2file.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0, short-id: 64c1fe36c7846400}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-16, server: 51.77.144.182, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: x19py0a8ipglqkbe, udp: true, tfo: false}
+  - {name: configraygan-7, server: 20.238.32.201, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: FJRApmfuC3F14cFF, udp: true, tfo: false}
+  - {name: configraygan-12, server: 193.29.139.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: configraygan-9, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: configraygan-3, server: leviko-nl8242.shopingggg.ir, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: configraygan-15, server: 136.148.77.250, port: 8388, type: ss, cipher: aes-256-gcm, password: itzvpn@321, udp: true, tfo: false}
+  - {name: configraygan-10, server: ipfast.kingmna.com, port: 443, type: trojan, password: 6-FrR5YsfjfyNp6AIFZgcQ, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-2, server: ipfast.kingmna.com, port: 443, type: trojan, password: 6-FrR5YsfjfyNp6AIFZgcQ, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-4, server: ipfast.kingmna.com, port: 443, type: trojan, password: 6-FrR5YsfjfyNp6AIFZgcQ, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-6, server: ipfast.kingmna.com, port: 443, type: trojan, password: 6-FrR5YsfjfyNp6AIFZgcQ, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-8, server: ipfast.kingmna.com, port: 443, type: trojan, password: 6-FrR5YsfjfyNp6AIFZgcQ, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: configraygan-1, server: 51.158.206.25, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-5, server: 62.210.91.10, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-13, server: fr.abbaas.net, port: 41058, type: vless, tls: true, packet-encoding: xudp, uuid: SoonTeam%20, servername: wunderground.com, host: wunderground.com, path: /, reality-opts: {public-key: wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs, short-id: 0ccc9342fa5e7f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-18, server: leviko-nl0448.shopingggg.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc, servername: www.tradingview.com, host: www.tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: MYmnKEaJyfk1HrBaKg3AvYebp-sP3rZRNh9MnOcKgXY, short-id: 705f0a232571}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-19, server: 9.247.23.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9bfa54d-bc44-4592-a6d6-89a9665d286f, servername: mother-earth.fyi, host: mother-earth.fyi, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-11, server: 45.86.61.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e2f3ddd0-10f1-421f-b684-4c943986da65, servername: deepl.com, host: deepl.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs, short-id: 15affa0af66dfc79}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan-17, server: 81.90.21.163, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: fbe22815-0718-4eae-816f-e91c67d15b54, servername: stb71e5.rumedia-cdn.com, network: ws, ws-opts: {path: "/cdn/v3/live?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET", headers: {Host: stb71e5.rumedia-cdn.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - configraygan-23
-      - configraygan-21
-      - configraygan-18
       - configraygan-16
-      - configraygan-20
-      - configraygan-14
+      - configraygan-7
+      - configraygan-12
+      - configraygan-9
+      - configraygan-3
       - configraygan-15
+      - configraygan-10
+      - configraygan-2
+      - configraygan-4
+      - configraygan-6
+      - configraygan-8
+      - configraygan-1
+      - configraygan-5
+      - configraygan-13
+      - configraygan-18
       - configraygan-19
-      - configraygan-25
+      - configraygan-11
+      - configraygan-17
   - name: دانلود منیجر 📥
     type: select
     proxies:

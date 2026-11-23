@@ -465,13 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 158.51.121.221:19999, server: 158.51.121.221, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, udp: true, tfo: false}
-  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: trojan, password: M%69TiVPN, sni: mitivpn.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN, headers: {Host: mitivpn.steamstatic.com}}, udp: true, tfo: false}
-  - {name: 146.75.57.111:443, server: 146.75.57.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97%650%65%6178-67%61%65-4984-8%6114-%617d1%6151%6558d%65, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.57.111:443 2, server: 146.75.57.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97%650%65%6178-67%61%65-4984-8%6114-%617d1%6151%6558d%65, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 146.75.59.186:443, server: 146.75.59.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97%650%65%6178-67%61%65-4984-8%6114-%617d1%6151%6558d%65, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.159:443, server: 199.232.78.159, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97%650%65%6178-67%61%65-4984-8%6114-%617d1%6151%6558d%65, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 199.232.78.160:443 2, server: 199.232.78.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97%650%65%6178-67%61%65-4984-8%6114-%617d1%6151%6558d%65, servername: cdn.akamai.steamstatic.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.akamai.steamstatic.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 213.176.92.148:40647, server: 213.176.92.148, port: 40647, type: ss, cipher: aes-256-gcm, password: DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg/cUUY=, udp: true, tfo: false}
+  - {name: 135.148.42.13:8388, server: 135.148.42.13, port: 8388, type: ss, cipher: aes-256-gcm, password: itzvpn@321, udp: true, tfo: false}
+  - {name: ipfast.kingmna.com:443, server: ipfast.kingmna.com, port: 443, type: trojan, password: GBEqN2BggZfFExc5pTTHUA, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: ipfast.kingmna.com:443 2, server: ipfast.kingmna.com, port: 443, type: trojan, password: GBEqN2BggZfFExc5pTTHUA, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: ipfast.kingmna.com:443 3, server: ipfast.kingmna.com, port: 443, type: trojan, password: GBEqN2BggZfFExc5pTTHUA, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: ipfast.kingmna.com:443 4, server: ipfast.kingmna.com, port: 443, type: trojan, password: GBEqN2BggZfFExc5pTTHUA, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: ipfast.kingmna.com:443 5, server: ipfast.kingmna.com, port: 443, type: trojan, password: GBEqN2BggZfFExc5pTTHUA, sni: cdn.akamai.steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER, headers: {Host: cdn.akamai.steamstatic.com}}, udp: true, tfo: false}
+  - {name: 167.82.64.7:443, server: 167.82.64.7, port: 443, type: trojan, password: m%69tivpn, sni: steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%3F28", headers: {Host: steamstatic.com}}, udp: true, tfo: false}
+  - {name: 199.232.78.160:443, server: 199.232.78.160, port: 443, type: trojan, password: m%69tivpn, sni: steamstatic.com, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: steamstatic.com}}, udp: true, tfo: false}
+  - {name: edge.bookmai.com:443, server: edge.bookmai.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9bfa54d-bc44-4592-a6d6-89a9665d286f, servername: mother-earth.fyi, host: mother-earth.fyi, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +491,48 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +548,48 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 158.51.121.221:19999
+      - 213.176.92.148:40647
+      - 135.148.42.13:8388
+      - ipfast.kingmna.com:443
+      - ipfast.kingmna.com:443 2
+      - ipfast.kingmna.com:443 3
+      - ipfast.kingmna.com:443 4
+      - ipfast.kingmna.com:443 5
+      - 167.82.64.7:443
       - 199.232.78.160:443
-      - 146.75.57.111:443
-      - 146.75.57.111:443 2
-      - 146.75.59.186:443
-      - 199.232.78.159:443
-      - 199.232.78.160:443 2
+      - edge.bookmai.com:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

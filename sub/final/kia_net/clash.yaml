@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: Salim.vahaj_10_sw9818, server: helixgaming.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fdaedc78-af7c-4b75-abf9-ba162321ddd9, network: ws, ws-opts: {path: /, headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TEST✅️, server: testi.netbazshop.ir, port: 11700, type: vless, tls: true, packet-encoding: xudp, uuid: 220f3f20-a7cf-4d05-ac9d-8135cfe14da4, servername: amp-api-edge.apps.apple.com, host: amp-api-edge.apps.apple.com, path: /, reality-opts: {public-key: bwMFvOIt2KSo2dLm2oWgnPRPYquivsqNqsoXQqctvS0, short-id: ea31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - Salim.vahaj_10_sw9818
+      - TEST✅️
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,10 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: ⚡️Telegram:@Vpn_m2s, server: 18.196.82.94, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
-  - {name: 8.220.81.25:443, server: 8.220.81.25, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
-  - {name: 18.171.57.116:443, server: 18.171.57.116, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=, udp: true, tfo: false}
-  - {name: 3.252.190.91:443, server: 3.252.190.91, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fad6c240-14d0-47ce-9264-21c5f18689c1, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️Telegram:@Vpn_m2s, server: 47.245.173.25, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
+  - {name: ⚡️Telegram:@Vpn_m2s 2, server: 47.254.167.157, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, udp: true, tfo: false}
+  - {name: ⚡️Telegram:@Vpn_m2s 3, server: 18.171.171.149, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: Cg2Dw4OhdBZhqbeO9ZTA3g/Gk/AvsrYZGhAJeGnQIx4=, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,9 +485,8 @@ proxy-groups:
     type: select
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,9 +494,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -506,9 +503,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -525,9 +521,8 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -535,9 +530,8 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -545,9 +539,8 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡️Telegram:@Vpn_m2s
-      - 8.220.81.25:443
-      - 18.171.57.116:443
-      - 3.252.190.91:443
+      - ⚡️Telegram:@Vpn_m2s 2
+      - ⚡️Telegram:@Vpn_m2s 3
   - name: دانلود منیجر 📥
     type: select
     proxies:

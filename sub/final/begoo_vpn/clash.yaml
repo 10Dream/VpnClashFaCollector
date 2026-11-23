@@ -465,7 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Begoo_VPN ²⁹⁸", server: 192.3.153.192, port: 8855, type: vless, tls: true, packet-encoding: xudp, uuid: 2b043155-1d88-44fc-b612-abb7d9fa675e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ³⁰³", server: 54.36.102.152, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 51a6ab93-e805-4b8b-89d1-d3ab85a118ce, network: ws, ws-opts: {path: /vless-kulo}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ³⁰²", server: 158.220.95.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5980f1e1-970c-43b9-b3e8-a8ddd70ceadc, servername: www.samsung.com, host: www.samsung.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs, short-id: b60a93}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Begoo_VPN ³⁰¹", server: 152.53.120.90, port: 50955, type: vless, tls: true, packet-encoding: xudp, uuid: 5ab065b0-2c7a-45a0-829d-9af9af7d8e05, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +484,27 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +520,27 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Begoo_VPN ²⁹⁸"
+      - "@Begoo_VPN ³⁰³"
+      - "@Begoo_VPN ³⁰²"
+      - "@Begoo_VPN ³⁰¹"
   - name: دانلود منیجر 📥
     type: select
     proxies:

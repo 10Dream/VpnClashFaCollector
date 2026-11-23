@@ -5,41 +5,46 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: فر�%…, server: 51.75.118.171, port: 20142, type: vless, tls: true, packet-encoding: xudp, uuid: c9d261a2-7f0e-4408-984d-70d6a295a9c0, network: ws, ws-opts: {path: /bp-vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wpnfa, server: 51.75.118.171, port: 20142, type: vless, tls: true, packet-encoding: xudp, uuid: b0dc8459-2c82-4e95-a902-18e0ab3abda5, network: ws, ws-opts: {path: /bp-vless}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - wpnfa
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - DIRECT
+      - wpnfa
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - wpnfa
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - wpnfa
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - wpnfa
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - wpnfa
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -67,6 +72,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - wpnfa
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
